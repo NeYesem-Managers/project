@@ -29,7 +29,6 @@ NeYesem’i hayata geçiren yetenekli ve tutkulu ekip üyelerimiz.
 ### **FRONTEND EKİBİ**
 - Fatma Nur Yazıcı  
 - Mualla Gülsüm Çapar  
-- Nur Sena Meral
 
 **Sorumluluklar:** Mobil uygulama arayüzü (Flutter), Ana Ekran, Keşif, Ürün Detayı, Yönlendirme ekranları ve state management.
 
