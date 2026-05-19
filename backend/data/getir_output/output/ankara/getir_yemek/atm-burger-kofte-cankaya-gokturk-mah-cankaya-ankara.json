@@ -1,0 +1,620 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "65c5396fd8fb6928db53797c",
+  "name": "Atm Burger & Köfte,  Çankaya (Göktürk Mah.)  ",
+  "slug": "atm-burger-kofte-cankaya-gokturk-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Sokak Lezzetleri",
+    "Tost & Sandviç"
+  ],
+  "rating": 3.9,
+  "rating_count": 10,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 45,
+  "delivery_time_max": 55,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "65dd899a2ce528c887a685ba",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "65dde0d15dab4388b53fddf8",
+            "name": "Sucuk Burger",
+            "description": "Dana sucuk, cheddar peyniri, domates, turşu, kıvırcık marul, ketçap ve mayonez",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dde1965ebfeea6ce458f57",
+            "name": "Lost Of Cheese Burger",
+            "description": "Atm burger köftesi, cheddar peyniri, kaşar peyniri, mozzarella peyniri, turşu, kıvırcık marul, ranch sos, hot sos ve ketçap",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dde227c39e70d3a9d6aebb",
+            "name": "Sausage Burger",
+            "description": "Sosis, salam, sucuk, kaşar peyniri, domates, turşu, kıvırcık marul, ketçap, mayonez",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dde365c39e70d3a9d6c7b4",
+            "name": "American Burger",
+            "description": "Atm burger köftesi, american burger sos, ranch sos, domates, turşu, kıvırcık marul, ketçap, mayonez",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1b581b7d1513395ff122",
+            "name": "Mexicano Hot Burger",
+            "description": "Atm burger köftesi, american burger sos, ranch sos, domates, turşu, kıvırcık marul, ketçap, mayonez",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1b7fc39e70d3a9dceb95",
+            "name": "Klasik Burger",
+            "description": "Burger köftesi, domates, turşu, kıvırcık marul, ketçap, mayonez",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1b937838b3cf72c7791c",
+            "name": "Cheeseburger",
+            "description": "Burger köftesi, cheddar peyniri, domates, turşu, kıvırcık marul, ketçap, mayonez",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1c157838b3cf72c784d1",
+            "name": "Atm Burger",
+            "description": "Burger köftesi, domates, turşu, kıvırcık marul, ketçap, mayonez, bbq sos, garlic sos, ranch sos",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65dd898f805ca4e530fd9ea3",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "65dd8ab1805ca4e530fdaa24",
+            "name": "Kaşarlı Sucuklu Patso Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, eritilmiş kaşar peyniri, dana sucuk, patates kızartması, ketçap ve mayonez",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dd8b36c39e70d3a9d1140c",
+            "name": "Meatball Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, atm köfte, rus salatası, domates, kıvırcık marul ve turşu",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dd8bae6fa7beb5b3c549d1",
+            "name": "Atm Special Vejetaryen Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, eritilmiş kaşar peyniri, rus salatası, turşu, ketçap ve mayonez",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dd929af48c56d4874e5852",
+            "name": "Kumru Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, eritilmiş kaşar peyniri, sosis, salam, turşu, ketçap ve mayonez",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dddeb00b33aafbb470becc",
+            "name": "Cheddarlı Kumru Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, eritilmiş kaşar peyniri, cheddar peyniri, sosis, salam, turşu, ketçap ve mayonez",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dddecf2ce528c887abe003",
+            "name": "Cheddarlı Kaşarlı Kumru Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, kaşar peyniri, cheddar peyniri, sosis, salam, turşu, ketçap ve mayonez",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dddef534ba74ee9862320d",
+            "name": "Patso Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, patates kızartması, ketçap ve mayonez",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dddf09cc6b35095a6cbdb8",
+            "name": "Kaşarlı Patso Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, eritilmiş kaşar peyniri, patates kızartması, ketçap ve mayonez",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dddf262ce528c887abe554",
+            "name": "Cheddarlı Patso Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, cheddar peyniri, patates kızartması, ketçap ve mayonez",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65dddf3fe73734781345d474",
+            "name": "Cheddarlı Kaşarlı Patso Sandviç",
+            "description": "Susamlı baget sandviç ekmeği, eritilmiş kaşar peyniri, cheddar peyniri, patates kızartması, ketçap ve mayonez",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "675b2c2fceac63ceac279248",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "675c1a5cceac63ceac2815e4",
+            "name": "Köfte Dürüm",
+            "description": "Lavaş, köfte (100 g), domates, pul biberi, kekik ve soğan",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675c1a8bceac63ceac281650",
+            "name": "Hatay Soslu Köfte Dürüm",
+            "description": "Lavaş, max hatay sosu, köfte (100 g), patates kızartması, sarımsaklı mayonez ve salatalık turşusu",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675c1aa8ceac63ceac281660",
+            "name": "Kaşarlı Köfte Dürüm",
+            "description": "Lavaş, köfte (100 g) ve kaşar peyniri",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675c1abaceac63ceac281716",
+            "name": "Cheddarlı Köfte Dürüm",
+            "description": "Lavaş, köfte (100 g) ve cheddar peyniri",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675c1ae4ceac63ceac281720",
+            "name": "Patso Dürüm",
+            "description": "Lavaş, patates kızartması, ketçap ve mayonez",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675c1b13ceac63ceac281762",
+            "name": "Cheddarlı Patso Dürüm",
+            "description": "Lavaş ekmeği, patates kızartması, cheddar peyniri, ketçap ve mayonez",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6759d05fceac63ceac26d384",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "675b5c82ceac63ceac27a066",
+            "name": "Hatay Usulü Tavuk Döner",
+            "description": "Hatay soslu lavaş, tavuk döner (80 g), patates kızartması, sarımsaklı mayonez, jalapeno turşusu ve yanında salatalık turşusu ile",
+            "price": 205.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675b5ca6ceac63ceac27a080",
+            "name": "Hatay Usulü Cheddarlı Tavuk Döner",
+            "description": "Hatay soslu lavaş, tavuk döner (80 g), cheddar peyniri, patates kızartması, sarımsaklı mayonez, jalapeno turşusu ve yanında salatalık turşusu)",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675b5cc6ceac63ceac27a08a",
+            "name": "Hatay Usulü Zurna Dürüm",
+            "description": "Hatay soslu çift lavaş, tavuk döner (120 g), patates kızartması, sarımsaklı mayonez, jalapeno turşusu ve yanında salatalık turşusu) ile",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675b5ce7ceac63ceac27a08e",
+            "name": "Hatay Usulü Cheddarlı Zurna Dürüm",
+            "description": "Hatay soslu çift lavaş, tavuk döner (120 g), cheddar peyniri, patates kızartması, sarımsaklı mayonez, jalapeno turşusu ve yanında salatalık turşusu ile",
+            "price": 305.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675b5cfdceac63ceac27a092",
+            "name": "Ekmek Arası Tavuk Döner",
+            "description": "Ekmek (130 g), tavuk döner (100 g), domates, yeşillik, turşu ve soğan",
+            "price": 205.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675b5d16ceac63ceac27a0a8",
+            "name": "Tavuk Döner Dürüm",
+            "description": "Lavaş, tavuk döner (100 g), domates, yeşillik, turşu ve soğan",
+            "price": 205.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65dd89a0bdc25befa111bbf1",
+        "name": "Köfte",
+        "items": [
+          {
+            "id": "65de1c9ae7373478134be2fb",
+            "name": "Ekmek Arası Izgara Köfte",
+            "description": "Atm köfte, domates, pul biber, kekik ve tercihe göre soğan ile",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1cabc39e70d3a9dd03f6",
+            "name": "Ekmek Arası Kaşarlı Izgara Köfte",
+            "description": "Atm köfte, kaşar peyniri, domates, pul biber, kekik ve tercihe göre soğan ile",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1cc4cfbcb9d5503b93a5",
+            "name": "Ekmek Arası Cheddarlı Izgara Köfte",
+            "description": "Atm köfte, cheddar peyniri, domates, pul biber, kekik ve tercihe göre soğan ile",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1cdbc39e70d3a9dd0751",
+            "name": "Izgara Köfte (250 g)",
+            "description": "Ekmek (130 g), domates, közlenmiş biber ve soğan ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6759d057ceac63ceac26d37f",
+        "name": "Pilav",
+        "items": [
+          {
+            "id": "6910d023ceac63ceac2605f8",
+            "name": "Nohutlu Pirinç Pilavı",
+            "description": "250 g nohutlu pirinç pilavı, turşu, biber",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6910d046ceac63ceac260604",
+            "name": "Nohutlu Pirinç Pilavı Üstü Tavuk",
+            "description": "250 g nohutlu pirinç pilavı, 100 g tavuk göğüs, turşu, biber",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6910d05eceac63ceac26062c",
+            "name": "Nohutlu Pirinç Pilavı Üstü Dana Kavurma",
+            "description": "250 g nohutlu pirinç pilavı, 100 g dana kavurma, turşu, biber",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65dd89c0cc6b35095a675c6a",
+        "name": "Kiloluk Lezzet",
+        "items": [
+          {
+            "id": "65de1de4c39e70d3a9dd1a0b",
+            "name": "Izgara Köfte (500 g)",
+            "description": "Ekmek (130 g), domates, közlenmiş biber ve soğan ile",
+            "price": 820.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1def7848853ca9adac69",
+            "name": "Izgara Köfte (1 kg)",
+            "description": "Ekmek (4 adet), domates, közlenmiş biber ve soğan ile",
+            "price": 1350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65dd89a448add9b146235999",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "65de1cfb1b7d151339601834",
+            "name": "Eker Puding (100 g)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65dd89a8805ca4e530fd9fdf",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "65de1d056fa7beb5b3d0a57d",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1d0bc39e70d3a9dd0a86",
+            "name": "Soğan Halkası (6 Adet)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1d167838b3cf72c797f6",
+            "name": "Peynirli Sigara Böreği (8 Adet)",
+            "description": null,
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1d2134ba74ee9868c070",
+            "name": "Kaşarlı Sigara Böreği (8 Adet)",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65dd89ad6fa7beb5b3c52bc3",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "65de1d275ebfeea6ce4c2cca",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65de1d2dcfbcb9d5503b9b2f",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1d314ea4dea6319064af",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1d364ea4dea631906520",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1d417838b3cf72c79af2",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65de1d825ebfeea6ce4c3310",
+            "name": "Eker Ayran (300 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1d88cfbcb9d5503ba1ae",
+            "name": "Eker Ayran (200 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65dd89baf48c56d4874e07c0",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "65de1db26fa7beb5b3d0b40b",
+            "name": "Ketçap",
+            "description": null,
+            "price": 7.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65de1db65ebfeea6ce4c36b3",
+            "name": "Mayonez",
+            "description": null,
+            "price": 7.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

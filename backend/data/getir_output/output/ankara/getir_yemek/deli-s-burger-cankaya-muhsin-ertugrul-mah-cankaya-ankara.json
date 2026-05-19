@@ -1,0 +1,636 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6388841adae6ae7252a500a3",
+  "name": "Deli's Burger, Çankaya (Muhsin Ertuğrul Mah.)",
+  "slug": "deli-s-burger-cankaya-muhsin-ertugrul-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Tavuk"
+  ],
+  "rating": 4.2,
+  "rating_count": 500,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %20"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6405da48e5f13a9e3b9e3197",
+            "name": "Delis Özel Menü (1 Kişilik)",
+            "description": "Gurme burger , patates , ( 1 adet ) çıtır kajun tavuk , ( 3 adet )  sogan halkası,  coca cola (330 ml )ile",
+            "price": 550.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405daee5589d2ee84b4aaed",
+            "name": "Bomba Menü  (2 Kişilik)",
+            "description": "Gurme burger (2 adet), patates, ( 2 adet) çıtır kajun tavuk (6 adet), sogan halkası, coca cola (1 L) ile",
+            "price": 1114.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405dbc2f4b4c193e5424acb",
+            "name": "Kral Menü (3 Kişilik)",
+            "description": "Füme burger , pastırmalı burger , gurme burger , patates ,  (100 g) çıtır kajun tavuk  , (9 adet) sogan halkası , coca cola ( 1 L ) ile",
+            "price": 1120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f55f933615de",
+            "name": "Dev Doyuran Menü",
+            "description": "Double gurme burger, patates kızartması, soğan halkası (5adet),  ketcap ,mayonez  ve coca cola (330 ml) ile",
+            "price": 636.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f54612361629",
+            "name": "Mexicano Burger",
+            "description": "Ev yapımı burger köftesi (145 g), özel chef sos  kıvırcık marul, domates bbq sos ,cheddar sos  chili sos, karamelize soğan ve patates kızartması ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6389a55d7229f57b0036152b",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "6405da48e5f13a9e3b9e3197",
+            "name": "Delis Özel Menü (1 Kişilik)",
+            "description": "Gurme burger , patates , ( 1 adet ) çıtır kajun tavuk , ( 3 adet )  sogan halkası,  coca cola (330 ml )ile",
+            "price": 550.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405daee5589d2ee84b4aaed",
+            "name": "Bomba Menü  (2 Kişilik)",
+            "description": "Gurme burger (2 adet), patates, ( 2 adet) çıtır kajun tavuk (6 adet), sogan halkası, coca cola (1 L) ile",
+            "price": 1114.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405dbc2f4b4c193e5424acb",
+            "name": "Kral Menü (3 Kişilik)",
+            "description": "Füme burger , pastırmalı burger , gurme burger , patates ,  (100 g) çıtır kajun tavuk  , (9 adet) sogan halkası , coca cola ( 1 L ) ile",
+            "price": 1120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f577e6361602",
+            "name": "Doyuran Menü",
+            "description": "Gurme burger, patates kızartması, soğan halkası,5 addet  ketcap, mayonez,  ve coca cola (330 ml) ile",
+            "price": 550.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405dd2c5589d2bc89b51d7d",
+            "name": "Çıtır Kajun Menü 1",
+            "description": "Kajun (250 g) , patates , (4 adet) soğan halkası, lavaş, soslar,  coca cola ( 330 ml) ile",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405ddd8222c1049953c273b",
+            "name": "Çıtır Kajun Menü 2",
+            "description": "Kajun tavuk (600 g), patates, (8 adet) soğan halkası,  soslar, lavaş, coca cola (1 L) ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405dea5f4b4c173b842ea27",
+            "name": "Çıtır Kajun Menü 3",
+            "description": "Kajun tavuk (900 kg), patates, (12 adet) soğan halkası, soslar, lavaş , coca cola (1 L) ile",
+            "price": 784.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f55f933615de",
+            "name": "Dev Doyuran Menü",
+            "description": "Double gurme burger, patates kızartması, soğan halkası (5adet),  ketcap ,mayonez  ve coca cola (330 ml) ile",
+            "price": 636.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6389a55d7229f53c6836152c",
+        "name": "Single Burger",
+        "items": [
+          {
+            "id": "6389a55d7229f5bed13615e2",
+            "name": "Mantarlı Burger",
+            "description": "Ev yapımı burger köftesi (145 g),özel chef sos  kıvırcık marul domates  marine edilmiş mantar, bbq sos, cheddar sos ve patates kızartması ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f53fe03615c1",
+            "name": "Patlıcanlı Mantarlı Burger",
+            "description": "Ev yapımı burger köftesi özel chef sos (145 g), kıvırcık marul,domates  mantar, bbq sos, köz patlıcan ve patates kızartması ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5476636159b",
+            "name": "Hawaii Burger",
+            "description": "Ev yapımı burger köftesi (145 g), özel chef sos karamelize sogan kıvırcık domates bbq sos cheddar sos ve bol çikolata ananas ve patates kızartması ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5c6d4361540",
+            "name": "Köz Biberli Burger",
+            "description": "Ev yapımı burger köftesi (145 g) özel chef sos kıvırcık domates  marul, karamelize soğan, kırmızı köz biber, cheddar sos, bbq sos ve patates kızartması ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f54612361629",
+            "name": "Mexicano Burger",
+            "description": "Ev yapımı burger köftesi (145 g), özel chef sos  kıvırcık marul, domates bbq sos ,cheddar sos  chili sos, karamelize soğan ve patates kızartması ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f50e253615fe",
+            "name": "Füme Burger",
+            "description": "Ev yapımı burger köftesi (145 g) özel chef sos , kıvırcık marul, füme kaburga, cheddar sos, bbq sos ve patates kızartması ile",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671733441666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5253f36156d",
+            "name": "Pastırmalı Burger",
+            "description": "Ev yapımı burger köftesi (145g), özel chef sos  kıvırcık domates,cheddar sos bbq sos, karamelize soğan ve patates kızartması ile",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64656d720d5a6e308f6ad475",
+            "name": "Cheese Burger",
+            "description": "Burger köftesi (145 g), özel chef sos,kıvırcık, karamelize soğan, cheddar peynir, bbq sos ve patates kızartması ile",
+            "price": 450.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "646570b961c71e179a8510e6",
+            "name": "kajun burger",
+            "description": "Kajun (100 gr), özel chef sos,kıvırcık,domates, karamelize soğan, cheddar sos, bbq sos ve patates kızartması ile",
+            "price": 356.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6389a55d7229f50de336152d",
+        "name": "Double Burger",
+        "items": [
+          {
+            "id": "6389a55d7229f5a0be36159f",
+            "name": "Double Hawaii Burger",
+            "description": "Ev yapımı burger köftesi (290 g), karamelize domates . kıvırcık cheddar sos . bbq  özel chef sos ananas ve patates kızartması ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f57ba73615c7",
+            "name": "Double Fly Burger",
+            "description": "Ev yapımı burger köftesi (290 g), kıvırcık marul, mantar, barbekü sos, köz patlıcan ve patates kızartması ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f52d3e3615f5",
+            "name": "Double Fungo Burger",
+            "description": "Ev yapımı burger köftesi (290 g), kıvırcık marul, marine edilmiş mantar, barbekü sos, cheddar sos ve patates kızartması ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5bbce36158c",
+            "name": "Double Pastırmalı Burger",
+            "description": "Ev yapımı burger köftesi (290 g), özel chef sos  kıvırcık ,domates bbq sos cheddar sos karamelize soğan ve patates kızartması ile",
+            "price": 599.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5f7ae361615",
+            "name": "Double Mexicano Burger",
+            "description": "Ev yapımı burger köftesi (290 g), özel chef sos  kıvırcık domates bbq sos ,chddar sos   chili sos, karamelize soğan ve patates kızartması ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5692236153c",
+            "name": "Double Gurme Burger",
+            "description": "Ev yapımı burger köftesi (290g), özel chef sos kıvırcık, karamelize soğan, kırmızı yeşil köz biber, cheddar sos, bbq  sos ve patates kızartması ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5eea5361606",
+            "name": "Double Füme Burger",
+            "description": "Ev yapımı burger köftesi (290 g),özel chef sos  kıvırcık,karamelize sogan  domates füme kaburga, cheddar sos, bbq sos ve patates kızartması ile",
+            "price": 592.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6389a55d7229f5986236152f",
+        "name": "Kajun",
+        "items": [
+          {
+            "id": "6389a55d7229f52b173615ab",
+            "name": "Kajun Baharatlı Tavuk (300 g)",
+            "description": "Kajun baharatlı tavuk (300 g), bbq sos ,ketcap,mayonez, garlnc sos ,ballı hardal ,renc sos  patates kızartması ve lavaş ile",
+            "price": 432.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5f0d83615c0",
+            "name": "Kajun Baharatlı Tavuk (600 g)",
+            "description": "Kajun baharatlı tavuk, ketcap,mayonez bbq sos, ballı hardal,renc sos ,garlenc sos patates kızartması ve lavaş ile",
+            "price": 624.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6389a55d7229f51743361531",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6389a55d7229f5eae036155e",
+            "name": "Patates Kızartması",
+            "description": "Ketçap ve mayonez ile",
+            "price": 232.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f54d8336158b",
+            "name": "Soğan Halkası (15 Adet)",
+            "description": "Ketçap, mayonez",
+            "price": 176.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6389a55d7229f513ae361534",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "6389a55d7229f5cc4936161c",
+            "name": "Ketçap",
+            "description": null,
+            "price": 8.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927933322_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f53107361627",
+            "name": "Mayonez",
+            "description": null,
+            "price": 8.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927941688_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5b2b1361547",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f51a353615ce",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927911178_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f53dfd361601",
+            "name": "Garlic Sos",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5f462361634",
+            "name": "Ballı Hardal Sos",
+            "description": null,
+            "price": 11.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927927541_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "645d53ce7cc6f66f89e0794f",
+            "name": "Ekstra Cheddar Peynir",
+            "description": null,
+            "price": 8.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6389a55d7229f55979361535",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6389a55d7229f5845e36153b",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 71.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5a53336156b",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f51753361591",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 71.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f505553615ac",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5fa1e3615f8",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f569f3361638",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 28.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f552d4361639",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 17.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f528fc36163a",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f55f7d36163b",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698663749346_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5f1a036163d",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5b98536163e",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6389a55d7229f5698a36163f",
+            "name": "Fuse Tea (1 L)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699a1601ceac63ceacdd4835",
+            "name": "Safiş Ayran Acılı",
+            "description": "275 ml",
+            "price": 56.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699a1636ceac63ceacdd4862",
+            "name": "Safiş Ayran Naneli",
+            "description": "275 ml",
+            "price": 56.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699a1683ceac63ceacdd4891",
+            "name": "Safiş Ayran Ekşi",
+            "description": "275 ml",
+            "price": 56.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699a16bbceac63ceacdd48b9",
+            "name": "Safiş Ayran Yayık",
+            "description": "275 ml",
+            "price": 56.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

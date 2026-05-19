@@ -1,0 +1,293 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "6772f39e774e9b384e364381",
+  "name": "Maratun Cafe (Haseki Sultan Mah.)",
+  "slug": "maratun-cafe-haseki-sultan-mah-fatih-istanbul",
+  "cuisine_types": [
+    "Burger",
+    "Döner",
+    "Dünya Mutfağı",
+    "Pasta & Tatlı",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "67aeaec6ceac63ceacb5ec40",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "67aeafb8ceac63ceacb5ec41",
+            "name": "Mercimek Çorbası",
+            "description": "Limon ve ekmek ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739501481254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67aeaffbceac63ceacb5ec42",
+            "name": "Tavuk Suyu Çorbası",
+            "description": "Limon ve ekmek ile",
+            "price": 229.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739501554325_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "679152cdceac63ceac84c918",
+        "name": "Döner",
+        "items": [
+          {
+            "id": "6791570dceac63ceac84ca5e",
+            "name": "Yarım Ekmek Arası Tavuk Döner",
+            "description": "Özel soslu tavuk döner, turşu, domates, yeşillik",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738829577675_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67915a41ceac63ceac84cb52",
+            "name": "Tavuk Döner Dürüm",
+            "description": "Özel soslu tavuk döner, turşu, domates, yeşillik",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738829591871_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67915ad0ceac63ceac84cbb8",
+            "name": "Kaşarlı Tavuk Döner Dürüm",
+            "description": "Özel soslu tavuk döner, turşu, domates, yeşillik, kaşar peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738873350596_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6791741fceac63ceac84d453",
+            "name": "Tavuk Döner Dürüm menü",
+            "description": "Tavuk döner dürüm ve içecek ile",
+            "price": 358.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738873597935_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "679152daceac63ceac84c91c",
+        "name": "Hamburger",
+        "items": [
+          {
+            "id": "679177e0ceac63ceac84d545",
+            "name": "Cheeseburger",
+            "description": "Dana eti, cheddar peyniri, domates, turşu, yeşillik ve patates kızartması ile",
+            "price": 329.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738829514296_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "679179faceac63ceac84d5a5",
+            "name": "Kelebek Burger",
+            "description": "Dana eti, domates, turşu, yeşillik, özel sos, kaşar peyniri (2 adet) ve patates kızartması ile...",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738829499511_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67917ab6ceac63ceac84d5bf",
+            "name": "Cheeseburger Menü",
+            "description": "Cheeseburger ve içecek ile",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738829542368_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67917b29ceac63ceac84d5d6",
+            "name": "Kelebek Burger Menü",
+            "description": "Kelebek burger ve içecek ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738873708315_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "679152e6ceac63ceac84c91d",
+        "name": "Wrap",
+        "items": [
+          {
+            "id": "67917e34ceac63ceac84d63d",
+            "name": "Sebzeli Wrap",
+            "description": "Patates kızartması, domates, biber, kaşar peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738873121024_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67917e57ceac63ceac84d647",
+            "name": "Tavuklu wrap",
+            "description": "Tavuk, kaşar peyniri, domates, biber, tercihe göre soğan",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738873060785_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67917e6eceac63ceac84d64b",
+            "name": "Etli wrap",
+            "description": "Tavuk, kaşar peyniri, domates, biber, tercihe göre soğan",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738872935872_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67915288ceac63ceac84c8d0",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "67917b79ceac63ceac84d5e5",
+            "name": "Ketçap",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738872795987_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67917b8cceac63ceac84d5e8",
+            "name": "Mayonez",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738872870227_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "679151f1ceac63ceac84c8ae",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "67915c91ceac63ceac84cc22",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67915cb4ceac63ceac84cc30",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67915d1fceac63ceac84cc6b",
+            "name": "Sarıyer Kola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67915d5fceac63ceac84cc70",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67915d83ceac63ceac84cc71",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67915dadceac63ceac84cca6",
+            "name": "Sade Soda (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67915dc5ceac63ceac84cca8",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67925dffceac63ceac859b50",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

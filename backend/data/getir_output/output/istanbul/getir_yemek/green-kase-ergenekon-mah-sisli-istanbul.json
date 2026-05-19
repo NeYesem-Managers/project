@@ -1,0 +1,597 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "668e916501c583781b2c4812",
+  "name": "Green Kase (Ergenekon Mah.)   ",
+  "slug": "green-kase-ergenekon-mah-sisli-istanbul",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Vejetaryen"
+  ],
+  "rating": 4.5,
+  "rating_count": 300,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66c74656bfb9745eb9fb139b",
+            "name": "Kendi Bowlunu Kendin Yap",
+            "description": "Tercih edeceğiniz taban ve malzeme ile",
+            "price": 119.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351253454_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c745f0bfb9745eb9fb0f2a",
+            "name": "Chicken Breast Bowl",
+            "description": "Akdeniz yeşilliği, basmati pirinç , mısır, kırmızılahana turşusu, tavuk göğüs",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351221947_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c74683fe8d8ed4370b35b9",
+            "name": "Cordon Breast Bowl",
+            "description": "Tercih edeceğiniz taban, çıtır kaşarlı tavuk, havuç tarator, mısır, cherry domates",
+            "price": 449.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351267190_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c745633694163fdb912955",
+            "name": "Tender Crispy Chicken Bowl",
+            "description": "Tercih edeceğiniz taban, cherry domates, jelepeno biberi, patates püresi",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351106759_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c74516bfb9745eb9fb062c",
+            "name": "Fried Crispy Chicken Bowl",
+            "description": "Tercih edeceğiniz taban, mor lahana turşusu, coleslaw, guacamole sos",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351073387_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c2f9a350abe6d9cfcc1717",
+        "name": "Chicken Bowl",
+        "items": [
+          {
+            "id": "66c74656bfb9745eb9fb139b",
+            "name": "Kendi Bowlunu Kendin Yap",
+            "description": "Tercih edeceğiniz taban ve malzeme ile",
+            "price": 119.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351253454_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c745f0bfb9745eb9fb0f2a",
+            "name": "Chicken Breast Bowl",
+            "description": "Akdeniz yeşilliği, basmati pirinç , mısır, kırmızılahana turşusu, tavuk göğüs",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351221947_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c7433a8e4735a00571a84b",
+            "name": "Schnitzel Flavor Bowl",
+            "description": "Tercih edeceğiniz taban, schnitzel tavuk, coleslaw, mısır, domates salsa ve kırmızılahana turşusu",
+            "price": 449.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351061709_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c74683fe8d8ed4370b35b9",
+            "name": "Cordon Breast Bowl",
+            "description": "Tercih edeceğiniz taban, çıtır kaşarlı tavuk, havuç tarator, mısır, cherry domates",
+            "price": 449.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351267190_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c745ab3b38697aee121d08",
+            "name": "Chicken Leg Bowl",
+            "description": "Tercih edeceğiniz taban, tavuk but, tzatziki, falafel, mısır, salatalık",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351196278_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c745633694163fdb912955",
+            "name": "Tender Crispy Chicken Bowl",
+            "description": "Tercih edeceğiniz taban, cherry domates, jelepeno biberi, patates püresi",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351106759_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c74516bfb9745eb9fb062c",
+            "name": "Fried Crispy Chicken Bowl",
+            "description": "Tercih edeceğiniz taban, mor lahana turşusu, coleslaw, guacamole sos",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351073387_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c746262c6081a3eeda986c",
+            "name": "Sweet Chili Crispy Chicken Bowl",
+            "description": "Tercih edeceğiniz taban, havuç tarator, patates salatası, zencefilli soğan turşusu",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351242324_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d1b54aceac63ceacea5786",
+            "name": "Nati Nutts Chicken Bowl",
+            "description": "Tercih edeceğiniz taban, tzatziki, falafel (2 adet), nati nutts (6 adet), tavuk parçaları, soğan turşusu",
+            "price": 439.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725019339671_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c744e32e10ba078cadb9d7",
+            "name": "Chicken Mexican Bowl",
+            "description": "Tercih edeceğiniz taban, tavuk göğüs, guacamole sos, domates, salsa sos, mısır, meksika fasulyesi, peynir, lahana, jalapeno biberi",
+            "price": 499.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351094951_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c72ace2c6081a3eed9a3f8",
+        "name": "Et & Balık Bowl",
+        "items": [
+          {
+            "id": "66c7402e3b38697aee11f2e9",
+            "name": "Köfte Bowl",
+            "description": "Basmati pirinç pilavı, akdeniz yeşillikleri, köfte, soğan turşusu, salsa sos, közlenmiş biber",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724934687534_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73ff4428d414f6b15a210",
+            "name": "Ton Bowl",
+            "description": "Tercih edeceğiniz taban, ton balığı, domates, salatalık, mısır, kırmızı soğan",
+            "price": 469.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351282063_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73f922486dd9055e11a84",
+            "name": "Salmon Bowl",
+            "description": "Tercih edeceğiniz taban, somon, guacamole sos, cherry domates, susam",
+            "price": 649.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351049889_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73f6070e95befe8aa3d1a",
+            "name": "Mexican Steak Bowl",
+            "description": "Tercih edeceğiniz taban, dana biftek, pirinç pilavı, guacamole sos, domates, salsa sos, mısır, meksika fasulyesi, peynir, lahana, jalapone biber",
+            "price": 649.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724350990306_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c72ae71917ff7d50b8b8d2",
+        "name": "Vegan & Vejetaryen Bowl",
+        "items": [
+          {
+            "id": "66d08816ceac63ceacea2c8d",
+            "name": "Veggie Bowl",
+            "description": "Tercih edeceğiniz taban, mısır, kabak salatası, mor lahana, cherry domates, brokoli",
+            "price": 439.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724942322031_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73ef3428d414f6b159adc",
+            "name": "Green Mung Bowl",
+            "description": "Tercih edeceğiniz taban, tatlı patates, mısır, maş fasulyesi, avokado, havuç",
+            "price": 439.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351376126_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73f102486dd9055e11571",
+            "name": "Vegan Köfte Bowl",
+            "description": "Tercih edeceğiniz taban, maş fasulyesi, domates salsa, soğan turşusu, humus, vegan köfte",
+            "price": 549.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351473915_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73eba2486dd9055e11289",
+            "name": "Falafel Bowl",
+            "description": "Tercih edeceğiniz taban, kabak salatası, pirinç pilavı, falafel, tzatziki, soğan turşusu, beyaz peynir, cherry domates",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351304524_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d0886dceac63ceacea2c94",
+            "name": "Mixed Vegan Bowl",
+            "description": "Tercih edeceğiniz taban, kuşkonmaz, karnabahar, mercimek salatası, fırınlanmış havuç, seçeceğiniz taban",
+            "price": 439.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724942420727_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73bbd70e95befe8aa241e",
+            "name": "Rain Bowl",
+            "description": "Tercih edeceğiniz taban, kuşkonmaz, avokado, mısır, cherry domates, kabak salatası, mercimek salatası, susam",
+            "price": 439.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724351355955_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66d1e5d7ceac63ceacea66aa",
+        "name": "Burrito",
+        "items": [
+          {
+            "id": "66d447b6ceac63ceaceafaf7",
+            "name": "Chicken Burrito",
+            "description": "Tercih edeceğiniz taban, humus, taco cips,ızgara tavuk, domates salsa, mısır, chipotle sos, jalepeno biberi",
+            "price": 409.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725280615035_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d447fcceac63ceaceafb01",
+            "name": "Cordon Burrito",
+            "description": "Tercih edeceğiniz taban, kaşarlı tavuk, havuç tarator, humus, domates salsa, karamelize soğan, mısır chedar sos, ranch sos",
+            "price": 419.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725280589685_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d4472aceac63ceaceafacf",
+            "name": "Köfte Burrito",
+            "description": "Tercih edeceğiniz taban, köfte, közlenmiş biber, chedar sos, ranch sos, karamelize soğan humus, domates salsa",
+            "price": 499.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725280574389_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d44774ceac63ceaceafaed",
+            "name": "Beff Burrito",
+            "description": "Tercih edeceğiniz taban, dana incik, guacomele,mısır, chedar sos, domates salsa, ranch sos, meksika fasulyesi",
+            "price": 599.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725187926722_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c72b06b5f938ffe8817563",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "66c73865182397d582b2bc6b",
+            "name": "Crispy Chicken (Porsiyon)",
+            "description": null,
+            "price": 249.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724938119225_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c738802e10ba078cad40b8",
+            "name": "Köfte (4 Adet)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724938535410_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d078f0ceac63ceacea2426",
+            "name": "Falafel (4 Adet)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 147.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724938463783_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c72b0ffe8d8ed4370a5371",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "66c735f72c6081a3eeda130f",
+            "name": "Domates Çorbası",
+            "description": null,
+            "price": 139.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725017077421_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c736012e10ba078cad2bd0",
+            "name": "Brokoli Çorbası",
+            "description": null,
+            "price": 139.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725017090051_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c72b351917ff7d50b8bb42",
+        "name": "Meze",
+        "items": [
+          {
+            "id": "66c730ef0679171a806800aa",
+            "name": "Patates Püresi (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399460965_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d44542ceac63ceaceaf9fc",
+            "name": "Patates Salatası",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725187388531_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c7306c1917ff7d50b8e707",
+            "name": "Tomato Salsa (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399531893_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c72feab5f938ffe8819a58",
+            "name": "Havuç Tarator (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399631967_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c73596a338b4d91d5e9be0",
+            "name": "Maş Fasulyeli Salata (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725017048541_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c736470679171a80683b96",
+            "name": "Coleslaw (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399603349_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c72ffafe8d8ed4370a7ddb",
+            "name": "Mercimek Salatası (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399652580_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c730221917ff7d50b8e4a7",
+            "name": "Humus (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399690128_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c731e9fe8d8ed4370a8e56",
+            "name": "Tzatziki (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399442052_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66c730492c6081a3eed9e09d",
+            "name": "Guacamole Sos (300 g)",
+            "description": "Kasede servis edilmektedir.",
+            "price": 329.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1724399665486_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c72b4e3b38697aee1145e1",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "66c72b5c182397d582b25561",
+            "name": "Coca Cola (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c72b682c6081a3eed9aa44",
+            "name": "Coca Cola Zero Sugar (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c72b7c4b06a529ddf75f9a",
+            "name": "Fanta (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c72ba02486dd9055e07bf1",
+            "name": "Sprite (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c72b86b5f938ffe8817966",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c72b972486dd9055e07aaa",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c72ba70679171a8067d0ff",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c72bad0679171a8067d13c",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

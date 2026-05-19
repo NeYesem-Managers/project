@@ -1,0 +1,844 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "68f01c1c1906bb09d308482d",
+  "name": "Ramen City, Çankaya (Bahçelievler Mah.)",
+  "slug": "ramen-city-cankaya-bahcelievler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Uzak Doğu"
+  ],
+  "rating": 3.9,
+  "rating_count": 20,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68f4f85aceac63ceac0cd3b4",
+            "name": "Triple Noodle",
+            "description": "Tavuk, dana eti ve karidesin birleştiği üçlü şölen. Renkli biber, lahana, havuç ve taze soğanla wok tavada. Özel noodle sosu, her bir proteini ayrı ayrı parlatan derin bir tat profili oluşturur",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760884704647_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e09fceac63ceac0cca8b",
+            "name": "Corn Dog",
+            "description": "Üç adet mısır unlu hamurla kaplanmış sosis, dışı çıtır içi yumuşak dokusuyla sıcak servis edilir. Amerikan sokak lezzetinin en keyifli hâli",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760878743931_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f2be47ceac63ceac0c29e4",
+        "name": "Çorbalar",
+        "items": [
+          {
+            "id": "68f4e156ceac63ceac0ccabd",
+            "name": "Miso Çorba",
+            "description": "Klasik Japon lezzetlerinden biri. Edamame, havuç, tofu peyniri, miso ezmesi, nori yosunu ve kuru wakame ile. Fermente misonun derin umami tadı, taze sebzelerle birleşerek hafif ama zengin bir başlangıç sunar",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766229105463_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e17dceac63ceac0ccac4",
+            "name": "Tom Yum Çorba",
+            "description": "Tayland mutfağının imza çorbası. Tom yum ezmesi, Hindistan cevizi kreması, jumbo karides, cherry domates ve mantar ile hazırlanır. Baharatlı, ekşi ve kremamsı dokusuyla damakta kalıcı bir denge bırakır",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766229176785_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e1aaceac63ceac0ccaf3",
+            "name": "Fish Soup",
+            "description": "Taze somon ve ton balığı parçaları, edamame, havuç ve taze limon suyuyla hazırlanır, deniz ürünlerinin doğal aromasıyla zenginleşen bu çorba, ferahlatıcı ve besleyici bir başlangıçtır",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760879011989_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f01c23ceac63ceac083a77",
+        "name": "Noodle",
+        "items": [
+          {
+            "id": "68f4f6f7ceac63ceac0cd2fa",
+            "name": "Sebzeli Noodle",
+            "description": "Taze renkli biber, ince kıyılmış lahana, havuç ve taze soğan; wok tavada yüksek ısıda karamelize edilip özel noodle sosuyla harmanlanır, Dengeli dokusu ve hafif baharat tonlarıyla rafine bir vegan lezzet sunar",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f4f723ceac63ceac0cd304",
+            "name": "Tavuklu Noodle",
+            "description": "Jülyen kesilmiş tavuk göğsü, renkli biber, lahana, havuç ve taze soğan; wok ateşinde özel noodle sosuyla çevrilir. Tavuk etinin yumuşak dokusu, sebzelerin tazeliğiyle mükemmel bir uyum yakalar",
+            "price": 510.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f4f757ceac63ceac0cd31d",
+            "name": "Dana Etli Noodle",
+            "description": "İnce jülyen dana eti, renkli biber, lahana, havuç ve taze soğanla birlikte wok tavada, özel noodle sosu, etin lezzetini ön plana çıkararak güçlü ve doyurucu bir aroma dengesi yaratır",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f4f783ceac63ceac0cd374",
+            "name": "Karidesli Noodle",
+            "description": "Jumbo karides, renkli biber, lahana, havuç ve taze soğanla wok ateşinde hazırlanır. Deniz ürünlerinin zarif aromasıyla birleşen özel noodle sosu ferah ve zengin bir tat sunar",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f4f85aceac63ceac0cd3b4",
+            "name": "Triple Noodle",
+            "description": "Tavuk, dana eti ve karidesin birleştiği üçlü şölen. Renkli biber, lahana, havuç ve taze soğanla wok tavada. Özel noodle sosu, her bir proteini ayrı ayrı parlatan derin bir tat profili oluşturur",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760884704647_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f8e0ceac63ceac0cd3f3",
+            "name": "Salmon Noodle",
+            "description": "Izgara somon parçaları, renkli biber, lahana, havuç ve taze soğanla wok ateşinde, somonun yağlı dokusu ve hafif isli aroması, noodle sosuyla mükemmel bir uyum içindedir",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760884952929_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f903ceac63ceac0cd3fb",
+            "name": "Deniz Mahsüllü Noodle",
+            "description": "Kalamar, yengeç ve somondan oluşan deniz mahsulleri, renkli biber, lahana, havuç ve taze soğanla wok tavada. Özel noodle sosu, deniz lezzetlerinin doğallığını ön plana çıkarır",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760884991454_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f01c23ceac63ceac083a78",
+        "name": "Roller",
+        "items": [
+          {
+            "id": "68f4f955ceac63ceac0cd420",
+            "name": "California Roll",
+            "description": "Yengeç surimi, avokado, mayonez ve salatalık, susamla kaplanarak hazırlanır. Hafif, dengeli ve klasik bir başlangıç rolü",
+            "price": 625.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760885071924_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4fa2cceac63ceac0cd46f",
+            "name": "Philadelphia Roll",
+            "description": "Yengeç surimi, krem peynir ve salatalık; dışı taze somonla kaplanır. Peynirin kremamsı dokusu ve somonun zengin yağı mükemmel bir uyum oluşturur",
+            "price": 655.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760885284340_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ff2cb7ceac63ceac3f81ba",
+            "name": "Fuji Roll",
+            "description": null,
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2cdcceac63ceac3f81d4",
+            "name": "Dragon Roll",
+            "description": null,
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2d01ceac63ceac3f81f3",
+            "name": "Aburi Salmon Roll",
+            "description": null,
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2d31ceac63ceac3f820b",
+            "name": "Crunchy Roll",
+            "description": null,
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2d73ceac63ceac3f8219",
+            "name": "Special Hot Roll",
+            "description": null,
+            "price": 655.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2da4ceac63ceac3f8246",
+            "name": "Salmon Tempura Roll",
+            "description": null,
+            "price": 685.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2dd1ceac63ceac3f8262",
+            "name": "Veggi Roll",
+            "description": null,
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2e03ceac63ceac3f829a",
+            "name": "Karides Tempura Roll",
+            "description": null,
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2e3dceac63ceac3f82c3",
+            "name": "Special Salmon Roll",
+            "description": null,
+            "price": 685.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2e5aceac63ceac3f82ca",
+            "name": "Boston Roll",
+            "description": null,
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f2be2fceac63ceac0c29de",
+        "name": "Ramenler",
+        "items": [
+          {
+            "id": "68f4ee69ceac63ceac0ccfd8",
+            "name": "Sebzeli Ramen",
+            "description": "24 saat kaynatılmış ilikli ramen suyunda, taze havuç, kültür mantarı, mısır taneleri, kavrulmuş susam ve ince doğranmış taze soğanla hazırlanan klasik ve hafif bir ramen deneyimi",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764335416382_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4ee91ceac63ceac0ccfdf",
+            "name": "Tavuklu Ramen",
+            "description": "Yavaş pişirilmiş tavuk bonfile dilimleri, taze havuç, Kültür mantarı, mısır ve taze soğan, ilikli ramen suyunun zengin lezzetiyle birleşiyor, üzerine serpiştirilen kavrulmuş susam aromayı tamamlar",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764335669083_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4eeb1ceac63ceac0ccfe9",
+            "name": "Dana Etli Ramen",
+            "description": "İnce dilimlenmiş dana biftek, havuç, mantar, mısır, taze soğan ve susam; derin aromalı ilikli ramen suyunda birleşir. Her kaşıkta dengeli ve doyurucu bir lezzet profili sunar",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760901098007_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4eeefceac63ceac0ccff6",
+            "name": "Karidesli Ramen",
+            "description": "Jumbo karides, taze ıspanak yaprakları, havuç, mantar, mısır ve taze soğan; özel ramen suyunda pişirilir. Hafif deniz aroması ve kavrulmuş susam ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760901754075_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4eff7ceac63ceac0cd01f",
+            "name": "Cheesy Chicken Ramen",
+            "description": "İlikli ramen suyunda pişirilmiş tavuk bonfile, cheddar peyniri, ıspanak, haşlanmış yumurta, taze soğan ve peynir, ramen suyu",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760902267385_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f013ceac63ceac0cd028",
+            "name": "Truffle Oil Ramen",
+            "description": "Trüf yağıyla aromalandırılmış özel ramen suyu; mantar, haşlanmış yumurta, ıspanak, nori yosunu, brokoli, kapya biber, susam ve taze soğan ile. Yoğun ve sofistike bir tat profili sunar",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760903112119_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f03eceac63ceac0cd034",
+            "name": "Mushroom Truffle Ramen",
+            "description": "Trüf yağı ve taze mantarın başrolde olduğu bu özel ramen, haşlanmış yumurta, ıspanak, nori, taze soğan ve susamla tamamlanır. Mantarın derin aromasıyla lüks bir lezzet dengesi oluşturur",
+            "price": 485.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760905113773_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f05dceac63ceac0cd057",
+            "name": "Shoyu Ramen",
+            "description": "Acılı soya bazlı ramen suyu; sarımsak, taze zencefil, yengeç eti, mantar, havuç, taze soğan, mısır ve kavrulmuş susamla harmanlanır. Baharatlı ve karakterli bir ramen deneyimi",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760905598067_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f082ceac63ceac0cd077",
+            "name": "Spicy Miso Ramen",
+            "description": "Acılı miso ezmesiyle zenginleştirilmiş ramen suyu; tofu peyniri, nori yosunu, ıspanak, mısır ve kavrulmuş susamla hazırlanır. Fermente misonun derin aromasıyla nefis bir uyum yakalar",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760905833528_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f2be61ceac63ceac0c29ea",
+        "name": "Nigiriler",
+        "items": [
+          {
+            "id": "68f4f0e7ceac63ceac0cd08a",
+            "name": "Sake Nigiri (Somon)",
+            "description": "İki adet taze somon dilimiyle hazırlanan klasik Japon nigirisi. Somonun ipeksi dokusu ve dengeli yağı, pirincin hafif asidik aromasıyla birleşerek zarif bir lezzet uyumu oluşturur",
+            "price": 485.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760882909410_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f130ceac63ceac0cd0a1",
+            "name": "Kani Nigiri (Yengeç)",
+            "description": "Tatlı yengeç surimisiyle hazırlanan iki adet nigiri, hafif dokusu ve nazik tadıyla sade ama dengeli bir deniz ürünü deneyimi sunar",
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760882973191_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f57dceac63ceac0cd22a",
+            "name": "Avokado Nigiri (2 Adet)",
+            "description": "Kremsi avokado dilimiyle hazırlanan vegan alternatif. Doğal tazeliği, pirincin hafif sirkeli lezzetiyle birleşerek ferah bir denge yaratır",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760884074890_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f5b1ceac63ceac0cd233",
+            "name": "Ebi Nigiri (Karides)",
+            "description": "Haşlanmış jumbo karidesle hazırlanan iki adet klasik nigiri, hafif tuzlu aromasıyla denizin esintisini sofraya taşır, sade, zarif ve dengeli bir lezzet",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760884138522_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4f5daceac63ceac0cd241",
+            "name": "Tuna Nigiri (2 Adet)",
+            "description": "Taze ton balığı dilimleriyle hazırlanan nigiri, canlı kırmızı rengi ve yoğun umami aromasıyla Japon mutfağının rafine lezzetlerinden biridir",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760884181895_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ff2f43ceac63ceac3f839c",
+            "name": "Unagi Nigiri",
+            "description": null,
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ff2faeceac63ceac3f83e4",
+            "name": "Füme Salmon Nigiri",
+            "description": null,
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f2be87ceac63ceac0c2a24",
+        "name": "Sushi & Makiler",
+        "items": [
+          {
+            "id": "68f5058eceac63ceac0cd9d5",
+            "name": "Sake Maki (Somon)",
+            "description": "6 adet taze somonla, somonun ipeksi dokusu ve dengeli yağı, pirincin hafif sirkeli lezzetiyle birleşerek klasik bir Japon deneyimi sunar",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760888203863_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f50626ceac63ceac0cda1c",
+            "name": "Kappa Maki (Salatalık)",
+            "description": "6 adet taze salatalık ve nori yosunuyla hazırlanır, ferah, hafif ve sade tadıyla vegan sushi severler için ideal bir seçenektir",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760888351371_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f506b4ceac63ceac0cda2b",
+            "name": "Tuna Maki (Ton Balığı)",
+            "description": "Altı adet taze ton balığıyla, canlı rengi, dolgun aroması ve yoğun umami karakteriyle sushi menülerinin vazgeçilmezlerinden biri",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760888486863_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f516e3ceac63ceac0ce03c",
+            "name": "Avokado Maki",
+            "description": "Altı adet kremsi avokado dilimiyle hazırlanır, doğal tazeliği ve yumuşak dokusuyla sade ama rafine bir lezzet deneyimi sunar",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760891156076_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f534beceac63ceac0cedfe",
+            "name": "Kani Maki (Yengeç Surimi)",
+            "description": "Altı adet tatlı yengeç surimisiyle, yumuşak dokusu ve hafif tatlı aromasıyla keyifli bir başlangıç sunar",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760900280610_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f53501ceac63ceac0cee07",
+            "name": "Sake Avokado Maki (6 Adet)",
+            "description": "Taze somon ve avokadonun zarif uyumu, yumuşak dokusu, dengeli tadı ve hafif yağıyla rafine bir sushi deneyimi oluşturur",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760900334767_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f53538ceac63ceac0cee2d",
+            "name": "Ebi Tempura Maki",
+            "description": "Altı adet çıtır tempura karides ve avokadoyla hazırlanır. Dışı hafif çıtır, içi yumuşak yapısıyla sıcak servis edilen özel bir maki seçeneği",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766228060487_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f53569ceac63ceac0cee3e",
+            "name": "Sake Tempura Maki",
+            "description": "6 adet tempura somon, avokado ve hafif sosla, doyurucu ve aromatik yapısıyla klasik sushi lezzetine sıcak bir dokunuş katar",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766227950851_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ff30c2ceac63ceac3f84d8",
+            "name": "Unagi Maki",
+            "description": null,
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f2be90ceac63ceac0c2a28",
+        "name": "Tatlılar",
+        "items": [
+          {
+            "id": "68f53597ceac63ceac0cee47",
+            "name": "Kızarmış Dondurma",
+            "description": "Dışı çıtır, içi serin bir lezzet",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760900497779_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f535c0ceac63ceac0cee56",
+            "name": "Ananas",
+            "description": "Taze dilimlenmiş ananasla hazırlanır. Doğal tatlılığı, ferah aroması ve meyvenin canlı dokusuyla hafif bir kapanış seçeneği. Ana yemeğin ardından damakta hoş bir tazelik bırakır",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760900538945_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f535f0ceac63ceac0cee74",
+            "name": "Balda Kızarmış Muz",
+            "description": "Sıcak muz dilimleri, bal sosuyla karamelize edilerek servis edilir. Dışı ince ve çıtır, içi yumuşak dokusuyla tatlı severler için vazgeçilmez bir klasik",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760900588155_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694404b8ceac63ceac72bafc",
+            "name": "Sakura Roll",
+            "description": "Uzak doğu tarzı pandispanya, hafif kreması ve meyvemsi dokusuyla hazırlanan özel rulo tatlı",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766065326551_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69581ba6ceac63ceac87f7a1",
+            "name": "Mochi Rüyası",
+            "description": "Uzak Doğu'nun en tatlı sırrı, yumuşacık elastik dokusu ve patlayan lezzet dolgusuyla, sıradan tatlılardan çok daha fazlası, tek lokmada Japonya’ya kısa bir yolculuk",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69906290ceac63ceacd2663b",
+            "name": "Japon Suflesi",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771069990540_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f2be3eceac63ceac0c29e1",
+        "name": "Atıştırmalıklar",
+        "items": [
+          {
+            "id": "68f4df12ceac63ceac0cc9fa",
+            "name": "Karides Cipsi",
+            "description": "İncecik dilimlenmiş karidesli çıtır cipsler; hafif tuzlu aroması ve nefis dokusuyla zarif bir atıştırmalık. Japon mutfağının sade ama keyifli başlangıçlarından biridir",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760878304632_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4df88ceac63ceac0cca23",
+            "name": "Edamame Yuzu Sos",
+            "description": "Taze haşlanmış edamame fasulyeleri, Japon yuzu meyvesinin ferah ekşiliğiyle buluşur. Doğal aroması ve sade sunumuyla zarif bir lezzet dengesi yaratır",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760878447577_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e06cceac63ceac0cca77",
+            "name": "Moğol Tavuk",
+            "description": "Özel baharat karışımıyla marine edilmiş tavuk parçaları, hafif panelenip wok tavada çıtır kıvamda, dışı altın rengi, içi sulu ve yumuşak dokusuyla tam bir lezzet klasiği",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766228916573_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e09fceac63ceac0cca8b",
+            "name": "Corn Dog",
+            "description": "Üç adet mısır unlu hamurla kaplanmış sosis, dışı çıtır içi yumuşak dokusuyla sıcak servis edilir. Amerikan sokak lezzetinin en keyifli hâli",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760878743931_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e0c9ceac63ceac0cca96",
+            "name": "Çin Böreği",
+            "description": "İki adet ince hamurun içine özenle yerleştirilmiş sebze dolgusu, altın sarısı rengine kadar kızartılmış, her lokmada çıtır doku ve taze sebze aroması sunar",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760878788149_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e0f7ceac63ceac0ccaa8",
+            "name": "Tempura Karides",
+            "description": "Dört adet jumbo karides, hafif tempura hamuruna batırılmış ve kızartılmış. Dışı ince ve çıtır, içi ise ipeksi yumuşaklıktadır. Özel soslarla servis edilir; zarif, hafif ve doyurucu bir başlangıç",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760878826964_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f2be57ceac63ceac0c29e6",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "68f4e1e6ceac63ceac0ccafa",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f4e210ceac63ceac0ccafd",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837120505_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e221ceac63ceac0ccb01",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837135736_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e239ceac63ceac0ccb0c",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837150151_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4e25bceac63ceac0ccb11",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837179247_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4ed61ceac63ceac0ccfa4",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837217277_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4ed9bceac63ceac0ccfb0",
+            "name": "Red Bull (250 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837240924_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4edabceac63ceac0ccfb2",
+            "name": "Beypazarı Soda (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837257048_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4edbcceac63ceac0ccfb7",
+            "name": "İçim Ayran (170 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837271591_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f4edcbceac63ceac0ccfb8",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761837287153_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69431501ceac63ceac70d15f",
+        "name": "Salatalar",
+        "items": [
+          {
+            "id": "694709cdceac63ceac7556ec",
+            "name": "Kimchi Salatası",
+            "description": "Fermente edilmiş Kore lahanası kimchi, susam yağı, hafif acı sos ve taze aromalarla harmanlanmış, dengeli ekşi-acı lezzeti, canlı dokusu ve ferahlatıcı yapısıyla Asya mutfağının karakteristik salata seçeneklerinden biri",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6949afafceac63ceac772f7a",
+        "name": "Uzak Doğu İçecekleri",
+        "items": [
+          {
+            "id": "694c2384ceac63ceac7aa9a5",
+            "name": "Foco Egzotik Liçi (Lychee) Nektarı (330 ml)",
+            "description": "Uzak doğu'nun ferahlatıcı \"kral meyvesi\" liçi'den gelen, gül aromasını andıran hafif ve zarif bir asya lezzeti",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "694c23aeceac63ceac7aa9c5",
+            "name": "Foco Tropikal Passion Fruit (Çarkıfelek) (330 ml)",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "694c23d9ceac63ceac7aa9ec",
+            "name": "Foco Gurme Mango (Tropik Lezzet) (330 ml)",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

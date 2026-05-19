@@ -1,0 +1,799 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "629e4c7a4fed302cdf5eec80",
+  "name": "Kumrucu Yusuf, Konak (İsmet Kaptan Mah.)",
+  "slug": "kumrucu-yusuf-konak-ismet-kaptan-mah-konak-izmir",
+  "cuisine_types": [
+    "Burger",
+    "Tost & Sandviç"
+  ],
+  "rating": 4.8,
+  "rating_count": 50,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "67a215b7ceac63ceac921046",
+            "name": "Tulum Peynirli Bazlama",
+            "description": "Tulum peyniri, kasap sucuk, domates, salça",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a215efceac63ceac92106b",
+            "name": "Bomba Bazlama",
+            "description": "Kasap sucuk, salam, sosis, kaşar peyniri, yumurta, turşu, ketçap, mayonez",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0e51ceac63ceac59d064",
+            "name": "Kaşar Peynirli Sanayi Tostu",
+            "description": "Yarım ekmek, kasap sucuk, salça, kaşar peyniri",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a0910f32e8e9801c58fcac",
+            "name": "Maxi Karışık",
+            "description": "Sucuk, salam, sosis, kaşar peynir, turşu, ketçap ve mayonez",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a09c478a7b423f4e1bbeaf",
+            "name": "Klasik Hamburger (130 g)",
+            "description": "Hamburger köftesi (130 g), turşu, domates, marul, karamelize sogan ve kumrucu yusuf özel sos ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69da1769ceac63ceac15d781",
+        "name": "Pepsi'li Fırsat Menüleri",
+        "items": [
+          {
+            "id": "69da176aceac63ceac15d787",
+            "name": "Pepsi'li Fırsat Menüsü",
+            "description": "Kaşar peynirli sanayi tostu ve Pepsi (330 ml) ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69da17b0ceac63ceac15d801",
+            "name": "Pepsi'li Fırsat Menüsü 2",
+            "description": "Yumurtalı yusuf usta tost ve Pepsi (330 ml) ile",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69da17c5ceac63ceac15d814",
+            "name": "Pepsi'li Fırsat Menüsü 3",
+            "description": "Tulum peynirli bazlama ve Pepsi (330 ml) ile",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63205ff517a4d09a5ed25358",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "6320604f2baaa513055b6972",
+            "name": "Maxi Menü",
+            "description": "Maxi karışık, patates kızartması ve ayran (200 ml) ile",
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6320626490324cc75b41fbbc",
+            "name": "Hamburger Menü",
+            "description": "Hamburger, patates kızartması ve ayran (200 ml) ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632062bc90324c54b1421502",
+            "name": "Chicken Burger Menü",
+            "description": "Chicken burger, patates kızartması ve ayran (200 ml) ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63206346768127e43f82986c",
+            "name": "Şinitzel Menü",
+            "description": "Ekmek arası şinitzel, patates kızartması ve Pınar ayran (200 ml) ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6320638e76812755ec82b735",
+            "name": "Köfte Menü",
+            "description": "Ekmek arası köfte, patates kızartması ve ayran (200 ml) ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632063cdc5b9527716a75461",
+            "name": "Ayvalık Tost Menü",
+            "description": "Ayvalık tost, patates kızartması ve ayran (200 ml) ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a213e8ceac63ceac920d7c",
+            "name": "Yumurtalı Bazlama",
+            "description": "Kasap sucuk, kaşar peyniri, yumurta ve salça",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a215b7ceac63ceac921046",
+            "name": "Tulum Peynirli Bazlama",
+            "description": "Tulum peyniri, kasap sucuk, domates, salça",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a215efceac63ceac92106b",
+            "name": "Bomba Bazlama",
+            "description": "Kasap sucuk, salam, sosis, kaşar peyniri, yumurta, turşu, ketçap, mayonez",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a2286eceac63ceac922952",
+        "name": "Sanayi Tostları",
+        "items": [
+          {
+            "id": "692f0d96ceac63ceac59d01b",
+            "name": "Sucuklu Sanayi Tostu",
+            "description": "Yarım ekmek, kasap sucuk, salça",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0e00ceac63ceac59d038",
+            "name": "Yumurtalı Sanayi Tostu",
+            "description": "Yarım ekmek, kasap sucuk, salça, kaşar peyniri, yumurta",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0e51ceac63ceac59d064",
+            "name": "Kaşar Peynirli Sanayi Tostu",
+            "description": "Yarım ekmek, kasap sucuk, salça, kaşar peyniri",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0ecdceac63ceac59d0a3",
+            "name": "Cheddar Peynirli Sanayi Tostu",
+            "description": "Yarım ekmek, kasap sucuk, salça, cheddar peyniri",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0effceac63ceac59d0bd",
+            "name": "Sayas Peynirli Sanayi Tostu",
+            "description": "Yarım ekmek, kasap sucuk, salça, sayas peyniri",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0f48ceac63ceac59d0e4",
+            "name": "İ̇ki Peynirli Sanayi Tostu",
+            "description": "Yarım ekmek, salça, cheddar peyniri, kaşar peyniri",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0f80ceac63ceac59d116",
+            "name": "Üç Peynirli Sanayi Tostu",
+            "description": "Yarım ekmek, salça, cheddar peyniri, kaşar peyniri, mozzarella peyniri",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0fabceac63ceac59d126",
+            "name": "Dört Peynirli Sanayi Tostu",
+            "description": "Yarım ekmek, mozzarella peyniri, cheddar peyniri, kaşar peyniri, sayas peyniri, salça",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62a08fca3988ac4f774b580a",
+        "name": "Kumru & Tost",
+        "items": [
+          {
+            "id": "62a0910f32e8e9801c58fcac",
+            "name": "Maxi Karışık",
+            "description": "Sucuk, salam, sosis, kaşar peynir, turşu, ketçap ve mayonez",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a090448a7b4209f31a69b3",
+            "name": "İzmir Kumru",
+            "description": "Sucuk, salam, sosis, kaşar peynir, domates, turşu, ketçap ve mayonez",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a0905c689cd32d5ac7ac92",
+            "name": "Çeşme Kumru",
+            "description": "Sucuk, salam, sayas peyniri domates, turşu,",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a090b48a7b42e88e1a7581",
+            "name": "Yumurtalı Yusuf Usta Tost",
+            "description": "Üç çeyrek ekmek, kasap sucuk, yumurta, kaşar peynir, salça",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a0912c59d66118701d9abb",
+            "name": "Atom Karışık",
+            "description": "Sucuk, salam, sosis, yumurta, kaşar peynir, turşu, ketçap ve mayonez",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63205faf90324c26284153dd",
+            "name": "Ayvalık Tost",
+            "description": "Kaşar peyniri, sucuk, salam, turşu, ketçap ve mayonez",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632060b117a4d06653d27c14",
+            "name": "Chicken Burger",
+            "description": "Chicken burger, domates, turşu marul, ketçap ve mayonez",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6320610990324c49e241aa8b",
+            "name": "Hamburger",
+            "description": "Dana burger, domates, marul turşu, ketçap ve mayonez",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632061717681275065822582",
+            "name": "Ekmek Arası Şinitsel",
+            "description": "Şinitsel, domates, turşu marul, ketçap ve mayonez",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632061d890324c3a8a41dbc6",
+            "name": "Ekmek Arası Kasap Köfte",
+            "description": "Kasap köfte (100 g), domates, turşu marul ve patates kızartması",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "631f3f29c5b952710e7e09a9",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "62a09c478a7b423f4e1bbeaf",
+            "name": "Klasik Hamburger (130 g)",
+            "description": "Hamburger köftesi (130 g), turşu, domates, marul, karamelize sogan ve kumrucu yusuf özel sos ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a09ee6760cef0d9e014d40",
+            "name": "Sloopy Hamburger (130 g)",
+            "description": "Hamburger köftesi (130 g), domates, marul, turşu, karamelize soğan, kaşar peyniri, cheddar peyniri, füme et ve kumrucu yusuf özel sos ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a09fa09300ff393540bf7e",
+            "name": "Özel Cheeseburger (130 g)",
+            "description": "Hamburger köftesi (130 g), kaşar peyniri, domates, marul, turşu, karamelize soğan ve kumrucu yusuf özel sos ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62a0a48e2810800152abc17b",
+            "name": "Steak Burger (260 g)",
+            "description": "Hamburger köftesi (260 g), cheddar peyniri, füme et, karamelize soğan, domates, marul, turşu ve kumrucu yusuf özel sos ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62a09ae83988ac66324c8254",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "62a09d1f864228ff0a574977",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62a09dfb760cef1e08013099",
+            "name": "Pınar Ayran (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62a09e2f8642285224576634",
+            "name": "Pınar Ayran (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6968f91dceac63ceaca0ec61",
+            "name": "pepsi zero 330ml",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6968f93bceac63ceaca0ec73",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6968f97dceac63ceaca0eca2",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69282c8cceac63ceac53edb7",
+        "name": "Ayvalık Tostları",
+        "items": [
+          {
+            "id": "692f0974ceac63ceac59cc04",
+            "name": "Sucuklu Ayvalık Tostu",
+            "description": "Kasap sucuk, salça",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f09e8ceac63ceac59cc72",
+            "name": "Yumurtalı Ayvalık Tostu",
+            "description": "Kasap sucuk, kaşar peyniri, yumurta, salça",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0a77ceac63ceac59cce5",
+            "name": "Kaşarlı Ayvalık Tostu",
+            "description": "Kasap sucuk, kaşar peyniri, salça",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0b38ceac63ceac59cdaa",
+            "name": "Cheddar Peynirli Ayvalık Tostu",
+            "description": "Kasap sucuk, cheddar peyniri, salça",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0b67ceac63ceac59cdd1",
+            "name": "Sayas Peynirli Ayvalık Tostu",
+            "description": "Kasap sucuk, sayas peyniri, salça",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0be7ceac63ceac59ce87",
+            "name": "İki Peynirli Ayvalık Tostu",
+            "description": "Cheddar peyniri, kaşar peyniri, salça",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0c4eceac63ceac59cefa",
+            "name": "Üç Peynirli Ayvalık Tostu",
+            "description": "Cheddar peyniri, kaşar peyniri, mozzarella peyniri, salça",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0cb7ceac63ceac59cf57",
+            "name": "Dört Peynirli Ayvalık Tostu",
+            "description": "Cheddar peyniri, kaşar peyniri, mozzarella peyniri, sayas peyniri, salça",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69282ca6ceac63ceac53edd3",
+        "name": "Bazlama Tostlar",
+        "items": [
+          {
+            "id": "692f099eceac63ceac59cc28",
+            "name": "Sucuklu Bazlama Tostu",
+            "description": "Kasap sucuk, salça",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0a47ceac63ceac59ccbc",
+            "name": "Yumurtalı Bazlama Tostu",
+            "description": "Kasap sucuk, salça, kaşar peyniri, yumurta",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0aadceac63ceac59cd1d",
+            "name": "Kaşar Peynirli Bazlama Tostu",
+            "description": "Kasap sucuk, salça, kaşar peyniri",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0b0aceac63ceac59cd82",
+            "name": "Cheddar Peynirli Bazlama Tostu",
+            "description": "Kasap sucuk, salça, cheddar peyniri",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0b91ceac63ceac59cdfc",
+            "name": "Sayas Peynirli Bazlama Tostu",
+            "description": "Kasap sucuk, salça, sayas peyniri",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0c0cceac63ceac59cead",
+            "name": "İki Peynirli Bazlama Tostu",
+            "description": "Kaşar peyniri, cheddar peyniri, salça",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0c77ceac63ceac59cf1b",
+            "name": "Üç Peynirli Bazlama Tostu",
+            "description": "Kaşar peyniri, cheddar peyniri, mozzarella peyniri, salça",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0d03ceac63ceac59cfba",
+            "name": "Dört Peynirli Bazlama Tostu",
+            "description": "Kaşar peyniri, cheddar peyniri, mozzarella peyniri, sayas peyniri, salça",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69282cb4ceac63ceac53ede3",
+        "name": "Ekstralar",
+        "items": [
+          {
+            "id": "692f087eceac63ceac59cb50",
+            "name": "Kaşar Peyniri",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0890ceac63ceac59cb58",
+            "name": "Cheddar Peyniri",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f08a4ceac63ceac59cb62",
+            "name": "Sayas Peyniri",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f08b8ceac63ceac59cb6a",
+            "name": "Mozzarella Peynir",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f08d8ceac63ceac59cb7a",
+            "name": "Soğan Halkası (5 Adet)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f08f1ceac63ceac59cb95",
+            "name": "Chicken Fingers (4 Adet)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f0910ceac63ceac59cba9",
+            "name": "Patates Kızartması (Küçük Boy)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f092aceac63ceac59cbbd",
+            "name": "Patates Kızartması (Porsiyon)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69282cbeceac63ceac53edf5",
+        "name": "Soslar",
+        "items": [
+          {
+            "id": "692f0810ceac63ceac59cb05",
+            "name": "Ketçap",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "692f082fceac63ceac59cb21",
+            "name": "Mayonez",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,637 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "673cbfae5519a708512a1402",
+  "name": "Hatay Rıhtım Döner, Mamak (Tuzluçayır Mah.)",
+  "slug": "hatay-rihtim-doner-mamak-tuzlucayir-mah-mamak-ankara",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 3.5,
+  "rating_count": 300,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6748431fceac63ceac12386d",
+            "name": "Hatay Usulü Tavuk Döner Dürüm Menü 1",
+            "description": "Hatay usulü tavuk döner dürüm, patates kızartması ve ayran (200 ml) ile",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674843fcceac63ceac123911",
+            "name": "Hatay Usulü Zurna Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü zurna tavuk döner dürüm (100 g), patates kızartması ve içecek ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a0b156ceac63ceac8f63c2",
+            "name": "4'lü Hatay Usulü Zurna Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü zurna tavuk döner dürüm (4 adet) ve pepsi (1 L) ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484671ceac63ceac123b86",
+            "name": "Hatay Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674846f7ceac63ceac123c53",
+            "name": "Hatay Usulü Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6748289eceac63ceac121e50",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "67482a0cceac63ceac121f12",
+            "name": "Cheeseburger Menü",
+            "description": "Cheeseburger (göbek marul, cheddar peyniri, domates, ketçap, mayonez), patates kızartması ve içecek ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67482a8aceac63ceac121f40",
+            "name": "Şavurma Burger Menü",
+            "description": "Şavurma burger (tavuk döner, domates, marul, ketçap, mayonez), patates kızartması ve içecek ile",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67482ad7ceac63ceac121f59",
+            "name": "Hamburger Menü",
+            "description": "Hamburger (göbek marul, domates, ketçap, mayonez), patates kızartması ve içecek ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674844f7ceac63ceac123a1f",
+            "name": "Avantajlı Ekmek Arası Tavuk Döner Menü",
+            "description": "Ekmek arası tavuk döner, patates kızartması ve ayran (270 ml) ile",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748431fceac63ceac12386d",
+            "name": "Hatay Usulü Tavuk Döner Dürüm Menü 1",
+            "description": "Hatay usulü tavuk döner dürüm, patates kızartması ve ayran (200 ml) ile",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674843fcceac63ceac123911",
+            "name": "Hatay Usulü Zurna Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü zurna tavuk döner dürüm (100 g), patates kızartması ve içecek ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484497ceac63ceac123969",
+            "name": "4'lü Ekmek Arası Aile Menü",
+            "description": "Ekmek arası tavuk döner (4 adet) ve pepsi (1 L) ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a0b156ceac63ceac8f63c2",
+            "name": "4'lü Hatay Usulü Zurna Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü zurna tavuk döner dürüm (4 adet) ve pepsi (1 L) ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "674845f8ceac63ceac123b32",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "67484671ceac63ceac123b86",
+            "name": "Hatay Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674846f7ceac63ceac123c53",
+            "name": "Hatay Usulü Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674847b9ceac63ceac123cc0",
+            "name": "Ekmek Arası Tavuk Döner",
+            "description": "Tavuk döner (100 g), yeşillik, domates, soğan",
+            "price": 136.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674849bdceac63ceac123ddb",
+            "name": "Cheddarlı Hatay Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), cheddar peyniri, patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484a00ceac63ceac123e37",
+            "name": "Kaşarlı Hatay Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), kaşar peyniri, patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484a5fceac63ceac123e88",
+            "name": "Cheddarlı Hatay Usulü Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk döner (120 g), cheddar peyniri, patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484b15ceac63ceac123f4e",
+            "name": "Kaşarlı Hatay Usulü Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk döner (120 g), kaşar peyniri, patates kızartması, turşu, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484c3eceac63ceac123fee",
+            "name": "Ankara Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), yeşillik, soğan",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484c8eceac63ceac12400a",
+            "name": "Tablacı Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), domates, soğan, özel rıhtım mayonez, özel rıhtım sos",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67484d17ceac63ceac12403c",
+        "name": "Köfte & Ciğer",
+        "items": [
+          {
+            "id": "67484db6ceac63ceac12406c",
+            "name": "Arnavut Ciğeri Dürüm",
+            "description": "Tavuk ciğeri (125 g), soğan ve yeşillik",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484eefceac63ceac12417a",
+            "name": "Ekmek Arası Arnavut Ciğeri",
+            "description": "Tavuk ciğeri (125 g), soğan ve yeşillik",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484f42ceac63ceac12419c",
+            "name": "Ekmek Arası Köfte",
+            "description": "Köfte, soğan, yeşillik",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67484f65ceac63ceac1241aa",
+            "name": "Köfte Dürüm",
+            "description": "Köfte, soğan, yeşillik, domates",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67485027ceac63ceac124235",
+        "name": "Porsiyon Lezzet",
+        "items": [
+          {
+            "id": "67485143ceac63ceac1242c7",
+            "name": "Köfte (Porsiyon)",
+            "description": "Köfte (200 g), patates kızartması ve yeşillik",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67485912ceac63ceac125b3c",
+            "name": "İskender (Tavuk Dönerden)",
+            "description": "Tavuk döner (125 g), tırnak pide, patates kızartması, yoğurt ve sos ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674859eaceac63ceac1260f1",
+            "name": "Sarma Tavuk Beyti",
+            "description": "Tavuk döner (125 g), yoğurt ve sos ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67485ef7ceac63ceac12723a",
+            "name": "Tavuk Döner (Porsiyon)",
+            "description": "Tavuk döner (125 g), lavaş ve patates kızartması ile",
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a0a7f6ceac63ceac8f4fa7",
+            "name": "Arnavut Ciğeri (Porsiyon)",
+            "description": "Tavuk ciğeri (150 g), patates kızartması ve soslu lavaş ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6748619cceac63ceac1276f7",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6748629cceac63ceac127771",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674862b5ceac63ceac127779",
+            "name": "Soğan Halkası (10 Adet)",
+            "description": null,
+            "price": 117.65,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6748a138ceac63ceac1308ac",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6748ced7ceac63ceac131afc",
+            "name": "Eker Sütlaç (100 g)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748ceebceac63ceac131b04",
+            "name": "Eker Supangle (100 g)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748ceffceac63ceac131b08",
+            "name": "Eker Profiterol (100 g)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748cf11ceac63ceac131b0d",
+            "name": "Eker Kazandibi (100 g)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748cf29ceac63ceac131b16",
+            "name": "Eker Keşkül (100 g)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67486600ceac63ceac127953",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "674869b8ceac63ceac1296cf",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738582269236_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "674869c9ceac63ceac1296d1",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738590825140_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67486a2bceac63ceac1298de",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67486a53ceac63ceac1298e9",
+            "name": "Tropicana Karışık (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738590876960_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67486a67ceac63ceac1298ee",
+            "name": "Tropicana Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738590888176_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67486ab5ceac63ceac129948",
+            "name": "Tropicana Vişne (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738590897250_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67486d7aceac63ceac12a1d1",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738590908839_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67486d8fceac63ceac12a1d9",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738590920419_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67486da4ceac63ceac12a1ec",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748a0a5ceac63ceac13087b",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748a0baceac63ceac130885",
+            "name": "Acısız Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748a0ceceac63ceac130889",
+            "name": "Acılı Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748a0f8ceac63ceac130894",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748a10cceac63ceac13089c",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67486459ceac63ceac127871",
+        "name": "Kiloluk Lezzet",
+        "items": [
+          {
+            "id": "674864cfceac63ceac1278b1",
+            "name": "Tavuk Döner (500 g)",
+            "description": "Lavaş (2 adet)",
+            "price": 411.76,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "674864feceac63ceac1278c1",
+            "name": "Tavuk Döner (1 kg)",
+            "description": "Lavaş (4 adet)",
+            "price": 687.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67486545ceac63ceac1278df",
+            "name": "Köfte (500 g)",
+            "description": "Lavaş (2 adet)",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6748656eceac63ceac1278fb",
+            "name": "Köfte (1 kg)",
+            "description": "Lavaş (4 adet)",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

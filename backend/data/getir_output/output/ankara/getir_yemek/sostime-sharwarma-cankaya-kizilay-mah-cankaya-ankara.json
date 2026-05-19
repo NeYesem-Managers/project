@@ -1,0 +1,539 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "683502c8a2c2edf0545e63a9",
+  "name": "Sostime Sharwarma, Çankaya (Kızılay Mah.)  ",
+  "slug": "sostime-sharwarma-cankaya-kizilay-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Döner",
+    "Dünya Mutfağı",
+    "Dürüm",
+    "Kebap",
+    "Sokak Lezzetleri",
+    "Tavuk",
+    "Tost & Sandviç"
+  ],
+  "rating": 3.2,
+  "rating_count": 5,
+  "min_order_amount": 260.0,
+  "delivery_fee": 51.99,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "685d5907ceac63ceac60025a",
+            "name": "Shawarma Dürüm",
+            "description": "80 g tavuk, sarımsaklı mayonez, turşu ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590aceac63ceac60025e",
+            "name": "Hatay Usulü Mega Dürüm",
+            "description": "110 g hatay sos, tavuk, sarımsaklı mayonez, patates kızartması ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5910ceac63ceac600269",
+            "name": "Antakya Usulü Tavuk Döner Dürüm",
+            "description": "80 g antakya usulü tavuk döner, patates kızartması, turşu, özel hatay sosu, sarımsaklı mayonez ile",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5916ceac63ceac60027b",
+            "name": "Soğan Halkası (4 Adet)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f3ceac63ceac60023c",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "685d58faceac63ceac600245",
+            "name": "Tavuk Burger",
+            "description": "100 g tavuk burger köftesi, marul, domates, ketçap, mayonez ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d58faceac63ceac600246",
+            "name": "Tavuk Döner Burger",
+            "description": "100 g tavuk döner,marul, domates, ketçap, mayonez ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f5ceac63ceac60023f",
+        "name": "Kebaplar & Izgara",
+        "items": [
+          {
+            "id": "685d5903ceac63ceac600252",
+            "name": "Izgara Köfte",
+            "description": "Garnitür ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f3ceac63ceac60023d",
+        "name": "Patso",
+        "items": [
+          {
+            "id": "685d58fcceac63ceac600247",
+            "name": "Patso Dürüm",
+            "description": "Patates kızartması, özel baharatı, ketçap, mayonez ile",
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d58fdceac63ceac600249",
+            "name": "Kaşarlı Patso Sandviç",
+            "description": "Patates kızartması, kaşar peynir, özel baharat, ketçap, mayonez ile",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d58feceac63ceac60024a",
+            "name": "Patso Sandviç",
+            "description": "Patates kızartması, özel baharat, ketçap, mayonez ile",
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d58ffceac63ceac60024e",
+            "name": "Kaşarlı Patso Dürüm",
+            "description": "Patates kızartması, özel baharatı, kaşar peynir, ketçap, mayonez ile",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f5ceac63ceac60023e",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "685d5900ceac63ceac60024f",
+            "name": "Sosisli Sandviç",
+            "description": "Sosis, patates kızartması, rus salatası ile",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5902ceac63ceac600251",
+            "name": "Hardallı Sosisli Sandviç",
+            "description": "Sosis, turşu, ketçap, mayonez ile",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f7ceac63ceac600241",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "685d5907ceac63ceac60025a",
+            "name": "Shawarma Dürüm",
+            "description": "80 g tavuk, sarımsaklı mayonez, turşu ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5908ceac63ceac60025c",
+            "name": "Shawarma Mega Dürüm",
+            "description": "80 g tavuk,sarımsaklı mayonez, turşu ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5909ceac63ceac60025d",
+            "name": "Hatay Usulü Dürüm",
+            "description": "110 g hatay sos, tavuk, sarımsaklı mayonez, patates kızartması ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590aceac63ceac60025e",
+            "name": "Hatay Usulü Mega Dürüm",
+            "description": "110 g hatay sos, tavuk, sarımsaklı mayonez, patates kızartması ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590bceac63ceac60025f",
+            "name": "İskenderun Usulü Dürüm",
+            "description": "80 g tavuk, patates kızartması, turşu, kıvırcık marul, domates, sarımsaklı mayonez, iskenderun usulü özel sos ile",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590cceac63ceac600262",
+            "name": "İskenderun Usulü Mega Dürüm",
+            "description": "110 g tavuk, patates kızartması, turşu, kıvırcık marul, domates, sarımsaklı mayonez, iskenderun usulü özel sos ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590cceac63ceac600263",
+            "name": "Tabelacı Usulü Tavuk Döner Dürüm",
+            "description": "80 g tavuk, soğan, domates, sumak, özel sos ile",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590dceac63ceac600264",
+            "name": "Muhammarlı Narlı Dürüm",
+            "description": "80 g tavuk, nar sos, patates kızartması, turşu, mayonez ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590eceac63ceac600266",
+            "name": "Kaşarlı Tavuk Döner Dürüm",
+            "description": "80 g tavuk, patates kızartması, kaşar peyniri, özel sos, sarımsaklı mayonez ile",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590eceac63ceac600267",
+            "name": "Harbiye Kebap Dürüm",
+            "description": "80 g köfte, soğan, domates, marul ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5910ceac63ceac600269",
+            "name": "Antakya Usulü Tavuk Döner Dürüm",
+            "description": "80 g antakya usulü tavuk döner, patates kızartması, turşu, özel hatay sosu, sarımsaklı mayonez ile",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d590fceac63ceac600268",
+            "name": "Mozzarella Kaşarlı Mega Dürüm",
+            "description": "110 g tavuk, patates kızartması, turşu, özel sos mayonez, mozzarella, kaşar peyniri ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f8ceac63ceac600242",
+        "name": "Ekmek Arası Ürün",
+        "items": [
+          {
+            "id": "685d5911ceac63ceac60026a",
+            "name": "Ekmek Arası Izgara Köfte",
+            "description": "Domates, patates kızartması, soğan ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5912ceac63ceac600275",
+            "name": "Ekmek Arası Arnavutciğeri",
+            "description": "Patates kızartması, domates, soğan ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5913ceac63ceac600276",
+            "name": "Ekmek Arası Şnitzel",
+            "description": "Kıvırcık marul, domates, ketçap, mayonez ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5914ceac63ceac600277",
+            "name": "Ekmek Arası Tavuk Döner",
+            "description": "Tavuk, domates, soğan, yeşillik, özel sos ile",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f6ceac63ceac600240",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "685d5904ceac63ceac600254",
+            "name": "Antakya Usulü Pilav Üstü Tavuk Döner",
+            "description": "Günün pilavı, patates kızartması, marul, domates, soğan, tırnak pide ile",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5904ceac63ceac600255",
+            "name": "Antakya Usulü Tavuk Döner",
+            "description": "Günün pilavı, patates kızartması, marul, domates, soğan, tırnak pide ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5905ceac63ceac600258",
+            "name": "Antakya Usulü Beyti Kebap (Tavuk Dönerden)",
+            "description": "Pide, yoğurt, iskender sos, tereyağı",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5906ceac63ceac600259",
+            "name": "İskdender (Tavuk Dönerden)",
+            "description": "Pide, yoğurt, iskender sos, tereyağı",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f8ceac63ceac600243",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "685d5915ceac63ceac600279",
+            "name": "Sosis Tabağı (6 Adet)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5916ceac63ceac60027b",
+            "name": "Soğan Halkası (4 Adet)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5917ceac63ceac60027d",
+            "name": "Patates Kızartması (Büyük Boy)",
+            "description": "Özel baharat ile",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5918ceac63ceac60027e",
+            "name": "Patates Kızartması (Küçük Boy)",
+            "description": "Özel baharat ile",
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5919ceac63ceac600280",
+            "name": "Lavaş (1 Adet)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685d58f9ceac63ceac600244",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "685d591aceac63ceac600282",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750948162829_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685d591cceac63ceac60028b",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d591cceac63ceac600289",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d5975ceac63ceac600332",
+            "name": "Acısız Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d591aceac63ceac600285",
+            "name": "Acılı Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d591bceac63ceac600287",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685d591eceac63ceac60028f",
+            "name": "Su (1 L)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

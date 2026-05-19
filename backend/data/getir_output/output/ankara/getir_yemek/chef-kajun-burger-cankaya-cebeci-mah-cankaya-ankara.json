@@ -1,0 +1,583 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "63e24a19a6af6f4324cba3ca",
+  "name": "Chef Kajun & Burger, Çankaya (Cebeci Mah.)",
+  "slug": "chef-kajun-burger-cankaya-cebeci-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Tavuk"
+  ],
+  "rating": 4.1,
+  "rating_count": 2000,
+  "min_order_amount": 0.0,
+  "delivery_fee": 6.9,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "63e9e4dcca813da1c6d8ab51",
+            "name": "Menü 1",
+            "description": "Cajun baharatlı tavuk sepeti (250 g), baharatlı patates kızartması, lavaş ekmeği, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261467006_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4dc071bb7568d3f4e19",
+            "name": "Menü 2",
+            "description": "Cajun baharatlı tavuk sepeti (500 g), baharatlı patates kızartması, lavaş ekmeği (2 adet), ketçap, mayonez, ranch sos ve içecek (1 L) ile",
+            "price": 975.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1689544076959_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4dd037b505dc3420081",
+            "name": "Cajun Mix Menü",
+            "description": "Cajun burger (2 adet), cajun baharatlı tavuk şeritleri (4 adet), soğan halkası (4 adet), baharatlı patates kızartması, ketçap, mayonez, ranch sos \n ve içecek (1 L) ile",
+            "price": 950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261528758_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4dd1f2851b3e95e4ef4",
+            "name": "Acılı Cajun Baharatlı Tavuk Sepeti Menü",
+            "description": "Acılı cajun baharatlı tavuk sepeti (250 g), baharatlı patates kızartması, lavaş ekmeği, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261571036_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4df83f830d9aa696579",
+            "name": "Cajun Burger Menü",
+            "description": "Cajun burger, baharatlı patates kızartması, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261721671_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d908b1ceac63ceac152129",
+        "name": "Pepsi'li Fırsat Menüleri",
+        "items": [
+          {
+            "id": "69d908b2ceac63ceac15212e",
+            "name": "Pepsi'li Fırsat Menüsü",
+            "description": "Cajun baharatlı tavuk sepeti (250 g) ve Pepsi (330 ml) ile",
+            "price": 558.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d908daceac63ceac152443",
+            "name": "Pepsi'li Fırsat Menüsü 2",
+            "description": "Cajun burger ve Pepsi (330 ml) ile",
+            "price": 558.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d90915ceac63ceac152478",
+            "name": "Pepsi'li Fırsat Menüsü 3",
+            "description": "Cajun baharatlı tavuk dürüm ve Pepsi (330 ml) ile",
+            "price": 535.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c3ca813df7cad8a918",
+        "name": "Ekonomik Menü",
+        "items": [
+          {
+            "id": "63e9e4dcca813da1c6d8ab51",
+            "name": "Menü 1",
+            "description": "Cajun baharatlı tavuk sepeti (250 g), baharatlı patates kızartması, lavaş ekmeği, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261467006_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4dc071bb7568d3f4e19",
+            "name": "Menü 2",
+            "description": "Cajun baharatlı tavuk sepeti (500 g), baharatlı patates kızartması, lavaş ekmeği (2 adet), ketçap, mayonez, ranch sos ve içecek (1 L) ile",
+            "price": 975.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1689544076959_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4dd037b505dc3420081",
+            "name": "Cajun Mix Menü",
+            "description": "Cajun burger (2 adet), cajun baharatlı tavuk şeritleri (4 adet), soğan halkası (4 adet), baharatlı patates kızartması, ketçap, mayonez, ranch sos \n ve içecek (1 L) ile",
+            "price": 950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261528758_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4dd1f2851b3e95e4ef4",
+            "name": "Acılı Cajun Baharatlı Tavuk Sepeti Menü",
+            "description": "Acılı cajun baharatlı tavuk sepeti (250 g), baharatlı patates kızartması, lavaş ekmeği, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261571036_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4de83f8300e0469656a",
+            "name": "Double Cajun Roll Menü",
+            "description": "Cajun baharatlı tavuk dürüm (2 adet), baharatlı, patates kızartması, lavaş ekmeği, ketçap, mayonez, ranch sos ve içecek (1 L) ile",
+            "price": 850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261684628_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c3ca813d14ecd8a927",
+        "name": "Burger Menü",
+        "items": [
+          {
+            "id": "63e9e4df83f830d9aa696579",
+            "name": "Cajun Burger Menü",
+            "description": "Cajun burger, baharatlı patates kızartması, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261721671_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4df1f2851a4615e4f27",
+            "name": "Cheeseburger Menü",
+            "description": "Cheeseburger, baharatlı patates kızartması, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 625.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261801614_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4e0037b5084184200b7",
+            "name": "Hamburger Menü",
+            "description": "Hamburger, baharatlı patates kızartması, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 625.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261839528_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4e11f28515d0e5e4f50",
+            "name": "Philadelphia Burger Menü",
+            "description": "Philadelphia burger, baharatlı patates kızartması, ketçap, mayonez, ranch sos ve içecek (330 ml) ile",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261879598_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c41f285174205e4bb0",
+        "name": "Ana Yemek",
+        "items": [
+          {
+            "id": "63e9e4c8037b5089c741fe9e",
+            "name": "Beef Burrito",
+            "description": "Tortilla ekmeği, sotelenmiş meksika baharatlı biftek parçaları, domates, kuru soğan, baharatlı, patates kızartması, ketçap, mayonez ve ranch sos ile",
+            "price": 725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717261930500_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4c883f830fd56696370",
+            "name": "Beef Quesadilla",
+            "description": "Tortilla ekmeği, biftek parçaları, karamelize soğan, kırmızıbiber, yeşilbiber, mantar, mısır, cheddar peyniri, baharatlı, patates kızartması, ketçap, mayonez ve ranch sos ile",
+            "price": 725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262028606_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4c9ca813d70fcd8a9a6",
+            "name": "Tavuk Burrito",
+            "description": "Tortilla ekmeği, sotelenmiş meksika baharatlı tavuk parçaları, domates, kuru soğan, maydanoz, kıvırcık marul, cheddar peyniri, baharatlı, patates kızartması, ketçap, mayonez ve ranch sos ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262077362_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4ca071bb7d8853f4c54",
+            "name": "Tavuklu Quesadilla",
+            "description": "Tortilla ekmeği, tavuk parçaları, karamelize soğan, kırmızıbiber, yeşilbiber, mantar, mısır, cheddar peyniri, baharatlı patates kızartması, ketçap, mayonez ve ranch sos ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262117398_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c41f28516ea95e4bb9",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "63e9e4ca83f83094416963aa",
+            "name": "Cajun Burger",
+            "description": "Panelenmiş tavuk (130 g), cajun burger sos, kıvırcık marul, domates, turşu, ketçap, mayonez, ranch sos",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262159902_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4cb83f830231b6963b7",
+            "name": "Cheeseburger",
+            "description": "Burger köftesi (140 g), cajun burger sos, cheddar peyniri, karamelize soğan, kıvırcık marul, domates, turşu, ketçap, mayonez, ranch sos",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262206766_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4cbca813d29a1d8a9e5",
+            "name": "Hamburger",
+            "description": "Burger köftesi (140 g), cajun burger sos, karamelize soğan, kıvırcık marul, domates, turşu, ketçap, mayonez, ranch sos",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262244749_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4cc1f2851bead5e4ca4",
+            "name": "Philadelphia Burger",
+            "description": "Burger köftesi (140 g), cajun burger sos, pane beyaz cheddar peyniri, karamelize soğan, kıvırcık marul, domates, turşu, ketçap, mayonez, ranch sos",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262376777_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c583f83003486962fb",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "63e9e4cd1f285197175e4cb0",
+            "name": "Kaşarlı Antrikot Dürüm",
+            "description": "Tortilla ekmeği, sotelenmiş dana antrikot, soğan, mantar, biber, kaşar peyniri, baharatlı, patates kızartması, ketçap, mayonez ve ranch sos ile",
+            "price": 725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262427887_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4cd071bb70c193f4cb3",
+            "name": "Kaşarlı Tavuk Dürüm",
+            "description": "Tortilla ekmeği, sotelenmiş tavuk, soğan, mantar, biber, kaşar peyniri ve baharatlı, patates kızartması, ketçap, mayonez ve ranch sos ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262472556_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4ceca813def58d8aa24",
+            "name": "Cajun Baharatlı Tavuk Dürüm",
+            "description": "Tortilla ekmeği, cajun baharatlı tavuk, kıvırcık marul, kornişon turşu, garlic sos, sriracha sos, baharatlı patates kızartması, ketçap, mayonez ve ranch sos ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1676644648703_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c583f830cb4969630d",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "63e9e4ce037b50c5ce41ff4a",
+            "name": "Cajun Baharatlı Tavuk Sepeti (250 g)",
+            "description": "Baharatlı, patates kızartması, lavaş ekmeği, ketçap, mayonez ve ranch sos ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262655699_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4cf83f8301355696411",
+            "name": "Kaşarlı Mantarlı Cajun Şiş",
+            "description": "Kaşarlı mantarlı cajun tavuk şiş (3 adet), baharatlı patates kızartması, lavaş ekmeği, ketçap, mayonez ve ranch sos ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262725960_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4cfca813d6380d8aa43",
+            "name": "Karışık Sepet",
+            "description": "Kaşarlı mantarlı şiş (1 adet), tütsülenmiş dana sosis (3 adet), baharatlı tavuk (2 adet), soğan halkası (4 adet), baharatlı, patates kızartması, lavaş ekmeği, ketçap, mayonez ve ranch sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717262770877_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c6ca813d300fd8a95e",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "63e9e4d0071bb781b03f4d03",
+            "name": "Soğan Halkası (6 Adet)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d183f8303e66696447",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d1ca813df378d8aa64",
+            "name": "Ketçap",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d2071bb7638d3f4d29",
+            "name": "Mayonez",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d31f2851ce255e4dfe",
+            "name": "Lavaş Ekmeği",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63ea9a051f2851c7b4842878",
+            "name": "Nugget (6 Adet)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e9e4c7037b502b1241fe79",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "63e9e4d61f285137bf5e4e40",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d5ca813d6834d8aac8",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d783f830ad606964d5",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707303473743_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d883f830153f6964e0",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302519471_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4c783f8302372696340",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4e1071bb747903f4e75",
+            "name": "Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d883f83090a96964f1",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d9037b5031fc42002f",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4d9ca813d9c9cd8ab0f",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4daca813d325ed8ab20",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4da1f285140c15e4ea7",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705249321_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63e9e4db1f285195c25e4ec4",
+            "name": "Yedigün (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707303545429_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "65045bc19053d0442c89c4cf",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

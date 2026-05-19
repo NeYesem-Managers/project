@@ -1,0 +1,806 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "5fd3c59a12cbf35a5ee519cd",
+  "name": "Battalbey Çiğ Köftecisi, Buca (İnkılap Mah.)",
+  "slug": "battalbey-cig-koftecisi-buca-inkilap-mah-buca-izmir",
+  "cuisine_types": [
+    "Çiğ Köfte"
+  ],
+  "rating": 4.1,
+  "rating_count": 1250,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 35,
+  "delivery_time_max": 45,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5fec47e7ac60e8d05f6da1c3",
+            "name": "4'lü Çiğ Köfte Dürüm Menü",
+            "description": "Çiğ köfte dürüm (4 adet) ve ayran (4 adet) (300 ml) ile",
+            "price": 866.66,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fbdac60e877736d9be6",
+            "name": "Çiğ Köfte (500 g) Menü",
+            "description": "Çi köfte (500 g) lavaş (5 adet), marul, limon, nar ekşisi, tercihinize göre acı sos, turşu ve ayran (300 ml) (2 adet) ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc2cf33769b70b4809c",
+            "name": "Mega Çiğ Köfte Dürüm",
+            "description": "Az acılı çiğ köfte (250 g), iceberg marul, limon, nar ekşisi, tercihinize göre turşu ve acı sos",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035962239_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc337c1dbcf3b559e4b",
+            "name": "Çiğ Köfte Dürüm",
+            "description": "Çiğ köfte (120 g), iceberg marul, limon, nar ekşisi, tercihinize göre turşu ve acı sos",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035940300_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc771e89c256c9694a0",
+            "name": "Çiğ Köfte (250 g)",
+            "description": "Az acılı çiğ köfte, lavaş (3 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 573.34,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035826280_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fec3fadee0f72002ba7b25b",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "5fec47e7ac60e8d05f6da1c3",
+            "name": "4'lü Çiğ Köfte Dürüm Menü",
+            "description": "Çiğ köfte dürüm (4 adet) ve ayran (4 adet) (300 ml) ile",
+            "price": 866.66,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fbdac60e877736d9be6",
+            "name": "Çiğ Köfte (500 g) Menü",
+            "description": "Çi köfte (500 g) lavaş (5 adet), marul, limon, nar ekşisi, tercihinize göre acı sos, turşu ve ayran (300 ml) (2 adet) ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec492ae15215341d959ee1",
+            "name": "2'li  Mega Dürüm Menü",
+            "description": "Mega çiğ köfte dürüm (2 adet) ve ayran (280 ml) ile",
+            "price": 812.49,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fde0e63fe0defcb2be9",
+            "name": "2'li Domatesli Mega Dürüm Menü",
+            "description": "Domatesli mega çiğ köfte dürüm ve ayran (280 ml)",
+            "price": 666.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fbcac60e81b176d9bde",
+            "name": "Aile Menü",
+            "description": "Çiğ köfte (1 kg) ve çiğ köfte (250 g)",
+            "price": 1250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fbe8365ab5cd28eacc9",
+            "name": "Çiğ Köfte (1 kg) & Çiğ Köfte (200 g) Menü",
+            "description": "Çiğ köfte (1 kg), iceberg marul, turşu, limon, nar ekşisi, 12 adet lavaş, i̇steğe göre acı sos & turşu ve çiğ köfte (200 g)",
+            "price": 1249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec49fb4f55aba0499d42a3",
+            "name": "Çiğ Köfte Menü 1",
+            "description": "Çift lavaş çiğ köfte dürüm (2 adet) ve ayran (2 adet) ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec4a2eac60e821b46da1e5",
+            "name": "Çiğ Köfte Menü 2",
+            "description": "Çift lavaş çiğ köfte dürüm  (3 adet) ve ayran (3 adet) ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec4a4cac60e871d36da1e9",
+            "name": "Çiğ Köfte Menü 3",
+            "description": "Çift lavaş çiğ köfte dürüm  (5 adet)ve ayran  (5 adet) ile",
+            "price": 866.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe0e5886a6f509481de",
+            "name": "İkili Menü",
+            "description": "Tavuklu pilav, çift lavaş çiğ köfte dürüm ve ayran (170 ml)",
+            "price": 666.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec4a880e63fe40ffcb3727",
+            "name": "Öğrenci Menü",
+            "description": "Çiğ köfte (500 g) ve 2 adet çift lavaş çiğ köfte dürüm",
+            "price": 933.34,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe2f351dc344a670d07",
+            "name": "Sporcu Menü",
+            "description": "Pirinç pilavı (250 g), haşlama tavuk (150 g), domates & turşu, tercihe göre acı biber ve ayran (170 ml)",
+            "price": 466.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fbedc26c70683d08184",
+            "name": "Tavuklu Pilav (1.5 Porsiyon) Menü",
+            "description": "Tavuklu pilav (1.5 porsiyon)  ve ayran (170 ml)",
+            "price": 506.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe0ac60e845206d9bf8",
+            "name": "Tavuklu Pilav Menü 1",
+            "description": "Tavuklu pilav ve ayran (170 ml)",
+            "price": 466.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fec3fad345867623a462e37",
+        "name": "Çiğ Köfte",
+        "items": [
+          {
+            "id": "5fec3fbfe152155812959e56",
+            "name": "Çiğ Köfte (1 kg)",
+            "description": "Az acılı çiğ köfte, lavaş (10 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 1250.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035724803_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fbf3458676445462e39",
+            "name": "Çiğ Köfte (900 g)",
+            "description": "Az acılı çiğ köfte, lavaş (9 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 1187.49,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035742529_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc1f0267c73e1132a13",
+            "name": "Çiğ Köfte (600 g)",
+            "description": "Az acılı çiğ köfte, lavaş (6 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 933.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035761443_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc2cf33769b70b4809c",
+            "name": "Mega Çiğ Köfte Dürüm",
+            "description": "Az acılı çiğ köfte (250 g), iceberg marul, limon, nar ekşisi, tercihinize göre turşu ve acı sos",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035962239_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc337c1dbcf3b559e4b",
+            "name": "Çiğ Köfte Dürüm",
+            "description": "Çiğ köfte (120 g), iceberg marul, limon, nar ekşisi, tercihinize göre turşu ve acı sos",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035940300_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc4cf33766886b480a4",
+            "name": "Çiğ Köfte (800 g)",
+            "description": "Az acılı çiğ köfte, lavaş (8 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 933.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035781658_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc5f0267c799d132a1b",
+            "name": "Çiğ Köfte (400 g)",
+            "description": "Az acılı çiğ köfte, lavaş (4 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 866.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035794891_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc671e89cb5aa969498",
+            "name": "Çiğ Köfte (500 g)",
+            "description": "Az acılı çiğ köfte, lavaş (6 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 866.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035810432_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc771e89c256c9694a0",
+            "name": "Çiğ Köfte (250 g)",
+            "description": "Az acılı çiğ köfte, lavaş (3 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 573.34,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619035826280_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc75118f102b48d2693",
+            "name": "Çiğ Köfte (300 g)",
+            "description": "Az acılı çiğ köfte, lavaş (3 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 732.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619036010865_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc037c1db5275559e49",
+            "name": "Çiğ Köfte (500 g) (Garnitürsüz)",
+            "description": null,
+            "price": 800.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc0cf33767550b4808e",
+            "name": "Atom Çiğ Köfte Dürüm",
+            "description": "Çiğ köfte (120 g), tavuk (40 g), iceberg marul, domates, nar ekşisi, tercihinize göre turşu ve acı sos",
+            "price": 398.94,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc1dc26c755e2d08186",
+            "name": "Çiğ Köfte (250 g) (Garnitürsüz)",
+            "description": null,
+            "price": 533.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe3cf3376acaab480b0",
+            "name": "2'li Domatesli Mega Dürüm",
+            "description": "Domatesli mega çiğ köfte dürüm (2 adet)",
+            "price": 666.66,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc2ee0f72098aa7b25d",
+            "name": "Domatesli Çiğ Köfte Dürüm",
+            "description": "Iceberg marul, nar ekşisi, turşu, acı sos ve domates",
+            "price": 253.34,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc371e89c4ef3969490",
+            "name": "Çiğ Köfte (700 g)",
+            "description": "Az acılı çiğ köfte, lavaş (6 adet), marul, limon, nar ekşisi, tercihinize göre acı sos ve turşu ile",
+            "price": 933.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc5a415e9c91d3c661e",
+            "name": "Domatesli Mega Çiğ Köfte Dürüm",
+            "description": "Az acılı çiğ köfte (250 g), iceberg marul, limon, nar ekşisi, turşu, acı sos ve domates",
+            "price": 373.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc612a850182fbc3003",
+            "name": "Çiğ Köfte (1 kg) (Garnitürsüz)",
+            "description": null,
+            "price": 811.11,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "623f772cde24c66dbc268899",
+            "name": "Doritoslu Çiğ Köfte Dürüm",
+            "description": "Çiğ köfte (135 g), doritos, iceberg marul, turşu, nar ekşisi ve tercihinize göre acı sos ile",
+            "price": 306.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6245f660b64d35fd350dc2bc",
+            "name": "Burger Soslu Çiğ Köfte Dürüm (135 g)",
+            "description": "Burger sos, çiğ köfte (135 g), iceberg marul, tercihinize göre nar ekşisi, turşu ve acı sos ile",
+            "price": 306.66,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6297542194c66cf70351e2ad",
+            "name": "Şnitzel Mega Dürüm",
+            "description": "Çiğ köfte (270 g), şnitzel, marul, ketçap, mayonez ve turşu ile",
+            "price": 506.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "629754b572c35bea850f27f0",
+            "name": "Şinitzelli Doritoslu Çiğ Köfte Dürüm",
+            "description": "Çiğ köfte (135 g), doritos, şinitzel, iceberg marul, tercihinize göre ketçap, mayonez ve turşu ile",
+            "price": 493.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fec3fade152153d5a959e54",
+        "name": "Pilav",
+        "items": [
+          {
+            "id": "5fec3fc8dc26c71b63d08188",
+            "name": "Tavuklu Nohutlu Pilav",
+            "description": "Domates, turşu ve acı biber ile",
+            "price": 333.34,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc8dc26c7bf31d08190",
+            "name": "Sade Pilav (500 g)",
+            "description": null,
+            "price": 333.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe4e5886ae0f39481e6",
+            "name": "Duble Sade Pilav",
+            "description": "Domates, turşu ve isteğe göre acı biber ile",
+            "price": 466.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc9345867259d462e41",
+            "name": "Sade Pilav (1 kg)",
+            "description": null,
+            "price": 733.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe5e15215451f959e65",
+            "name": "Duble Tavuklu Pilav",
+            "description": "Domates, turşu ve isteğe göre acı biber ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe58365ab40158eace3",
+            "name": "Tavuklu Pilav",
+            "description": "Domates, turşu ve isteğe göre acı biber ile",
+            "price": 333.34,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fc9345867305a462e43",
+            "name": "Duble Tavuklu Nohutlu Pilav",
+            "description": "Domates, turşu ve acı biber ile",
+            "price": 666.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe6e5886aff8d9481ee",
+            "name": "Sade Pilav",
+            "description": "Domates, turşu ve isteğe göre acı biber ile",
+            "price": 306.66,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "629751f37471862aa72c4e5b",
+            "name": "Şinitzelli Pilav",
+            "description": "Domates, turşu ve tercihinize göre ketçap ile",
+            "price": 506.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66f703a4ceac63ceac7fcd28",
+        "name": "Mantı",
+        "items": [
+          {
+            "id": "66f883e1ceac63ceac8011fe",
+            "name": "Mantı",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66f88413ceac63ceac801201",
+            "name": "Köri Soslu Mantı",
+            "description": null,
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66f88441ceac63ceac801205",
+            "name": "Barbekü Soslu Mantı",
+            "description": null,
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66f8846aceac63ceac801207",
+            "name": "Burger Soslu Mantı",
+            "description": null,
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66f8848eceac63ceac80120a",
+            "name": "Ketçaplı Mantı",
+            "description": null,
+            "price": 440.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66f884acceac63ceac80120c",
+            "name": "Mayonezli Mantı",
+            "description": null,
+            "price": 439.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6632ca71fa9002cf35fea45b",
+        "name": "Midye Dolma",
+        "items": [
+          {
+            "id": "6632cc1abe218a7c189877b7",
+            "name": "Midye Dolma (1 kg)",
+            "description": null,
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717284808143_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6632cc3ff0b71c5a0d540700",
+            "name": "Midye Dolma (500 g)",
+            "description": null,
+            "price": 733.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717284829648_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6632cc5b2757407f1ac5198b",
+            "name": "Midye Dolma (250 g)",
+            "description": null,
+            "price": 600.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1717284854783_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6632cc78be218a7c18987915",
+            "name": "Midye Dolma (Adet)",
+            "description": null,
+            "price": 56.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fec3fad8365ab27fe8eacc7",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "5fec3fcbe15215a617959e61",
+            "name": "Lavaş (Adet)",
+            "description": null,
+            "price": 44.44,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fcb345867fc9e462e45",
+            "name": "Tavuk (150 g)",
+            "description": null,
+            "price": 277.78,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fcc37c1dbad1d559e59",
+            "name": "Rus Salatası (200 g)",
+            "description": null,
+            "price": 222.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fcc71e89c217e9694a8",
+            "name": "Atom (200 g)",
+            "description": null,
+            "price": 221.11,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fcde5886a85259481c6",
+            "name": "Haydari (200 g)",
+            "description": null,
+            "price": 221.11,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fcd333ef56639af37fb",
+            "name": "Patlıcan Ezme (200 g)",
+            "description": null,
+            "price": 222.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fcee5886a81879481c8",
+            "name": "Iceberg Marul (Bütün)",
+            "description": null,
+            "price": 203.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fd0ce622f22d0cbfcdf",
+            "name": "Acı Biber",
+            "description": "120 g",
+            "price": 41.11,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fec3fadcf3376284db4808c",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5fec3fd35118f138398d269b",
+            "name": "Ayran (280 ml)",
+            "description": null,
+            "price": 100.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fd83458679394462e47",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 73.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fd5e4a5e242a3796671",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fec3fad2ccf251cab21ac17",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "5fec3fe7ee0f72f474a7b271",
+            "name": "Nar Ekşisi",
+            "description": null,
+            "price": 21.11,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927949041_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fec3fe8e5886a39a99481fc",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 18.89,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927911178_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

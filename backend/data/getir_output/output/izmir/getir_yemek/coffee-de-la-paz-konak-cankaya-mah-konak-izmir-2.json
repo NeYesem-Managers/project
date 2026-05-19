@@ -1,0 +1,459 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "67695c4d89e53b5ded698cbe",
+  "name": "Coffee de La Paz, Konak (Çankaya Mah.)",
+  "slug": "coffee-de-la-paz-konak-cankaya-mah-konak-izmir-2",
+  "cuisine_types": [
+    "Kahve & İçecek",
+    "Pasta & Tatlı"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "6787b834ceac63ceac7cf009",
+        "name": "Kampanyalı Menü",
+        "items": [
+          {
+            "id": "6787b838ceac63ceac7cf011",
+            "name": "Tatlı & Kahve Kampanyası",
+            "description": "Seçeceğin tatlı ve seçeceğin kahve (medium) ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b838ceac63ceac7cf012",
+            "name": "Filtre Kahve & Sandviç Menü",
+            "description": "Seçeceğin sandviç ve filtre kahve (medium) ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6787b837ceac63ceac7cf00e",
+        "name": "Soğuk Sandviç",
+        "items": [
+          {
+            "id": "6787b84aceac63ceac7cf03a",
+            "name": "Dört Peynirli Bagel",
+            "description": "Krem peyniri, kaşar peyniri, cheddar peyniri, çeçil peyniri",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b84bceac63ceac7cf03b",
+            "name": "Hindi Fümeli Sandviç",
+            "description": "Yulaflı ve keten tohumlu ekşi mayalı ciabatta ekmeği, hindi füme, cheddar peyniri, et sosu",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b84cceac63ceac7cf03c",
+            "name": "Dana Jambonlu Sandviç",
+            "description": "Haşhaşlı ekşi mayalı ciabatta ekmeği, dana jambon, cheddar peyniri, et sosu",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6787b837ceac63ceac7cf00f",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6787b84dceac63ceac7cf043",
+            "name": "Lotus Cheesecake",
+            "description": "Cheesecake bisküvi tabanı, cheesecake kreması, lotus sos",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b84eceac63ceac7cf1b0",
+            "name": "Bask Cheesecake",
+            "description": "Krem peynir, krema",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b84dceac63ceac7cf0e8",
+            "name": "Çikolatalı Brownie (Dilim)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b84fceac63ceac7cf1b1",
+            "name": "Frambuazlı Cheesecake (Dilim)",
+            "description": "Cheesecake bisküvi taban, cheesecake peynir kreması, frambuaz meyve, sos",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b852ceac63ceac7cf1b7",
+            "name": "Limonlu Cheesecake (Dilim)",
+            "description": null,
+            "price": 288.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b853ceac63ceac7cf1b8",
+            "name": "Dubai Çikolatası (100 g)",
+            "description": "Antep fıstığı, kadayıf",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6787b835ceac63ceac7cf00b",
+        "name": "Sıcak Kahve",
+        "items": [
+          {
+            "id": "6787b83aceac63ceac7cf014",
+            "name": "Latte",
+            "description": "Espresso, sütlü espresso bazlı kahve",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83aceac63ceac7cf016",
+            "name": "Americano",
+            "description": "Sıcak su, espresso ile",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83bceac63ceac7cf017",
+            "name": "Espresso",
+            "description": null,
+            "price": 88.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83bceac63ceac7cf018",
+            "name": "White Chocolate Mocha",
+            "description": "Espresso, süt, beyaz çikolata soslu espresso bazlı kahve",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83cceac63ceac7cf019",
+            "name": "Mocha",
+            "description": "Espresso, süt, çikolata soslu espresso bazlı kahve",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83dceac63ceac7cf01b",
+            "name": "Filtre Kahve",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83dceac63ceac7cf01c",
+            "name": "Cappuccino",
+            "description": "Espresso, kaynatılmış sütlü espresso bazlı kahve",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83eceac63ceac7cf01e",
+            "name": "Flat White",
+            "description": "Espresso, sütlü espresso bazlı kahve",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83fceac63ceac7cf020",
+            "name": "Caramel Macchiato",
+            "description": "Espresso, süt, karamel aromalı espresso bazlı kahve",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83fceac63ceac7cf021",
+            "name": "Toffee Nut Latte",
+            "description": "Espresso, süt, toffee nut aromalı espresso bazlı kahve",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b840ceac63ceac7cf022",
+            "name": "Salted Caramel Latte",
+            "description": "Espresso, süt ve tuzlu karemel aromalı espresso bazlı kahve",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b841ceac63ceac7cf023",
+            "name": "Cookie Caramel Latte",
+            "description": "Espresso, süt ve karamelli kurabiye aromalı espresso bazlı kahve",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b841ceac63ceac7cf024",
+            "name": "Pecan Caramel Latte",
+            "description": "Espresso, süt, brezilya cevizi",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b842ceac63ceac7cf025",
+            "name": "Rasberry White",
+            "description": "Espresso, süt, raspberry aromalı espresso bazlı kahve",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b842ceac63ceac7cf026",
+            "name": "Almond Mocha",
+            "description": "Espresso, süt, kavrulmuş badem aroması",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b843ceac63ceac7cf028",
+            "name": "Winter Latte",
+            "description": "Espresso, süt, beyaz çikolata, tarçın",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b83eceac63ceac7cf01f",
+            "name": "Türk Kahvesi",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6787b836ceac63ceac7cf00c",
+        "name": "Soğuk Kahve",
+        "items": [
+          {
+            "id": "6787b843ceac63ceac7cf02a",
+            "name": "Iced Americano",
+            "description": "Su, espresso, buz",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b844ceac63ceac7cf02b",
+            "name": "Iced Latte",
+            "description": "Espresso, süt",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b845ceac63ceac7cf02c",
+            "name": "Iced White Mocha",
+            "description": "Espresso, süt, beyaz çikolata soslu espresso bazlı kahve",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b845ceac63ceac7cf02d",
+            "name": "Iced Mocha",
+            "description": "Espresso, süt, çikolata soslu espresso bazlı kahve",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b846ceac63ceac7cf02f",
+            "name": "Soğuk Filtre Kahve",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b846ceac63ceac7cf030",
+            "name": "Iced Caramel Macchiato",
+            "description": "Espresso, süt, karamel aromalı espresso bazlı kahve",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b847ceac63ceac7cf031",
+            "name": "Iced Flat White",
+            "description": "Espresso ve sütle hazırlanan espresso bazlı kahve",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b848ceac63ceac7cf032",
+            "name": "Iced Raspberry White",
+            "description": "Espresso, süt, rasberry aromalı espresso bazlı kahve",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b848ceac63ceac7cf033",
+            "name": "Iced Almond Caramel Latte",
+            "description": "Espresso, süt, karamel, kavrulmuş badem aromalı",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b849ceac63ceac7cf036",
+            "name": "Iced Cookie Caramel Latte",
+            "description": "Espresso, süt, karamelli kurabiye aromalı espresso bazlı kahve",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6787b836ceac63ceac7cf00d",
+        "name": "Sıcak İçecek",
+        "items": [
+          {
+            "id": "6787b849ceac63ceac7cf037",
+            "name": "Sıcak Çikolata (Medium)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6787b84aceac63ceac7cf038",
+            "name": "Chai Tea Latte",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

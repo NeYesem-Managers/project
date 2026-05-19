@@ -1,0 +1,598 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67d71a19e45a00c4f6cbef6a",
+  "name": "Full Cajun, Mamak (Abidinpaşa Mah.)",
+  "slug": "full-cajun-mamak-abidinpasa-mah-mamak-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Pizza",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 4.2,
+  "rating_count": 50,
+  "min_order_amount": 280.0,
+  "delivery_fee": 52.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "67d72426ceac63ceacdb8e83",
+            "name": "Cajun Sepeti (250 g)",
+            "description": "Cajun, patates kızartması, lavaş, ketçap ve mayonez ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103688948_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800cca5ceac63ceacfc7ef3",
+            "name": "F5 Burger",
+            "description": "Dana burger köftesi, burger sos, cheddar peyniri, karamelize soğan, turşu, domates, iceberg marul ve patates kızartması ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746531498703_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800cd12ceac63ceacfc7f14",
+            "name": "Cheeseburger",
+            "description": "Dana burger köftesi,, burger sos, cheddar peyniri, karamelize soğan, turşu, domates, iceberg marul ve patates kızartması ile",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104110294_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036c34ceac63ceacfdf17d",
+            "name": "Barbekü Cajun Burger Menü",
+            "description": "Cajun baharatlı & barbekü soslu tavuk (130 g), marul, cheddar peyniri, burger sos, patates kızartması ve tercih edeceğin içecek (330 ml) ile",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103976056_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036e1fceac63ceacfdf281",
+            "name": "Acılı Cajun Burger Menü",
+            "description": "Acılı cajun burger (130 g), cajun baharatlı tavuk, acı sos, marul, cheddar peyniri, patates kızasrtması ve tercih edeceğin içecek (330 ml) ile",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104002095_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d72353ceac63ceacdb8e19",
+        "name": "Cajun Sepet Menü",
+        "items": [
+          {
+            "id": "67d72426ceac63ceacdb8e83",
+            "name": "Cajun Sepeti (250 g)",
+            "description": "Cajun, patates kızartması, lavaş, ketçap ve mayonez ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103688948_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d7245bceac63ceacdb8e8e",
+            "name": "Acılı Cajun Sepeti (250 g)",
+            "description": "Acılı cajun, patates kızartması, lavaş, ketçap ve mayonez ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103708580_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d72488ceac63ceacdb8e9b",
+            "name": "Cajun Sepeti (500 g)",
+            "description": "Cajun baharatlı tavuk sepeti, patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek (330 ml) ile",
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103728672_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d724adceac63ceacdb8ea2",
+            "name": "Acılı Cajun Sepeti (500 g)",
+            "description": "Acılı cajun baharatlı tavuk sepeti, patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek (330 ml) ile",
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103748054_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d724daceac63ceacdb8eb2",
+            "name": "Cajun Sepeti (750 g)",
+            "description": "Cajun baharatlı tavuk sepeti, patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek (1 L) ile",
+            "price": 1290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103768974_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d724fdceac63ceacdb8ec1",
+            "name": "Acılı Cajun Sepeti (750 g)",
+            "description": "Acılı cajun baharatlı tavuk (750 g), patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek (1 L) ile",
+            "price": 1290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103794301_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d72529ceac63ceacdb8f06",
+            "name": "Cajun Sepeti (1 kg)",
+            "description": "Cajun baharatlı tavuk (1 kg), patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin ile (1 L) ile",
+            "price": 1500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103813062_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d7254cceac63ceacdb8f17",
+            "name": "Acılı Cajun Sepeti (1 kg)",
+            "description": "Acılı cajun baharatlı tavuk (1 kg), patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek (1 L) ile",
+            "price": 1500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103830996_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d725d1ceac63ceacdb8f58",
+            "name": "Acılı Full Sepet Menü 1",
+            "description": "Acılı cajun baharatlı tavuk (250 g), cajun burger, patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek ile (330 ml) ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103854829_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d7262aceac63ceacdb8f6d",
+            "name": "Acılı Full Sepet Menü 2",
+            "description": "Acılı cajun baharatlı tavuk (500 g), cajun burger (2 adet), patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek (1 L) ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104455100_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d725a4ceac63ceacdb8f40",
+            "name": "Full Sepet Menü 1",
+            "description": "Cajun baharatlı tavuk (250 ml), cajun burger, patates kızartması, lavaş, ketçap, mayonez ve tercihine göre içecek (1 L) ile",
+            "price": 780.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103875764_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d7260aceac63ceacdb8f65",
+            "name": "Full Sepet Menü 2",
+            "description": "Cajun baharatlı tavuk (500 g), cajun burger, patates kızartması, lavaş, ketçap, mayonez ve tercih edeceğin içecek (1 L) ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103903508_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6811dba4ceac63ceac124db7",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "6800cca5ceac63ceacfc7ef3",
+            "name": "F5 Burger",
+            "description": "Dana burger köftesi, burger sos, cheddar peyniri, karamelize soğan, turşu, domates, iceberg marul ve patates kızartması ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746531498703_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800cd12ceac63ceacfc7f14",
+            "name": "Cheeseburger",
+            "description": "Dana burger köftesi,, burger sos, cheddar peyniri, karamelize soğan, turşu, domates, iceberg marul ve patates kızartması ile",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104110294_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800ce51ceac63ceacfc80c3",
+            "name": "Füme Burger",
+            "description": "Dana burger köftesi, burger sos, cheddar peyniri, karamelize soğan, turşu, domates ve patates kızartması ile",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104139296_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d7235aceac63ceacdb8e1c",
+        "name": "Cajun Burger Menü",
+        "items": [
+          {
+            "id": "68036c34ceac63ceacfdf17d",
+            "name": "Barbekü Cajun Burger Menü",
+            "description": "Cajun baharatlı & barbekü soslu tavuk (130 g), marul, cheddar peyniri, burger sos, patates kızartması ve tercih edeceğin içecek (330 ml) ile",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746103976056_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036e1fceac63ceacfdf281",
+            "name": "Acılı Cajun Burger Menü",
+            "description": "Acılı cajun burger (130 g), cajun baharatlı tavuk, acı sos, marul, cheddar peyniri, patates kızasrtması ve tercih edeceğin içecek (330 ml) ile",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104002095_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036e95ceac63ceacfdf2b3",
+            "name": "Cajun Burger Menü",
+            "description": "Cajun burger (130 g), patates Kızartması ve tercih edeceğin içecek (330 ml) ile",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104023418_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6800c8dcceac63ceacfc7cba",
+        "name": "Pizza",
+        "items": [
+          {
+            "id": "6800c97aceac63ceacfc7d1d",
+            "name": "Full Pizza (Orta)",
+            "description": "Pizza sosu, mozzarella peyniri, salam, sucuk, sosis, mısır, yeşil biber, siyah zeytin, domates",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104179241_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800c9c5ceac63ceacfc7d67",
+            "name": "Karışık Pizza (Orta)",
+            "description": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, mısır, siyah zeytin, yeşil biber",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104205993_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800ca30ceac63ceacfc7db4",
+            "name": "Mangal Pizza (Orta)",
+            "description": "Pizza sosu, mozzarella peyniri, mantar, köfte parçaları, küp sucuk, jalapeno biberi, domates",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104236327_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800ca6eceac63ceacfc7dd4",
+            "name": "Barbekü Chicken Pizza (Orta)",
+            "description": "Mozzarella peyniri, barbekü sos, tavuk parçaları, yeşil biber, pizza sosu, mısır",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104261918_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800cab2ceac63ceacfc7e08",
+            "name": "Full Pizza (Büyük)",
+            "description": "Pizza sosu, mozzarella peyniri, salam, sucuk, sosis, mısır, yeşil biber, siyah zeytin, domates",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104283797_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800cbd1ceac63ceacfc7eaf",
+            "name": "Mangal Pizza (Büyük)",
+            "description": "Pizza sosu, mozzarella peyniri, mantar, köfte parçaları, küp sucuk, biber, domates",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104304726_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800caf5ceac63ceacfc7e31",
+            "name": "Karışık Pizza (Büyük)",
+            "description": "Pizza sosu, mozzarella peyniri, sucuk, salam, sosis, mantar, mısır, siyah zeytin, yeşil biber",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104335741_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6800cb5aceac63ceacfc7e81",
+            "name": "BBQ Chicken Pizza (Büyük)",
+            "description": "Mozzarella peyniri, barbekü sos, tavuk parçaları, yeşil biber, pizza sosu, mısır",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104356539_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d72361ceac63ceacdb8e1d",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "67d726c6ceac63ceacdb8f9b",
+            "name": "Patates Kızartması (Parmak Dilim)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104379352_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d726edceac63ceacdb8f9e",
+            "name": "Patates Kızartması (Elma Dilim)",
+            "description": null,
+            "price": 139.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104405479_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d72710ceac63ceacdb8fa2",
+            "name": "Soğan Halkası (8 Adet)",
+            "description": null,
+            "price": 119.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746104426511_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "680351f9ceac63ceacfde1b8",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "6803522cceac63ceacfde1cd",
+            "name": "Acı Sos (Paket)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589540060_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68035218ceac63ceacfde1bd",
+            "name": "Sarımsaklı Sos (Paket)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589558089_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68035269ceac63ceacfde1e1",
+            "name": "Ranch Sos (Paket)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589578537_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6803527dceac63ceacfde220",
+            "name": "Barbekü Sos (Paket)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589596130_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68035292ceac63ceacfde230",
+            "name": "Ballı Hardallı Sos (Paket)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589612482_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d72367ceac63ceacdb8e1e",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "67d72789ceac63ceacdb8fd7",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053241300_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d727acceac63ceacdb8fdd",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053304537_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d72758ceac63ceacdb8fc7",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053276207_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d727ebceac63ceacdb8ff3",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053326168_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d727c6ceac63ceacdb8fe9",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589944509_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d72848ceac63ceacdb9001",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589961282_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d7273bceac63ceacdb8fb2",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 79.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d72864ceac63ceacdb9009",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053343419_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d7289aceac63ceacdb900c",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053399432_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d7287dceac63ceacdb900b",
+            "name": "Coca Cola Light (1 L)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053379029_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d72807ceac63ceacdb8ff8",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745053418005_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d72822ceac63ceacdb8ffa",
+            "name": "Sprite ( 1L)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768589979552_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67d728b6ceac63ceacdb900d",
+            "name": "Fuse Tea Şeftali (1L)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768590002228_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

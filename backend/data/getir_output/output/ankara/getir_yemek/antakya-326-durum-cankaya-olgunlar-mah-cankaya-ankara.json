@@ -1,0 +1,909 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6630da97d61f7bb11bd3cd96",
+  "name": "Antakya 326 Dürüm, Çankaya (Olgunlar Mah.)  ",
+  "slug": "antakya-326-durum-cankaya-olgunlar-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 4.2,
+  "rating_count": 500,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade181",
+            "name": "Antakya Usulü Soslu Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 522.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755611945189_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade204",
+            "name": "Harbiye Dana Zırh Kebap Dürüm Menü",
+            "description": "Harbiye dürüm, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096185025_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade25f",
+            "name": "Mega Antakya Usulü Soslu Tavuk Döner Dürüm Menü",
+            "description": "Zurna tavuk döner dürüm (150 g), tatlı, meze tabağı, patates kızartması ve içecek (330 ml) ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755604237732_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade18b",
+            "name": "Tavuk Şiş Dürüm",
+            "description": "Acı sos, domates, maydanoz, soğan ve soğuk meze (3 çeşit) ile",
+            "price": 351.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096395093_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1da",
+            "name": "Harbiye Dana Zırh Kebap Dürüm",
+            "description": "Acı sos, domates, maydanoz, soğan ve soğuk meze (3 çeşit) ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096507119_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6641cbe4e0cc1ad722170059",
+        "name": "2 Al 1 Öde",
+        "items": [
+          {
+            "id": "666433de37cdfc4558467e32",
+            "name": "6 Al 5 Öde",
+            "description": "Tavuk döner dürüm (6 adet) ve coca cola (1 L) ile",
+            "price": 1620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755095640557_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "666434063de46fdfc00167c2",
+            "name": "12 Al 10 Öde",
+            "description": "Tavuk döner dürüm (12 adet) ve coca cola (2.5 L) ile",
+            "price": 3240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755095665756_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade15b",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade181",
+            "name": "Antakya Usulü Soslu Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 522.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755611945189_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1c8",
+            "name": "Tavuk Kanat Menü",
+            "description": "Tavuk kanat, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755604260122_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1ed",
+            "name": "Adana Zırh Kebap Dürüm Menü",
+            "description": "Adana dürüm, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096157468_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade204",
+            "name": "Harbiye Dana Zırh Kebap Dürüm Menü",
+            "description": "Harbiye dürüm, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096185025_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade231",
+            "name": "Antakya Harbiye Soslu Izgara Tavuk Menü",
+            "description": "Antakya harbiye ızgara tavuk, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096221223_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade247",
+            "name": "Kasap Izgara Köfte Menü",
+            "description": "Izgara köfte, tatlı, meze tabağı ve içecek (330 ml) ile",
+            "price": 693.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755604410199_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade25f",
+            "name": "Mega Antakya Usulü Soslu Tavuk Döner Dürüm Menü",
+            "description": "Zurna tavuk döner dürüm (150 g), tatlı, meze tabağı, patates kızartması ve içecek (330 ml) ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755604237732_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade15d",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade17f",
+            "name": "Mercimek Çorbası",
+            "description": "Ekmek",
+            "price": 189.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096373832_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade15e",
+        "name": "Izgara Dürüm",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade18b",
+            "name": "Tavuk Şiş Dürüm",
+            "description": "Acı sos, domates, maydanoz, soğan ve soğuk meze (3 çeşit) ile",
+            "price": 351.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096395093_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1bf",
+            "name": "Kasap Izgara Köfte Dürüm",
+            "description": "Acı sos, domates, maydanoz, soğan ve soğuk meze (3 çeşit) ile",
+            "price": 405.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096480505_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1da",
+            "name": "Harbiye Dana Zırh Kebap Dürüm",
+            "description": "Acı sos, domates, maydanoz, soğan ve soğuk meze (3 çeşit) ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096507119_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1fb",
+            "name": "Adana Zırh Kebap Dürüm",
+            "description": "Acı sos, domates, maydanoz, soğan ve soğuk meze (3 çeşit) ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096720261_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade23b",
+            "name": "Harbiye Kaşarlı Dana Zırh Kebap Dürüm",
+            "description": "Acı sos, domates, maydanoz, soğan ve soğuk meze (3 çeşit) ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096584824_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade15f",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade176",
+            "name": "Antakya usulü Ekşili Tavuk Döner Dürüm",
+            "description": "Patates kızartması, turşu, domates, mayonez",
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096781207_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1a2",
+            "name": "Antakya Usulü Tablacı Tavuk Döner Dürüm",
+            "description": "Domates, maydanoz, domates sos, soğan",
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096637363_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1d1",
+            "name": "Antakya Usulü Soslu Tavuk Döner Dürüm",
+            "description": "Patates kızartması, turşu, domates sos, mayonez",
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096655516_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade213",
+            "name": "Antakya Usulü Soslu Humuslu Tavuk Döner Dürüm",
+            "description": "Patates kızartması, turşu, domates mayonez, yeşillik",
+            "price": 342.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096811254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade22c",
+            "name": "Antakya Usulü Servis Tavuk Döner",
+            "description": "Pilav, domates, biber, patates kızartması ve soğuk meze (3 çeşit) ile",
+            "price": 468.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096837395_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade252",
+            "name": "Tavuk İskender",
+            "description": "Soğuk meze (3 çeşit) ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097013225_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade269",
+            "name": "Pilav Üstü Tavuk Döner",
+            "description": "Soğuk meze (3 çeşit) ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096955371_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade26d",
+            "name": "Antakya Usulü Kaşarlı Soslu Tavuk Döner Dürüm",
+            "description": "Kaşar peyniri, patates kızartması, turşu, domates sos, mayonez",
+            "price": 405.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755096996848_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade283",
+            "name": "Antakya Usulü Köri Soslu Tavuk Döner Dürüm",
+            "description": "Tavuk döner, patates kızartması, turşu, domates sos, körili mayonez",
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097030445_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade294",
+            "name": "Mega Antakya Usulü Ekşili Tavuk Döner Dürüm",
+            "description": "Tavuk döner eti (150 g), köri sos, patates kızartması, turşu, domates sos, mayonez",
+            "price": 414.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097057879_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2a6",
+            "name": "Mega Antakya Usulü Tablacı Tavuk Döner Dürüm",
+            "description": "Tavuk döner eti (150 g), patates kızartması, turşu, domates sos, mayonez",
+            "price": 414.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097071473_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2b6",
+            "name": "Mega Antakya Usulü Kaşarlı Tavuk Döner Dürüm",
+            "description": "Tavuk döner eti (150 g), kaşar peyniri, patates kızartması, turşu, domates sos, mayonez",
+            "price": 468.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097142116_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2c1",
+            "name": "Mega Antakya Usulü Humuslu Tavuk Döner Dürüm",
+            "description": "Tavuk döner eti (150 g), kaşar peyniri, patates kızartması, turşu, domates , mayonez",
+            "price": 414.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755612041646_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2cc",
+            "name": "Mega Antakya Usulü Köri Soslu Tavuk Döner Dürüm",
+            "description": "Tavuk döner eti (150 g), patates kızartması, turşu, domates sos, mayonez",
+            "price": 414.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097182757_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2d5",
+            "name": "Mega Antakya Usulü Tavuk Döner Dürüm",
+            "description": "Mega tavuk döner (150 g)",
+            "price": 405.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097195560_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2d9",
+            "name": "Mega Antakya Usulü Kaşarlı Köri Soslu Tavuk Döner",
+            "description": "Tavuk döner (150 g), kaşar peynir, köri soslu mayonez, patates kızartması, salatalık turşusu",
+            "price": 468.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097215051_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2df",
+            "name": "Arabi Döner",
+            "description": "Tavuk döner (130 g), kaşar peynir, sarımsaklı sos, patates kızartması",
+            "price": 432.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097279668_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2e7",
+            "name": "Vejeteryan Dürüm",
+            "description": "Lavaş ekmeği, iceberg marul, patates kızartması, turşu, domates, özel sos, sarımsaklı mayonez",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097322214_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2f2",
+            "name": "Antakya Usulü Köri Soslu Kaşarlı Tavuk Döner Dürüm",
+            "description": "Kaşar peyniri, patates kızartması, turşu, domates sos, köri sos",
+            "price": 405.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097335296_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade160",
+        "name": "Izgara & Kebap",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade16b",
+            "name": "Soslu Tavuk Kanat",
+            "description": "Tavuk kanat (8 adet), soğan salatası, közlenmiş biber, domates, patates kızartması ve soğuk meze (3 çeşit) ile",
+            "price": 486.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097392415_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1ba",
+            "name": "Adana Zırh Kebap",
+            "description": "Adana kebap (200 g), soğan salatası, közlenmiş domates, ekmek ve soğuk meze (3 çeşit) ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097409773_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1e5",
+            "name": "Tavuk Şiş",
+            "description": "Tavuk kuşbaşı (2 şiş), soğan salatası, közlenmiş biber, domates, patates kızartması ve soğuk meze (3 çeşit) ile",
+            "price": 441.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097427271_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade21f",
+            "name": "Beyti Kebap",
+            "description": "Közlenmiş biber, domates ve soğuk meze (3 çeşit) ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097447059_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade228",
+            "name": "Spesiyal Dana Zırh Kebap",
+            "description": "Dana kıyma (240 g), sarımsak, maydanoz, kapya biber, soğan salatası, közlenmiş domates, ekmek ve soğuk meze (3 çeşit) ile",
+            "price": 594.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747049019260_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade23f",
+            "name": "Antakya Harbiye Soslu Izgara Tavuk",
+            "description": "Hatay usulü terbiyelenmiş ızgara tavuk ve soğuk meze (3 çeşit) ile",
+            "price": 441.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097525909_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade256",
+            "name": "Kasap Izgara Köfte",
+            "description": "Izgara köfte (6 adet), soğan salatası, közlenmiş biber, domates, patates kızartması ve soğuk meze (3 çeşit) ile",
+            "price": 513.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097543683_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade27a",
+            "name": "Harbiye Dana Zırh Kebabı",
+            "description": "Kebap eti (200 g), soğan salatası, közlenmiş domates, biber, ekmek ve soğuk meze (3 çeşit) ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097569480_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade28b",
+            "name": "Karışık Izgara (2 Kişilik)",
+            "description": "Adana kebap, harbiye kebabı, tavuk şiş, ızgara köfte, tavuk kanat, soğan salatası, közlenmiş biber, közlenmiş domates ve soğuk meze (3 çeşit) ile",
+            "price": 1359.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755104876312_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2b4",
+            "name": "Harbiye Kuşbaşı Şiş",
+            "description": "Harbiye kuşbaşı şiş ve günün mezeleri (3 adet) ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097739775_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2cb",
+            "name": "Ali Nazik",
+            "description": "Ali nazik ve günün mezeleri (3 adet) ile",
+            "price": 513.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755097774393_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade163",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade19a",
+            "name": "Hatay Usulü Kızartma İçli Köfte (Adet)",
+            "description": null,
+            "price": 153.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755098111823_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade19d",
+            "name": "Humus",
+            "description": null,
+            "price": 243.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755098178320_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1e4",
+            "name": "Köz Biber Yoğurtlama",
+            "description": null,
+            "price": 243.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755098265443_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade21e",
+            "name": "Köz Patlıcan Yoğurtlama",
+            "description": null,
+            "price": 243.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755098281653_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade230",
+            "name": "Karışık Meze Tabağı",
+            "description": null,
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755098227834_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade250",
+            "name": "Patates Kızartması (Porsiyon)",
+            "description": "Ketçap, mayonez",
+            "price": 261.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755098313277_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade25e",
+            "name": "Kepse Pilavı & Yarım Tavuk Izgara Menü",
+            "description": "Yarım tavuk ızgara, meşhur kepse pilavı, çoban salata ve acı sos ile",
+            "price": 558.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747049118064_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade276",
+            "name": "Çoban Salata",
+            "description": "Domates, salatalık, yeşilbiber, soğan",
+            "price": 243.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755098353808_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade290",
+            "name": "Gavurdağı Salata",
+            "description": null,
+            "price": 261.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755099105268_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade29f",
+            "name": "Mevsim Salata",
+            "description": null,
+            "price": 243.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755099139701_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2af",
+            "name": "Arpa Şehriyeli Pirinç Pilavı",
+            "description": null,
+            "price": 144.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755099187503_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade164",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade1ab",
+            "name": "Çıtır Kabak Tatlısı",
+            "description": null,
+            "price": 234.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755604476606_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66376a50e0cc1ad722844a09",
+            "name": "Şam Tatlısı",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738316257310_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade165",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade19c",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1e3",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1fa",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773792863_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade227",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773663588_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade243",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773663769_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338d062757407f1acccd23",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773666774_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade25a",
+            "name": "Cappy Karışık (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773671765_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338cee7e1ba006feadea1d",
+            "name": "Cappy Şeftali (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773780177_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338cf5c371ab7696000119",
+            "name": "Cappy Vişne (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773783150_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade275",
+            "name": "Taze Sıkma Portakal Suyu (330 ml)",
+            "description": null,
+            "price": 144.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773796795_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade27f",
+            "name": "Acılı Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 54.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338cd6c371ab7696ffff2d",
+            "name": "Acısız Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 54.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade18a",
+            "name": "Yayık Ayran (330 ml)",
+            "description": null,
+            "price": 81.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade29e",
+            "name": "Ayran (220 ml)",
+            "description": null,
+            "price": 81.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2a5",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 36.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade2b5",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 27.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66338c9b7e1ba006feade166",
+        "name": "Kiloluk Lezzet",
+        "items": [
+          {
+            "id": "66338c9b7e1ba006feade180",
+            "name": "Köz Patlıcan Yoğurtlama (1 kg)",
+            "description": null,
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755099494276_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1b9",
+            "name": "Köz Biber Yoğurtlama (1 kg)",
+            "description": null,
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755099560817_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66338c9b7e1ba006feade1f9",
+            "name": "Humus (1 kg)",
+            "description": null,
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755099573804_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

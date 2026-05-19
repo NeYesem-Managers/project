@@ -1,0 +1,902 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "63cf8a24027625fb9205a9cf",
+  "name": "Hamburg, Çankaya (Fakülteler Mah.)",
+  "slug": "hamburg-cankaya-fakulteler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 4.2,
+  "rating_count": 2000,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "63d0f9e870b11bdcf119f34c",
+            "name": "Final Menü",
+            "description": "Hamburg Burger + Otto Burger + 1 L İçecek",
+            "price": 825.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b75f119f36d",
+            "name": "Classic Burger Menü",
+            "description": "Classic Burger + Patates Kızartması + İçecek",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792792521_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bdcb719f3e5",
+            "name": "Cheese Burger Menü",
+            "description": "Cheese Burger + Patates Kızartması + İçecek",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792730665_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b14b019f529",
+            "name": "Otto Burger Menü",
+            "description": "Otto Burger + Patates Kızartması + İçecek",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792672488_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b5bf419f5aa",
+            "name": "Hamburg Burger Menü",
+            "description": "Hamburg Burger + Patates Kızartması + İçecek",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792523815_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11b5b7f19f2cd",
+        "name": "Avantaj Menü",
+        "items": [
+          {
+            "id": "63d0f9e870b11bdcf119f34c",
+            "name": "Final Menü",
+            "description": "Hamburg Burger + Otto Burger + 1 L İçecek",
+            "price": 825.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b45d119f3ce",
+            "name": "Vize Menü",
+            "description": "Cheese Burger + Cajun Burger + 1 L İçecek",
+            "price": 660.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11b556e19f2ce",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "63d0f9e870b11b705519f2db",
+            "name": "BBQ Chicken Burger Menü",
+            "description": "BBQ Chicken Burger + Patates Kızartması + İçecek",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792361151_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b75f119f36d",
+            "name": "Classic Burger Menü",
+            "description": "Classic Burger + Patates Kızartması + İçecek",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792792521_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bdcb719f3e5",
+            "name": "Cheese Burger Menü",
+            "description": "Cheese Burger + Patates Kızartması + İçecek",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792730665_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bcdc719f4b2",
+            "name": "Turkish Burger Menü",
+            "description": "Turkish Burger + Patates Kızartması + İçecek",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792280956_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b14b019f529",
+            "name": "Otto Burger Menü",
+            "description": "Otto Burger + Patates Kızartması + İçecek",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792672488_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b5bf419f5aa",
+            "name": "Hamburg Burger Menü",
+            "description": "Hamburg Burger + Patates Kızartması + İçecek",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792523815_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b4ed519f5e9",
+            "name": "Green Beef Burger Menü",
+            "description": "Green Beef Burger + Patates Kızartması + İçecek",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778793317169_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b135f19f628",
+            "name": "Hot Burger Menü",
+            "description": "Hot Burger + Patates Kızartması + İçecek",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778792852439_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b366e19f6c9",
+            "name": "Fried Chicken Burger Menü",
+            "description": "Fried Chicken Burger + Patates Kızartması + İçecek",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778793207967_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11b741d19f2d0",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "69f7b1aeceac63ceac32af82",
+            "name": "Ranger Burger",
+            "description": "Hamburg Köfte, Tandır Et, BBQ Mayo Sos, Kaşar Peyniri, Kırmızı Soğan Turşusu + Patates Kızartması",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777840537133_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b67da19f593",
+            "name": "Hamburg Burger",
+            "description": "Hamburg Köfte, Hamburg Sos, Bacon, Cheddar Peyniri, Kaşar Peyniri, Karamelize Soğan, Turşu, Yeşillik + Patates Kızartması",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777840615938_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69f7b26cceac63ceac32affe",
+            "name": "Hamburg Xlarge Burger",
+            "description": "Hamburg Köfte (2 Adet), Hamburg Sos, 2 Adet Bacon, Cheddar Peyniri, Kaşar Peyniri, Karamelize Soğan, Yeşillik, Turşu + Patates Kızartması",
+            "price": 535.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777840739956_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b669119f69b",
+            "name": "Otto Burger",
+            "description": "Hamburg Köfte, Hamburg Sos, Bacon, Kibrit Patates, Cheddar Sos, Turşu, Kıtır Soğan + Patates Kızartması",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777840899082_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bd43519f3b3",
+            "name": "Cheese Burger",
+            "description": "Hamburg Köfte, Hamburg Sos, Cheddar Peyniri, Karamelize Soğan, Yeşillik, Turşu + Patates Kızartması",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841008550_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11ba01a19f403",
+            "name": "Classic Burger",
+            "description": "Hamburg Köfte, Hamburg Sos, Yeşillik, Turşu, Domates, Dilim Soğan + Patates Kızartması",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841153275_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b7a0c19f569",
+            "name": "Hot Burger",
+            "description": "Hamburg Köfte, Hamburg Sos, Bacon, Hindi Füme, Cheddar Peyniri, Karamelize Soğan, Turşu, Yeşillik, Acı Sos + Patates Kızartması",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841926954_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b305619f607",
+            "name": "Mushroom Burger",
+            "description": "Hamburg Köfte, Mantar, Hamburg Sos, Kaşar Peyniri, Karamelize Soğan + Patates Kızartması",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841285679_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b7e2c19f4cf",
+            "name": "Turkish Burger",
+            "description": "Hamburg Köfte, Hamburg Sos, Sucuk, Köz Patlıcan, Karışık Biber, Turşu, Sarımsaklı Mayonez + Patates Kızartması",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777842051749_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b95de19f646",
+            "name": "BBQ Chicken Burger",
+            "description": "Izgara Tavuk Fileto, BBQ Sos, Meat Sos, Karamelize Soğan, Turşu, Yeşillik + Patates Kızartması",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777842171783_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b0f1719f6e7",
+            "name": "Cajun Burger",
+            "description": "Paneli Çıtır Tavuk, Kibrit Patates, Cheddar Sos, Turşu, Kıtır Soğan + Patates Kızartması",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777842307068_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bf9e519f511",
+            "name": "Classic Chicken Burger",
+            "description": "Tavuk Köftesi, Meat Sos, Dilim Beyaz Soğan, Yeşillik, Turşu, Domates + Patates Kızartması",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841476966_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b2dfe19f31d",
+            "name": "Chicken Burger",
+            "description": "Paneli Çıtır Tavuk, Meat Sos, Yeşillik, Turşu + Patates Kızartması",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777842484516_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b6dba19f465",
+            "name": "Wild Chicken Burger",
+            "description": "Izgara Tavuk Fileto, Mantar, Kaşar Peyniri, Meat Sos, Yeşillik + Patates Kızartması",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841599677_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b7c2519f5c8",
+            "name": "Green Beef Burger",
+            "description": "Vejetaryen Et Köfte, Hamburg Sos, Sarımsaklı Mayonez, Yeşillik, Turşu, Domates + Patates Kızartması",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841715641_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b310619f6b7",
+            "name": "Green Chicken Burger",
+            "description": "Vejetaryen Tavuk Köfte, Meat Sos, Yeşillik, Turşu, Domates + Patates Kızartması",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777841827415_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11b5c7619f2d1",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "63d0f9e870b11b30d519f30d",
+            "name": "Classic Hotdog",
+            "description": "Dana Sosis, Hamburg Sos, Cheddar Sos, Kırmızı Soğan Turşusu + Patates Kızartması",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778795329083_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b72a419f4e9",
+            "name": "Patso",
+            "description": "Patates kızartması, Cheddar Sos, Kıtır Soğan",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778795200290_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b087519f396",
+            "name": "Fire HotDog",
+            "description": "Dana Sosis, Hamburg Sos, Cheddar Sos, Kıtır Soğan, Jalapeno Biber, Acı Sos + Patates Kızartması",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778795433512_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11b299b19f2d2",
+        "name": "Ek Lezzet",
+        "items": [
+          {
+            "id": "63d0f9e870b11b698719f344",
+            "name": "Soğan Halkası (12 Adet)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778795110717_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b458c19f38e",
+            "name": "Mix Fries (Karma Sepet)",
+            "description": "Patates Kızartması, Hellim Sucuk, Çıtır Tavuk Parçaları, Soğan Halkası, Mozarella Stick, Sosis + Cheddar Sos + Sweet Chili Sos",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778794721445_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b0e4419f3dc",
+            "name": "Patates Kızartması",
+            "description": "Patates Kızartması (250-300 gr)",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778794777474_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b541a19f47d",
+            "name": "Mozzarella Stick (5 Adet)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778795083231_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bdaa119f508",
+            "name": "Hellim Sucuk (2 Adet)",
+            "description": "Hellim peynirli sucuk",
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778794927410_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bd39019f582",
+            "name": "Cheddar Soslu Patates Kızartması",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778794550514_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bb13719f58a",
+            "name": "Çıtır Tavuk (5 Adet)",
+            "description": "Kaplamalı çıtır tavuk bonfile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778794881545_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b0ecf19f5e1",
+            "name": "Pulled Fries",
+            "description": "Patates Kızartması, Hamburg Sos, Tiftik Et, Cheddar Sos, Kaşar Peyniri, Mısır, Kıtır Soğan",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1675435011678_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bd03a19f620",
+            "name": "Bacon & Cheddar Fries",
+            "description": "Patates Kızartması, Bacon, Hindi Füme, Cheddar Sos, Jalapeno Biber, Kıtır Soğan, Hamburg Sos",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1675690421255_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11b0c7919f2cc",
+        "name": "Dondurmalı Menü",
+        "items": [
+          {
+            "id": "63d0f9e870b11b7a6d19f3a3",
+            "name": "Algida Menüsü (HamBurg)",
+            "description": "Köfte (110 g), patates kızartması, algida maraş usulü Cup dondurma (100 ml) ve içecek (330 ml)",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b18af19f41d",
+            "name": "Algida Menüsü (BBQ Chicken Burger)",
+            "description": "Bbq chicken burger, patates kızartması, algida maraş usulü kup dondurma (100 ml) ve içecek (330 ml)",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b721719f448",
+            "name": "Algida Menüsü (Klasik Burger)",
+            "description": "Köfte (110 g), patates kızartması, algida maraş usulü kup dondurma (100 ml) ve içecek (330 ml) ile",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11bae6319f2d3",
+        "name": "Dondurma",
+        "items": [
+          {
+            "id": "63d0f9e870b11b31ea19f2da",
+            "name": "Algida Carte Dor Mini Cup Çikolata Karnavalı (110 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11be3da19f3cc",
+            "name": "Algida Maraş Usulü Cup Dondurma (105 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1690807182313_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b3ddb19f4f1",
+            "name": "Carte d'Or Meyve Rüyası (110 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1690807248328_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "650d49eb2b8b246960c644f8",
+            "name": "Nogger Mini Sandvich (60 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "650d4a2d461a16502fb75f2c",
+            "name": "Magnum  Mini Badem (58 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "650d4a4b461a161b74b76403",
+            "name": "Magnum Mini Düet (60 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11b240c19f2d4",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "63d0f9e870b11b25ac19f4a3",
+            "name": "Pepsi 330 ml",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b858019f4a5",
+            "name": "Pepsi Max 330 ml",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b181e19f4f2",
+            "name": "Yedigün 330 ml",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11be25c19f546",
+            "name": "Tropicana Vişne 330 ml",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b79d519f606",
+            "name": "Tropicana Vişne 330 ml",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b341119f645",
+            "name": "Tropicana Şeftali 330 ml",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65707c37c5ee3b860be4096f",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ac27ceac63ceac32ac99",
+            "name": "Lipton Ice Tea Karpuz (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ac44ceac63ceac32aca3",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ac5eceac63ceac32aca8",
+            "name": "Lipton Ice Tea Mango (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7acc6ceac63ceac32aced",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7acd9ceac63ceac32acf5",
+            "name": "Pepsi Max (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7acecceac63ceac32ad06",
+            "name": "Yedigün (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ad17ceac63ceac32ad12",
+            "name": "Lipton Ice Tea Şeftali (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ad7dceac63ceac32ad38",
+            "name": "Pepsi (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ad92ceac63ceac32ad45",
+            "name": "Pepsi Max (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ada1ceac63ceac32ad49",
+            "name": "Yedigün (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7adc4ceac63ceac32ad60",
+            "name": "Fruko (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ade0ceac63ceac32ad6f",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7adf7ceac63ceac32ada4",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ae09ceac63ceac32adab",
+            "name": "Maden Suyu",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ae1aceac63ceac32adb6",
+            "name": "Caprısun",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f7ae2aceac63ceac32adbb",
+            "name": "Gazoz",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63d0f9e870b11beac819f2d5",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "63d0f9e870b11bfa4319f333",
+            "name": "Ranch Sos (20 g)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927966195_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b1a4619f3cd",
+            "name": "Garlic Sos (20 g)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b092519f3e4",
+            "name": "Barbekü Sos (22 g)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11bcea119f4a4",
+            "name": "Cheddar Sos",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b93bb19f4a6",
+            "name": "Hot Sos (20 g)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d0f9e870b11b114819f510",
+            "name": "Ballı Hardal (20 g)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927927541_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

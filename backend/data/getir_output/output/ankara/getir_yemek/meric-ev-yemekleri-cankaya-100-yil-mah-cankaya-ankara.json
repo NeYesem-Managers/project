@@ -1,0 +1,963 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "66a781bbcce8eb257ff9c71c",
+  "name": "Meriç Ev Yemekleri, Çankaya (100.Yıl Mah.)",
+  "slug": "meric-ev-yemekleri-cankaya-100-yil-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Ev Yemekleri",
+    "Tavuk"
+  ],
+  "rating": 4.7,
+  "rating_count": 2000,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac710c64",
+            "name": "GetirYemek Özel Menü",
+            "description": "Tavuk çökertme, günün çorbası ve tercih edeceğiniz yan lezzet ile",
+            "price": 479.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a01",
+            "name": "Sebzeli Menü",
+            "description": "Günün çorbası, tercihe göre sebze yemeği, pilav, günün salatası, meyve veya tatlı ile",
+            "price": 449.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745946824341_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109e7",
+            "name": "Tavuk Menü",
+            "description": "Günün çorbası, tercih edeceğiniz tavuk yemeği, tercih edeceğiniz pilav, tercih edeceğiniz tatlı veya meyve ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745508533991_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109ef",
+            "name": "Et Menü",
+            "description": "Günün çorbası, tercih edeceğiniz et yemeği, tercih edeceğiniz pilav, günün salatası, tercih edeceğiniz meyve veya tatlı ile",
+            "price": 589.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745071513734_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a03",
+            "name": "Köfte Menü",
+            "description": "Günün çorbası, köfte, tercih edeceğiniz pilav, günün salatası, tercih edeceğiniz tatlı veya meyve ile",
+            "price": 539.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745946332018_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109d5",
+        "name": "GetirYemek Özel Menü",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac710c64",
+            "name": "GetirYemek Özel Menü",
+            "description": "Tavuk çökertme, günün çorbası ve tercih edeceğiniz yan lezzet ile",
+            "price": 479.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710c65",
+            "name": "GetirYemek Özel Menü 2",
+            "description": "Soya soslu tavuk, günün çorbası ve tercih edeceğiniz yan lezzet ile",
+            "price": 479.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109d6",
+        "name": "Ekonomik Menü",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac710a01",
+            "name": "Sebzeli Menü",
+            "description": "Günün çorbası, tercihe göre sebze yemeği, pilav, günün salatası, meyve veya tatlı ile",
+            "price": 449.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745946824341_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109e7",
+            "name": "Tavuk Menü",
+            "description": "Günün çorbası, tercih edeceğiniz tavuk yemeği, tercih edeceğiniz pilav, tercih edeceğiniz tatlı veya meyve ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745508533991_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109ef",
+            "name": "Et Menü",
+            "description": "Günün çorbası, tercih edeceğiniz et yemeği, tercih edeceğiniz pilav, günün salatası, tercih edeceğiniz meyve veya tatlı ile",
+            "price": 589.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745071513734_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a03",
+            "name": "Köfte Menü",
+            "description": "Günün çorbası, köfte, tercih edeceğiniz pilav, günün salatası, tercih edeceğiniz tatlı veya meyve ile",
+            "price": 539.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745946332018_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6744bdd8ceac63ceacf96113",
+            "name": "Makarna Menü",
+            "description": "Günün çorbası, seçeceğiniz makarna, mevsim salata , günün tatlısı ya da günün meyvesi ve ayran (295 ml) ile",
+            "price": 489.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745074192859_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109d7",
+        "name": "Günlük Çorba",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac7109fc",
+            "name": "Mercimek Çorbası",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745508505785_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710ad4",
+            "name": "Yoğurtlu Yeşil Mercimek Çorba",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109d8",
+        "name": "Tava Yemeği",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac7109e3",
+            "name": "Tavada Fesleğen Soslu Tavuk",
+            "description": "Tavada fesleğen soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 469.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753372374133_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109ec",
+            "name": "Tavada Kekikli Tavuk",
+            "description": "Tavada kekikli tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 469.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995366316_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109f2",
+            "name": "Tavada Kremalı Mantarlı Tavuk",
+            "description": "Tavada kremalı mantarlı tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 469.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995370617_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a04",
+            "name": "Tavada Tavuk Çökertme",
+            "description": "Tavada tavuk çökertme, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 469.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995349335_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a0a",
+            "name": "Tavada Et Çökertme",
+            "description": "Tavada et çökertme, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 539.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995327102_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a12",
+            "name": "Tavada Köri Soslu Tavuk",
+            "description": "Tavada köri soslu tavuk, tercih edeceğiniz pilav, salata veya makarna, patates kızartması, salata, günün tatlısı veya günün meyvesi ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995304750_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a18",
+            "name": "Tavada Barbekü Soslu Tavuk",
+            "description": "Tavada barbekü soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740236144129_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a1e",
+            "name": "Tavada Tavuk Favori",
+            "description": "Tavada tavuk favori, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a23",
+            "name": "Tavada Soya Soslu Tavuk",
+            "description": "Tavada soya soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1752689038460_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a28",
+            "name": "Tavada Tavuk Külbastı",
+            "description": "Tavada tavuk külbastı, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1752689081046_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a2c",
+            "name": "Tavada Teryaki Soslu Tavuk",
+            "description": "Tavada teryaki soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753180034978_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a31",
+            "name": "Tavada Chili Soslu Tavuk",
+            "description": "Tavada chili soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747241758261_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a35",
+            "name": "Tavada Mantarlı Et",
+            "description": "Tavada mantarlı et, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 539.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1752689115362_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a39",
+            "name": "Tavada Et Fajita",
+            "description": "Tavada et fajita, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 539.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747238705276_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a3d",
+            "name": "Tavada Biberli Biftek",
+            "description": "Tavada biberli biftek, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 539.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a41",
+            "name": "Tavada Tikka Masala Soslu Tavuk",
+            "description": "Tavada tikka masala soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a45",
+            "name": "Tavada Demi Glace Soslu Tavuk",
+            "description": "Tavada demi glace soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a48",
+            "name": "Tavada Acılı Chili Soslu Tavuk",
+            "description": "Tavada acılı chili soslu tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747241774358_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66cca24fceac63ceacdcf3c9",
+            "name": "Tavada Kajun Baharatlı Tavuk",
+            "description": "Tavada kajun baharatlı tavuk, tercih edeceğiniz yan lezzet, günün meyvesi veya günün tatlısı ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747334322478_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67933f8bceac63ceac85e2b0",
+            "name": "Tavada Cafe De Paris Soslu Tavuk",
+            "description": "Tavada cafe de paris soslu tavuk, tercih edeceğiniz pilav, salata veya makarna, patates kızartması, salata, günün tatlısı veya günün meyvesi ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753121172086_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "679340cbceac63ceac85e41b",
+            "name": "Tavada Tavuk Bonfile",
+            "description": "Tavada tavuk bonfile, tercih edeceğiniz pilav, salata veya makarna, patates kızartması, salata, günün tatlısı veya günün meyvesi ile",
+            "price": 469.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753121226048_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109da",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac710a00",
+            "name": "Bulgur Pilavı",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995197924_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109e8",
+            "name": "Pirinç Pilavı",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995425743_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109f6",
+            "name": "Yoğurt",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995091852_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710c75",
+            "name": "Turşu",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750756802010_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710cd9",
+            "name": "Makarna",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1748291954836_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6818da01ceac63ceac175c22",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109db",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac7109e2",
+            "name": "Domates Soslu Penne Makarna",
+            "description": "Domates sosu, penne makarna",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753291327367_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109ed",
+            "name": "Fesleğen Soslu Penne Makarna",
+            "description": "Fesleğen sosu, penne makarna, krema",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753363381817_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109f1",
+            "name": "Köri Soslu Penne Makarna",
+            "description": "Köri sosu, krema, penne makarna",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a05",
+            "name": "Sebzeli Penne Makarna",
+            "description": "Biber, domates, penne makarna",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995229461_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a0b",
+            "name": "Tavuklu Penne Makarna",
+            "description": "Tavuk, krema, penne makarna",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745074244204_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a13",
+            "name": "Mantarlı Fettuccine",
+            "description": "Mantar, krema, fettucine makarna",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746119705936_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a19",
+            "name": "Napoliten Soslu Fettuccine",
+            "description": "Napoliten sos, fettucine makarna",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a1f",
+            "name": "Bolognese Soslu Fettuccine",
+            "description": "Bolonez sosu, kıyma, fettucine makarna",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740236954293_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a24",
+            "name": "Pesto Soslu Fettuccine",
+            "description": "Pesto sosu, krema, fettucine makarna",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753363401003_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67934077ceac63ceac85e3bc",
+            "name": "Penne Arabiata",
+            "description": "Penne makarna, acılı domates sosları, peynir",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746635798176_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67fd3055ceac63ceacf8d364",
+            "name": "Kremalı Mantarlı Üç Peynirli Tortellini",
+            "description": "Rokfor peyniri, parmesan peyniri ve ricotta peyniri",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744646112497_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680a1786ceac63ceac0171a4",
+            "name": "Üç Peynirli Tortellini Fesleğenli",
+            "description": "Rokfor peyniri, parmesan peyniri, ricotta peyniri, krema ve fesleğen",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745661884700_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680a183aceac63ceac0172b4",
+            "name": "Üç Peynirli Tortellini Demi Glace Soslu",
+            "description": "Rokfor peyniri, parmesan peyniri, ricotta peyniri, krema ve demi glace soslu",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6826030fceac63ceac243a74",
+            "name": "Fettucini Alfredo (Kremalı Mantarlı Tavuklu)",
+            "description": "Krema, mantar ve tavuk ile fettucini",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c4e10bceac63ceac0176c8",
+            "name": "Körili Mantarlı Tavuklu Fettucını",
+            "description": "Köri Soslu Mantarlı Tavuklu Fettucını, yanında salata veya yoğurt, tatlı veya meyve",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774510296345_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cfdb18ceac63ceac0c5638",
+            "name": "Beş Peynirli Ravioli",
+            "description": "ricotta, mozzarella, parmesan, gorgonzola, beyaz peynir ve krema sos",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775229638735_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109dc",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac7109e4",
+            "name": "Tavuklu Kekikli Salata",
+            "description": "Iceberg marul, domates, salatalık, havuç, mısır, karalahana, zeytin ve tavuk ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995313410_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109ee",
+            "name": "Ton Balıklı Salata",
+            "description": "Iceberg marul, domates, salatalık, havuç, mısır, karalahana, zeytin ve ton balığı ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745995233218_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109f3",
+            "name": "Tavuklu Salata",
+            "description": "Iceberg marul, domates, salatalık, havuç, mısır, karalahana, zeytin ve tavuk ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746639911661_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a06",
+            "name": "Beyaz Peynirli Salata",
+            "description": "Iceberg marul, domates, salatalık, havuç, mısır, karalahana, zeytin ve beyaz peynir ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a97",
+            "name": "Arpa Şehriye Salatası",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710aa0",
+            "name": "Cacık",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746874281614_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69c7bc66ceac63ceac03db59",
+            "name": "Biftekli Salata",
+            "description": "Julyen doğranmış biftek, aysberg marul, kırmızı lahana, havuç , salatalık ,domates, mısır, turşu, yeşil siyah zeytin",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774697416652_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109dd",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac7109fb",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109f0",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109e9",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a02",
+            "name": "Acılı Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa3093ceac63ceac711d90",
+            "name": "Acısız Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac7109f7",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a16",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66aa29ccceac63ceac710a09",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fe8133ceac63ceac833be7",
+            "name": "Coca Cola (450 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670fd444ceac63ceac43f7e8",
+            "name": "Sarıyer Kola (330 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777278474162_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "670fd462ceac63ceac43f7fb",
+            "name": "Sarıyer Gazoz (330 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279144373_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67688359ceac63ceac33df9b",
+            "name": "Fuse Tea Mango (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67c1dda1ceac63ceacce7b6e",
+            "name": "Sarıyer Portakal (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279224403_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68bd536cceac63ceaccad81a",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "691ca5aaceac63ceac49a8d9",
+            "name": "Yörükoğlu Ekşi Maya Ayran (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69eb972aceac63ceac295f4d",
+            "name": "Sarıyer Kola Şekersiz (330 ml)",
+            "description": "Şekersiz Kola",
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279654580_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69eb9826ceac63ceac295f9c",
+            "name": "Juss Tea Mango Ananas (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279654585_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69eb989dceac63ceac295fc2",
+            "name": "Juss Tea Şeftali (330 ml)",
+            "description": "Yerli üretim, şeftali aromalı soğuk çay",
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279499529_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69eb98f9ceac63ceac295fe6",
+            "name": "Juss Tea Limon (330 ml)",
+            "description": "Yerli Üretim Limonlu Soğuk Çay",
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777278484182_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69eb9944ceac63ceac296004",
+            "name": "Juss Vişne Suyu (250 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279454516_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69eb99e2ceac63ceac296053",
+            "name": "Sarıyer Gazoz (1 L)",
+            "description": "Yerli Üretim",
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279344492_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69eb9a1aceac63ceac29606f",
+            "name": "Sarıyer Portakallı Gazoz (1 L)",
+            "description": "Yerli Üretim Portakallı Gazoz",
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777279394463_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6a0196b5ceac63ceac40aae9",
+            "name": "Sarıyer Kola (1 L)",
+            "description": "Yerli",
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66aa29ccceac63ceac7109de",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "66aa29ccceac63ceac7109e6",
+            "name": "Poşet",
+            "description": null,
+            "price": 1.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:08:23.134010+00:00",
+  "id": "5fe1ebc039426cfb93629beb",
+  "name": "Akçiçek Mangal (Ayvansaray Mah.)",
+  "slug": "akcicek-mangal-ayvansaray-mah-fatih-istanbul",
+  "cuisine_types": [
+    "Kebap",
+    "Tavuk"
+  ],
+  "rating": 4.7,
+  "rating_count": 500,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 50,
+  "delivery_time_max": 60,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5ff47abaee0f72be25a929bb",
+            "name": "Tavuk Şiş (1 kg) (Pişirilmiş) Menü",
+            "description": "(gramaj bilgisi ürünün çiğ halinin gramajıdır.) tavuk şiş (1 kg) (pişirilmiş) mevsim salatası, bulgur pilavı, közlenmiş biber, 3 adet pide ve pepsi (1 l)",
+            "price": 745.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abb58f3acf365e73d4f",
+            "name": "Tavuk Pirzola (1 kg) (Pişirilmiş) Menü",
+            "description": "(gramaj bilgisi ürünün çiğ halinin gramajıdır.) tavuk pirzola (1 kg) (pişirilmiş), mevsim salatası, bulgur pilavı, közlenmiş biber & domates, 3 adet pide ve pepsi (1 l)",
+            "price": 745.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff821ec65ba52da522ba194",
+            "name": "Yarım Piliç Menü",
+            "description": "Kömür ateşinde yarım piliç, bulgur pilavı, mevsim salatası, biber, baharat ve 1 adet ekmek ile",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abd05d6ff61b1cfddb3",
+            "name": "Tavuk Kanat",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber  ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620136633050_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac205d6ff0256cfddbb",
+            "name": "Tavuk Şiş",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137137389_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9f58f3ac6ba0e73d4d",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "5ff47abaee0f72be25a929bb",
+            "name": "Tavuk Şiş (1 kg) (Pişirilmiş) Menü",
+            "description": "(gramaj bilgisi ürünün çiğ halinin gramajıdır.) tavuk şiş (1 kg) (pişirilmiş) mevsim salatası, bulgur pilavı, közlenmiş biber, 3 adet pide ve pepsi (1 l)",
+            "price": 745.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abb2ccf255e70234e8d",
+            "name": "Tavuk Kanat (1 kg) (Pişirilmiş) Menü",
+            "description": "(gramaj bilgisi ürünün çiğ halinin gramajıdır.) tavuk kanat (1 kg) (pişirilmiş), 3 adet pide, salata, pilav ve coca-cola (1 l)",
+            "price": 745.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abb58f3acf365e73d4f",
+            "name": "Tavuk Pirzola (1 kg) (Pişirilmiş) Menü",
+            "description": "(gramaj bilgisi ürünün çiğ halinin gramajıdır.) tavuk pirzola (1 kg) (pişirilmiş), mevsim salatası, bulgur pilavı, közlenmiş biber & domates, 3 adet pide ve pepsi (1 l)",
+            "price": 745.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff821ec65ba52da522ba194",
+            "name": "Yarım Piliç Menü",
+            "description": "Kömür ateşinde yarım piliç, bulgur pilavı, mevsim salatası, biber, baharat ve 1 adet ekmek ile",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff8216ff21cfb164f985331",
+            "name": "Tavuk Piliç Menü",
+            "description": "Tavuk piliç, bulgur pilavı ,mevsim salatası ,biber ve 2 adet pide ile",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137553391_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff821a4e2d9e00cb202cbab",
+            "name": "Bütün Piliç",
+            "description": "Bütün piliç çevirme",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137497623_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9fe5886a0d25962bcc",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "61c072c66989914f647f6a72",
+            "name": "Mercimek Çorbası",
+            "description": "Tavuk suyu, tavuk",
+            "price": 138.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9f5118f153198e6758",
+        "name": "Kebap & Izgara",
+        "items": [
+          {
+            "id": "5ff47abe5118f1413f8e6760",
+            "name": "Tavuk Pirzola",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620136714650_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abd05d6ff61b1cfddb3",
+            "name": "Tavuk Kanat",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber  ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620136633050_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abd12b715e7ffa6175b",
+            "name": "Adana Kebap",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620136676333_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abe37c1dba07c570f7a",
+            "name": "Kuzu Şiş",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137427267_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abf87a63b067b33f080",
+            "name": "Karışık Kebap (2 Kişilik)",
+            "description": "Adana kebap, tavuk şiş, kuzu şiş, tavuk kanat, ızgara köfte, mevsim salatası, bulgur pilavı ve közlenmiş biber ile",
+            "price": 1750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137029971_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47abfe97c0db8cfd2bbcb",
+            "name": "Patlıcanlı Kebap",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac08365ab6a25906de8",
+            "name": "Izgara Köfte",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137082707_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac0ce622f0aafcd4b6d",
+            "name": "Karışık Kebap (3 Kişilik)",
+            "description": "Adana kebap, tavuk şiş, kuzu şiş, tavuk kanat, ızgara köfte, mevsim salatası, bulgur pilavı ve közlenmiş biber  ile",
+            "price": 2600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137094799_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac14f55ab0a139edbea",
+            "name": "Urfa Kebap",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137105619_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac1ac60e8524b6f44b9",
+            "name": "Karışık Kebap (1 Kişilik)",
+            "description": "Adana kebap, tavuk şiş, kuzu şiş, tavuk kanat, ızgara köfte, mevsim salatası, bulgur pilavı ve közlenmiş biber ile",
+            "price": 960.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137120010_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac205d6ff0256cfddbb",
+            "name": "Tavuk Şiş",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137137389_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac258f3ac4e0ee73d51",
+            "name": "Domatesli Kebap",
+            "description": "Mevsim salatası, bulgur pilavı, sumaklı soğan, közlenmiş biber ve közlenmiş domates ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "60b2373e1d8d0035b0af20f2",
+            "name": "Akçiçek Özel Karışık",
+            "description": "Duble adana kebap, duble kuzu şiş, duble köfte, duble kanat, duble tavuk şiş, bulgur pilavı, salata, közlenmiş biber, közlenmiş domates, acılı ezme ve pide ekmek",
+            "price": 1950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9f0e63fe4c05cca75a",
+        "name": "Dürüm & Ekmek Arası Lezzet",
+        "items": [
+          {
+            "id": "5ff47ac3345867ed7e47afe1",
+            "name": "Adana Dürüm",
+            "description": "Sumaklı soğan, domates ve közlenmiş biber",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137154359_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac4e1521545b097334f",
+            "name": "Kuzu Şiş Dürüm",
+            "description": "Sumaklı soğan, domates ve közlenmiş biber",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137438848_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac45118f1a61b8e6768",
+            "name": "Köfte Dürüm",
+            "description": "Sumaklı soğan, domates ve közlenmiş biber",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137170027_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac537c1dbc820570f82",
+            "name": "Urfa Dürüm",
+            "description": "Sumaklı soğan, domates ve közlenmiş biber",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137250074_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac5ac60e84f6e6f44bb",
+            "name": "Tavuk Şiş Dürüm",
+            "description": "Sumaklı soğan, domates ve közlenmiş biber",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137311163_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac65118f15d2d8e6770",
+            "name": "Ekmek Arası Köfte",
+            "description": "Soğan, domates ve biber",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9f5118f129098e675a",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "5ff47ac6f351dc477668945d",
+            "name": "Katmer (Küçük)",
+            "description": "Fıstıklı katmer",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61df20a354bbf67b0db9c622",
+            "name": "Fıstıklı Baklava",
+            "description": "4 dilim",
+            "price": 258.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65afbc4b9f5d3c715e13d9a3",
+            "name": "Künefe (1 Porsiyon)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9f37c1db2de2570f76",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "5ff47ac7e4a5e20b417ab2ec",
+            "name": "Tırnak Pide",
+            "description": null,
+            "price": 29.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1620137367021_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "617e8d6932e814734d4ef3f9",
+            "name": "Greek Salata",
+            "description": "Akdeniz yeşilliği, domates, özel tulum peyniri ve balsamic sos ile",
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "617e8dd4be764e3171e4b166",
+            "name": "Tuna Salatası",
+            "description": "Akdeniz yeşilliği, domates, ton balığı, nar ekşisi ve balsamik sos ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "617e8e1eac613e62285e31e6",
+            "name": "Tavuklu Salata",
+            "description": "Akdeniz yeşilliği, domates, tavuk ve özel baharatlı sos",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6926f7b1ceac63ceac52d7b4",
+            "name": "Lavaş",
+            "description": null,
+            "price": 29.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9fa415e9b2cd3df7bd",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5ff47acb58f3ac7225e73d59",
+            "name": "Pepsi Max (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705308620_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac8ac60e86f326f44c3",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac9e4a5e212d57ab2ee",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47acb37c1db830c570f8a",
+            "name": "Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac712b7155b33a61763",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47acaac60e819a96f44cb",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705249321_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff47ac8f0267c2d95145fe4",
+            "name": "Sütaş Ayran (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62683c7bd18bf7f1f7fc31d8",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62683d3d74d943915b37e748",
+            "name": "Niğde Gazoz (250 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff47a9ff351dc3fa468945b",
+        "name": "Kiloluk Lezzet (Pişirilmiş)",
+        "items": [
+          {
+            "id": "5ff47acc4f55abd5b59edbf2",
+            "name": "Tavuk Şiş (1 kg)",
+            "description": "(gramaj bilgisi ürünün çiğ halinin gramajıdır.)  közlenmiş biber ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff47acdad8a3805bc26f90a",
+            "name": "Tavuk Pirzola (1 kg)",
+            "description": "(gramaj bilgisi ürünün çiğ halinin gramajıdır.)  közlenmiş biber ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6022c1008881bd83a8f9fd32",
+            "name": "Tavuk Kanat (1 kg)",
+            "description": "Kömür ateşinde pişmiş",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

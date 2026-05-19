@@ -1,0 +1,767 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "5f328599b6572caa7f73064d",
+  "name": "Bir Efsane Döner (İleri Mah.)",
+  "slug": "bir-efsane-doner-ileri-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 4.7,
+  "rating_count": 1500,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5f32bd8d572e4c1669c3d59c",
+            "name": "Ekmek Arası Tavuk Döner",
+            "description": "Tavuk döner (100 g), domates, cin biber, turşu, yeşillik ve soğan ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645114161_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8f98ff3810be33afe5",
+            "name": "3 Parça Tavuk Döner Dürüm (150 g)",
+            "description": "Tavuk döner dürüm (3 parça), yeşillik, domates, biber turşusu ve soğan ile",
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64afe9e0ecc0860800e53dbb",
+            "name": "Dürüm Ciğer",
+            "description": "Soğan, domates, yeşillik ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f32bd3deeb62e03995d7ba7",
+        "name": "Ekonomik Menü",
+        "items": [
+          {
+            "id": "5f32bd89041272e2c1d9991d",
+            "name": "Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Tavuk döner dürüm, tatlı, çiğ köfte (adet) ve ayran (170 ml)",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617644967162_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd89fd2b283a36ab26c7",
+            "name": "Hatay Usulü Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Hatay usulü tavuk döner dürüm, tatlı, çiğ köfte (adet) ve ayran (170 ml)",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645017488_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8ac159865bbe918848",
+            "name": "Cheddarlı Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Cheddarlı tavuk döner dürüm, tatlı, çiğ köfte (adet) ve ayran (170 ml)",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617644853087_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd88fb6dd97e48dd34a2",
+            "name": "Ekmek Arası Tavuk Döner & Ayran Menü",
+            "description": "Ekmek arası tavuk döner, tatlı, çiğ köfte (adet) ve ayran (170 ml)",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9b572e4cce93c3d5a6",
+            "name": "2'li Ekmek Arası Tavuk Döner & Ayran Menü",
+            "description": "Ekmek arası tavuk döner (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve ayran (170 ml) (2 adet) ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda310f172cb37f31387",
+            "name": "2'li Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Tavuk döner dürüm (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve ayran (170 ml) (2 adet) ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda2c15986197b918868",
+            "name": "2'li Hatay Usulü Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Hatay usulü tavuk döner dürüm (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve  ayran (170 ml) (2 adet) ile",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9e041272cc46d99921",
+            "name": "2'li Cheddarlı Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Cheddarlı tavuk döner dürüm (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve ayran (170 ml) (2 adet) ile",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda3572e4c4335c3d5b4",
+            "name": "2'li Hatay Usulü Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü tavuk döner dürüm (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve  kutu i̇çecek (330 ml) (2 adet) ile",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9ac4f8898523579e05",
+            "name": "2'li Ekmek Arası Tavuk Döner Menü",
+            "description": "Ekmek arası tavuk döner (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve kutu içecek (2 adet) ile",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda0f598aaf3c4301cd2",
+            "name": "2'li Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve  kutu içecek (330 ML) (2 adet) ile",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda273c35d0064e6ec1b",
+            "name": "2'li Cheddarlı Tavuk Döner Dürüm Menü",
+            "description": "Cheddarlı tavuk döner dürüm (2 adet), tatlı (2 adet), çiğ köfte (2 adet) ve kutu içecek (330 ml) (2 adet)",
+            "price": 615.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9eeeb62e9b145d7bad",
+            "name": "3'lü Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Tavuk döner dürüm (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve ayran (170 ml) (3 adet) ile",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda56b1e0f9c26f383d0",
+            "name": "3'lü Ekmek Arası Tavuk Döner & Ayran Menü",
+            "description": "Ekmek arası tavuk döner (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve ayran (170 ml) (3 adet) ile",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9feeb62ea1025d7bc1",
+            "name": "3'lü Hatay Usulü Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Hatay usulü tavuk döner dürüm (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve ayran (170 ml) (3 adet) ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9a6b1e0f684bf38392",
+            "name": "3'lü Ekmek Arası Tavuk Döner Menü",
+            "description": "Ekmek arası tavuk döner (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve içecek (1 L) ile",
+            "price": 775.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda65dc316d4e99edb7e",
+            "name": "3'lü Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve içecek (1 L) ile",
+            "price": 775.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9c73c35dce5ae6ebdd",
+            "name": "3'lü Hatay Usulü Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü tavuk döner dürüm (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve i̇çecek (1 L) ile",
+            "price": 785.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda710f172722df31395",
+            "name": "3'lü Cheddarlı Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Cheddarlı tavuk döner dürüm (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve ayran (170 ml) (3 adet) ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9b0d467f55f8e461b7",
+            "name": "3'lü Cheddarlı Tavuk Döner Dürüm Menü",
+            "description": "Cheddarlı tavuk döner dürüm (3 adet), tatlı (3 adet), çiğ köfte (3 adet) ve içecek (1 L) ile",
+            "price": 825.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9d6b1e0f438ff383ae",
+            "name": "4'lü Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm (4 adet), tatlı (4 adet), çiğ köfte (4 adet) ve içecek (1 L) ile",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda598ff38242a33afed",
+            "name": "4'lü Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Tavuk döner dürüm (4 adet), tatlı (4 adet), çiğ köfte (4 adet) ve ayran (170 ml) (4 adet) ile",
+            "price": 980.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda6456a269d7ecf71e7",
+            "name": "4'lü Ekmek Arası Tavuk Döner & Ayran Menü",
+            "description": "Ekmek arası tavuk döner (4 adet), tatlı (4 adet), çiğ köfte (4 adet) ve ayran (170 ml) ( 4 adet ) ile",
+            "price": 980.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda8eeb62e935b5d7bef",
+            "name": "Aile Menü (4 Kişilik)",
+            "description": "Hatay usulü tavuk döner dürüm (4 adet), tatlı (4 adet), çiğ köfte (4 adet) ve içecek (1 L) ile",
+            "price": 980.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda0c159863e8191884e",
+            "name": "4'lü Hatay Usulü Tavuk Döner Dürüm & Ayran Menü",
+            "description": "Hatay usulü tavuk döner dürüm (4 adet), tatlı (4 adet), çiğ köfte (4 adet) ve ayran (170 ml) (4 adet) ile",
+            "price": 970.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9f73c35d3859e6ebf9",
+            "name": "4'lü Ekmek Arası Tavuk Döner Menü",
+            "description": "Ekmek arası tavuk döner (4 adet), tatlı (4 adet), çiğ köfte (4 adet) ve içecek (1 L) ile",
+            "price": 970.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9c73c35dffbae6ebc3",
+            "name": "4'lü Cheddarlı Tavuk Döner Dürüm & Ayran Menü",
+            "description": "4 adet cheddarlı tavuk döner dürüm, 4 adet tatlı, çiğ köfte (4 adet) ve 4 adet ayran (170 ml)",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda1777d73a8bf414ef9",
+            "name": "4'lü Cheddarlı Tavuk Döner Dürüm Menü",
+            "description": "Cheddarlı tavuk döner dürüm (4 adet), tatlı (4 adet), çiğ köfte ve içecek (1 L)  ile",
+            "price": 1125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f32bd3de99eb606771bfabc",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "5f32bdaa572e4c3b6bc3d5d2",
+            "name": "Hatay Usulü Tavuk Döner Dürüm Menü 1",
+            "description": "Hatay usulü tavuk döner dürüm, çiğ köfte, seçeceğiniz tatlı ve kutu içecek (330 ml) ile",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645144145_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bdabf598aa2c8b301d00",
+            "name": "Ekmek Arası Tavuk Döner Menü",
+            "description": "Ekmek arası tavuk döner, çiğ köfte, tercih edeceğiniz tatlı ve kutu içecek (330 ml) ile",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645093609_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bdaa10f17225e1f313a9",
+            "name": "Cheddarlı Tavuk Döner Dürüm Menü",
+            "description": "Cheddarlı tavuk döner dürüm, çiğ köfte, tercih edeceğiniz tatlı ve kutu içecek (330 ml)",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645309677_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda8089c64ba53778b6d",
+            "name": "Efsane 3'lü Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm (3 parça), çiğ köfte, tercih edeceğiniz tatlı ve kutu içecek (330 ml) ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617644992223_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bdacfb6dd9e2cadd34bc",
+            "name": "Dürüm Menü 2",
+            "description": "Tavuk döner dürüm (2 parça), tatlı ve kutu içecek (330 ml) ile",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bda913c9aecb1a243d38",
+            "name": "Tavuk Döner (500 g) Menü",
+            "description": "Tavuk döner (500 g), ekmek (2 adet) veya lavaş (2 adet) ve içecek (1 L) ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bdab93962837b1b688e2",
+            "name": "Tavuk Izgara (500 g) Menü",
+            "description": "Tavuk ızgara (500 g), ekmek (2 adet) veya  lavaş (2 adet) ve içecek (1 L) ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f32bd3d98ff38d98533afc9",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "5f32bd8df598aa935a301cc8",
+            "name": "Tavuk Döner Dürüm",
+            "description": "Domates, soğan, yeşillik ve turşu ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645412864_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8d572e4c1669c3d59c",
+            "name": "Ekmek Arası Tavuk Döner",
+            "description": "Tavuk döner (100 g), domates, cin biber, turşu, yeşillik ve soğan ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645114161_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8bfb6dd97d47dd34a4",
+            "name": "Hatay Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), sos, yeşillik, mayonez, domates ve soğan ile",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645369973_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8cd6022753c9d31f15",
+            "name": "Cheddarlı Tavuk Döner Dürüm",
+            "description": "Cheddar peyniri, sos, mayonez, yeşillik, soğan ve domates ile",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645282466_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8b987696fc628f3eef",
+            "name": "3'lü SSK Tavuk Döner Dürüm",
+            "description": "Tavuk döner, sos, soğan ve kaşar peyniri ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617645450071_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8e98769686c38f3ef1",
+            "name": "Hatay Usulü Kaşarlı Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), sos, kaşar peyniri, yeşillik, domates, mayonez ve soğan ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd8f98ff3810be33afe5",
+            "name": "3 Parça Tavuk Döner Dürüm (150 g)",
+            "description": "Tavuk döner dürüm (3 parça), yeşillik, domates, biber turşusu ve soğan ile",
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd90939628624cb688d2",
+            "name": "3'lü Kaşarlı Tavuk Döner Dürüm",
+            "description": "Tavuk döner dürüm (2 parça), kaşar peyniri, yeşillik, domates, biber turşusu ve soğan ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63516cda40e603436361ff70",
+            "name": "Izgara Köfte Dürüm",
+            "description": "Soğan, domates ve turşu ile",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f32bd3d619806a937f8e68a",
+        "name": "Çiğ Köfte",
+        "items": [
+          {
+            "id": "5f32bd9113c9aeb1a2243d36",
+            "name": "Çiğ Köfte (250 g)",
+            "description": "Lavaş (2 adet), nar ekşisi ve iceberg marul (çeyrek) ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd90572e4c8466c3d5a4",
+            "name": "Çiğ Köfte (500 g)",
+            "description": "Lavaş (4 adet), nar ekşisi ve iceberg marul (yarım) ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd92c15986884191884a",
+            "name": "Çiğ Köfte (1 kg)",
+            "description": "Lavaş (6 adet), nar ekşisi ve iceberg marul (yarım) ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6311f59410e6e1d0d746efcf",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "62dfc7f5013e73af0a122a10",
+            "name": "Köfte Dürüm",
+            "description": "Tercihe göre soğan, domates, turşu ve yeşillik ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64afe99becc0864fc0e52f63",
+            "name": "Ekmek Arası Ciger",
+            "description": "Soğan, domates ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64afe9e0ecc0860800e53dbb",
+            "name": "Dürüm Ciğer",
+            "description": "Soğan, domates, yeşillik ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "660475d06960f97b23db676c",
+            "name": "Ekmek Arası Köfte",
+            "description": "Soğan, domates, yeşillik, turşu",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f32bd3d5dc316a0119edb4e",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "5f32bd921b1b36bf0e57929e",
+            "name": "Sütlaç",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd93f598aa55e6301cd0",
+            "name": "Puding",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd93777d731058414ef7",
+            "name": "Kazandibi",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f32bd3dfd2b2818e3ab26b1",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5f32bd965dc316679f9edb7c",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 105.55,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd98c1598635dd91884c",
+            "name": "Coca Cola Şekersiz (330 ml)",
+            "description": null,
+            "price": 105.55,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "606223812bf0d23d1f801148",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 105.55,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd98fbb5bc9e5cb30a80",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 105.55,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd99fb6dd98ba4dd34b2",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 72.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9561980673c2f8e69a",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 33.34,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9903a8186f889237f7",
+            "name": "Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 94.44,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd961f35d3ce6a56c7fc",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 27.78,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd94eeb62ecba25d7bab",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 133.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd9504127257b7d9991f",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 133.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f32bd946b1e0fc621f38390",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 133.33,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eeccd0980802495bd2f5c6",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eeccd1980802eb9dd2f6a2",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

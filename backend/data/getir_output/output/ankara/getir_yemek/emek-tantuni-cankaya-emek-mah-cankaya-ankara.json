@@ -1,0 +1,527 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67f6d96db9e47c18b1712da8",
+  "name": "Emek Tantuni, Çankaya (Emek Mah.)",
+  "slug": "emek-tantuni-cankaya-emek-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Ev Yemekleri",
+    "Sokak Lezzetleri",
+    "Steak",
+    "Tantuni",
+    "Tavuk"
+  ],
+  "rating": 4.6,
+  "rating_count": 500,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "67f90ccbceac63ceacf6d9d8",
+            "name": "Ekmek Arası Et Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797629974_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90d55ceac63ceacf6da0e",
+            "name": "Et Tantuni Dürüm",
+            "description": "Biftek, domates, soğan, maydanoz ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797650938_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90dc1ceac63ceacf6da33",
+            "name": "Yoğurtlu Et Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz, yoğurt, salçalı sos ile",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797667387_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90e31ceac63ceacf6da89",
+            "name": "Ekmek Arası Tavuk Tantuni",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797685105_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90e6eceac63ceacf6daa6",
+            "name": "Tavuk Tantuni Dürüm",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797714015_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f90c44ceac63ceacf6d966",
+        "name": "Et Tantuniler",
+        "items": [
+          {
+            "id": "67f90ccbceac63ceacf6d9d8",
+            "name": "Ekmek Arası Et Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797629974_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90d55ceac63ceacf6da0e",
+            "name": "Et Tantuni Dürüm",
+            "description": "Biftek, domates, soğan, maydanoz ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797650938_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90dc1ceac63ceacf6da33",
+            "name": "Yoğurtlu Et Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz, yoğurt, salçalı sos ile",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797667387_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684c3a7eceac63ceac50ead7",
+            "name": "Bol Etli Ekmek Tantuni",
+            "description": "Biftek domates soğan maydanoz, turşu biber ve limon ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684c3acaceac63ceac50ecf8",
+            "name": "Bol Etli Dürüm Tantuni",
+            "description": "Biftek, domates soğan maydanoz, turşu biber ve limon ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684c3d03ceac63ceac50eedb",
+            "name": "Bol Etli Yoğurtlu Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz, yoğurt, yağ, sos, limon ve turşu biber ile ",
+            "price": 685.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68839a27ceac63ceac8a9612",
+            "name": "Kaşarlı Ekmek Arası Et Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz, kaşar peyniri, turşu biber ve limon ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68839a7fceac63ceac8a9653",
+            "name": "Kaşarlı Et Dürüm Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz, kaşar peyniri, turşu biber ve limon ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68839ac3ceac63ceac8a967a",
+            "name": "Kaşarlı Yoğurtlu Et Tantuni",
+            "description": "Biftek, domates, soğan, maydanoz, yoğurt, kaşar peyniri, turşu biber ve limon ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684bf66dceac63ceac507261",
+        "name": "Tavuk Tantuniler",
+        "items": [
+          {
+            "id": "67f90e31ceac63ceacf6da89",
+            "name": "Ekmek Arası Tavuk Tantuni",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797685105_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90e6eceac63ceacf6daa6",
+            "name": "Tavuk Tantuni Dürüm",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797714015_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f90ebfceac63ceacf6dac4",
+            "name": "Yoğurtlu Tavuk Tantuni",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz yoğurt, salça sos ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753797746426_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684c3d6fceac63ceac50ef21",
+            "name": "Bol Tavuklu Ekmek Tantuni",
+            "description": "bonfile domates soğan maydanoz turşu biber ve limon ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684c3e34ceac63ceac50ef8b",
+            "name": "Bol Tavuklu Dürüm Tantuni",
+            "description": "Tavuk biftek, domates soğan maydanoz, turşu biber ve limon ile\n",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684c3eafceac63ceac50efc8",
+            "name": "Bol Tavuklu Yoğurtlu Tantuni",
+            "description": "Tavuk biftek, domates soğan maydanoz, turşu biber ve limon ile\n",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68839b52ceac63ceac8a9742",
+            "name": "Kaşarlı Tavuk Tantuni Dürüm",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz, kaşar peyniri, turşu biber ve limon ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68839bbaceac63ceac8a97d2",
+            "name": "Kaşarlı Tavuk Ekmek Tantuni",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz, kaşar peyniri, turşu biber ve limon ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68839c03ceac63ceac8a980e",
+            "name": "Kaşarlı Yoğurtlu Tavuk Tantuni",
+            "description": "Tavuk bonfile, domates, soğan, maydanoz, yoğurt, kaşar peyniri, turşu biber ve limon ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f90c56ceac63ceacf6d96c",
+        "name": "Yan Lezzetler",
+        "items": [
+          {
+            "id": "67f9101fceac63ceacf6dbfc",
+            "name": "Patates Kızartması",
+            "description": "Ketçap, mayonez ile",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f90f9bceac63ceacf6db7f",
+            "name": "Nugget (6 adet)",
+            "description": "ketçap, mayonez ile",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f90fe3ceac63ceacf6dbcc",
+            "name": "Soğan Halkası (6 adet)",
+            "description": "Pane soğan halkası, ketçap, mayonez ile",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f90f58ceac63ceacf6db4d",
+            "name": "Karışık Aperatif Sepeti",
+            "description": "Patates kızartması, soğan halkası, nugget, ketçap, mayonez ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744375634737_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684bf67dceac63ceac50726e",
+        "name": "Tatlılar",
+        "items": [
+          {
+            "id": "684bfd7bceac63ceac5077c7",
+            "name": "Tiramisu",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684bfd8aceac63ceac507860",
+            "name": "Limonlu Cheesecake",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684bfdafceac63ceac50793d",
+            "name": "Frambuazlı Cheesecake",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f90c68ceac63ceacf6d974",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "67f91030ceac63ceacf6dc02",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749810846500_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f9104aceac63ceacf6dc0e",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749810866447_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f9105aceac63ceacf6dc25",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749810886142_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67f9106aceac63ceacf6dc32",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f910c1ceac63ceacf6dc50",
+            "name": "Cappy Karışık (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684bff04ceac63ceac507b32",
+            "name": "Cappy Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684bff10ceac63ceac507b40",
+            "name": "Cappy Vişne (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f910fbceac63ceacf6dcc3",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f9361fceac63ceacf707d3",
+            "name": "Şalgam Suyu Acısız (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f910d9ceac63ceacf6dc64",
+            "name": "Şalgam Suyu Acılı (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f91127ceac63ceacf6dd0d",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f9114eceac63ceacf6dd2b",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f91162ceac63ceacf6dd35",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684c33eaceac63ceac50cfda",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "684c34e4ceac63ceac50e4c7",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685bc6aeceac63ceac5e31ea",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,672 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "69622a60834c50dd83831165",
+  "name": "Cosmos Coffee Chocoatte, Konak (Kemal Reis Mah.)",
+  "slug": "cosmos-coffee-chocoatte-konak-kemal-reis-mah-konak-izmir",
+  "cuisine_types": [
+    "Kahve & İçecek"
+  ],
+  "rating": 4.3,
+  "rating_count": 10,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6969f81bceac63ceaca208e2",
+            "name": "White Cake Mos",
+            "description": "Kek, krema, çilek, muz, beyaz belçika çikolatası, antep fıstığı",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769437052736_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69e771e5ceac63ceac265bf3",
+            "name": "Lotuslu Dondo",
+            "description": null,
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776775627147_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f817ceac63ceaca208db",
+            "name": "Cicibebeli Cream Cup",
+            "description": "Cicibebe, krema, belçika çikolatası",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768929975689_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f821ceac63ceaca208ee",
+            "name": "Satürn",
+            "description": "Kek, özel krema, çilek, muz, tel kadayıf, belçika çikolatası, antep fıstığı",
+            "price": 359.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930257113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f825ceac63ceaca208f5",
+            "name": "Iced Americano (Büyük Boy)",
+            "description": null,
+            "price": 136.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930535337_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f813ceac63ceaca208d3",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6969f819ceac63ceaca208df",
+            "name": "Classic Magnolia",
+            "description": "Cicibebe, mag kreması, çilek, muz",
+            "price": 249.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6969f81aceac63ceaca208e0",
+            "name": "Oreolu Magnolia",
+            "description": "Oreo parçaları, mag kreması, çilek, muz",
+            "price": 249.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777634939178_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f81aceac63ceaca208e1",
+            "name": "Cake Magnolia",
+            "description": "Özel kek, mag kreması, çilek, muz",
+            "price": 249.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770543110980_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f81bceac63ceaca208e2",
+            "name": "White Cake Mos",
+            "description": "Kek, krema, çilek, muz, beyaz belçika çikolatası, antep fıstığı",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769437052736_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f81bceac63ceaca208e4",
+            "name": "Cake Mos",
+            "description": "Kek, krema, çilek, muz, sütlü belçika çikolatası, çıtır kırıkları",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769437086180_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f81cceac63ceaca208e5",
+            "name": "Dark Cake Mos",
+            "description": "Kek, krema, çilek, muz, bitter belçika çikolatası, çıtır kırıkları",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769437136082_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f81dceac63ceaca208e6",
+            "name": "Sudoku",
+            "description": "Kek, krema, çilek, muz, sütlü ve beyaz belçika çikolatası, çıtır kırıkları, antep fıstığı",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769437173631_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696fc1d2ceac63ceaca74e96",
+            "name": "Çikolatalı Muffin",
+            "description": null,
+            "price": 128.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769437197341_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696fc295ceac63ceaca74f2b",
+            "name": "Brownie",
+            "description": "Bitter belçika çikolatası ve tereyağı",
+            "price": 419.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769437219018_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696fc480ceac63ceaca7506b",
+            "name": "CosBroww",
+            "description": "Günlük taze doğranmış Brownie üzerine, Çilek, Muz, tel kadayıf ve Sütlü Belçika Çikolatası çıtırkırıkları",
+            "price": 388.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69877cbeceac63ceacc1093f",
+            "name": "Bargella",
+            "description": "Günlük taze browni, muz, özel mag kreması, sütlü Belçika çikolatası ve fındık",
+            "price": 419.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770486952486_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69dbc722ceac63ceac16b369",
+        "name": "Dondurmalı Tatlılar",
+        "items": [
+          {
+            "id": "69dbd076ceac63ceac16b83e",
+            "name": "Cake Dondo",
+            "description": "Vanilyalı dondurma tabanı, kek parçacıkları, taze çilek ve muz ile. İçinde hafif kavrulmuş tel kadayıf ve çıtır dokular, lezzete keyifli bir kontrast. Üzeri sütlü Belçika çikolatası ile kaplı, zengin ve dengeli bir tat. Hafif ama tatmin edici bir tatlı deneyimi",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776011382405_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69e7710fceac63ceac265a1a",
+            "name": "Cicibebeli Dondo",
+            "description": "Kakaolu dondurma, cicibebe bisküvi tozu, taze çilek, muz, beyaz çikolata akışkanlığı ve antep fıstığı serpiştirmesi, çıtır ve şık sunum, her kaşıkta farklı lezzet katmanları",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777719937298_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69e771e5ceac63ceac265bf3",
+            "name": "Lotuslu Dondo",
+            "description": null,
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776775627147_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69e77236ceac63ceac265c29",
+            "name": "Oreolu Dondo",
+            "description": null,
+            "price": 329.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776775717409_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f812ceac63ceaca208d2",
+        "name": "Cream Cup",
+        "items": [
+          {
+            "id": "6969f817ceac63ceaca208db",
+            "name": "Cicibebeli Cream Cup",
+            "description": "Cicibebe, krema, belçika çikolatası",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768929975689_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f818ceac63ceaca208dc",
+            "name": "Lotus Bisküvili Cream Cup",
+            "description": "Lotus bisküvi, krema ve belçika çikolatası",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930001997_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f818ceac63ceaca208dd",
+            "name": "Kek Parçacıklı Cream Cup",
+            "description": "Kek kırıkları, krema, belçika çikolatası",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930024517_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f814ceac63ceaca208d4",
+        "name": "Special Tatlı",
+        "items": [
+          {
+            "id": "6969f81eceac63ceaca208e9",
+            "name": "Galaxy",
+            "description": "Cicibebe, çilek, kek, beyaz çikolata, özel krema, muz, belçika çikolatası, oreo parçaları",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930058501_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f81eceac63ceaca208ea",
+            "name": "Vega",
+            "description": "Cicibebe, özel krema, çilek, muz, oreo kırıkları, belçika çikolatası",
+            "price": 347.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930072361_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f81fceac63ceaca208eb",
+            "name": "Black Hole",
+            "description": "Kek parçacıkları, çilek, özel mag kreması, muz, belçika çikolatası ve çıtır kırıkları",
+            "price": 349.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930101937_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f820ceac63ceaca208ec",
+            "name": "Polaris",
+            "description": "Çilek, muz, belçika çikolatası, çıtır kırıkları",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930126053_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f820ceac63ceaca208ed",
+            "name": "Dark Galaxy",
+            "description": "Cicibebe, özel krema, çilek, bitter çikolata, oreo parçaları, muz, belçika çikolatası",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930236011_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f821ceac63ceaca208ee",
+            "name": "Satürn",
+            "description": "Kek, özel krema, çilek, muz, tel kadayıf, belçika çikolatası, antep fıstığı",
+            "price": 359.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930257113_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f814ceac63ceaca208d5",
+        "name": "Cheesecakes",
+        "items": [
+          {
+            "id": "6969f822ceac63ceaca208ef",
+            "name": "Limonlu Cheesecake",
+            "description": "Dilim",
+            "price": 289.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769529530525_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f822ceac63ceaca208f0",
+            "name": "Frambuazlı Cheesecake",
+            "description": "Dilim",
+            "price": 289.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769529925352_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f823ceac63ceaca208f1",
+            "name": "Çikolatalı Cheesecake",
+            "description": "Dilim",
+            "price": 287.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776774368709_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f815ceac63ceaca208d6",
+        "name": "Soğuk Kahve",
+        "items": [
+          {
+            "id": "6969f824ceac63ceaca208f3",
+            "name": "Iced Latte (Büyük Boy)",
+            "description": null,
+            "price": 148.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6969f825ceac63ceaca208f4",
+            "name": "Iced Flat White (Büyük Boy)",
+            "description": null,
+            "price": 159.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6969f825ceac63ceaca208f5",
+            "name": "Iced Americano (Büyük Boy)",
+            "description": null,
+            "price": 136.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930535337_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f826ceac63ceaca208f7",
+            "name": "Iced Caramel Macchiato (Büyük Boy)",
+            "description": null,
+            "price": 159.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930569742_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f826ceac63ceaca208f8",
+            "name": "Iced White Mocha (Büyük Boy)",
+            "description": null,
+            "price": 169.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930587396_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f827ceac63ceaca208f9",
+            "name": "Iced Mocha (Büyük Boy)",
+            "description": null,
+            "price": 159.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930614136_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f815ceac63ceaca208d7",
+        "name": "Sıcak Kahve",
+        "items": [
+          {
+            "id": "6969f828ceac63ceaca208fc",
+            "name": "Latte (Orta Boy)",
+            "description": null,
+            "price": 124.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930669817_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f829ceac63ceaca208fd",
+            "name": "Flat White (Orta Boy)",
+            "description": null,
+            "price": 128.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6969f829ceac63ceaca208fe",
+            "name": "Americano (Orta Boy)",
+            "description": null,
+            "price": 114.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930872879_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f82aceac63ceaca208ff",
+            "name": "Caramel Macchiato (Orta Boy)",
+            "description": null,
+            "price": 134.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930898822_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f82aceac63ceaca20900",
+            "name": "White Mocha (Orta Boy)",
+            "description": null,
+            "price": 134.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768930915051_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f82bceac63ceaca20901",
+            "name": "Mocha (Orta Boy)",
+            "description": null,
+            "price": 133.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6969f82cceac63ceaca20903",
+            "name": "Filtre Kahve (Orta Boy)",
+            "description": null,
+            "price": 109.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69724f28ceac63ceacaa4dac",
+            "name": "Espresso (Double)",
+            "description": null,
+            "price": 89.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f816ceac63ceaca208d8",
+        "name": "Dondurma",
+        "items": [
+          {
+            "id": "6969f82dceac63ceaca20906",
+            "name": "Algida Maraş Usulü Cup (100 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "696fc0c1ceac63ceaca74dc6",
+            "name": "Sade Dondurma (1 Top)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "696fc0e1ceac63ceaca74de7",
+            "name": "Sade Dondurma (2 Top)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "696fc11aceac63ceaca74e14",
+            "name": "Kakaolu Dondurma (1 Top)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "696fc12cceac63ceaca74e21",
+            "name": "Kakaolu Dondurma (2 Top)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6969f817ceac63ceaca208d9",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6969f832ceac63ceaca2090f",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552912843_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f831ceac63ceaca2090d",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552881440_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f831ceac63ceaca2090e",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552857308_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f830ceac63ceaca2090c",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 93.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552930192_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f82eceac63ceaca20909",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552829231_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f935ceac63ceaca20a3e",
+            "name": "Elmalı Soda (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552753994_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f948ceac63ceaca20a4d",
+            "name": "Karpuz & Çilek Soda (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552771892_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6969f82fceac63ceaca2090a",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768552899852_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

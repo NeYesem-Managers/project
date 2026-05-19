@@ -1,0 +1,956 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "681b035754ad7e129d1d741b",
+  "name": "Pizza House, Fatih (Hırka-i Şerif Mah.)",
+  "slug": "pizza-house-fatih-hirka-i-serif-mah-fatih-istanbul",
+  "cuisine_types": [
+    "Deniz Ürünleri",
+    "Kahvaltı",
+    "Pizza",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "681dd3dfceac63ceac1d6a0c",
+        "name": "Pizza (Küçük Boy)",
+        "items": [
+          {
+            "id": "681dd3e2ceac63ceac1d6a11",
+            "name": "Margherita Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, mozzarella peyniri",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e2ceac63ceac1d6a12",
+            "name": "Mantarlı Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, mantar, sosis, mısır, domates, mozzarella peyniri",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e3ceac63ceac1d6a13",
+            "name": "Jalapeno Biberli Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, mantar, pepperoni, jalapeno biber, mozzarella peyniri",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e3ceac63ceac1d6a14",
+            "name": "Sebzeli Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, mantar, zeytin, mısır, soğan, biber, mozzarella peyniri",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e4ceac63ceac1d6a15",
+            "name": "Sucuklu Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, sucuk, sosis, mısır, mozzarella peyniri, zeytin",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e4ceac63ceac1d6a16",
+            "name": "Zeytinli Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, zeytin, mantar, pepperoni, biber, soğan, domates",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e5ceac63ceac1d6a17",
+            "name": "Beyaz Peynirli Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, mantar, mantar, beyaz peynir, zeytin, domates, biber, mozzarella peyniri",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e6ceac63ceac1d6a19",
+            "name": "Tavuklu Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, tavuk, domates, biber, mozzarella peyniri",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e6ceac63ceac1d6a1a",
+            "name": "Kavurmalı Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, kavurma, domates, soğan, mozzarella peyniri",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e7ceac63ceac1d6a1b",
+            "name": "Pastırmalı Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, pastırma, soğan, mantar, biber, sucuk, mozzarella peyniri",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e7ceac63ceac1d6a1c",
+            "name": "Ton Balıklı Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, ton balığı, mısır, soğan, mozzarella peyniri",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e8ceac63ceac1d6a1d",
+            "name": "Küp Sucuklu Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, mantar, küp sucuk, jalapeno biber, mozzarella peyniri",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3e8ceac63ceac1d6a1e",
+            "name": "Karışık Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, mantar, pepperoni, sosis, mısır, domates, biber, mozzarella peyniri",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681dd3e0ceac63ceac1d6a0d",
+        "name": "Pizza (Orta Boy)",
+        "items": [
+          {
+            "id": "681dd3e9ceac63ceac1d6a1f",
+            "name": "Margherita Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, mozzarella peyniri",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3eaceac63ceac1d6a22",
+            "name": "Mantarlı Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, mantar, sosis, mısır, domates, mozzarella peyniri",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3eaceac63ceac1d6a23",
+            "name": "Jalapeno Biberli Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, mantar, pepperoni, jalapeno biber, mozzarella peyniri ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3ebceac63ceac1d6a24",
+            "name": "Sebzeli Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, mantar, zeytin, mısır, soğan, biber, mozzarella peyniri",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3ecceac63ceac1d6a25",
+            "name": "Karışık Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, mantar, pepperoni, sosis, mısır, domates, biber, mozzarella peyniri",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3ecceac63ceac1d6a26",
+            "name": "Sucuklu Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, sucuk, sosis, mısır, mozzarella peyniri, zeytin",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3edceac63ceac1d6a27",
+            "name": "Zeytinli Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, zeytin, mantar, pepperoni, biber, soğan, domates, beyaz peynir",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3edceac63ceac1d6a28",
+            "name": "Beyaz Peynirli Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, mantar, mantar, beyaz peynir, zeytin, domates, biber, mozzarella peyniri",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3eeceac63ceac1d6a2a",
+            "name": "Tavuklu Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, tavuk, domates, biber, mozzarella peyniri",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3eeceac63ceac1d6a2b",
+            "name": "Kavurmalı Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, kavurma, domates, soğan, mozzarella peyniri",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3efceac63ceac1d6a2c",
+            "name": "Pastırmalı Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, pastırma, soğan, mantar, biber, sucuk, mozzarella peyniri",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f0ceac63ceac1d6a2d",
+            "name": "Ton Balıklı Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, ton balığı, mısır, soğan, mozzarella peyniri",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f0ceac63ceac1d6a2e",
+            "name": "Küp Sucuklu Pizza (Orta Boy)",
+            "description": "Özel pizza sosu, mantar, küp sucuk, jalapeno biber, mozzarella peyniri",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681dd3e0ceac63ceac1d6a0e",
+        "name": "Pizza (Büyük Boy)",
+        "items": [
+          {
+            "id": "681dd3f1ceac63ceac1d6a2f",
+            "name": "Margherita Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, mozzarella peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f1ceac63ceac1d6a30",
+            "name": "Mantarlı Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, mantar, sosis, mısır, domates, mozzarella peyniri",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f2ceac63ceac1d6a32",
+            "name": "Jalapeno Biberli Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, mantar, pepperoni, jalapeno biber, mozzarella peyniri",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f3ceac63ceac1d6a33",
+            "name": "Sebzeli Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, mantar, zeytin, mısır, soğan, biber, mozzarella peyniri",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f3ceac63ceac1d6a34",
+            "name": "Karışık Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, mantar, pepperoni, sosis, mısır, domates, biber, mozzarella peyniri",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f4ceac63ceac1d6a35",
+            "name": "Sucuklu Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, sucuk, sosis, mısır, mozzarella peyniri, zeytin",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f4ceac63ceac1d6a36",
+            "name": "Zeytinli Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, zeytin, mantar, pepperoni, biber, soğan, domates, peynir",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f5ceac63ceac1d6a37",
+            "name": "Beyaz Peynirli Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, mantar, mantar, beyaz peynir, zeytin, domates, biber, mozzarella peyniri",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f5ceac63ceac1d6a38",
+            "name": "Tavuklu Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, tavuk, domates, biber, mozzarella peyniri",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f6ceac63ceac1d6a39",
+            "name": "Kavurmalı Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, kavurma, domates, soğan, mozzarella peyniri",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f7ceac63ceac1d6a3a",
+            "name": "Pastırmalı Pizza (BüyüK Boy)",
+            "description": "Özel pizza sosu, pastırma, soğan, mantar, biber, sucuk, mozzarella peyniri",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f7ceac63ceac1d6a3b",
+            "name": "Ton Balıklı Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, ton balığı, mısır, soğan, mozzarella peyniri",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f8ceac63ceac1d6a3c",
+            "name": "Küp Sucuklu Pizza (Büyük Boy)",
+            "description": "Özel pizza sosu, mantar, sucuk, jalapeno biber, mozzarella peyniri",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681dd3e1ceac63ceac1d6a10",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "681dd3f9ceac63ceac1d6a3e",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786029284_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd3faceac63ceac1d6a3f",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786095272_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd3f9ceac63ceac1d6a3d",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786058158_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd3feceac63ceac1d6a48",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786137205_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd3ffceac63ceac1d6a4a",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786159886_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd3feceac63ceac1d6a49",
+            "name": "Pepsi Light (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3fbceac63ceac1d6a41",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786191964_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd3fcceac63ceac1d6a42",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd401ceac63ceac1d6a4e",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786232450_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd3fcceac63ceac1d6a45",
+            "name": "Cappy Atom (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dda3bceac63ceac1d7475",
+            "name": "Cappy Karışık (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd9d0ceac63ceac1d7424",
+            "name": "Cappy Portakal (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dda0aceac63ceac1d744f",
+            "name": "Cappy Şeftali (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dda25ceac63ceac1d7460",
+            "name": "Cappy Kayısı (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd9e5ceac63ceac1d743b",
+            "name": "Cappy Vişne (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd402ceac63ceac1d6a50",
+            "name": "Tropicana Portakal (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddad5ceac63ceac1d74ca",
+            "name": "Tropicana Vişne (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddabeceac63ceac1d74b2",
+            "name": "Tropicana Şeftali (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddaaaceac63ceac1d74aa",
+            "name": "Tropicana Kayısı (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dda97ceac63ceac1d749f",
+            "name": "Tropicana Karışık (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3fdceac63ceac1d6a47",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddb61ceac63ceac1d753c",
+            "name": "Fuse Tea Karpuz (330 ml)",
+            "description": null,
+            "price": 49.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddb51ceac63ceac1d7532",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddb46ceac63ceac1d752d",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddbf0ceac63ceac1d75c0",
+            "name": "Lipton Ice Tea Mango (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddba8ceac63ceac1d7566",
+            "name": "Lipton Ice Tea Yeşil Çay (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd402ceac63ceac1d6a53",
+            "name": "Lipton Ice Tea Karadeniz Rüzgarı (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddbc4ceac63ceac1d756d",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddc14ceac63ceac1d75dd",
+            "name": "Lipton Ice Tea Mango & Egzotik Meyveler (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddbdcceac63ceac1d758a",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd3ffceac63ceac1d6a4b",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786275463_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd400ceac63ceac1d6a4c",
+            "name": "Fruko (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786323010_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd401ceac63ceac1d6a4f",
+            "name": "Tamek Vişne (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddcf2ceac63ceac1d7732",
+            "name": "Tamek Kayısı (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddd02ceac63ceac1d773c",
+            "name": "Tamek Şeftali (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681ddce0ceac63ceac1d7725",
+            "name": "Tamek Karışık (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd403ceac63ceac1d6a54",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd404ceac63ceac1d6a56",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd404ceac63ceac1d6a57",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd405ceac63ceac1d6a58",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd405ceac63ceac1d6a5a",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd406ceac63ceac1d6a5b",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786366957_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd407ceac63ceac1d6a5e",
+            "name": "Coca Cola Light (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786492905_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd409ceac63ceac1d6a62",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786546193_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd40aceac63ceac1d6a64",
+            "name": "Pepsi Zero Sugar (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786565699_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd40aceac63ceac1d6a63",
+            "name": "Pepsi Light (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd408ceac63ceac1d6a60",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786583291_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd408ceac63ceac1d6a61",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681dd40bceac63ceac1d6a65",
+            "name": "Yedigün (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786664394_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681dd40bceac63ceac1d6a67",
+            "name": "Fruko (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746786676725_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681de301ceac63ceac1d8990",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "681de314ceac63ceac1d8999",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

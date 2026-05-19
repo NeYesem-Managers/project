@@ -1,0 +1,400 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "698ee639704410f99cf6aa23",
+  "name": "Ye Gör Burger, Çankaya (Maltepe Mah.)",
+  "slug": "ye-gor-burger-cankaya-maltepe-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 3.2,
+  "rating_count": 5,
+  "min_order_amount": 260.0,
+  "delivery_fee": 51.99,
+  "delivery_time_min": 20,
+  "delivery_time_max": 30,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c49",
+            "name": "Classic Burger",
+            "description": "Ev yapımı burger köftesi (140 g), özel burger sos, turşu, iceberg marul, domates, patates kızartması, ketçap, mayonez ve tatlı ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739302519084_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c46",
+            "name": "Cheese Burger",
+            "description": "Ev yapımı burger köftesi (140 g), özel burger sos, turşu, iceberg marul, cheddar peyniri, domates, patates kızartması, ketçap, mayonez ve tatlı ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739302224003_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c4d",
+            "name": "Kaşarlı Patates Kızartması",
+            "description": null,
+            "price": 157.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6993064dceac63ceacd42c36",
+        "name": "Cajun Menü",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c66",
+            "name": "Cajun Menü 1",
+            "description": "Cajun tavuk (250 g), lavaş, soğan halkası (4 adet), patates kızartması, ranch sos, barbekü sos, ketçap, mayonez ve tatlı ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739304119948_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c5e",
+            "name": "Cajun Menü 2",
+            "description": "Cajun tavuk (500 g), lavaş, soğan halkası (6 adet), patates kızartması, ranch sos, barbekü sos, ketçap, mayonez ve tatlı ile",
+            "price": 950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739304186628_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c67",
+            "name": "Cajun Menü 3",
+            "description": "Cajun tavuk (1 kg), lavaş, soğan halkası (8 adet), patates kızartması, ranch sos, barbekü sos, ketçap, mayonez ve tatlı ile",
+            "price": 1800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739304252477_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6993064dceac63ceacd42c33",
+        "name": "Burger Menü",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c49",
+            "name": "Classic Burger",
+            "description": "Ev yapımı burger köftesi (140 g), özel burger sos, turşu, iceberg marul, domates, patates kızartması, ketçap, mayonez ve tatlı ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739302519084_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c46",
+            "name": "Cheese Burger",
+            "description": "Ev yapımı burger köftesi (140 g), özel burger sos, turşu, iceberg marul, cheddar peyniri, domates, patates kızartması, ketçap, mayonez ve tatlı ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739302224003_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c62",
+            "name": "Cajun Burger",
+            "description": "150 g cajun özel burger, (sos, turşu, iceberg, domates) yanında patates kızartması ketçap, mayonez ve tatlı ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6993064dceac63ceacd42c32",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c5c",
+            "name": "Midye (Adet)",
+            "description": "Limon ile",
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c45",
+            "name": "Midye (20 Adet)",
+            "description": "Limon ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c58",
+            "name": "Midye (10 Adet)",
+            "description": "Limon ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6993064dceac63ceacd42c31",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c44",
+            "name": "Soğan Halkası (8 Adet)",
+            "description": "Ketçap ve mayonez ile",
+            "price": 156.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739389693544_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c4e",
+            "name": "Soğan Halkası (12 Adet)",
+            "description": "Ketçap ve mayonez ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739389750785_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c43",
+            "name": "Soğan Halkası (6 Adet)",
+            "description": "Ketçap ve mayonez ile",
+            "price": 134.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739389841024_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c4c",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 144.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c4d",
+            "name": "Kaşarlı Patates Kızartması",
+            "description": null,
+            "price": 157.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6993064dceac63ceacd42c37",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c79",
+            "name": "Fırın Sütlaç",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6993064dceac63ceacd42c35",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c3b",
+            "name": "Sarımsak Sos",
+            "description": null,
+            "price": 13.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c56",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 12.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c41",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 12.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c3c",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 13.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c3f",
+            "name": "Ballı Hardal Sos",
+            "description": null,
+            "price": 13.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6993064dceac63ceacd42c30",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6993064dceac63ceacd42c51",
+            "name": "Coca Cola (250 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243781940_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c78",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243790515_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c3a",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 76.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243744953_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c42",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 76.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243804089_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c5b",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 36.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243830152_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c73",
+            "name": "Ayran (330 ml)",
+            "description": null,
+            "price": 76.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243874016_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c50",
+            "name": "Tombul Ayran (270 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243857442_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c3d",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 27.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243847367_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c64",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 135.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243754468_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6993064dceac63ceacd42c4f",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 135.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771243838279_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

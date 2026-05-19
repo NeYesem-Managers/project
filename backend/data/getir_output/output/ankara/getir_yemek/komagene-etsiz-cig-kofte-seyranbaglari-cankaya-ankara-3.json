@@ -1,0 +1,875 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "65d2fea4ac7774e817a0b4ce",
+  "name": "Komagene Etsiz Çiğ Köfte, Seyranbağları   ",
+  "slug": "komagene-etsiz-cig-kofte-seyranbaglari-cankaya-ankara-3",
+  "cuisine_types": [
+    "Çiğ Köfte"
+  ],
+  "rating": 3.3,
+  "rating_count": 20,
+  "min_order_amount": 220.0,
+  "delivery_fee": 52.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Zincir Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6708a6ceceac63ceac2806d0",
+            "name": "Dürüm Menü",
+            "description": "Çiğ Köfte Dürüm (90 g çiğ köfte, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos) ve Komagene Ayran (170 ml)",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464026948_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280862",
+            "name": "Mega Dürüm Menü",
+            "description": "Mega Çiğ Köfte Dürüm (125 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464039213_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2810c4",
+            "name": "Double Dürüm Menü",
+            "description": "Double Dürüm (175 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464058987_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280a91",
+            "name": "Ultra Mega Dürüm",
+            "description": "150 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464976387_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69648ffdceac63ceac992bef",
+        "name": "Kaçmaz Menü",
+        "items": [
+          {
+            "id": "69cbbb10ceac63ceac07142b",
+            "name": "Kaçmaz Menü",
+            "description": "(İndirim ödeme ekranında yansıyacaktır.) 3 çeyrek göbek marul, limon, 6 adet lavaş, 3 adet çiğ köfte sosu",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774959494558_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6708a6ceceac63ceac27fcbe",
+        "name": "Dürümlü Menü",
+        "items": [
+          {
+            "id": "6708a6ceceac63ceac2806d0",
+            "name": "Dürüm Menü",
+            "description": "Çiğ Köfte Dürüm (90 g çiğ köfte, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos) ve Komagene Ayran (170 ml)",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464026948_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280862",
+            "name": "Mega Dürüm Menü",
+            "description": "Mega Çiğ Köfte Dürüm (125 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464039213_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280c1b",
+            "name": "Ultra Mega Dürüm Menü",
+            "description": "Ultra Mega Dürüm (150 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464048282_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2810c4",
+            "name": "Double Dürüm Menü",
+            "description": "Double Dürüm (175 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464058987_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2819d9",
+            "name": "Favori Çiğ Köfte Dürüm Menü",
+            "description": "Favori Çiğ Köfte Dürüm (90 g çiğ köfte, tek lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu) ve Komagene Ayran (170 ml)",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882659525_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281b3b",
+            "name": "Favori Double Dürüm Menü",
+            "description": "Favori Double Dürüm (175 g çiğ köfte, çift lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu) ve Komagene Ayran (170 ml)",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882661667_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281c6a",
+            "name": "Favori Mega Çiğ Köfte Dürüm Menü",
+            "description": "Favori Mega Çiğ Köfte Dürüm (125 g çiğ köfte, çift lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu) ve Komagene Ayran (170 ml)",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882662869_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281deb",
+            "name": "Favori Ultra Mega Dürüm Menü",
+            "description": "Favori Ultra Mega Dürüm (150 g çiğ köfte, çift lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu) ve Komagene Ayran (170 ml)",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882664031_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281fa4",
+            "name": "2 Mega Çiğ Köfte Dürüm Fırsatı 2",
+            "description": "2 adet Mega Çiğ Köfte Dürüm (125 g çiğ köfte, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos ) ve Pepsi (1 L)",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464182046_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac282058",
+            "name": "Doritos'lu Çiğ Köfte Dürüm Menü",
+            "description": "Doritos'lu Çiğ Köfte Dürüm (90 g çiğ köfte, Doritos taco, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos) ve Komagene Ayran (170 ml)",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464071463_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2820fb",
+            "name": "Doritos'lu Double Dürüm Menü",
+            "description": "Doritos'lu Double Dürüm (175 g çiğ köfte, Doritos taco, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464107745_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac282172",
+            "name": "Doritos'lu Ultra Mega Dürüm Menü",
+            "description": "Doritos'lu Ultra Mega Dürüm (150 g çiğ köfte, Doritos taco, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464095854_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2821b1",
+            "name": "Doritos'lu Mega Çiğ Köfte Dürüm Menü",
+            "description": "Doritos'lu Mega Çiğ Köfte Dürüm (125 g çiğ köfte, Doritos taco, çift lavaş, tercih edeceğiniz 5 çeşit garnitür, tercih edeceğiniz 2 çeşit sos), Komagene Ayran (170 ml)",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464083243_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4d8fceac63ceac4dcde3",
+            "name": "Eti Crax - Chili Lime Çiğ Köfte Dürüm Menü",
+            "description": "Eti Crax - Chili Lime Çiğ Köfte Dürüm (90 g çiğ köfte, Eti Crax Chili lime, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür, 2 çeşit ücretsiz sos) ve komagene ayran (170 ml)",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777452516_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4e01ceac63ceac4dec95",
+            "name": "Eti Crax - Chili Lime Mega Çiğ Köfte Dürüm Menü",
+            "description": "Eti Crax - Chili Lime Mega Çiğ Köfte Dürüm (125 g çiğ köfte, Eti Crax Chili lime, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür, 2 çeşit ücretsiz sos) ve komagene ayran (170 ml)",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777462590_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4e71ceac63ceac4e0b29",
+            "name": "Eti Crax - Chili Lime Ultra Mega Çiğ Köfte Dürüm Menü",
+            "description": "Eti Crax - Chili Lime Ultra Mega Çiğ Köfte Dürüm (150 g çiğ köfte, Eti Crax Chili lime, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür, 2 çeşit ücretsiz sos) ve komagene ayran (170 ml)",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777472418_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4edaceac63ceac4e29bd",
+            "name": "Eti Crax - Chili Lime Double Çiğ Köfte Dürüm Menü",
+            "description": "Eti Crax - Chili Lime Double Çiğ Köfte Dürüm (175 g çiğ köfte, Eti Crax Chili lime, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür, 2 çeşit ücretsiz sos) ve komagene ayran (170 ml)",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777481900_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281649",
+            "name": "Eti Canga Combo Menü",
+            "description": "2 Adet Çiğ Köfte Dürüm, 2 Adet Ayran 170 ml ve 2 Adet Eti Canga",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1699269277189_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac28001b",
+            "name": "Ülker Halley Combo Menü",
+            "description": "2 Adet Çiğ Köfte Dürüm, 2 Adet Ayran 170 ml ve 2 Adet Ülker Halley",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707113857994_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6708a6ceceac63ceac27fcec",
+        "name": "Çiğ Köfte Porsiyon Menü",
+        "items": [
+          {
+            "id": "6708a6ceceac63ceac2806aa",
+            "name": "Çiğ Köfte Menü (200 g)",
+            "description": "Çiğ Köfte (200 g), Komagene Ayran (170 ml)",
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721605274_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2808c4",
+            "name": "Çiğ Köfte Menü (600 g)",
+            "description": "Çiğ köfte (600 g) ve içecek (1 L)",
+            "price": 535.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721626143_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280cfa",
+            "name": "Aile Menü 1",
+            "description": "Çiğ köfte (1 kg) ve içecek (1 L)",
+            "price": 765.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721225159_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6708a6ceceac63ceac27fd04",
+        "name": "Çiğ Köfte",
+        "items": [
+          {
+            "id": "6708a6ceceac63ceac2805c8",
+            "name": "Çiğ Köfte (200 g)",
+            "description": "Çeyrek göbek marul, limon, 2 adet lavaş, 1 adet çiğ köfte sosu",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721451010_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2807b5",
+            "name": "Çiğ Köfte (400 g)",
+            "description": "Yarım göbek marul, limon, 4 adet lavaş, 2 adet çiğ köfte sosu",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721393808_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280cca",
+            "name": "Çiğ Köfte (600 g)",
+            "description": "3 çeyrek göbek marul, limon, 6 adet lavaş, 3 adet çiğ köfte sosu",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721416165_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280f94",
+            "name": "Çiğ Köfte (800 g)",
+            "description": "1 adet göbek marul, limon, 8 adet lavaş, 4 adet çiğ köfte sosu",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721486245_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2812eb",
+            "name": "Çiğ Köfte (1 kg)",
+            "description": "5 çeyrek göbek marul, limon, 10 adet lavaş, 5 adet çiğ köfte sosu",
+            "price": 670.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721319475_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281760",
+            "name": "Parti Boy Çiğ Köfte (1 kg & 500 g)",
+            "description": "5 adet çeyrek göbek marul, limon, 10 adet lavaş, 5 adet çiğ köfte sosu",
+            "price": 895.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720721647923_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6708a6ceceac63ceac27fd16",
+        "name": "Çiğ Köfte Tako",
+        "items": [
+          {
+            "id": "6708a6ceceac63ceac280736",
+            "name": "Doritoslu Çiğ Köfte Tako Menü 1",
+            "description": "2 Adet Doritoslu Çiğ Köfte Tako, Komagene Ayran (170 ml)",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464416573_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280970",
+            "name": "Doritoslu Çiğ Köfte Tako Menü 2",
+            "description": "4 adet Doritoslu çiğ köfte tako ve Pepsi (1 L)",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464426143_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280c67",
+            "name": "2’li Çiğ Köfte Tako Paketi",
+            "description": "2 adet çiğ köfte tako (tako lavaşı, çiğ Köfte, tako peyniri, meksika fasulyesi, burger sos)",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464371174_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281120",
+            "name": "2’li Doritoslu Çiğ Köfte Tako Paketi",
+            "description": "2 adet doritoslu çiğ köfte tako (tako lavaşı, çiğ köfte, tako peyniri, meksika fasulyesi, burger sos, doritos taco)",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464404819_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac28123d",
+            "name": "Çiğ Köfte Tako Menü 1",
+            "description": "2 Adet Çiğ Köfte Tako, Komagene Ayran (170 ml)",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464382487_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2814eb",
+            "name": "Çiğ Köfte Tako Menü 2",
+            "description": "2 çiğ köfte tako paketi (4 tako) ve Pepsi (1 L)",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464392862_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4ac4ceac63ceac4d4444",
+            "name": "2’li Eti Crax - Chili Lime Çiğ Köfte Tako Paketi",
+            "description": "2 Adet Eti Crax Chili Lime Çiğ Köfte Tako (Tako lavaşı, çiğ köfte, tako peyniri, Meksika fasulyesi, burger sos, Eti Crax Chili Lime)",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777530032_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4c9bceac63ceac4da45b",
+            "name": "Eti Crax - Chili Lime Çiğ Köfte Tako Menü 1",
+            "description": "2 Adet Eti Crax Chili Lime Çiğ Köfte Tako ve komagene ayran (170 ml)",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777520327_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4cf3ceac63ceac4daf18",
+            "name": "Eti Crax - Chili Lime Çiğ Köfte Tako Menü 2",
+            "description": "4 Adet Eti Crax Chili Lime Çiğ Köfte Tako ve pepsi (1 L)",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777539257_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6708a6ceceac63ceac27fd1f",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "6708a6ceceac63ceac28060e",
+            "name": "Çiğ Köfte Dürüm",
+            "description": "90 g çiğ köfte, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464953936_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2807f4",
+            "name": "Mega Çiğ Köfte Dürüm",
+            "description": "125 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464965019_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280a91",
+            "name": "Ultra Mega Dürüm",
+            "description": "150 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464976387_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac280f43",
+            "name": "Double Dürüm",
+            "description": "175 g çiğ köfte, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464987341_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac28156e",
+            "name": "Doritos'lu Double Dürüm",
+            "description": "175 g çiğ köfte, Doritos taco, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740465035610_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281721",
+            "name": "Doritos'lu Ultra Mega Dürüm",
+            "description": "150 g çiğ köfte, Doritos taco, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740465024557_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac28188f",
+            "name": "Doritos'lu Çiğ Köfte Dürüm",
+            "description": "90 g çiğ Köfte, Doritos taco, tek lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz  sos",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740464999994_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2819b7",
+            "name": "Doritos'lu Mega Çiğ Köfte Dürüm",
+            "description": "125 g çiğ köfte, Doritos taco, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz sos",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1740465011210_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac27fffd",
+            "name": "Favori Double Dürüm",
+            "description": "175 g çiğ köfte, çift lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882661118_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2829a0",
+            "name": "Favori Çiğ Köfte Dürüm",
+            "description": "90 g çiğ köfte, tek lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu",
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882660355_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2829f1",
+            "name": "Favori Mega Çiğ Köfte Dürüm",
+            "description": "125 g çiğ köfte, çift lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882662228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac282a24",
+            "name": "Favori Ultra Mega Dürüm",
+            "description": "150 g çiğ köfte, çift lavaş, göbek marul, mısır, maydanoz, nane, salatalık turşusu, közlenmiş biber, mor lahana, ekşi çiğ köfte sosu, limon ve çiğ köfte sosu",
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1702882663529_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4925ceac63ceac4cfada",
+            "name": "Eti Crax - Chili Lime Çiğ Köfte Dürüm",
+            "description": "90 g çiğ köfte, Eti Crax Chili lime, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz sos",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777567975_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a497cceac63ceac4d0515",
+            "name": "Eti Crax - Chili Lime Mega Çiğ Köfte Dürüm",
+            "description": "125 g çiğ köfte, Eti Crax Chili lime, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz sos",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777576334_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a49ebceac63ceac4d0f57",
+            "name": "Eti Crax - Chili Lime Ultra Mega Çiğ Köfte Dürüm",
+            "description": "150 g çiğ köfte, Eti Crax Chili lime, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz sos",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777587119_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671a4a2fceac63ceac4d19a8",
+            "name": "Eti Crax - Chili Lime Double Çiğ Köfte Dürüm",
+            "description": "175 g çiğ köfte, Eti Crax Chili lime, çift lavaş, tercih edeceğiniz 5 çeşit ücretsiz garnitür ve 2 çeşit ücretsiz sos",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729777597835_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6708a6ceceac63ceac27fb7a",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6708a6ceceac63ceac280d98",
+            "name": "Yedigün Portakal (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707914737897_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281b8d",
+            "name": "Komagene Ayran (170 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1668981922598_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281c88",
+            "name": "Komagene Ayran (270 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1668981932428_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281e20",
+            "name": "Bardak Limonata (240 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1585219852398_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac281f7e",
+            "name": "Kızılay Sade Soda (200 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1655732222062_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2820a8",
+            "name": "Soda Kızılay Limon (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1655732213719_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac28219c",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1655732227321_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac28224c",
+            "name": "Pepsi Zero Sugar (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706773921855_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac27fdf9",
+            "name": "7 Up (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725258837087_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2823c3",
+            "name": "Lipton Ice Tea Limon (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707915197909_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac282450",
+            "name": "Lipton Ice Tea Şeftali (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707915111412_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2824bc",
+            "name": "Dimes Meyve Suyu Karışık (250 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1655732340643_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2824ee",
+            "name": "Dimes Meyve Suyu Şeftali (250 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1655732342259_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac282523",
+            "name": "Dimes Meyve Suyu Vişne (250 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1655732343859_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac282546",
+            "name": "Komagene Acılı Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671457220415_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2825a4",
+            "name": "Komagene Acılı Turşu Suyu (300 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1653461437097_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2825cb",
+            "name": "Komagene Acılı Turşu Suyu (1 L)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1653461448084_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac2825f0",
+            "name": "Komagene Acılı Şalgam Suyu (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671457261563_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6708a6ceceac63ceac282621",
+            "name": "Komagene Acısız Şalgam Suyu (1 L)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671457283725_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "68637f89ceac63ceac68b038",
+            "name": "Avoya Sade Soda (200 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751351230927_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e37291ceac63ceacf95098",
+            "name": "Lipton Ice Tea Şeftali Kutu (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759735052369_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ae65bfceac63ceacefc8b9",
+            "name": "Capri-Sun Safari (200 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773036984514_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,865 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "5fd47dd7a70ce420accc3076",
+  "name": "Bi' Döner, Yenimahalle (Gazi Mah.)",
+  "slug": "bi-doner-yenimahalle-gazi-mah-yenimahalle-ankara",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 4.3,
+  "rating_count": 1750,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "689722ccceac63ceaca69509",
+            "name": "Avantajlı Hatay Usulü Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü tavuk döner dürüm (80 g), seçeceğin yan lezzet, biber turşusu, seçeceğin içecek (330 ml)",
+            "price": 427.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652145932_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689722fdceac63ceaca69525",
+            "name": "Avantajlı Zurna Dürüm Menü",
+            "description": "Seçeceğin zurna tavuk döner dürüm (110 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet, biber turşusu ile",
+            "price": 463.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652162895_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6897232dceac63ceaca6954c",
+            "name": "Avantajlı Ekmek Arası Döner Menü",
+            "description": "Ekmek arası tavuk döner (80 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet, biber turşusu ile",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652178566_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6897235eceac63ceaca6958c",
+            "name": "Avantajlı Gobit Ekmek Tavuk Döner Menü",
+            "description": "Gobit ekmeğinde tavuk döner (80 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet, biber turşusu ile",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652197016_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689f3fc0ceac63ceacac4768",
+            "name": "Avantajlı Mexico Taco Menü",
+            "description": "2 adet mexico taco (80 g), seçeceğiniz yan lezzet ve seçeceğin içecek ile",
+            "price": 468.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652265436_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff80a68b765dd73a9b0440b",
+        "name": "Avantajlı Combo Menüler",
+        "items": [
+          {
+            "id": "689722ccceac63ceaca69509",
+            "name": "Avantajlı Hatay Usulü Tavuk Döner Dürüm Menü",
+            "description": "Hatay usulü tavuk döner dürüm (80 g), seçeceğin yan lezzet, biber turşusu, seçeceğin içecek (330 ml)",
+            "price": 427.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652145932_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689722fdceac63ceaca69525",
+            "name": "Avantajlı Zurna Dürüm Menü",
+            "description": "Seçeceğin zurna tavuk döner dürüm (110 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet, biber turşusu ile",
+            "price": 463.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652162895_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6897232dceac63ceaca6954c",
+            "name": "Avantajlı Ekmek Arası Döner Menü",
+            "description": "Ekmek arası tavuk döner (80 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet, biber turşusu ile",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652178566_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6897235eceac63ceaca6958c",
+            "name": "Avantajlı Gobit Ekmek Tavuk Döner Menü",
+            "description": "Gobit ekmeğinde tavuk döner (80 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet, biber turşusu ile",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652197016_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6897238fceac63ceaca695b4",
+            "name": "Adana Dürüm Avantajlı Menü",
+            "description": "Seçeceğin adana dürüm (130 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652224899_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689723b1ceac63ceaca695ff",
+            "name": "Avantajlı Köfte Ekmek Menü",
+            "description": "Köfte ekmek (150 g), seçeceğin içecek (330 ml), seçeceğin yan lezzet",
+            "price": 567.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652248700_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689f3fc0ceac63ceacac4768",
+            "name": "Avantajlı Mexico Taco Menü",
+            "description": "2 adet mexico taco (80 g), seçeceğiniz yan lezzet ve seçeceğin içecek ile",
+            "price": 468.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652265436_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69244b34ceac63ceac4ebbd7",
+            "name": "Ankara Usulü Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm (80 g), biber turşusu ve seçeceğin kutu içecek ile",
+            "price": 445.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652438578_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69244bd4ceac63ceac4ebc88",
+            "name": "Mardin Dürüm Doyuran Menü",
+            "description": "Mardin dürüm (130 g), yoğurtlu köz patlıcan ve ezme ve seçeceğin kutu içecek ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652459183_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69244c1aceac63ceac4ebe29",
+            "name": "Tavuk Şiş Dürüm Menü",
+            "description": "Tavuk şiş (160 g), yoğurtlu köz patlıcan ve ezme ve seçeceğin kutu içecek ile",
+            "price": 508.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766652487150_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69244cbcceac63ceac4eca4c",
+            "name": "Izgara Köfte Dürüm Menü",
+            "description": "Izgara köfte dürüm (150 g), yoğurtlu köz patlıcan ve ezme ve seçeceğin kutu içecek ile",
+            "price": 567.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653570904_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69244d2bceac63ceac4eca70",
+            "name": "Tavuk Kanat Menü",
+            "description": "Tavuk kanat (200 g), yoğurtlu köz patlıcan ve ezme ve seçeceğin kutu içecek ile",
+            "price": 643.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653586575_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60522034bd0550bdf7da0298",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "60522254c95ba729e9df931b",
+            "name": "Hatay Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk Döner (80 gr.), patates kızartması, turşu, sarımsaklı mayonez, sos ile hazırlanır. Biber turşusu ile servis edilir",
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653817673_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64366a92e5f17a4770cfe452",
+            "name": "Kaşarlı Hatay Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), kaşar, patates kızartması, turşu, sarımsaklı mayonez ve sos ile; yanında biber turşusu",
+            "price": 373.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653861534_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64366a4e222c109fc5f0c98e",
+            "name": "Cheddarlı Tavuk Döner Dürüm",
+            "description": "Tavuk Döner (80 gr.), cheddar, patates kızartması, turşu, sarımsaklı mayonez, sos ile hazırlanır. Biber turşusu ile servis edilir",
+            "price": 373.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653884580_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "621a255910ec9d0b698a56c4",
+            "name": "Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk Döner (110 gr.), patates kızartması, turşu, sarımsaklı mayonez, sos ile hazırlanır. Biber turşusu ile servis edilir",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653902339_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64366b01e5f17a74f9cff6c9",
+            "name": "Cheddarlı Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk Döner (110 gr.), cheddar, patates kızartması, turşu, sarımsaklı mayonez, sos ile hazırlanır. Biber turşusu ile servis edilir",
+            "price": 391.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653929755_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64366ac1f4b4c1a57ff8e151",
+            "name": "3 Parça Hatay Usulü Tavuk Dürüm",
+            "description": "Tavuk Döner (120 gr. ), patates kızartması, turşu, sarımsaklı mayonez, sos ile hazırlanır. Biber turşusu ile servis edilir",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653944075_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "605221eb782ad96b09117701",
+            "name": "Ekmek Arası Tavuk Döner",
+            "description": "Tavuk Döner (80 gr.), domates, soğan, turşu ile hazırlanır. Biber turşusu ile servis edilir.",
+            "price": 292.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653962325_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "605222b00c7e33f988e34e9b",
+            "name": "Gobit Tavuk Döner",
+            "description": "Tavuk Döner (80 gr.), domates, soğan, turşu ile hazırlanır. Biber turşusu ile servis edilir",
+            "price": 292.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653977758_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "605223639dea6c370ba9480c",
+            "name": "Pide Üstü Tavuk Döner",
+            "description": "Tavuk Döner (100 gr.), bulgur pilavı, soğan, közlenmiş domates, közlenmiş biber, pide ekmek ile hazırlanır. Ezme yoğurtlu köz patlıcan salata ile servis edilir",
+            "price": 432.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654008437_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "642949f2e5f17a6dcd128874",
+            "name": "Vejetaryen Dürüm",
+            "description": "Cheddar, patates kızartması, turşu, sos ile hazırlanır. Biber turşusu ile servis edilir",
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654029537_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "655b3a69d2e58d4fbfc2b7d6",
+            "name": "Mexico Taco",
+            "description": "Tavuk Döner (80 gr.), tortilla, cheddar, acılı mayonez, domates, soğan, turşu 2 Adet olarak hazırlanır. Biber turşusu ile servis edilir",
+            "price": 364.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654045805_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689d9c50ceac63ceacaac918",
+            "name": "Kaşarlı Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk döner (110 g), kaşar peyniri, patates kızartması, turşu, sarımsaklı mayonez, sos, biber turşusu ile",
+            "price": 391.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654072147_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69244d63ceac63ceac4eca92",
+            "name": "Ankara Usulü Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), soğan, domates, turşu ve biber turşusu ile servis edilir",
+            "price": 342.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654092754_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60522101ff796ad59c90356c",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "605224a87664f2106c30629a",
+            "name": "Soslu Tavuk Şiş Dürüm",
+            "description": "Tavuk Şiş (160 gr.), domates, sumaklı soğan, köz biber ile hazırlanır",
+            "price": 405.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653607790_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "605223c594bb4e391e7b3b4d",
+            "name": "Adana Dürüm",
+            "description": "Adana Dürüm (130 gr.), domates, sumaklı soğan, köz biber ile hazırlanır",
+            "price": 472.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653629564_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62f4b94493981d96e753cd32",
+            "name": "Mardin Dürüm",
+            "description": "Mardin Dürüm (130 gr.), domates, sumaklı soğan, köz biber ile hazırlanır",
+            "price": 472.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653652134_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6052242cd285318652547eec",
+            "name": "Közlenmiş Patlıcanlı Adana Dürüm",
+            "description": "Adana Dürüm (130 gr.), közlenmiş patlıcan, domates, sumaklı soğan, köz biber ile hazırlanır",
+            "price": 504.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653669562_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "621a286f7ead9bc26c9d9ada",
+            "name": "Cheddar Adana Dürüm",
+            "description": "Adana Dürüm (130 gr.), cheddar, domates, sumaklı soğan, köz biber ile hazırlanır",
+            "price": 504.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653692214_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "621a28b1b7611c4bc2be0156",
+            "name": "Köfte Ekmek Arası",
+            "description": "Izgara Köfte Ekmek (150 gr.), domates, sumaklı soğan, köz biber ile hazırlanır",
+            "price": 463.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653720176_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68a04d90ceac63ceacacab10",
+        "name": "2'li Bi' Döner Menüleri",
+        "items": [
+          {
+            "id": "68a2ee26ceac63ceacadb9a1",
+            "name": "2'li Gobit Ekmek Döner Menü",
+            "description": "2 adet gobit ekmek arası tavuk döner (80 g), seçeceğn 2 adet yan lezzet, biber turşusu, seçeceğin içecek (1 L) ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654226937_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2f07fceac63ceacadbd40",
+            "name": "2'li Hatay Usulü Tavuk Döner Menü",
+            "description": "2 adet hatay usulü tavuk döner dürüm (80 g), seçeceğin 2 adet yan lezzet, biber turşusu, seçeceğin içecek (1 L) ile",
+            "price": 652.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654247759_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2f0bdceac63ceacadbd5a",
+            "name": "2'li Mexico Taco Menü",
+            "description": "4 adet mexico taco, seçeceğin 2 adet yan lezzet, seçeceğiniz içecek (1 L)",
+            "price": 729.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654266516_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2f0f8ceac63ceacadbd83",
+            "name": "2'li Adana Dürüm Menü",
+            "description": "2 adet adana dürüm, seçeceğin 2 adet yan lezzet, içecek (1 L)",
+            "price": 940.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654282703_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2f2a3ceac63ceacadbf09",
+            "name": "2'li Ekmek Arası Tavuk Döner Menü",
+            "description": "2 adet ekmek arası tavuk döner (80 g), 2 adet seçeceğin yan lezzet, biber turşusu, seçeceğin içecek (1 L) ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654300713_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2f2f3ceac63ceacadbf1b",
+            "name": "2'li Zurna Dürüm Menü",
+            "description": "2 adet zurna tavuk döner dürüm (120 g), 2 adet seçeceğin yan lezzet, biber turşusu ve seçeceğin içecek (1 L) ile",
+            "price": 715.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654318793_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "610acba3b3f39069577187bb",
+        "name": "Kebap",
+        "items": [
+          {
+            "id": "614ef5a458fc1b20a9c82782",
+            "name": "Adana Kebap",
+            "description": "Adana Kebap (170 gr.), bulgur pilavı, soğan, közlenmiş domates, közlenmiş biber, pide ekmek ile hazırlanır. Ezme, yoğurtlu köz patlıcan, salata ile servis edilir",
+            "price": 535.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653742855_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62f4b92c93981d220e53c8c3",
+            "name": "Mardin Kebap",
+            "description": "Mardin Kebap (170 gr.), bulgur pilavı, soğan, közlenmiş domates, közlenmiş biber, pide ekmek ile hazırlanır. Ezme, yoğurtlu köz patlıcan, salata ile servis edilir",
+            "price": 535.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653757490_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "614ef5d3361005eaf00e9398",
+            "name": "Tavuk Şiş",
+            "description": "Tavuk Şiş (200 gr.), bulgur pilavı, soğan, közlenmiş domates, közlenmiş biber, pide ekmek ile hazırlanır. Ezme, yoğurtlu köz patlıcan, salata ile servis edilir",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653779097_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "614ef638068d117f8617a511",
+            "name": "Karışık Kebap",
+            "description": "Adana Kebap, Tavuk Şiş, Köfte, Kanat, Bulgur Pilavı, Soğan, Közlenmiş Domates, Közlenmiş Biber, Pide ile hazırlanır. Ezme, yoğurtlu köz patlıcan, salata ile servis edilir",
+            "price": 895.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766653792218_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff80a68b765dd07f4b0440d",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "5ff80a7362a03e5881a11bbd",
+            "name": "Tavuk Kanat",
+            "description": "Tavuk Kanat (200 gr.), bulgur pilavı, soğan, közlenmiş domates, közlenmiş biber, pide ekmek ile hazırlanır. Ezme, yoğurtlu köz patlıcan, salata ile servis edilir",
+            "price": 535.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766654111287_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff80a68fd88ae1bb86bb0e4",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "5ff80a74b765dd0839b0440f",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689f0c39ceac63ceacabfeca",
+            "name": "6'lı Soğan Halkası",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770033873064_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689f0c59ceac63ceacabfedf",
+            "name": "Mozzarella Stick (3 Adet)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770033895986_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689f0c69ceac63ceacabfee8",
+            "name": "6'lı Patates Kroket",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770034019872_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff80a6835e580315844383f",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6899d416ceac63ceaca7b758",
+            "name": "Kazandibi",
+            "description": "125 g Kazandibi",
+            "price": 103.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847354509_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6899d428ceac63ceaca7b793",
+            "name": "Hamsiköy Sütlacı",
+            "description": "125 gram",
+            "price": 103.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770041748765_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6899d435ceac63ceaca7b79e",
+            "name": "Supangle",
+            "description": "125g Supangle",
+            "price": 103.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847294582_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff80a68937d1ba0efbc7986",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "5ff80a773cc99f44d2cc17e5",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 58.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a794a4dfaae19aabe38",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a77757a6ca3d660493b",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a795f0ab4eadfe74071",
+            "name": "Coca Cola Şekersiz (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a76f73b3312ead07b20",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770041643657_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a75fa8f16c9600310b4",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770041613544_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a78fa8f16248e0310b6",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a76fd88ae12d86bb0e6",
+            "name": "Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 81.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a78def388388bdf25a9",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 22.48,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5ff80a7a3c3b6eb95c616e44",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 18.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2ee9aceac63ceacadba18",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 126.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770041783620_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2eed1ceac63ceacadbaa5",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 126.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770041783837_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2eef5ceac63ceacadbabe",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 126.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770041928656_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a2ef2cceac63ceacadbb40",
+            "name": "Eker Ayran (1 L)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770041673570_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eecc925c36d73311afdd27",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eecc935c36d7e094afde21",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69ca6b41ceac63ceac05787c",
+        "name": "Turşu",
+        "items": [
+          {
+            "id": "69ca6ba5ceac63ceac057b66",
+            "name": "Kelek Turşusu",
+            "description": "Porsiyon kelek turşusu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873497817_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ca6bc2ceac63ceac057b84",
+            "name": "Karışık Turşu",
+            "description": "Porsiyon karışık turşu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873533816_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ca6bd8ceac63ceac057c7d",
+            "name": "Çağla Turşusu",
+            "description": "Porsiyon çağla turşusu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873555631_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ca6bf0ceac63ceac057c91",
+            "name": "Cin Biber Turşusu",
+            "description": "Porsiyon cin biber turşu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873579634_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ca6c0dceac63ceac057cb2",
+            "name": "Kiraz Biber Turşusu",
+            "description": "Porsiyon kiraz biber turşusu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873606125_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ca6c26ceac63ceac057ccf",
+            "name": "Jalapeno",
+            "description": "Porsiyon jalapeno turşu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873635043_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ca6c3dceac63ceac057f7f",
+            "name": "Pancar Turşusu",
+            "description": "Porsiyon pancar turşusu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873657769_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ca6c53ceac63ceac0580d7",
+            "name": "Salatalık Turşusu",
+            "description": "Porsiyon salatalık turşusu",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774873679544_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

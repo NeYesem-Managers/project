@@ -1,0 +1,952 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6853c6759c3956790bb80cb3",
+  "name": "Adıvar Çankaya, (Kavaklıdere Mah.)   ",
+  "slug": "adivar-cankaya-kavaklidere-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 4.2,
+  "rating_count": 10,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 35,
+  "delivery_time_max": 45,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "685512c9ceac63ceac57f471",
+            "name": "Üç Çeyrek Ekmek Arası Tavuk Pirzola Menü",
+            "description": "Üç çeyrek ekmek arası tavuk pirzola (yeşillik, domates), ayran (300 ml)",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512aaceac63ceac57f2b7",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "685512b1ceac63ceac57f2c6",
+            "name": "Mercimek Çorbası",
+            "description": "Limon ile",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b1ceac63ceac57f2c7",
+            "name": "Tavuk Paça Çorbası",
+            "description": "Sarımsak, sirke ve limon ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b2ceac63ceac57f2c8",
+            "name": "Terbiyeli Tavuk Suyu Çorbası",
+            "description": "Ekmek ile",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512aaceac63ceac57f2ba",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "685512b3ceac63ceac57f2ca",
+            "name": "İkili Burger Menü",
+            "description": "Adıvar classic burger (2 adet), patates kızartması ve içecek",
+            "price": 1390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b4ceac63ceac57f2cc",
+            "name": "Kasap Köfte Menü",
+            "description": "Mercimek çorbası, kasap köfte, pirinç pilavı, közlenmiş domatesi közlenmiş biber, salata, yoğurtlu meze ve tercih edeceğin içecek (330 ml) ile",
+            "price": 1055.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b4ceac63ceac57f2cb",
+            "name": "Tavuk Kanat Menü",
+            "description": "Mercimek çorbası, tavuk kanat, pirinç pilavı, közlenmiş domates, közlenmiş biber, mevsim salata, yoğurtlu meze ve ayran (270 ml) ile",
+            "price": 999.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b5ceac63ceac57f2cd",
+            "name": "Tavuk Pirzola Menü",
+            "description": "Mercimek çorbası, tavuk pirzola, pirinç pilavı, közlenmiş domates, biber, salata, yoğurtlu meze ve tercih edeceğin içecek (330 ml) ile",
+            "price": 990.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b6ceac63ceac57f2d2",
+            "name": "Etobur Menü",
+            "description": "Mercimek çorbası, dana antrikot (100 gr.), kuzu kalem pirzola (1 adet), dana sucuk (100 g), pirinç pilavı, közlenmiş domates, biber, yoğurtlu meze ve tercih edeceğin içecek (330 ml) ile",
+            "price": 1699.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b5ceac63ceac57f2ce",
+            "name": "Aperatif Menü",
+            "description": "Soğan halkası (10 adet), patates kızartması ve Coca Cola (200 ml)",
+            "price": 555.56,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b6ceac63ceac57f2d1",
+            "name": "Formda Kal Menü",
+            "description": "Terbiyeli tavuk suyu çorbası, tavuklu salata ve ayran (300 ml) ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b8ceac63ceac57f2d4",
+            "name": "Şifa Menüsü",
+            "description": "Tavuk paça çorbası, kasap sucuk (150 g), pirinç pilavı, közlenmiş domates, biber ve ayran (300 ml) ile",
+            "price": 880.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512abceac63ceac57f2bb",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "685512bcceac63ceac57f359",
+            "name": "Kasap Köfte",
+            "description": "5 adet kasap köfte. pirinç pilavı, közlenmiş domates, biber, salata, yoğurtlu meze ile",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512baceac63ceac57f357",
+            "name": "Kasap Sucuk",
+            "description": "Kasap sucuk (200 g), pirinç pilavı, közlenmiş domates, közlenmiş biber, salata ve yoğurtlu meze ile",
+            "price": 745.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512bcceac63ceac57f35a",
+            "name": "Special Köfte & Sucuk",
+            "description": "Kasap köfte (150 g), kasap sucuk, pirinç pilavı, közlenmiş domates, közlenmiş biber, salata ve yoğurtlu meze ile",
+            "price": 725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b9ceac63ceac57f353",
+            "name": "Tavuk Kanat",
+            "description": "Pirinç pilavı, közlenmiş domates, közlenmiş biber, salata ve yoğurtlu meze ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512baceac63ceac57f356",
+            "name": "Tavuk Pirzola",
+            "description": "Pirinç pilavı, közlenmiş domates, közlenmiş biber, salata, yoğurtlu mezesi ile",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512bbceac63ceac57f358",
+            "name": "Karışık Tavuk Izgara",
+            "description": "200 g tavuk pirzola, tavuk kanat, tavuk but. pirinç pilavı, közlenmiş domates, biber, salata, yoğurtlu meze ile",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b8ceac63ceac57f2fd",
+            "name": "Dana Antrikot",
+            "description": "Dana antrikot (150 g), pirinç pilavı, közlenmiş domates, közlenmiş biber, salata ve günün mezesi ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512bdceac63ceac57f35b",
+            "name": "Kuzu Pirzola (300 g)",
+            "description": "Közlenmiş domates, közlenmiş biber, salata ve pilav ile",
+            "price": 1650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512bdceac63ceac57f35c",
+            "name": "Dana Biftek (180 g)",
+            "description": "Pirinç pilavı, közlenmiş biber ve salata ile",
+            "price": 1155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512b9ceac63ceac57f354",
+            "name": "Karışık Izgara (1 Kişilik)",
+            "description": "Antrikot (100 g), kasap köfte (100 g), tavuk pirzola (150 g), kasap sucuk ( 50 gr.), pirinç pilavı, közlenmiş domates, közlenmiş biber, salata ve yoğurtlu meze ile",
+            "price": 1399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512acceac63ceac57f2bc",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "685512bfceac63ceac57f3ce",
+            "name": "Adıvar Classic Burger (200 g)",
+            "description": "Ev yapımı dana burger köftesi (200 g), özel sos, kıvırcık marul, domates, turşu, karamelize soğan",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c0ceac63ceac57f3dc",
+            "name": "Adıvar Cheeseburger (200 g)",
+            "description": "Dana burger köftesi (200 g), cheddar peyniri, kıvırcık marul, domates, turşu, karamelize soğan",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512beceac63ceac57f35d",
+            "name": "Adıvar Mozzarella Burger (200 g)",
+            "description": "Dana burger köftesi (200 g), özel sos, cheddar peyniri, mozzarella peyniri, kvırıcık marul, domates, turşu, karamelize soğan",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c0ceac63ceac57f3dd",
+            "name": "Adıvar Special Sucuklu Burger (200 g)",
+            "description": "Ev yapımı dana burger köftesi (200 g), adıvar özel sos, kasa sucuk, cheddar peyniri, kıvırcık marul, domates, turşu, barbekü sos",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512beceac63ceac57f35e",
+            "name": "Adıvar Füme Et Burger (200 g)",
+            "description": "Ev yapımı burger köftesi (200 g), özel sos, cheddar peyniri, füme et, kıvırcık marul, domates, turşu, karamelize soğan",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c1ceac63ceac57f3de",
+            "name": "Adıvar Hellim Peynirli Burger (200 g)",
+            "description": "Ev yapımı dana burger köftesi (200 g), özel sos, cheddar peyniri, hellim peyniri, marul, domates, turşu, karamelize soğan",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b87cbfceac63ceacf78437",
+            "name": "Adıvar Double Cheese Burger (200 g)",
+            "description": "Ev yapımı dana burger köftesi (200 g), 2 adet cheddar peyniri, kıvırcık marul, domates, turşu, karamelize soğan",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b87f8cceac63ceacf784fb",
+            "name": "Adıvar Mexico Burger (200 g)",
+            "description": "Ev yapımı dana burger köftesi (200 g), özel sos, cheddar peyniri, sriracca sos ve acı tursu biberi, marul, domates, turşu, karamelize soğan",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512acceac63ceac57f2bd",
+        "name": "Burger Menü",
+        "items": [
+          {
+            "id": "685512c3ceac63ceac57f3e2",
+            "name": "Adıvar Classic Burger (200 g) Menü",
+            "description": "Adıvar classic burger, patates kızartması (100 g), kutu içecek",
+            "price": 725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c4ceac63ceac57f3e4",
+            "name": "Adıvar Cheeseburger (200 g) Menü",
+            "description": "Adıvar cheeseburger, patates kızartması (100 g), kutu içecek",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b87d60ceac63ceacf7844e",
+            "name": "Adıvar Double Cheese Burger Menü",
+            "description": "Adıvar double cheese burger (200 g), patates kızartması (100 g), içecek",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c1ceac63ceac57f3e0",
+            "name": "Adıvar Mozzarella Burger (200 g) Menü",
+            "description": "Adıvar mozzarella burger, patates kızartması (100 g), içecek",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c2ceac63ceac57f3e1",
+            "name": "Adıvar Füme Et Burger (200 g) Menü",
+            "description": "Adıvar füme et burger (200 g), patates kızartması (100 g), içecek",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c3ceac63ceac57f3e3",
+            "name": "Adıvar Special Sucuk Burger (200 g) Menü",
+            "description": "Adıvar special sucuk burger, (100 g) patates kızartması, içecek",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c4ceac63ceac57f3e5",
+            "name": "Adıvar Hellim Peynirli Burger Menü (200 g)",
+            "description": "Hellim peynirli burger, patates kızartması (100 g) ve seçmeli içecek (330 ml) ile",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b8800aceac63ceacf78516",
+            "name": "Adıvar Mexico Burger (200 g) Menü",
+            "description": "Adıvar Mexico burger (200 g), patates kızartması (100 g) ve içecek ile",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512adceac63ceac57f2be",
+        "name": "Ekmek Arası Menü",
+        "items": [
+          {
+            "id": "685512c5ceac63ceac57f3e7",
+            "name": "Yarım Ekmek Arası Izgara Köfte Menü",
+            "description": "Yarım ekmek arası ızgara köfte (sumaklı soğan, domates), ayran (300 ml)",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c5ceac63ceac57f3eb",
+            "name": "Yarım Ekmek Arası Izgara Sucuk Menü",
+            "description": "Yarım ekmek arası ızgara sucuk (yeşillik, domates), ayran (300 ml)",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c6ceac63ceac57f3ec",
+            "name": "Yarım Ekmek Arası Tavuk Pirzola Menü",
+            "description": "Yarım ekmek arası tavuk pirzola (yeşillik, domates), ayran (300 ml)",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c7ceac63ceac57f3f0",
+            "name": "Üç Çeyrek Ekmek Arası Köfte Menü",
+            "description": "Üç çeyrek ekmek arası köfte (yeşillik, domates, soğan), ayran (300 ml)",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c7ceac63ceac57f3fa",
+            "name": "Tam Ekmek Arası Sucuk Menü",
+            "description": "Tam ekmek arası sucuk (yeşillik, domates) ve ayran (300 ml) ile",
+            "price": 615.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c8ceac63ceac57f46f",
+            "name": "Tam Ekmek Arası Tavuk Pirzola Menü",
+            "description": "Tam ekmek arası tavuk pirzola (yeşillik, domates) ve ayran (300 ml) ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c8ceac63ceac57f470",
+            "name": "Tam Ekmek Arası Köfte Menü",
+            "description": "Tam ekmek arası köfte (yeşillik, domates, soğan), ayran (300 ml)",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512c9ceac63ceac57f471",
+            "name": "Üç Çeyrek Ekmek Arası Tavuk Pirzola Menü",
+            "description": "Üç çeyrek ekmek arası tavuk pirzola (yeşillik, domates), ayran (300 ml)",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512caceac63ceac57f472",
+            "name": "Yarım Ekmek Arası Köfte Sucuk Menü",
+            "description": "Yarım ekmek arası köfte sucuk (yeşillik, domates) ve ayran (170 ml) ile",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512caceac63ceac57f474",
+            "name": "Yarım Ekmek Arası Arnavutciğeri Menü",
+            "description": "Yarım ekmek arası arnavutciğeri (soğan, domates), ayran (170 ml)",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512cbceac63ceac57f475",
+            "name": "Üç Çeyrek Ekmek Arası Sucuk Menü",
+            "description": "Üç çeyrek ekmek arası sucuk (yeşillik, domates) ve ayran (300 ml) ile",
+            "price": 615.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512cbceac63ceac57f477",
+            "name": "Tam Ekmek Arası Arnavutciğeri",
+            "description": "Tam ekmek arası arnavutciğeri (yeşillik, domates), ayran (300 ml)",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512aeceac63ceac57f2c0",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "685512cdceac63ceac57f483",
+            "name": "Ton Balıklı Salata (1 Kişilik)",
+            "description": "Ton balığı, mevsim yeşillikleri",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512ceceac63ceac57f674",
+            "name": "Piyaz Salata",
+            "description": "Nohut, domates, biber, mevsim yeşillikleri ve tercihine göre soğan ile",
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512ceceac63ceac57f676",
+            "name": "Biftekli Salata",
+            "description": "Mevsim yeşillikleri, domates, salatalık, çarliston biber, havuç, limon, nar ekşisi",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512cfceac63ceac57f678",
+            "name": "Mevsim Salata",
+            "description": "Mevsim yeşillikleri, mevsim sebzeleri",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512cfceac63ceac57f679",
+            "name": "Çoban Salata",
+            "description": "Domates, biber, salatalık ve tercihine göre soğan ile",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d0ceac63ceac57f67a",
+            "name": "Söğüş Salata (1 Kişilik)",
+            "description": "Söğüş, mevsim yeşillikleri",
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d0ceac63ceac57f67b",
+            "name": "Soğan Salatası",
+            "description": "Tek kişilik",
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d1ceac63ceac57f67c",
+            "name": "Tavuklu Salata",
+            "description": "Tavuk, mevsim yeşillikleri",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512adceac63ceac57f2bf",
+        "name": "Atıştırmalık",
+        "items": [
+          {
+            "id": "685512ccceac63ceac57f478",
+            "name": "Patates Kızartması",
+            "description": "Ketçap ve mayonez ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512ccceac63ceac57f482",
+            "name": "Soğan Halkası (8 Adet)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bd8ed8ceac63ceacfbe7a2",
+            "name": "Mozzarella Sticks (4 Adet)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512aeceac63ceac57f2c1",
+        "name": "Yan Ürün",
+        "items": [
+          {
+            "id": "685512d2ceac63ceac57f67d",
+            "name": "Yoğurt (1 Kişilik)",
+            "description": null,
+            "price": 172.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d2ceac63ceac57f67e",
+            "name": "Pirinç Pilavı (1 Kişilik)",
+            "description": null,
+            "price": 172.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512b0ceac63ceac57f2c4",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "685512d9ceac63ceac57f68d",
+            "name": "Kaymaklı Ekmek Kadayıfı",
+            "description": "Kaymak",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512afceac63ceac57f2c3",
+        "name": "Kiloluk Ürünler (Pişirilmiş)",
+        "items": [
+          {
+            "id": "685512d9ceac63ceac57f68c",
+            "name": "Kasap Köfte (500 g)",
+            "description": "Pirinç pilavı, közlenmiş domates, közlenmiş biber ve yoğurtlu meze ile",
+            "price": 1299.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d7ceac63ceac57f689",
+            "name": "Tavuk Kanat (500 g)",
+            "description": "Pirinç pilavı, közlenmiş domates, közlenmiş biber ve yoğurtlu meze ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d8ceac63ceac57f68b",
+            "name": "Tavuk Pirzola (500 g)",
+            "description": "Pirinç pilavı, közlenmiş domates, közlenmiş biber ve yoğurtlu meze ile",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d6ceac63ceac57f688",
+            "name": "Kasap Sucuk (500 g)",
+            "description": "Pirinç pilavı, közlenmiş domates, közlenmiş biber ve yoğurtlu meze ile",
+            "price": 1450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d8ceac63ceac57f68a",
+            "name": "Dana Antrikot (500 g)",
+            "description": "Pirinç pilavı, közlenmiş domates, biber ve yoğurtlu meze ile",
+            "price": 2350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d3ceac63ceac57f681",
+            "name": "Kasap Köfte (1 kg)",
+            "description": "Pirinç pilavı, közlenmiş domates, biber ve salata ile",
+            "price": 1850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d5ceac63ceac57f684",
+            "name": "Tavuk Kanat (1 kg) (Pişirilmiş)",
+            "description": "Pirinç pilavı, közlenmiş domates, biber ve salata ile",
+            "price": 1725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d5ceac63ceac57f686",
+            "name": "Tavuk Pirzola (1 kg) (Pişirilmiş)",
+            "description": "Pirinç pilavı, közlenmiş domates, biber, salata ile",
+            "price": 1700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d4ceac63ceac57f683",
+            "name": "Dana Antrikot (1 kg)",
+            "description": "Pirinç pilavı, közlenmiş domates, biber ve salata ile",
+            "price": 3850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d6ceac63ceac57f687",
+            "name": "Dana Biftek (1 kg)",
+            "description": "Pirinç pilavı, közlenmiş domates, közlenmiş biber ve yoğurtlu meze ile",
+            "price": 3850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512d3ceac63ceac57f682",
+            "name": "Karışık Izgara (1 kg)",
+            "description": "Tavuk pirzola (250 g), kasap köfte (200 g), tavuk kanat, dana antirkot (200 g), kasap sucuk, pirinç pilavı, közlenmiş domates, közlenmiş biber ve salata ile",
+            "price": 3800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "685512b0ceac63ceac57f2c5",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "685512ddceac63ceac57f69a",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750407085434_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685512dcceac63ceac57f697",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750407122350_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685512ddceac63ceac57f69b",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512deceac63ceac57f69d",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512dfceac63ceac57f6a0",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512daceac63ceac57f68f",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 44.44,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512daceac63ceac57f690",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 61.11,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512dbceac63ceac57f691",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 38.89,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512dcceac63ceac57f692",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 127.78,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685512deceac63ceac57f69c",
+            "name": "Coca-Cola (1 L)",
+            "description": null,
+            "price": 138.89,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

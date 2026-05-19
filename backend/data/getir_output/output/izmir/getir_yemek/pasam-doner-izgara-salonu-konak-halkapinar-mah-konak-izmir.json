@@ -1,0 +1,657 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "64f19f18a6fe4a137a67c1fb",
+  "name": "Paşam Döner & Izgara Salonu, Konak (Halkapınar Mah.)",
+  "slug": "pasam-doner-izgara-salonu-konak-halkapinar-mah-konak-izmir",
+  "cuisine_types": [
+    "Döner",
+    "Ev Yemekleri",
+    "Köfte",
+    "Sokak Lezzetleri",
+    "Steak",
+    "Tavuk"
+  ],
+  "rating": 4.1,
+  "rating_count": 150,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "67b71e65ceac63ceacc3711c",
+        "name": "Ekonomik Menü",
+        "items": [
+          {
+            "id": "67b99c57ceac63ceacc4ade1",
+            "name": "Tavuk Yemeği Tabldot Menü",
+            "description": "Günün tavuk yemeği, pilav, günün çorbası ve günün tatlısı ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b9a18dceac63ceacc4b006",
+            "name": "Et Yemeği Tabldot Menüsü",
+            "description": "Günün et yemeği, pilav, günün çorbası ve günün tatlısı ile",
+            "price": 461.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b9a29dceac63ceacc4b0a3",
+            "name": "Köfte Yemeği Tabldot Menüsü",
+            "description": "Günün köfte yemeği, pilav, günün çorbası ve günün tatlısı ile",
+            "price": 461.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b9a82bceac63ceacc4b360",
+            "name": "Ekonomik Sporcu Menü",
+            "description": "Tavuk bonfile, pilav, günün çorbası ve salata ile",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b9a8ceceac63ceacc4b3c9",
+            "name": "Uygun Menü",
+            "description": "Kuru fasulye, pilav, günün çorbası ve cacık ile",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67c1bf33ceac63ceacce5a0a",
+            "name": "Enfes Tavuk Döner Menüsü",
+            "description": "Tavuk döner (200 g), pilav, günün çorbası, salata ve ekmek ile",
+            "price": 461.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67c1bf7cceac63ceacce5a37",
+            "name": "Enfes Et Döner Menüsü",
+            "description": "Et döner (200 g), pilav, günün çorbası, salata ve ekmek ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6797c77aceac63ceac8883d1",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "6798c640ceac63ceac8931d5",
+            "name": "Mercimek Çorbası",
+            "description": "Özel sos ve ekmek ile",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798c6d7ceac63ceac8932ed",
+            "name": "Mercimek Çorbası (Az)",
+            "description": "Sos ve ekmek ile",
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798c75aceac63ceac893b48",
+            "name": "Ezogelin Çorbası",
+            "description": "Sos ve ekmek ile",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798c797ceac63ceac893b7a",
+            "name": "Ezogelin Çorbası (Az)",
+            "description": "Sos ve ekmek ile",
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798c88fceac63ceac893c66",
+            "name": "Kellepaça Çorbası",
+            "description": "Ekmek ile",
+            "price": 271.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798c8feceac63ceac893cab",
+            "name": "Kelle Paça Çorbası (Az)",
+            "description": "Ekmek ile",
+            "price": 205.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65086458fc72c04394802e65",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "65086524e6f0903a5a6e76e3",
+            "name": "Tavuk Döner (70 g)",
+            "description": "Tercih edeceğiniz ekmek, tavuk döner (70 g), patates kızartması, soğan, özel sos, ketçap, mayonez",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "650864e001097c92e4e322c1",
+            "name": "Tavuk Döner (130 g)",
+            "description": "Tercih edeceğiniz ekmek, tavuk döner (130 g), patates kızartması, soğan, özel sos, ketçap, mayonez",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "650865a52a75ef9ced2ef24b",
+            "name": "Pilav Üstü Tavuk Döner (70 g)",
+            "description": "Pirinç pilavı ve tavuk döner (70 g) ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "650865cffc72c07009807d8f",
+            "name": "Pilav Üstü Tavuk Döner (90 g)",
+            "description": "Pirinç pilavı ve tavuk döner (90 g) ile",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65086604e6f090622a6eaef2",
+            "name": "Pilav Üstü Tavuk Döner (160 g)",
+            "description": "Pirinç pilavı ve tavuk döner (160 g) ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65086666e6f0901b766ec7b7",
+            "name": "Tavuk Döner (250 g)",
+            "description": "Yeşillik ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "650066e7e719da16f02e3afb",
+        "name": "Et Döner",
+        "items": [
+          {
+            "id": "650067f4126c0b56cbf2f9cb",
+            "name": "Et Döner (70 g)",
+            "description": "Turşu, soğan, özel sos, ketçap, mayonez ve tercih edeceğiniz ekmek ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6500680feafe8f264d0c0833",
+            "name": "Et Döner (110 g)",
+            "description": "Turşu, soğan, özel sos, ketçap, mayonez ve tercih edeceğiniz ekmek ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6500681aeafe8ffb950c0a2e",
+            "name": "Et Döner (130 g)",
+            "description": "Turşu, soğan, özel sos, ketçap, mayonez ve tercih edeceğiniz ekmek ile",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "650066fd126c0bfe49f2c933",
+            "name": "Pilav Üstü Et Döner (70 g)",
+            "description": "Pirinç pilavı, et döner",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65006726bb4930d2ce507506",
+            "name": "Pilav Üstü Et Döner (100 g)",
+            "description": "Pirinç pilavı, et döner",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65006732e719dac20b2e4855",
+            "name": "Pilav Üstü Et Döner (130 g)",
+            "description": "Pirinç pilavı, et döner",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65006742126c0b6bc9f2d6cf",
+            "name": "Pilav Üstü Et Döner (170 g)",
+            "description": "Pirinç pilavı, et döner",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65006756126c0b1751f2dac4",
+            "name": "İskender (Et Dönerden)",
+            "description": "Et döner, yoğurt, özel sos, tereyağı, domates, biber",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65006761f00881112e6eda8a",
+            "name": "İskender (Et Dönerden) (1.5 Porsiyon)",
+            "description": "Et döner, yoğurt, özel sos, tereyağı, domates, biber",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6500677b126c0b817af2e16f",
+            "name": "İskender (Et Dönerden)",
+            "description": "Et döner (220 g), yoğurt, özel sos, tereyağı, domates, biber",
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65086680e6f09062396ece54",
+            "name": "Et Döner (250 g)",
+            "description": "Yeşillik ile",
+            "price": 850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "652fe95340728246efed2a86",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "652fe9e1fdb4c61389ce6c9b",
+            "name": "Izgara İncik (500 g)",
+            "description": "Izgara incik, pilav, salata ve patates kızartması",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652fea1c0583ea004cd29268",
+            "name": "Izgara İncik (1 kg)",
+            "description": "Izgara incik, pilav, salata ve patates kızartması",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652fea4040728230b2ed65dc",
+            "name": "Izgara Kanat (500 g)",
+            "description": "Izgara kanat, pilav, salata ve patates kızartması",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652fea59fdb4c67c07ce8e0b",
+            "name": "Izgara Kanat (1 kg)",
+            "description": "Izgara kanat, pilav, salata ve patates kızartması",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652fea7dfdb4c6d236ce974a",
+            "name": "Izgara Tavuk Kelebek (500 g)",
+            "description": "Izgara tavuk kelebek, pilav, salata ve patates kızartması",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652feaa60583ea924dd2b619",
+            "name": "Izgara Tavuk Kelebek (1 kg)",
+            "description": "Izgara tavuk kelebek, pilav, salata ve patates kızartması",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652fead10583ea69b8d2c17a",
+            "name": "Izgara Tavuk Bonfile (500 g)",
+            "description": "Izgara tavuk bonfile, pilav, salata ve patates kızartması",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652feaf60583ea19c0d2cad6",
+            "name": "Izgara Tavuk Bonfile (1 kg)",
+            "description": "Izgara tavuk bınfile, pilav, salata ve patates kızartması",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6797c769ceac63ceac8883cd",
+        "name": "Sulu Yemek",
+        "items": [
+          {
+            "id": "6798cb62ceac63ceac893f74",
+            "name": "Tavuk Sote",
+            "description": null,
+            "price": 189.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798cd4cceac63ceac895666",
+            "name": "Etli Kuru Fasulye",
+            "description": "Ekmek ile",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798ce37ceac63ceac895cf5",
+            "name": "Patlıcan Yemeği",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798ced0ceac63ceac895dbc",
+            "name": "Pirinç Pilavı",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6798cf12ceac63ceac895de7",
+            "name": "Bulgur Pilavı",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "650068b7f00881233b6f2868",
+        "name": "Kiloluk Lezzet (Pişirilmiş)",
+        "items": [
+          {
+            "id": "650068db126c0b07ccf32a2c",
+            "name": "Ultra Et Döner (500 g)",
+            "description": "Et döner (500 g) ile",
+            "price": 1600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "650068e8f00881ad8d6f332f",
+            "name": "Ultra Tavuk Döner (500 g)",
+            "description": "Tavuk döner (500 g) ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6500682aeafe8f7e780c0d49",
+        "name": "Ekmek Arası Lezzet",
+        "items": [
+          {
+            "id": "6500684bf0088171336f0fac",
+            "name": "Ekmek Arası Köfte",
+            "description": "Köfte (4 adet), domates, soğan, ketçap, mayonez",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6500685ceafe8f67ff0c173a",
+            "name": "Ultra Ekmek Arası Köfte",
+            "description": "Köfte (6 adet), domates, soğan, ketçap, mayonez",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65006860eafe8f71da0c180e",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "65006865126c0bbfddf3101d",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65006867126c0bcb76f31092",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6500686ef00881601b6f16da",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65006902f008815d206f3904",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707303473743_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65006876bb4930044450b8b0",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6500687bf008819fc56f19f4",
+            "name": "Fruko (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302298009_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65006888eafe8fb7ff0c2004",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 98.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65006890f008815e016f1f24",
+            "name": "Ayran (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6500689ef0088158a86f2366",
+            "name": "Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "650068a3126c0b02dcf31e9a",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6798cf7dceac63ceac895e35",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768219303527_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

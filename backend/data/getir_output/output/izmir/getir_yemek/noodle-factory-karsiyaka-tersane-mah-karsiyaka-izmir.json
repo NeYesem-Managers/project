@@ -1,0 +1,883 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "64c7a728ed94472a356e5459",
+  "name": "Noodle Factory, Karşıyaka (Tersane Mah.)",
+  "slug": "noodle-factory-karsiyaka-tersane-mah-karsiyaka-izmir",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Uzak Doğu"
+  ],
+  "rating": 4.1,
+  "rating_count": 200,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "65845073ae022281c8d82bbc",
+            "name": "Getiryemek'e Özel Menü 1 (Tavuklu Noodle)",
+            "description": "Tavuklu nooddle ve içecek ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1703447215365_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "658589c0023eb44b02c987f7",
+            "name": "Getiryemek'e Özel Menü 2 (Dana Etli Noodle)",
+            "description": "Dana etli nooddle ve içecek ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1703447232048_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a1dea2b23a9",
+            "name": "Sade Noodle",
+            "description": "Plain noodles",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670361083763_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a6c292b243b",
+            "name": "Sebzeli Noodle",
+            "description": "Lahana, havuç, soğan, taze soğan",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670361225972_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9aa7722b2496",
+            "name": "Tavuklu Noodle",
+            "description": "Lahana, havuç, soğan, taze soğan, tavuk",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671101166839_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64c8fc049f1f9a4c852b2307",
+        "name": "Getiryemek'e Özel Menü",
+        "items": [
+          {
+            "id": "65845073ae022281c8d82bbc",
+            "name": "Getiryemek'e Özel Menü 1 (Tavuklu Noodle)",
+            "description": "Tavuklu nooddle ve içecek ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1703447215365_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "658589c0023eb44b02c987f7",
+            "name": "Getiryemek'e Özel Menü 2 (Dana Etli Noodle)",
+            "description": "Dana etli nooddle ve içecek ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1703447232048_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "658589d987aa27cf5082e017",
+            "name": "Getiryemek'e Özel Menü 3 (California Roll)",
+            "description": "California roll ve içecek ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1703447245137_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64c8fc049f1f9a11df2b2308",
+        "name": "Noodle",
+        "items": [
+          {
+            "id": "64c8fc059f1f9a1dea2b23a9",
+            "name": "Sade Noodle",
+            "description": "Plain noodles",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670361083763_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a6c292b243b",
+            "name": "Sebzeli Noodle",
+            "description": "Lahana, havuç, soğan, taze soğan",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670361225972_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9aa7722b2496",
+            "name": "Tavuklu Noodle",
+            "description": "Lahana, havuç, soğan, taze soğan, tavuk",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671101166839_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a0a9b2b251c",
+            "name": "Dana Etli Noodle",
+            "description": "Lahana, havuç, soğan, taze soğan, dana eti",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671101089887_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a78a32b2620",
+            "name": "Karidesli Noodle",
+            "description": "Lahana, havuç, soğan, taze soğan, karides",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670361366452_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a145b2b2633",
+            "name": "Mixed Noodle",
+            "description": "Lahana, havuç, soğan, taze soğan, tavuk, dana eti, karides",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671101122991_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671cac06ceac63ceac4f2d05",
+            "name": "Tavuklu Pad Thai",
+            "description": "Pirinç eriştesi, thai sos, tavuk, kuru soğan, havuç, taze soğan, yumurta, fıstık/Rice stick, thai sauce, chicken, onion, carrot, spring onion, egg, pistachos",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730641623704_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671cad98ceac63ceac4f2d8a",
+            "name": "Dana Etli Pad Thai",
+            "description": "Pirinç eriştesi, thai sos, dana eti, kuru soğan, havuç, lahana, mantar, taze soğan, yumurta, fıstık/Rice stick, thai sauce, beef, onion, carrot, cabbage, mushroom, spring onion, egg, pistachos",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730641639953_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671cae66ceac63ceac4f2dff",
+            "name": "Karidesli Pad Thai",
+            "description": "Pirinç eriştesi, thai sos, karides, kuru soğan, havuç, lahana, mantar, taze soğan, yumurta, fıstık/Rice stick, thai sauce, shrimps, onion, carrot, cabbage, mushroom, spring onion, egg, pistachos",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729932888708_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671caeaaceac63ceac4f2e27",
+            "name": "Pad Thai",
+            "description": "Pirinç eriştesi, thai sos, tavuk, karides, kuru soğan, havuç, lahana, mantar, taze soğan, yumurta, fıstık/Rice stick, thai sauce, chicken, shrimps, onion, carrot, cabbage, mushroom, spring onion, egg, pistachos",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730641651757_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66a61d1dceac63ceac6e6b4c",
+        "name": "Udon",
+        "items": [
+          {
+            "id": "66a78c80ceac63ceac6f1a90",
+            "name": "Tofu Udon",
+            "description": "Lahana, havuç, soğan, taze soğan, yeşil biber, udon noodle, tofu",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1722256460258_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66a78d4dceac63ceac6f1b3b",
+            "name": "Tavuklu Udon",
+            "description": "Lahana, havuç, soğan, taze soğan, yeşil biber, udon noodle, tavuk",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1722256704700_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66a78d77ceac63ceac6f1b55",
+            "name": "Dana Etli Udon",
+            "description": "Lahana, havuç, soğan, taze soğan, yeşil biber, udon noodle, dana eti",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1722256736208_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66a78d93ceac63ceac6f1b5d",
+            "name": "Karidesli Udon",
+            "description": "Lahana, havuç, soğan, taze soğan, yeşil biber, udon noodle, karides",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1722256779161_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66a78db2ceac63ceac6f1b75",
+            "name": "Mixed Udon",
+            "description": "Lahana, havuç, soğan, taze soğan, yeşil biber, udon noodle, tavuk, dana eti, karides",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1722256813545_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65e5d8912b29b2a86277d8e2",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "65e5d8ede9099dd1d93bbf8c",
+            "name": "Linguine Napolitan",
+            "description": "Domates soslu",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103003995_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5d8ff67503d84684df948",
+            "name": "Linguine Bolognese",
+            "description": "Kıyma ve domates soslu",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103024050_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5d91de8a820adbec0e320",
+            "name": "Penne Napolitan",
+            "description": "Domates soslu",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103050230_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5d935d23752565a07a1d3",
+            "name": "Penne Arrabbiata",
+            "description": "Zeytinli, acı domates soslu",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103088273_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5d944f288e01fba222367",
+            "name": "Penne Alfredo",
+            "description": "Kremalı mantar soslu",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103113562_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5da22307f169907039240",
+            "name": "Köri Tavuklu Penne",
+            "description": "Tavuklu, köri ve krema soslu",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103181883_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5dc272b29b2a862784e1f",
+            "name": "Ton Balıklı Penne",
+            "description": "Ton balığı, mısırlı, krema soslu",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103206730_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5dc39d23752565a07e55d",
+            "name": "Fettucine Napolitan",
+            "description": "Domates soslu",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103224267_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5dc4c5bead1ef00f819f6",
+            "name": "Fettucine Alfredo",
+            "description": "Kremalı mantar soslu",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103242410_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65e5dc604286c4b29fb55ea0",
+            "name": "Fettucine Pesto",
+            "description": "Pesto ve krema soslu",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103259796_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66f4fc5eceac63ceac5d2ef1",
+            "name": "Üç Peynirli Tortellini",
+            "description": "Krema soslu",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103335605_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66f4fc8aceac63ceac5d2efe",
+            "name": "Ravioli Napolitan",
+            "description": "Domates soslu",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103361399_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67277f53ceac63ceac6bf760",
+            "name": "Karidesli Linguine",
+            "description": "Krema, domates sos, karides",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736103378427_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64c8fc049f1f9a6be72b2309",
+        "name": "Ekonomik Menü",
+        "items": [
+          {
+            "id": "64d4d2d75f89fa87f0803f79",
+            "name": "Tavuklu Noodle Menü",
+            "description": "Tavuklu noodle ve coca cola (330 ml) ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1691861585386_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64d4d360870b1366f18011e4",
+            "name": "Dana Etli Noodle Menü",
+            "description": "Dana etli noodle ve pepsi (330 ml) ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1691862084208_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a35d22b28b1",
+            "name": "2'li Sebzeli Noodle Menü",
+            "description": "Sebzeli noodle (2 adet) ve coca cola (1 L) ile",
+            "price": 850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671230768509_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a3fef2b294f",
+            "name": "2'li Tavuklu Noodle Menü",
+            "description": "Tavuklu noodle (2 adet) ve pepsi (1 L) ile",
+            "price": 950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671230793837_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9aa6b32b2985",
+            "name": "2'li Dana Etli Noodle Menü",
+            "description": "Dana etli noodle (2 adet) ve pepsi (1 L) ile",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671230822279_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a428b2b29c1",
+            "name": "2'li Karides Noodle Menü",
+            "description": "Karidesli noodle (2 adet) ve pepsi (1 L) ile",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671230874283_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a34482b2a03",
+            "name": "2'li Mixed Noodle Menü",
+            "description": "Mixed noodle (2 adet) ve pepsi (1 L) ile",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671230901193_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64c8fc049f1f9ad4902b230d",
+        "name": "Başlangıç",
+        "items": [
+          {
+            "id": "66ec1109ceac63ceac336082",
+            "name": "Acılı Ekşili Çorba",
+            "description": "Hot and sour soup",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1726746883963_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a2c3f2b231e",
+            "name": "Sebzeli Çin Böreği",
+            "description": "Spring rolls",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670855739590_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a33522b274e",
+            "name": "Patates Kroket",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670856170520_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a44c62b27cb",
+            "name": "Chicken Tempura",
+            "description": null,
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1670856034757_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66ec113bceac63ceac3360ad",
+            "name": "Karides Tempura",
+            "description": "Shrimp tempura",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1726749886524_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671cfcf8ceac63ceac4f4eb3",
+            "name": "Soğan Halkası",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729953010986_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6518a262cd9ee8252d6644cf",
+        "name": "Sushi",
+        "items": [
+          {
+            "id": "6518a384a705d42eb61b65ac",
+            "name": "California Roll (8 pcs)",
+            "description": "Surimi yengeç, avokado, salatalık, krem peynir, dışı tobicco / Surimi crab stick, avocado, cucumber, cream cheese, tobicco outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151519510_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a3bdb16c237fe4a53bfe",
+            "name": "Salmon California Roll (8 pcs)",
+            "description": "Somon, avokado, salatalık, krem peynir, dışı tobicco / Salmon, avocado, cucumber, cream cheese, tobicco outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151533682_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a4eca8639280d6b88e7f",
+            "name": "Sesame California Roll (8 pcs)",
+            "description": "Surimi yengeç, avokado, salatalık, krem peynir, dışı susam / Surimi crab stick, avocado, cucumber, cream cheese, sesame outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151549986_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a5cab16c232ba1a55a1c",
+            "name": "Philadelphia Roll (8 pcs)",
+            "description": "Somon, avokado, salatalık, krem peynir, dışı somon / Salmon, avocado, cucumber, cream cheese, salmon outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151603078_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a613a705d46e291b8bc2",
+            "name": "Sesame Philadelphia Roll (8 pcs)",
+            "description": "Somon, avokado, salatalık, krem peynir, dışı susam / Salmon, avocado, cucumber, cream cheese, sesame outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151633434_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a64fb16c23a163a56170",
+            "name": "Mexican Roll (8 pcs)",
+            "description": "Surimi yengeç, avokado, salatalık, krem peynir, sriracha, dışı acılı nachos / Surimi crab stick, avocado, cucumber, cream cheese, sriracha, hot nachos outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151654632_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a691a705d4e3bf1b940f",
+            "name": "Salmon Mexican Roll (8 pcs)",
+            "description": "Somon, avokado, salatalık, krem peynir, sriracha, dışı acılı nachos / Salmon, avocado, cucumber, cream cheese, sriracha, hot nachos outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151687353_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a717b16c231b0ba56dd7",
+            "name": "Shrimpy Mexican Roll (8 pcs)",
+            "description": "Karides, avokado, salatalık, krem peynir, sriracha, dışı acılı nachos / Shrimp, avocado, cucumber, cream cheese, sriracha, hot nachos outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151701325_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a77cb16c23876ea57341",
+            "name": "Boston Roll (8 pcs)",
+            "description": "Füme yılan balığı, avokado, salatalık, dışı avokado ve teriyaki sos / Smoked eel, avocado, cucumber, avocado and teriaki sauce outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151717106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a7b6a863928269b8b7fa",
+            "name": "Salmon Boston Roll (8 pcs)",
+            "description": "Somon, avokado, salatalık, dışı avokado ve teriyaki sos / Salmon, avocado, cucumber, avocado and teriaki sauce outside",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151743798_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a7de44fed04966e3039c",
+            "name": "Kappa Maki (12 pcs)",
+            "description": "Salatalık / Cucumber",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151756255_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a801a863923848b8bc28",
+            "name": "Avocado Maki (12 pcs)",
+            "description": "Avokado / Avocado",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151770191_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a8ea44fed02ea1e324eb",
+            "name": "Kani Maki (12 pcs)",
+            "description": "Surimi yengeç / Surimi crab stick",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151813480_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a906a705d446101bb62a",
+            "name": "Sake Maki (12 pcs)",
+            "description": "Somon / Salmon",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151827455_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a934b16c23b94fa58831",
+            "name": "Ebi Maki (12 pcs)",
+            "description": "Karides / Shrimp",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151840871_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518a95544fed03a20e32a51",
+            "name": "Unagi Maki (12 pcs)",
+            "description": "Füme yılan balığı / Smoked eel",
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151852548_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518aa19a705d4768b1bc467",
+            "name": "Crunchy Roll (8 pcs)",
+            "description": "Surimi yengeç, avokado, krem peynir, dışı kızarmış mısır gevreği / Crab, avocado, cream cheese, fried corn flakes",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151865122_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518aa5ca705d49f821bc7a7",
+            "name": "Crunchy Salmon Roll (8 pcs)",
+            "description": "Somon, avokado, krem peynir, dışı kızarmış mısır gevreği / Salmon, avocado, cream cheese, fried corn flakes",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151878270_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518aae8a705d41da61bce58",
+            "name": "Sake Ten Roll (12 pcs)",
+            "description": "Somon / Salmon",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151895119_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6518ab24a705d4ce731bd298",
+            "name": "Ebi Ten Roll (12 pcs)",
+            "description": "Karides / Shrimp",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1696151908084_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6559d3e8245e5161f1a58a1b",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6559e1200a6ba6efc92f779f",
+            "name": "Şans Kurabiyesi",
+            "description": "Fortune cookie",
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1703955302056_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64c8fc049f1f9a6bd52b2314",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "64c8fc059f1f9a55702b2348",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a42e52b23c8",
+            "name": "Pepsi Max (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705308620_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a821e2b2595",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707303473743_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a5e5e2b2607",
+            "name": "Seven Up (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302519471_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a5f052b265e",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a47a32b2741",
+            "name": "Maden Suyu (250 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776068261567_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a1c0e2b2781",
+            "name": "Sütaş Ayran (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776068216436_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a3d522b283b",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776068216567_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a92bb2b2848",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705249321_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64c8fc059f1f9a65aa2b28a4",
+            "name": "Pepsi Max (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705411732_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "6065954b3fba8519b42b6d59",
+  "name": "Birinciler Karadeniz Etli Ekmek, Yıldırım (Kurtuluş Cad.)",
+  "slug": "birinciler-karadeniz-etli-ekmek-yildirim-kurtulus-cad-yildirim-bursa",
+  "cuisine_types": [
+    "Pide & Lahmacun"
+  ],
+  "rating": 3.1,
+  "rating_count": 750,
+  "min_order_amount": 220.0,
+  "delivery_fee": 45.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %15"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "696528a0ceac63ceac9a7b8e",
+            "name": "Kapalı Kaşarlı Sucuklu Pide",
+            "description": "Sucuk, kaşar peyniri ve mevsim salata ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237213501_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "695fc84bceac63ceac9561ce",
+        "name": "Bursa Cantığı Menüleri",
+        "items": [
+          {
+            "id": "696521dfceac63ceac9a7214",
+            "name": "Bursa Cantığı Kıymalı",
+            "description": "Kıyma ve mevsim salata ile",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235481450_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652200ceac63ceac9a722a",
+            "name": "Bursa Cantığı Kıymalı Kaşarlı",
+            "description": "Kıyma, kaşar peyniri ve mevsim salata ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235514832_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652223ceac63ceac9a7263",
+            "name": "Bursa Cantığı Kuşbaşılı",
+            "description": "Kuşbaşı, mevsim salata ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235549252_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652246ceac63ceac9a727a",
+            "name": "Bursa Cantığı Kuşbaşılı Kaşarlı",
+            "description": "Kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235585357_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652263ceac63ceac9a72a9",
+            "name": "Bursa Cantığı Kaşarlı",
+            "description": "Kaşar peyniri, mevsim salata ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235614769_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652288ceac63ceac9a72f9",
+            "name": "Bursa Cantığı Karışık",
+            "description": "Kıyma, kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235651841_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696522a8ceac63ceac9a73f1",
+            "name": "Bursa Cantığı Sucuklu",
+            "description": "Sucuk ve mevsim salata ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235680847_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696522c5ceac63ceac9a7434",
+            "name": "Bursa Cantığı Sucuklu Kaşarlı",
+            "description": "Sucuk, kaşar peyniri ve mevsim salata ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235713116_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696522efceac63ceac9a7477",
+            "name": "2'li Bursa Cantığı Kıymalı & Promosyon İçecek",
+            "description": "Kıymalı cantık (2 adet) ve içecek (330 ml)",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235744824_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696523b4ceac63ceac9a756a",
+            "name": "2'li Bursa Cantığı Kıymalı Kaşarlı & Promosyon İçecek",
+            "description": "Kıymalı kaşarlı cantık (2 adet) ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235947248_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696523cbceac63ceac9a7579",
+            "name": "2'li Bursa Cantığı Kuşbaşılı & Promosyon İçecek",
+            "description": "Kuşbaşılı cantık (2 adet) ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235975841_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696523e2ceac63ceac9a75b5",
+            "name": "2'li Bursa Cantığı Kuşbaşılı Kaşarlı & Promosyon İçecek",
+            "description": "Kuşbaşılı kaşarlı cantık (2 adet) ve içecek (330 ml)",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768235997471_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696523fbceac63ceac9a75bd",
+            "name": "2'li Bursa Cantığı Kaşarlı & Promosyon İçecek",
+            "description": "Kaşarlı cantık (2 adet) ve içecek (330 ml)",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236021720_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652416ceac63ceac9a75d6",
+            "name": "2'li Bursa Cantığı Karışık & Promosyon İçecek",
+            "description": "Karışık cantık (2 adet) ve içecek (330 ml)",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236044108_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652438ceac63ceac9a75f1",
+            "name": "2'li Bursa Cantığı Sucuklu & Promosyon İçecek",
+            "description": "Sucuklu cantık (2 adet) ve içecek (330 ml)",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236082426_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965244fceac63ceac9a75ff",
+            "name": "2'li Bursa Cantığı Sucuklu Kaşarlı & Promosyon İçecek",
+            "description": "Sucuklu kaşarlı cantık (2 adet) ve içecek (330 ml)",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236104797_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "695fc7f1ceac63ceac9560cb",
+        "name": "Cantıklar & Menüler",
+        "items": [
+          {
+            "id": "696524a3ceac63ceac9a76cf",
+            "name": "Kıymalı Cantık",
+            "description": "Kıyma ve mevsim salata ile",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236181598_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696524c2ceac63ceac9a76df",
+            "name": "Kıymalı Kaşarlı Cantık",
+            "description": "Kıyma, kaşar peyniri ve mevsim salata ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236221178_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696524e0ceac63ceac9a76f3",
+            "name": "Kuşbaşılı Cantık",
+            "description": "Kuşbaşı ve mevsim salata ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236253067_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696524faceac63ceac9a7705",
+            "name": "Kuşbaşılı Kaşarlı Cantık",
+            "description": "Kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236275642_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652518ceac63ceac9a7737",
+            "name": "Kaşarlı Cantık",
+            "description": "Kaşar peyniri ve mevsim salata ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236305563_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652531ceac63ceac9a774d",
+            "name": "Karışık Cantık",
+            "description": "Kıyma, kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236333753_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965254cceac63ceac9a7772",
+            "name": "2'li Kıymalı Cantık & Promosyon İçecek",
+            "description": "Kıymalı cantık (2 adet) ve içecek (330 ml)",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236358595_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652566ceac63ceac9a77b7",
+            "name": "2'li Kıymalı Kaşarlı Cantık & Promosyon İçecek",
+            "description": "Kıymalı kaşarlı cantık (2 adet) ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236381500_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652583ceac63ceac9a7809",
+            "name": "2'li Kuşbaşılı Cantık & Promosyon İçecek",
+            "description": "Kuşbaşılı cantık (2 adet) ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236415019_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652597ceac63ceac9a7858",
+            "name": "2'li Kuşbaşılı Kaşarlı Cantık & Promosyon İçecek",
+            "description": "Kuşbaşılı kaşarlı cantık (2 adet) ve içecek (330 ml)",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236435432_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696525aaceac63ceac9a7869",
+            "name": "2'li Kaşarlı Cantık & Promosyon İçecek",
+            "description": "Kaşarlı cantık (2 adet) ve içecek (330 ml)",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236454578_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696525bfceac63ceac9a7878",
+            "name": "2'li Karışık Cantık & Promosyon İçecek",
+            "description": "Karışık cantık (2 adet) ve içecek (330 ml)",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236474736_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "695fc8a7ceac63ceac956281",
+        "name": "Pideler & Menüleri",
+        "items": [
+          {
+            "id": "69652704ceac63ceac9a7991",
+            "name": "Kıymalı Pide",
+            "description": "Kıyma ve mevsim salata ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236800398_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652726ceac63ceac9a79dd",
+            "name": "Kıymalı Kaşarlı Pide",
+            "description": "Kıyma, kaşar peyniri ve mevsim salata ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236832976_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652746ceac63ceac9a7a01",
+            "name": "Kuşbaşılı Pide",
+            "description": "Kuşbaşı ve mevsim salata ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236864792_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652765ceac63ceac9a7a3f",
+            "name": "Kuşbaşılı Kaşarlı Pide",
+            "description": "Kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236896588_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652780ceac63ceac9a7a50",
+            "name": "Kaşarlı Pide",
+            "description": "Kaşar peyniri, mevsim salata ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236924760_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965279dceac63ceac9a7a7c",
+            "name": "Karışık Pide",
+            "description": "Kıyma, kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236950091_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696527b9ceac63ceac9a7a9f",
+            "name": "2'li Kıymalı Pide & Promosyon İçecek",
+            "description": "Kıymalı pide (2 adet) ve içecek (330 ml)",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236980845_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696527d6ceac63ceac9a7ab4",
+            "name": "2'li Kıymalı Kaşarlı Pide & Promosyon İçecek",
+            "description": "Kıymalı kaşarlı pide (2 adet) ve içecek (330 ml)",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237005215_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696527efceac63ceac9a7ae7",
+            "name": "2'li Kuşbaşılı Pide & Promosyon İçecek",
+            "description": "Kuşbaşılı pide (2 adet) ve içecek (330 ml)",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237034103_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652804ceac63ceac9a7afc",
+            "name": "2'li Kuşbaşılı Kaşarlı Pide & Promosyon İçecek",
+            "description": "Kuşbaşılı kaşarlı pide (2 adet) ve içecek (330 ml)",
+            "price": 760.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237052298_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965281eceac63ceac9a7b1c",
+            "name": "2'li Kaşarlı Pide & Promosyon İçecek",
+            "description": "Kaşarlı pide (2 adet) ve içecek (330 ml)",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237081831_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652838ceac63ceac9a7b31",
+            "name": "2'li Karışık Pide & Promosyon İçecek",
+            "description": "Karışık pide (2 adet) ve içecek (330 ml)",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237104966_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "695fc86fceac63ceac956208",
+        "name": "Etli Ekmekler & Menüleri",
+        "items": [
+          {
+            "id": "696525ecceac63ceac9a7892",
+            "name": "Etli Ekmek",
+            "description": "Kıyma, mevsim salata ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236519506_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652607ceac63ceac9a78b0",
+            "name": "Etli Ekmek Mevlana Pide",
+            "description": "Kıyma, kaşar peyniri ve mevsim salata ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236547955_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652620ceac63ceac9a78bb",
+            "name": "Bıçak Arası",
+            "description": "Kuşbaşı ve mevsim salata ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236573203_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965263dceac63ceac9a78d0",
+            "name": "Bıçak Arası Mevlana Pide",
+            "description": "Kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236602075_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652659ceac63ceac9a78e1",
+            "name": "Karışık Etli Ekmek Mevlana Pide",
+            "description": "Kıyma, kuşbaşı, kaşar peyniri ve mevsim salata ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236630161_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652674ceac63ceac9a78f3",
+            "name": "2'li Etli Ekmek & Promosyon İçecek",
+            "description": "Etli ekmek (2 adet) ve içecek (330 ml)",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236655275_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965268bceac63ceac9a790d",
+            "name": "2'li Etli Ekmek Mevlana Pide & Promosyon İçecek",
+            "description": "Etli ekmek mevlana pide (2 adet) ve içecek (330 ml)",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236677538_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696526a7ceac63ceac9a7921",
+            "name": "2'li Bıçak Arası & Promosyon İçecek",
+            "description": "Bıçak arası (2 adet) ve içecek (330 ml)",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236704531_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696526bdceac63ceac9a793f",
+            "name": "2'li Bıçak Arası Mevlana Pide & Promosyon İçecek",
+            "description": "Bıçak arası mevlana pide (2 adet) ve içecek (330 ml)",
+            "price": 760.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236728008_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696526d2ceac63ceac9a7970",
+            "name": "2'li Karışık Etli Ekmek Mevlana Pide & Promosyon İçecek",
+            "description": "Karışık etli ekmek mevlana pide (2 adet) ve içecek (330 ml)",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768236749832_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "695fc88dceac63ceac95625e",
+        "name": "Kapalı Pideler & Menüleri",
+        "items": [
+          {
+            "id": "6965286bceac63ceac9a7b54",
+            "name": "Kapalı Kaşarlı Pide",
+            "description": "Kaşar peyniri, mevsim salata ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237154033_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652888ceac63ceac9a7b6f",
+            "name": "Kapalı Sade Sucuklu Pide",
+            "description": "Sucuk, mevsim salata ile",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237189541_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696528a0ceac63ceac9a7b8e",
+            "name": "Kapalı Kaşarlı Sucuklu Pide",
+            "description": "Sucuk, kaşar peyniri ve mevsim salata ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237213501_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696528c1ceac63ceac9a7ba3",
+            "name": "Kapalı Sade Kavurmalı Pide",
+            "description": "Kavurma, mevsim salata ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237245195_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696528ddceac63ceac9a7bb0",
+            "name": "Kapalı Kaşarlı Kavurmalı Pide",
+            "description": "Kavurma, kaşar peyniri ve mevsim salata ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237273720_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696528f8ceac63ceac9a7bc1",
+            "name": "Kapalı Sade Pastırmalı Pide",
+            "description": "Pastırma ve mevsim salata ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237300540_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652911ceac63ceac9a7be2",
+            "name": "Kapalı Kaşarlı Pastırmalı Pide",
+            "description": "Pastırma, kaşar peyniri ve mevsim salata ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237324956_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965292bceac63ceac9a7bef",
+            "name": "2'li Kapalı Kaşarlı Pide & Promosyon İçecek",
+            "description": "Kapalı kaşarlı pide (2 adet) ve içecek (330 ml)",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237347870_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6965293fceac63ceac9a7c06",
+            "name": "2'li Kapalı Sade Sucuklu Pide & Promosyon İçecek",
+            "description": "Kapalı sade sucuklu pide (2 adet) ve içecek (330 ml)",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237370369_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652954ceac63ceac9a7c35",
+            "name": "2'li Kapalı Kaşarlı Sucuklu Pide & Promosyon İçecek",
+            "description": "Kapalı kaşarlı sucuklu pide (2 adet) ve içecek (330 ml)",
+            "price": 760.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237392517_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652970ceac63ceac9a7c43",
+            "name": "2'li Kapalı Sade Kavurmalı Pide & Promosyon İçecek",
+            "description": "Kapalı sade kavurmalı pide (2 adet) ve içecek (330 ml)",
+            "price": 760.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237416085_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69652988ceac63ceac9a7c52",
+            "name": "2'li Kapalı Kaşarlı Kavurmalı Pide & Promosyon İçecek",
+            "description": "Kapalı kaşarlı kavurmalı pide (2 adet) ve içecek (330 ml)",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237442265_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696529a2ceac63ceac9a7c66",
+            "name": "2'li Kapalı Sade Pastırmalı Pide & Promosyon İçecek",
+            "description": "Kapalı sade pastırmalı pide (2 adet) ve içecek (330 ml)",
+            "price": 840.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237465636_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696529bfceac63ceac9a7c83",
+            "name": "2'li Kapalı Kaşarlı Pastırmalı Pide & Promosyon İçecek",
+            "description": "Kapalı kaşarlı pastırmalı pide (2 adet) ve içecek (330 ml)",
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768237493601_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "695fca30ceac63ceac9564fa",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "69625411ceac63ceac97f5f8",
+            "name": "Coca Cola (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768472591250_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625433ceac63ceac97f611",
+            "name": "Fanta (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768472693505_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696253f2ceac63ceac97f5dd",
+            "name": "Eker Ayran (170 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768472724292_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625454ceac63ceac97f677",
+            "name": "Bursa Su (500 ml)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "69a9b12317bd51751c30552a",
+  "name": "Crispy Chicken Stop, Karabağlar (Esenlik Mah.)",
+  "slug": "crispy-chicken-stop-karabaglar-esenlik-mah-karabaglar-izmir",
+  "cuisine_types": [
+    "Tavuk"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 20,
+  "delivery_time_max": 30,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Keşfet"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "69aa9b16ceac63ceaceda02f",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "69aa9b16ceac63ceaceda069",
+            "name": "Menü 1",
+            "description": "Double burger, soğan halkası (3 adet) ve pepsi (330 ml) ile",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda05d",
+            "name": "Menü 2",
+            "description": "Double burger (2 adet), soğan halkası (2 adet), nugget (2 adet) ve pepsi (1 L) ile",
+            "price": 825.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda060",
+            "name": "Menü 3",
+            "description": "Mix cheeseburger (2 adet), soğan halkası (2 adet), nugget (2 adet) ve pepsi (1 L) ile",
+            "price": 815.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda04f",
+            "name": "Menü 4",
+            "description": "Mega burger (2 adet), soğan halkası (2 adet), nugget (2 adet) ve pepsi (1 L) ile",
+            "price": 815.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda064",
+            "name": "Menü 5",
+            "description": "Mix cheeseburger, soğan halkası (3 adet) ve pepsi (330 ml) ile",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773954400098_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cc1187ceac63ceac07946c",
+            "name": "Ekonomik Ayvalık Menü",
+            "description": "2 adet ayvalık tostu, orta boy baharatlı patates kızartması, 2 adet ayran (170 ml)",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69cc11efceac63ceac0794af",
+            "name": "Ekonomik Sandviç Menü",
+            "description": "2 adet maxi karışık sandviç, orta boy baharatlı patates kızartması, pepsi (1 L)",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69aa9b16ceac63ceaceda030",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "69aa9b16ceac63ceaceda05f",
+            "name": "Klasik Burger",
+            "description": "Burger köftesi (150 g), cheddar peyniri, marul, sos, domates, turşu, patates kızartması ve biber ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1642015756944_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda05e",
+            "name": "Mega Burger",
+            "description": "Burger köftesi (150 g), cheddar peyniri, sos, domates, turşu, patates kızartması ve biber ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1642015755570_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda04e",
+            "name": "Mix Cheeseburger",
+            "description": "Burger köftesi (150 g),  kaşar peyniri (3 adet), cheddar peyniri (3 adet), marul, sos, domates, turşu, patates kızartması ve biber ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1642015754887_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda066",
+            "name": "Mantarlı Burger",
+            "description": "Burger köftesi (150 g), mantar, cheddar peyniri, sos, domates, turşu, patates kızartması ve biber ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1642015756326_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda06a",
+            "name": "Double Burger",
+            "description": "Burger köftesi (150 g), mozzarella peyniri, cheddar peyniri, sos, domates, turşu, patates kızartması ve biber ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1642015754189_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda059",
+            "name": "2 Katlı Burger",
+            "description": "Burger köftesi (150 g) (2 adet), cheddar peyniri, sos, domates, turşu, patates kızartması ve biber ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69aa9b16ceac63ceaceda036",
+        "name": "Tost & Bazlama",
+        "items": [
+          {
+            "id": "69aa9b16ceac63ceaceda073",
+            "name": "Üç Peynirli & Sucuklu Bazlama Tost",
+            "description": "Bazlama ekmeği, cheddar peyniri, sayas peyniri, kaşar peyniri, domates, kangal sucuk",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda04a",
+            "name": "Üç Peynirli Bazlama Tost",
+            "description": "Bazlama ekmeği, cheddar peyniri, sayas peyniri, kaşar peyniri, domates",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda04b",
+            "name": "Sucuklu Bazlama Tost",
+            "description": "Bazlama ekmeği, kangal sucuk, kaşar peyniri, domates",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda04d",
+            "name": "Kaşarlı Tost",
+            "description": "Kaşar peyniri, domates, turşu",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda05a",
+            "name": "Ayvalık Tostu",
+            "description": "Sucuk, salam, kaşar peyniri, turşu, ketçap, mayonez",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda055",
+            "name": "Üç Peynirli Tost",
+            "description": "Cheddar peyniri, kaşar peyniri, sayas peyniri, domates",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69aa9b16ceac63ceaceda032",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "69aa9b16ceac63ceaceda054",
+            "name": "Xl Sandviç",
+            "description": "Sosis (double), sucuk (double), salam (double), kaşar peyniri, turşu, ketçap ve mayonez ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda062",
+            "name": "Maxi Sandviç",
+            "description": "Sosis, salam, sucuk, kaşar peyniri, turşu, ketçap ve mayonez ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69aa9b16ceac63ceaceda033",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "69aa9b16ceac63ceaceda049",
+            "name": "Tavuk Nugget (5 Adet)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda065",
+            "name": "Soğan Halkası (5 Adet)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda057",
+            "name": "Baharatlı Patates Kızartması (Porsiyon)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda067",
+            "name": "Double Patates Kızartması (Porsiyon)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69cc115fceac63ceac07945f",
+            "name": "Soğan Halkası (10 Adet)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69aa9b16ceac63ceaceda034",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "69aa9b16ceac63ceaceda068",
+            "name": "Ketçap",
+            "description": null,
+            "price": 7.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927933322_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda072",
+            "name": "Mayonez",
+            "description": null,
+            "price": 7.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927941688_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69aa9b16ceac63ceaceda035",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "69aa9b16ceac63ceaceda06b",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda04c",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772789047758_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda053",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772788946830_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda06f",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda050",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772788996311_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda051",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda06c",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772789012590_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda071",
+            "name": "Sade Soda (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda056",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda070",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705249321_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda05b",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772789068690_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69aa9b16ceac63ceaceda06e",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772788959386_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

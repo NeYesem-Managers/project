@@ -1,0 +1,627 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "6193a5aaca62751f23710ab3",
+  "name": "Tost Point, Bayraklı (Mansuroğlu Mah.)",
+  "slug": "tost-point-bayrakli-mansuroglu-mah-bayrakli-izmir",
+  "cuisine_types": [
+    "Tost & Sandviç"
+  ],
+  "rating": 4.5,
+  "rating_count": 1500,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6194a9951010c1724475f8ae",
+            "name": "Karışık Tost",
+            "description": "Ayvalık ekmeği, mozzarella peyniri ve dana sucuk",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605092174_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98f5c4f78815b962dc4",
+            "name": "Karışık Peynirli Tost",
+            "description": "Ayvalık ekmeği, tam yağlı beyaz peynir, mozzarella peyniri ve kekik",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605040187_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a99c8226bda6fa1651b9",
+            "name": "Üç Peynirli Tost",
+            "description": "Özel ordu tost ekmeği, üç köy peyniri, dereotu ve yeşilbiber",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605159428_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9968d48bc8a4ec87292",
+            "name": "Esmer Dilber Tost",
+            "description": "Özel tost point tam buğday lavaşı, cheddar peyniri, tavuk, kapya biber, krema, özel naneli yoğurt sos, domates sos, köri sos, pul biber ve kekik",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605150036_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98c198e7c4c608fd487",
+            "name": "Asil Tost",
+            "description": "Özel tost ekmeği, dana sucuk, mozzarella peyniri, yumurta, ketçap ve mayonez",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605035823_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6194a97c6ecfd9dd33be097f",
+        "name": "Tost Menü",
+        "items": [
+          {
+            "id": "6194a9c28d48bce82bc874e8",
+            "name": "Çocuk Menüsü",
+            "description": "Lokma tost, kaşık patates kızartması ve içecek (330 ml) ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605081903_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9c65c4f7852929632d2",
+            "name": "Ordu Tost Menü",
+            "description": "Ordu tost, kaşık patates kızartması ve içecek (330 ml) ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605087920_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9c7af0e945f083d1d1c",
+            "name": "Karmakarışık Tost Menü",
+            "description": "Karmakarışık tost, kaşık patates kızartması ve içecek (330 ml) ile",
+            "price": 960.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605001742_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9c5d71a4259ee331b6c",
+            "name": "Sezar Tost Menü",
+            "description": "Sezar tost, kaşık patates kızartması ve içecek (330 ml) ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9c3eac3b10d2d11f896",
+            "name": "Atom Tost Menü",
+            "description": "Atom tost, kaşık patates kızartması ve içecek (330 ml) ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1688318002312_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6194a97cdf216b478c76e0f7",
+        "name": "Tost",
+        "items": [
+          {
+            "id": "6194a9a08226bd24a41651f4",
+            "name": "Sucuklu Tost",
+            "description": "Susamlı sandviç ekmeği ve dana sucuk",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605101203_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a992198e7cac498fd4cb",
+            "name": "Lokma Tost",
+            "description": "Özel tost point ekmeği, dana sucuk ve mozzarella peyniri",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605058297_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9a1198e7c1cae8fd576",
+            "name": "Beyaz Peynirli Tost",
+            "description": "Susamlı sandviç ekmeği ve tam yağlı beyaz peynir",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605110425_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98eaf0e942b3f3d1a2d",
+            "name": "Salata Tost",
+            "description": "Tam buğday tahıllı ekmek, mozzarella peyniri ve dereotu",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605026618_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9951010c1724475f8ae",
+            "name": "Karışık Tost",
+            "description": "Ayvalık ekmeği, mozzarella peyniri ve dana sucuk",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605092174_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98f5c4f78815b962dc4",
+            "name": "Karışık Peynirli Tost",
+            "description": "Ayvalık ekmeği, tam yağlı beyaz peynir, mozzarella peyniri ve kekik",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605040187_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a99c8226bda6fa1651b9",
+            "name": "Üç Peynirli Tost",
+            "description": "Özel ordu tost ekmeği, üç köy peyniri, dereotu ve yeşilbiber",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605159428_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9968d48bc8a4ec87292",
+            "name": "Esmer Dilber Tost",
+            "description": "Özel tost point tam buğday lavaşı, cheddar peyniri, tavuk, kapya biber, krema, özel naneli yoğurt sos, domates sos, köri sos, pul biber ve kekik",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605150036_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98a1010c13fda75f7d2",
+            "name": "Dilber Tost",
+            "description": "Özel tost point tam buğday lavaşı ekmeği, cheddar peyniri, tavuk göğüs, kapya biber, krema, naneli yoğurt sos, domates sos, köri sos, pul biber, kekik ve patates kızartması",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605049309_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98c198e7c4c608fd487",
+            "name": "Asil Tost",
+            "description": "Özel tost ekmeği, dana sucuk, mozzarella peyniri, yumurta, ketçap ve mayonez",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605035823_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98ddf216b328376e1c3",
+            "name": "Orduya Karışık Tost",
+            "description": "Özel ordu tost ekmeği, dana sucuk ve mozzarella peyniri",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605077458_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a998d71a425207331940",
+            "name": "Ordu Tost",
+            "description": "Özel ordu tost ekmeği, sürme sucuk ve mozzarella peyniri",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605164819_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9945c4f78563d962e11",
+            "name": "Esmer Tost",
+            "description": "Özel i̇talyan esmer ciabatta ekmeği, tulum peyniri, mozzarella peyniri, domates ve ceviz",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605054024_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9a65c4f782382962fdc",
+            "name": "Kurutulmuş Domates & Fesleğenli Tost",
+            "description": "Özel i̇talyan esmer ciabatta ekmeği, kurutulmuş domates, ceviz, özel pesto fesleğen sosu, mozzarella peyniri, pulbiber ve kekik",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605096396_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a999198e7c34a78fd520",
+            "name": "Bazlamaya Karışık Tost",
+            "description": "Özel sütlü tost ekmeği, dana sucuk ve mozzarella peyniri",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605115326_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9915c4f78472d962dea",
+            "name": "Sezar Tost",
+            "description": "Özel sütlü çift kat tost ekmeği, ilk katına sucuk, dilim kaşar peyniri, ikinci katına cheddar peyniri ve salam",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605044872_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9ac5c4f78676c96308f",
+            "name": "Togi Tost",
+            "description": "Özel tost ekmeği, cheddar peyniri, kekik, turşu, mozzarella peyniri, ketçap, mayonez, sosis, domates sos ve pul biber",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605120329_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9a45c4f7813a4962fa7",
+            "name": "Esmer Dolama Tost",
+            "description": "Özel i̇talyan esmer ciabatta ekmeği, cheddar peyniri, dana pastırma, mozzarella peyniri, özel köri sosu, kekik ve pul biber",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605021979_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a98b1010c1405a75f7e6",
+            "name": "Pastırmalı Tost",
+            "description": "Özel sütlü tost ekmeği, yumurta, dana pastırma, cheddar peyniri ve mozzarella peyniri",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605125287_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9a95c4f78faca96301f",
+            "name": "Mantarlı Civa Tost",
+            "description": "Tost point ekmeği, mantar, mozzarella peyniri, domates, yeşilbiber, kapya biber, kekik ve pul biber",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746604977151_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9aaaf0e9468ac3d1bb1",
+            "name": "Tavuklu Civa Tost",
+            "description": "Tost point ekmeği, tavuk göğüs, mozzarella peyniri, domates, yeşilbiber, kapya biber ve kekik",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605009851_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9a7d71a42767d331a02",
+            "name": "Atom Tost",
+            "description": "Özel atom ekmeği, sucuk, salam, sosis, mozarella peyniri, mısır, turşu, kapya biber, yeşilbiber, ketçap ve mayonez",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605014993_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9971010c1350475f8c1",
+            "name": "Kenarsız Tost",
+            "description": "Üç kat kenarsız ekmek, cheddar peyniri, mozzarella peyniri ve sürme sucuk",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605130496_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a99d8d48bc2a44c87300",
+            "name": "Sucuklu Civa Tost",
+            "description": "Tost point ekmeği, dana sucuk, mozzarella peyniri, domates, yeşilbiber, kapya biber, kekik ve pul biber",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605135029_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a99baf0e94e9b53d1af0",
+            "name": "Kavurmalı Tost",
+            "description": "Özel tost ekmeği, dana kavurma, mozzarella peyniri, pul biber ve kekik",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605139690_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9ad1010c1865375f9e9",
+            "name": "Tavuklu Mantarlı Civa Tost",
+            "description": "Tost point ekmeği, mantar, tavuk göğüs, mozzarella peyniri, domates, yeşilbiber, kapya biber, kekik ve pul biber",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605063622_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a989198e7cae7d8fd468",
+            "name": "Pastırmalı Civa Tost",
+            "description": "Tost point ekmeği, dana pastırma, mozzarella peyniri, domates, yeşilbiber, kapya biber, kekik ve pul biber",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605145027_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9a56ecfd91940be0b55",
+            "name": "Kavurmalı Civa Tost",
+            "description": "Tost point ekmeği, kavurma, mozzarella peyniri, domates, yeşilbiber, kapya biber ve kekik",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605154525_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9a25c4f7873b1962f8a",
+            "name": "Karmakarışık Tost",
+            "description": "Özel tost point ekmeği, domates, yeşilbiber, kapya biber, dana pastırma, kavurma, mozzarella peyniri ve sürme sucuk",
+            "price": 780.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605030856_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a99f5c4f784e1e962f39",
+            "name": "Diyet Tost",
+            "description": "Özel ordu kepek ekmeği, beyaz peynir, domates ve dereotu",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9905c4f78ef57962de0",
+            "name": "Mozzarella Peynirli Tost",
+            "description": "Susamlı sandviç ekmeği ve mozzarella peyniri",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a99a5c4f787a7d962ea2",
+            "name": "Double Mozzarella Tost",
+            "description": "Özel ordu tost ekmeği ve bol mozzarella peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6194a97d1010c1339d75f73b",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6194a9b05c4f7845549630c4",
+            "name": "Churros Patates Kızartması",
+            "description": "Özel tost point baharatı, ketçap ve mayonez ile",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746605105826_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9b3af0e940c403d1c2f",
+            "name": "Soğan Halkası (6 Adet)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9b2eac3b1242f11f7b6",
+            "name": "Tavuk Nugget (6 Adet)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9b16ecfd91747be0bf4",
+            "name": "Soğan Halkası (12 Adet)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9b46ecfd92248be0c1c",
+            "name": "Tavuk Nugget (12 Adet)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6194a97faf0e94006e3d193c",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6194a9b9df216b78a076e3d8",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9bfd71a425ed0331b15",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9b75c4f78b0e4963160",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9b6df216b16a876e3a5",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9bb5c4f78db579631bb",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9bddf216b864876e414",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63514c6b5636b13840eda494",
+            "name": "Cappy (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9c0eac3b150de11f86a",
+            "name": "Eker Ayran (300 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6194a9bc5c4f7875769631ec",
+            "name": "Beypazarı Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6194a9b85c4f7836b5963181",
+            "name": "Erikli Su (330 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

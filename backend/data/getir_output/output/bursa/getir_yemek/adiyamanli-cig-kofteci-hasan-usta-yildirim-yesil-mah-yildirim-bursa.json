@@ -1,0 +1,519 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "683371b719bc9493a7657af0",
+  "name": "Adıyamanlı Çiğ Köfteci Hasan Usta, Yıldırım (Yeşil Mah.)",
+  "slug": "adiyamanli-cig-kofteci-hasan-usta-yildirim-yesil-mah-yildirim-bursa",
+  "cuisine_types": [
+    "Çiğ Köfte",
+    "Sokak Lezzetleri"
+  ],
+  "rating": 4.5,
+  "rating_count": 20,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "683f169cceac63ceac48875d",
+            "name": "Çiğ Köfte Menü (500 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, lavaş (5 adet) ve ayran (1 L) ile",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f13b5ceac63ceac4885bd",
+            "name": "Çiğ Köfte (Porsiyon) (200 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (2 adet) ile",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f213dceac63ceac488f22",
+            "name": "Doritos (Paket)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68991b64ceac63ceaca73967",
+            "name": "Midye (Büyük Boy) (Adet)",
+            "description": null,
+            "price": 19.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68339d95ceac63ceac2d491a",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "6836bcaaceac63ceac30b38f",
+            "name": "Çiğ Köfte Menü (1 kg)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, lavaş (10 adet) ve içecek (1 L) ile",
+            "price": 895.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750331605312_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "683f169cceac63ceac48875d",
+            "name": "Çiğ Köfte Menü (500 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, lavaş (5 adet) ve ayran (1 L) ile",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689a1f24ceac63ceaca8212e",
+            "name": "Çiğ Köfte (750 g) Menü",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, lavaş (10 adet) ve içecek (1 L)",
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689f2c19ceac63ceacac29f0",
+            "name": "Çiğ Köfte Dürüm Menü",
+            "description": "Çiğ köfte dürüm (çiğ köfte (100 g), göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon) ve ayran (180 ml) ile",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689f2cdaceac63ceacac2aa0",
+            "name": "Mega Çiğ Köfte Dürüm Menü",
+            "description": "Mega çiğ köfte dürüm (çiğ köfte (140 g), göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, çift lavaş) ve ayran (270 ml) ile",
+            "price": 189.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689f2d43ceac63ceacac2b0f",
+            "name": "Ultra Mega Çiğ Köfte Dürüm Menü",
+            "description": "Ultra mega çiğ köfte dürüm (170 g), göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, çift lavaş) ve ayran (270 ml) ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689f2e6fceac63ceacac2c44",
+            "name": "Doritoslu Çiğ Köfte Dürüm Menü",
+            "description": "Doritoslu çiğ köfte dürüm (çiğ köfte (100 g), göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, çift lavaş), ve ayran (270 ml) ile",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689f2f2bceac63ceacac2cce",
+            "name": "Mega Doritoslu Çiğ Köfte Dürüm Menü",
+            "description": "Mega doritoslu çiğ köfte dürüm (çiğ köfte (140 g), doritos), göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, çift lavaş) ve ayran (270 ml) ile",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689f2f99ceac63ceacac2d1d",
+            "name": "Ultra Mega Doritoslu Çiğ Köfte Dürüm Menü",
+            "description": "Ultra mega doritoslu çiğ köfte dürüm (çiğ köfte (170 g), doritos, göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon, çift lavaş) ve ayran (270 ml) ile",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68339d74ceac63ceac2d4918",
+        "name": "Çiğ Köfte",
+        "items": [
+          {
+            "id": "683f13b5ceac63ceac4885bd",
+            "name": "Çiğ Köfte (Porsiyon) (200 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (2 adet) ile",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1428ceac63ceac4885ea",
+            "name": "Çiğ Köfte (Porsiyon) (250 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (3 adet) ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1487ceac63ceac48860e",
+            "name": "Çiğ Köfte (Porsiyon) (300 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (4 adet) ile",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f12baceac63ceac4884e2",
+            "name": "Çiğ Köfte (Porsiyon) (400 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (4 adet) ile",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f11deceac63ceac488422",
+            "name": "Çiğ Köfte (Porsiyon) (500 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (5 adet) ile",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f134dceac63ceac48852b",
+            "name": "Çiğ Köfte (Porsiyon) (750 g)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (8 adet) ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68339eafceac63ceac2d4924",
+            "name": "Çiğ Köfte (Porsiyon) (1 kg)",
+            "description": "Göbek marul, turşu, roka, maydanoz, nar ekşisi, acı sos, domates, mor lahana, limon ve lavaş (10 adet) ile",
+            "price": 730.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68339dadceac63ceac2d491b",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6836bc56ceac63ceac30b305",
+            "name": "Burma Kadayıf (Tek Kişilik)",
+            "description": null,
+            "price": 105.55,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68339dd0ceac63ceac2d491c",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6836bc6eceac63ceac30b315",
+            "name": "Midye (Normal Boy) (Adet)",
+            "description": "Limon ile",
+            "price": 17.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1e37ceac63ceac488d63",
+            "name": "Lavaş (Adet)",
+            "description": null,
+            "price": 7.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1e64ceac63ceac488d6a",
+            "name": "Burger Sos (1 L)",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1e85ceac63ceac488d71",
+            "name": "Acı Sos (1 L)",
+            "description": null,
+            "price": 205.56,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1ea6ceac63ceac488d77",
+            "name": "Nar Ekşisi (1 L)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1f59ceac63ceac488dbe",
+            "name": "Limon (Adet)",
+            "description": null,
+            "price": 27.78,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1f90ceac63ceac488e12",
+            "name": "Roka (Demet)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1fb9ceac63ceac488e23",
+            "name": "Maydanoz (Demet)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f2006ceac63ceac488e3f",
+            "name": "Domates (Adet)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f213dceac63ceac488f22",
+            "name": "Doritos (Paket)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68926d5bceac63ceac9677a1",
+            "name": "Göbek Marul (Adet)",
+            "description": null,
+            "price": 116.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68991b64ceac63ceaca73967",
+            "name": "Midye (Büyük Boy) (Adet)",
+            "description": null,
+            "price": 19.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68339d84ceac63ceac2d4919",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6836bc24ceac63ceac30b2f8",
+            "name": "Ayran (180 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1767ceac63ceac48881a",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f17a5ceac63ceac488931",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f194eceac63ceac488ab6",
+            "name": "Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 72.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f196dceac63ceac488ac7",
+            "name": "Pepsi (300 ml)",
+            "description": null,
+            "price": 72.78,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1994ceac63ceac488b0a",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 82.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1b7dceac63ceac488c3a",
+            "name": "Acılı Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 38.89,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6847e127ceac63ceac4c65fe",
+            "name": "Acısız Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 38.89,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1c56ceac63ceac488ca2",
+            "name": "Karpuzlu Soda (200 ml)",
+            "description": null,
+            "price": 32.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6847e0e9ceac63ceac4c65ac",
+            "name": "Çilekli Soda (200 ml)",
+            "description": null,
+            "price": 32.44,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6847e11aceac63ceac4c65e3",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 32.44,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1c7cceac63ceac488cb1",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 27.78,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683f1ba7ceac63ceac488c47",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 17.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

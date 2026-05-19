@@ -1,0 +1,721 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "629227c02dfa312d42bfc6c2",
+  "name": "Origano Pizza & Bakery, Çankaya (Kazım Özalp Mah.)",
+  "slug": "origano-pizza-bakery-cankaya-kazim-ozalp-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Pizza"
+  ],
+  "rating": 4.5,
+  "rating_count": 500,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6319ecb2cc4067c604ea9eda",
+            "name": "Bruschetta-1",
+            "description": "Opsiyon 1: Ekşi mayalı ekmek üzerine sarımsaklı ricotta peyniri, mor soğan, kiraz domates, sarımsak, soğuk sıkım zeytinyağı, taze fesleğen ve balzamik vinagrette",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fe2fc6ceac63ceac14d41a",
+            "name": "Panzeretto Fritto",
+            "description": "Kızarmış pizza hamuru, domates sos, mozzarella peyniri, dana füme et / fried pizza dough filled with tomato sauce, mozzarella cheese & smoked beef",
+            "price": 612.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67c32364ceac63ceaccf33e5",
+            "name": "Mantarlı Risotto (Mushroom Risoot)",
+            "description": "Arborio pirinci, soğan, kuru mantarlar, trüf mantarı, kemik sebze suyu, beyaz şarap, tereyağı, parmesan peyniri /\nArborio rice, onions, dried mushrooms, truffes, bone vegetable broth, wahite winebutter, parmesan",
+            "price": 880.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6294a50ca7ad908f5a30aed7",
+            "name": "Margharita Pizza",
+            "description": "Fior di latte mozzarella peyniri, domates sos, taze fesleğen ve soğuk sıkım zeytinyağı",
+            "price": 687.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730458727739_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6294a59237bd7e4a1c4422e2",
+            "name": "Origano Bistecca 2.0 Pizza",
+            "description": "Dana bistecca, ev yapımı fior di latte mozzarella peyniri, domates sos, maydanoz, acı biber ve parmesan",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1661259424292_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6319ec82cc4067388bea9520",
+        "name": "Başlangıç",
+        "items": [
+          {
+            "id": "6319ecb2cc4067c604ea9eda",
+            "name": "Bruschetta-1",
+            "description": "Opsiyon 1: Ekşi mayalı ekmek üzerine sarımsaklı ricotta peyniri, mor soğan, kiraz domates, sarımsak, soğuk sıkım zeytinyağı, taze fesleğen ve balzamik vinagrette",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63c10f1283f83062354f87bc",
+            "name": "Caprese Di Burrata",
+            "description": "Burrata peyniri, salkım domates, pesto sos / Burrata cheese, bunch tomatoes, pesto sauce",
+            "price": 860.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fe2fc6ceac63ceac14d41a",
+            "name": "Panzeretto Fritto",
+            "description": "Kızarmış pizza hamuru, domates sos, mozzarella peyniri, dana füme et / fried pizza dough filled with tomato sauce, mozzarella cheese & smoked beef",
+            "price": 612.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69049d80ceac63ceac1a0387",
+            "name": "Italian Roasted Patates",
+            "description": "Baharat çeşitleri, sarımsak, parmesan peyniri, tereyağı ile fırında közlenmiş patates",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c3c054ceac63ceac004bbd",
+            "name": "Carbonara Pızzette",
+            "description": "Mini pizza hamuru üzerinde krema, pastırma, karamelize soğan, yumurta sarısı ve grana padano mini pizza dough topped with cream, pastirma, caramelized onions, egg yolk and grana padano",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c3c351ceac63ceac00555b",
+            "name": "Roastbeef & Stracciatella Bruschetta",
+            "description": "Ekşi mayalı ekmek üzerine stracciatella peyniri, karabiberli roastbeef, pesto sos, köz biber ve kiraz domates, soğuk sızma zeytinyağı, rende parmesan ve taze fesleğen",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "636634342ef129a601f4fe4b",
+        "name": "Menü / Menu",
+        "items": [
+          {
+            "id": "6366715c6f56ba4a480a0b6f",
+            "name": "2'li Pizza Menü",
+            "description": "Tercih edeceğiniz pizza (2 adet), coca cola (1 L) ile",
+            "price": 1350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "636671c92ef1297fc906923b",
+            "name": "2'li Makarna Menü",
+            "description": "Tercih edeceğiniz makarna (2 adet), coca cola (1 L) ile",
+            "price": 1400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6294a34512a6b55da53b4627",
+        "name": "Ana Yemek / Main Course",
+        "items": [
+          {
+            "id": "6499a4ef6d94c05d8b8499f6",
+            "name": "Parmigiana",
+            "description": "Patlıcan, Domates, Sarımsak, Fesleğen, Mozarella Peyniri/Grilled Eggplant, Tomato, Garlic, Basil,Mozarella Cheese",
+            "price": 670.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770117130509_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67c32364ceac63ceaccf33e5",
+            "name": "Mantarlı Risotto (Mushroom Risoot)",
+            "description": "Arborio pirinci, soğan, kuru mantarlar, trüf mantarı, kemik sebze suyu, beyaz şarap, tereyağı, parmesan peyniri /\nArborio rice, onions, dried mushrooms, truffes, bone vegetable broth, wahite winebutter, parmesan",
+            "price": 880.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c3ca56ceac63ceac00651b",
+            "name": "Kuzu İncik & Polenta",
+            "description": "Aromatik sebzeler ile pişirilmiş kuzu incik ve kemik suyunda pişirilmiş krema kıvamında polenta",
+            "price": 1800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6294a4f5b8a98b6f46f75431",
+        "name": "Pizza / Pizza",
+        "items": [
+          {
+            "id": "6294a50ca7ad908f5a30aed7",
+            "name": "Margharita Pizza",
+            "description": "Fior di latte mozzarella peyniri, domates sos, taze fesleğen ve soğuk sıkım zeytinyağı",
+            "price": 687.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730458727739_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6294a60137bd7e1f7f442b70",
+            "name": "Mediterrano Pizza",
+            "description": "Mozzarella peyniri, ricotta peyniri, domates sos, siyah zeytin, kiraz domates, ceviz ve fesleğen",
+            "price": 790.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1661259426223_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6294a6f0aa7f9310ac710517",
+            "name": "Funghi 2.0 Pizza",
+            "description": "Porçini ve istiridye mantarı, fior di latte mozzarella peyniri, domates sos, isli scamorza peyniri, soğuk sıkım zeytinyağı ve taze fesleğen",
+            "price": 880.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771584162699_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6294a75e6b38f93b1da3d3fe",
+            "name": "Pesto Quattro Formaggio Pizza",
+            "description": "Dana bistecca, ev yapımı fior di latte mozzarella peyniri, domates sos, maydanoz, acı biber, parmesan bistecca, homemade fior di latte mozzarella cheese, tomato sauce, parsley, chili pepper, parmesan",
+            "price": 880.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1661259430005_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6294a59237bd7e4a1c4422e2",
+            "name": "Origano Bistecca 2.0 Pizza",
+            "description": "Dana bistecca, ev yapımı fior di latte mozzarella peyniri, domates sos, maydanoz, acı biber ve parmesan",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1661259424292_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62c71b605c762d500f77cb6b",
+            "name": "Klasik Karışık Pizza",
+            "description": "Dana sucuk, dana salam, domates sos, fior di latte mozzarella peyniri, zeytin, mısır ve taze kekik",
+            "price": 980.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1700657541380_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6294a73ba7ad900c9330daaf",
+            "name": "Pizza Ai Porcini E Burrato",
+            "description": "Porçini mantarı, inek sütlü fior di latte mozzarella peyniri, burrata, maydanoz, trüf yağı, karamelize\nsoğan. / Porcini mushrooms, fior di latte mozzarella cheese, burrata, parsley, truffle oil, caramelized onions",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "634fe0c975bcc43ac8af339c",
+            "name": "Tofulu Vegan Pizza",
+            "description": "Marine edilmiş kızartılmış tofu, domates sos, renkli biberler, mısır, mantar, karamelize soğan / Marinated fried tofu, tomato sauce, mixed peppers, mushroom, caramelized onion sweet corn",
+            "price": 780.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d10a826ab9269da1a1d4c7",
+            "name": "Pizza Marinara Con Burrata",
+            "description": "Burrata peyniri, domates sos, siyah sarımsak, taze fesleğen, sarımsak, balzamik, soğuk sıkım zeytinyağı ve Grana Padano",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771584195064_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64d10b09ab53f8036464f5f5",
+            "name": "Melanzane 2.0 Pizza",
+            "description": "Kızartılmış patlıcan, pastırma, fior di latte mozzarella peyniri, grana padano ve scamorza isli peynir, domates sos, soğan, sarımsak, kiraz domates, taze fesleğen fried eggplant, pastrami, fior di latte mozzarella and grana padano and scamorza smoked cheese, tomato sauce, onions, cherry tomatoes, sarımsak, fresh basil",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1729607016550_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "68cc214bceac63ceacddaa9f",
+            "name": "Sucuk İçi Pizza",
+            "description": "Acı biber reçeli, sucuk içi, burrata peyniri, domates sos ve taze fesleğen",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68cc217fceac63ceacddaae2",
+            "name": "Fıstıklı Mortadella Pizza",
+            "description": "Mortadella (İtalyan salamı Dana Salam), antep fıstığı, fior di latte mozzarella peyniri, domates sos, soğuk sıkım zeytinyağı, parmesan tülü ve taze fesleğen",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771584225018_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697f36a3ceac63ceacb66b35",
+            "name": "Pizza Frutti Di Mare Bianco",
+            "description": "Beyaz sos, midye, kalamar, karides, kapari, kırmızı soğan, sarımsak, kiraz domates, fior di latte mozzarella peyniri, maydanoz ve limon kabuğu rendesi",
+            "price": 1250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6294a76772000a5e332acc91",
+        "name": "Çorba / Soup",
+        "items": [
+          {
+            "id": "6294a77b7c7d2a1d9be38a55",
+            "name": "Taze Domates Çorbası",
+            "description": "Taze domates, köz biber, zeytinyağı, fesleğen. / Fresh tomatoes, roasted peppers, olive oil, basil.",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1661259852405_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69c3d2caceac63ceac007d7e",
+            "name": "Sebze Çorbası",
+            "description": "Brokoli, karnabahar, havuç, renkli biberler, mısır ve tereyağı",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6294a79d12a6b5a2dc3bb93d",
+        "name": "Makarna / Pasta",
+        "items": [
+          {
+            "id": "6294aac612a6b552e53c115c",
+            "name": "Lasagna",
+            "description": "Lazanya yaprakları, bolognese sos, beşamel sos, tereyağı, mozzarella peyniri\nLasagna sheets, bolognese sauce, bechamel sauce, butter, mozzarella cheese",
+            "price": 920.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684851338333_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62b458aa88fa4ab1b637d99f",
+            "name": "Üç Mantarlı Ravioli",
+            "description": "Porçini, Morel ve istiridye mantarı. ricotta peyniri ,maydanoz, taz sarımsak, sade tereyağı\nPorcini, Morel and oyster mushrooms. ricotta cheese, parsley, fresh garlic, ghee",
+            "price": 940.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63c1122983f83040f95052d6",
+            "name": "Mushroom Tagliatelle Integrali",
+            "description": "Ev yapımı makarna, taze sarımsak, mevsim mantarları, zeytinyağı, karabiber / Homemade pasta,fresh garlic, wild mushroom of season, olive oil, black pepper",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69049f34ceac63ceac1a0671",
+            "name": "Porçini Mantarlı Fettuccini",
+            "description": "Ev yapımı makarna, taze sarımsak, porçini, istiridye ve kültür mantarları, zeytinyağı karabiber/ homemade pasta, fresh garlic, porcini, oyster and cultivated mushrooms, olive oil, black pepper",
+            "price": 810.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69049f69ceac63ceac1a0682",
+            "name": "Limonlu Karidesli Tagliarini",
+            "description": "Ev yapımı tagliarini spagetti, limon, krema tereyağı, parmesan, acı biber/Homemade tagliarini spagetti, lemon, heavy ceram, butter, parmesan, chili pepper",
+            "price": 860.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69049ff5ceac63ceac1a06d1",
+            "name": "Peynir Dolgulu Yeşil Ravioli",
+            "description": "Ricotta ve parmesan dolgulu ıspanaklı yeşil ravioli, taze adaçaylı tereyağlı sos ve kızarmış mantarlar ile servis edilir\nRicotta and parmesan cheese fılled green spinach pasta, served with butter with fresh sage and frıed mushrooms",
+            "price": 975.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6904a05aceac63ceac1a0726",
+            "name": "Domates Soslu Spagetti",
+            "description": "Ev yapımı makarna, domates sos, sarımsak, zeytinyağı, feslegen, karabiber, parmesan\nHomemade pasta, domates sos, garlic, olive oil, basil leaves, black pepper, parmesan",
+            "price": 762.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c3cd54ceac63ceac006e23",
+            "name": "SpaghettI Alle Vongole",
+            "description": "Ev yapımı spagetti, kum midyesi, beyaz sarap, evoo, sarımsak, kirmizi aci biber, limon, maydanoz / homemade spaghetti, clams, white wine, evoo, garlic, red chili, lemon, parsley",
+            "price": 980.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66f559aeceac63ceac5e2fcd",
+        "name": "Luca's Deli Menü",
+        "items": [
+          {
+            "id": "66f6ad84ceac63ceac7fa29d",
+            "name": "Chicken Katsu Foccacia Sandwich",
+            "description": "Chicken katsu, lahana sauerkraut, balzamik sos, mozzarella peyniri, fırınlanmış cherry domates, biber salçalı mayonez",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728043323729_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6294a420aa7f933d6870c2e0",
+        "name": "İçecek / Beverage",
+        "items": [
+          {
+            "id": "6294a429c85564cb1085b3df",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6304b5d03db7a279a0e0e126",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6294a430744902496da8c0f1",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6294a43512a6b5d8383b60f3",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6294a44dc3e5ba483bce6ad7",
+            "name": "Cappy  Meyve Suyu (330 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6294a4696b38f98f93a39591",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6294a43bc3e5ba769cce6949",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6304b624d6d0145a1f1a4d4a",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 105.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6294a472aa7f93c02070ca75",
+            "name": "Beyoğlu Zencefilli Gazoz (300 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6294a4794dbd29cf88bb1d59",
+            "name": "Su (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6304b5b144e8de23dc691feb",
+            "name": "Fesleğenli Ayran (293 ml)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6410ad05e5f17a8de5b70fe9",
+            "name": "Özerhisar Ayran (250 ml)",
+            "description": "(Cam şişe)",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "653382214bcad3b09f6bafea",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6533823f88d729664ba29655",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6751ceccceac63ceac1b24fa",
+            "name": "Su (750 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62b45ee0d3e5d56b23fe3266",
+        "name": "Salata / Salad",
+        "items": [
+          {
+            "id": "62c40cbedecf6c7cf858e159",
+            "name": "Mevsim Yeşillikleri Salatası / Seasonal Green Salad",
+            "description": null,
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62b462431866c58ebe1073bf",
+            "name": "Ricotta Salatası",
+            "description": "Yedikule marul, ricotta peyniri, turp, domates,  havuç, közlenmiş biber,  Yedikule lettuce, ricotta cheese, rakula , radish, cherry tomatoes, zucchini, carrots, roastedpeppers, green beans, pumpkin seeds",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6634c574decd03f9c61f2238",
+            "name": "Orman Meyveli Cevizli Roka Salatası",
+            "description": "Roka, fior di latte mozzarella peyniri, orman meyveleri, ceviz, kiraz domates, incir, fesleğen",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6403a56d222c104106f2d7f3",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6530f6eb5ac1e27188021830",
+            "name": "Burrata Peyniri",
+            "description": "Tam yağlı İnek peyniri",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62c43ab7cb35326d36a3e1c3",
+        "name": "Sos / Sauce",
+        "items": [
+          {
+            "id": "653bc2cee5a2179590aee7c2",
+            "name": "Ev Yapımı Acı Sos (330 cc) (Cam Kavanozda)",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927911178_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6294a481aa7f93112b70cbee",
+        "name": "Tatlı / Dessert",
+        "items": [
+          {
+            "id": "6294a48a72000acec82a8bdd",
+            "name": "Tiramisu Classico",
+            "description": "Kedi dilli, espresso, kahlua, mascarpone kreması, kakao / Lady fingers, espresso, kahlua, mascarpone cream, cocoa",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6294a4947449022ef5a8c8d0",
+            "name": "Panna Cotta",
+            "description": "Süt, şeker, jelatin, krema, vanilya çekirdeği, mevsim meyveleri / Milk, sugar, gelatin, heavy cream, vanilla bean, seasonal fruits",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

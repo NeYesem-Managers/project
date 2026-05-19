@@ -1,0 +1,563 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "68f8d612406acf5ce3224f5e",
+  "name": "Chicken Garage, Çankaya (Bahçelievler Mah.)",
+  "slug": "chicken-garage-cankaya-bahcelievler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Tavuk"
+  ],
+  "rating": 4.3,
+  "rating_count": 50,
+  "min_order_amount": 280.0,
+  "delivery_fee": 52.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %10"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "69007571ceac63ceac16ae23",
+            "name": "Garage Menü İçecekli",
+            "description": "120 g Patates kızartması, 3 shot, 3 tenders, ketçap, mayonez, 2 Garage sos ve İçecekle birlikte (330 ml)",
+            "price": 550.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773167729568_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "690075b6ceac63ceac16aed7",
+            "name": "Garage Combo Menü",
+            "description": "120 g patates kızartması, 3 tenders, 3 soğan halkası, ketçap, mayonez, 2 Garage sos ve seçeceğin içecekle beraber",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773167993281_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b06eebceac63ceacf1da78",
+            "name": "Garage Combo",
+            "description": "Seçeceğin burger, 3 adet tavuk kök kanat, 3 adet tenders, 3 adet soğan halkası, patates kızartması (120 g), ketçap, mayonez, 2 adet garage sos",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773170387654_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6905e513ceac63ceac1d88df",
+            "name": "10'lu Çıtır Kanat",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765104315772_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "690076ddceac63ceac16b072",
+            "name": "Cheddar Chıcken Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 337.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761830994550_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f8d614ceac63ceac10ca9b",
+        "name": "Menüler",
+        "items": [
+          {
+            "id": "69007571ceac63ceac16ae23",
+            "name": "Garage Menü İçecekli",
+            "description": "120 g Patates kızartması, 3 shot, 3 tenders, ketçap, mayonez, 2 Garage sos ve İçecekle birlikte (330 ml)",
+            "price": 550.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773167729568_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "690075b6ceac63ceac16aed7",
+            "name": "Garage Combo Menü",
+            "description": "120 g patates kızartması, 3 tenders, 3 soğan halkası, ketçap, mayonez, 2 Garage sos ve seçeceğin içecekle beraber",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773167993281_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007621ceac63ceac16af42",
+            "name": "Garage Et Burger Menü",
+            "description": "120 g patates kızartması, ketçap, mayonez, 2 garage sos ve seçeceğin içecek ile",
+            "price": 699.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773168099949_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6900765fceac63ceac16af91",
+            "name": "Garage Wings Kova Menü",
+            "description": "12 çıtır kanat, 240 g patates kızartması, ketçap, mayonez, 2 garage sos ve seçeceğin ile",
+            "price": 610.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761830954504_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b06914ceac63ceacf1d79f",
+            "name": "Çıtır Tavuk Dürüm & İçecek",
+            "description": "Tortilla ekmeği içerisinde, çıtır tavuk parçacıkları, ranch sos, turşu, marul , patates kızartması (120 g) , 2 adet garage sos, seçeceğin içecek",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773168929941_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69b062b5ceac63ceacf1d572",
+        "name": "İçeceksiz Menüler",
+        "items": [
+          {
+            "id": "69b06e8aceac63ceacf1da53",
+            "name": "Garage Menü",
+            "description": "Seçeceğin hamburger, 3 adet chicken tenders, patates kızartması (120 g), ketçap, mayonez, 2 adet garage sos",
+            "price": 433.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773169967057_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b06eebceac63ceacf1da78",
+            "name": "Garage Combo",
+            "description": "Seçeceğin burger, 3 adet tavuk kök kanat, 3 adet tenders, 3 adet soğan halkası, patates kızartması (120 g), ketçap, mayonez, 2 adet garage sos",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773170387654_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69b0629dceac63ceacf1d563",
+        "name": "Double Menüler",
+        "items": [
+          {
+            "id": "69b06f96ceac63ceacf1db15",
+            "name": "Double Et Burger",
+            "description": "Seçeceğin 2 adet hamburger, patates kızartması (240 g), seçeceğin 4 adet garage sos, ketçap, mayonez, seçeceğin 2 adet içecek",
+            "price": 990.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774547642026_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b06ff5ceac63ceacf1db2a",
+            "name": "2'li Karışık Burger",
+            "description": "Seçeceğin et burger, seçeceğin tavuk burger, patates kızartması (240 g), seçeceğin 4 adet garage sos, ketçap, mayonez, 2 adet kutu içecek",
+            "price": 890.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773170646893_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6905da27ceac63ceac1d80a3",
+        "name": "Kanat Menüler",
+        "items": [
+          {
+            "id": "6905e4ebceac63ceac1d888c",
+            "name": "6'lı Çıtır Kanat",
+            "description": null,
+            "price": 415.01,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765104305773_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6905e513ceac63ceac1d88df",
+            "name": "10'lu Çıtır Kanat",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765104315772_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f8ee88ceac63ceac10f45c",
+        "name": "Tavuk Burgerler",
+        "items": [
+          {
+            "id": "690076ddceac63ceac16b072",
+            "name": "Cheddar Chıcken Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 337.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761830994550_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007731ceac63ceac16b10e",
+            "name": "Burning Chicken Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 337.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761854259180_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6900775dceac63ceac16b12f",
+            "name": "Bbq Chıcken Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 337.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761854238362_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "690077d0ceac63ceac16bbf4",
+            "name": "Dynamıte Chıcken Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 337.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761831025776_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f8ee94ceac63ceac10f465",
+        "name": "Et Burgerler",
+        "items": [
+          {
+            "id": "690078f3ceac63ceac16bce4",
+            "name": "Bbq Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761854347961_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007921ceac63ceac16bcf1",
+            "name": "Cheese Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761854322547_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007938ceac63ceac16bcfb",
+            "name": "Dynamıte Burger (120 g)",
+            "description": "Domates, soğan, yeşillik ve yanında; ketçap, mayonez, patates kızartması ve 2 adet garage sos ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761854291392_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6903c3b6ceac63ceac195f4b",
+        "name": "Dürümler",
+        "items": [
+          {
+            "id": "6903c48bceac63ceac195f60",
+            "name": "Cajun Baharatlı Çıtır Tavuk Dürüm",
+            "description": "Tortilla ekmeği, çıtır tavuk parçacıkları, ranch sos, turşu, marul, acı sos, patates kızartması (120 g), ketçap ve mayonez",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761854572646_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6903c4c7ceac63ceac195f68",
+            "name": "Cheddarlı Kajun Baharatlı Çıtır Tavuk Dürüm",
+            "description": "Tortilla ekmeği, çıtır tavuk parçacıkları, ranch sos, turşu, marul, acı sos, cheddar peyniri, patates kızartması (120 gr), ketçap ve mayonez",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761854653344_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f8ee70ceac63ceac10f44c",
+        "name": "Çıtır Çıtır Tavuklar",
+        "items": [
+          {
+            "id": "69007c5eceac63ceac16bfc3",
+            "name": "Tenders (250 g)",
+            "description": "120 g patates kızartması, ketçap, mayonez ve 2 garage sos ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761831363482_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007c85ceac63ceac16bfce",
+            "name": "Tenders (500 g)",
+            "description": "120 g patates kızartması, ketçap, mayonez ve 2 garage sos ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761831387799_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f8eec7ceac63ceac10f49f",
+        "name": "Soslar",
+        "items": [
+          {
+            "id": "68fb5902ceac63ceac1328e9",
+            "name": "Ketçap",
+            "description": null,
+            "price": 18.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5999ceac63ceac1329ac",
+            "name": "Mayonez",
+            "description": null,
+            "price": 7.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb59dbceac63ceac132a27",
+            "name": "Relish Sos",
+            "description": null,
+            "price": 10.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5a8bceac63ceac132b22",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 10.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5acfceac63ceac132b90",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 10.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5b0fceac63ceac132bec",
+            "name": "Sriracha Sos",
+            "description": null,
+            "price": 10.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5b4cceac63ceac132c33",
+            "name": "Sweet Chili Sos",
+            "description": null,
+            "price": 20.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5b6eceac63ceac132c48",
+            "name": "Ballı Hardal Sos",
+            "description": null,
+            "price": 18.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5b8cceac63ceac132c5b",
+            "name": "Bbq Sos",
+            "description": null,
+            "price": 21.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fb5bb4ceac63ceac132ce8",
+            "name": "Dynamit Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f8eec0ceac63ceac10f49b",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "68fb5c27ceac63ceac132d86",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761646350072_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68fb5ea6ceac63ceac132f92",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761646366770_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6905d6c0ceac63ceac1d7c28",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773179377358_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6905d6d3ceac63ceac1d7c2e",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773179342366_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69036a21ceac63ceac18f55d",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773179342394_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6905d6fdceac63ceac1d7c44",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773179357384_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6905d70bceac63ceac1d7c48",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6905d72dceac63ceac1d7c62",
+            "name": "Fuse Tea Karpuz (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6905d741ceac63ceac1d7c69",
+            "name": "Fuse Tea Kavun & Çilek (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6905d7b4ceac63ceac1d7cdc",
+            "name": "Eker Ayran (300 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

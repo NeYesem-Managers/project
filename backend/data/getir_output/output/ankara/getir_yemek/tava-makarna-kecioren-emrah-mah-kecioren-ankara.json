@@ -1,0 +1,578 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67a46db561ca448ed705ff9e",
+  "name": "Tava Makarna, Keçiören (Emrah Mah.)",
+  "slug": "tava-makarna-kecioren-emrah-mah-kecioren-ankara",
+  "cuisine_types": [
+    "Mantı & Makarna"
+  ],
+  "rating": 4.1,
+  "rating_count": 300,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 45,
+  "delivery_time_max": 55,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "67b81d55ceac63ceacc3c4b3",
+            "name": "Lezzet Üçlüsü Fettuccine Menü 1",
+            "description": "El yapımı günlük taze makarna (500 g), seçeceğin makarna, seçeceğiniz tatlı ve seçeceğin içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559132428_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d57ceac63ceacc3c4b8",
+            "name": "Parmesanlı Fettuccine Makarna",
+            "description": "Makarna (500 g), kremalı sos, parmesan peyniri ve özel baharat karışımı ile ",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559280193_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d59ceac63ceacc3c4ba",
+            "name": "Salsa Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), közlenmiş domates ve biberli salsa sos, özel baharat karışımı ile ",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559321976_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5aceac63ceacc3c4bd",
+            "name": "Üç Peynirli Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), parmesan peyniri, kaşar peyniri, cheddar peyniri, krema",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559400165_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5bceac63ceacc3c4bf",
+            "name": "Bolonez Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), dana kıyma, közlenmiş domates, biber, soğan, baharatlar ve altında kremalı sos",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559449343_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b81d52ceac63ceacc3c4ad",
+        "name": "Makarna Menü",
+        "items": [
+          {
+            "id": "67b81d55ceac63ceacc3c4b3",
+            "name": "Lezzet Üçlüsü Fettuccine Menü 1",
+            "description": "El yapımı günlük taze makarna (500 g), seçeceğin makarna, seçeceğiniz tatlı ve seçeceğin içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559132428_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d6b05ceac63ceac686e03",
+            "name": "Özel Menü (4 Kişilik Aile)",
+            "description": "Tavuk köfte, üç peynirli makarna, 1 adet ekstra makarna, 2 adet coca cola (1 L) ile",
+            "price": 1975.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765632708548_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d6ec2ceac63ceac687080",
+            "name": "Özel Menü (5 Kisilik Ofis)",
+            "description": "Isvec kofte, tavuklu mantarli makarna, uc peynirli makarna, napolitan makarna, arabiata makarna ve 2 adet coca cola (1 L) ile",
+            "price": 2295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765633652397_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d79c4ceac63ceac687771",
+            "name": "Özel (3'lü Taraftar Menüsü)",
+            "description": "Bolonez makarna, tavuk köfte, 1 adet ekstra makarna ve coca cola (1 L) ile",
+            "price": 1445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765636542633_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d7cafceac63ceac6878e1",
+            "name": "Özel (X2 Combo Menüsü)",
+            "description": "Sosisli makarna, üç peynirli makarna ve Coca-Cola (1 L) ile",
+            "price": 975.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765637279715_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d7dcaceac63ceac687949",
+            "name": "Özel Sporcu Menüsü",
+            "description": "Tavuklu protein odakli makarna, içecek ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765637568764_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d7d53ceac63ceac68790e",
+            "name": "Özel (Gamer Menüsü)",
+            "description": "Alfredo makarna, puding ve coca cola (1 L) ile",
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765637451009_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d7e55ceac63ceac687978",
+            "name": "Özel Kids Cocuk Menüsü",
+            "description": "250 g kremalı makarna ve limonata (300 ml)",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765637685261_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d55ceac63ceacc3c4b4",
+            "name": "Lezzet Üçlüsü Fettuccine Menü 2",
+            "description": "El yapımı günlük taze makarna (500 g), seçeceğin makarna, seçeceğiniz tatlı ve seçeceğin içecek ile",
+            "price": 615.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559173027_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d56ceac63ceacc3c4b5",
+            "name": "Lezzet Üçlüsü Fettuccine Menü 3",
+            "description": "El yapımı günlük taze makarna (500 g), seçeceğin makarna, seçeceğiniz tatlı ve seçeceğin içecek ile",
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559228390_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d56ceac63ceacc3c4b6",
+            "name": "Lezzet Üçlüsü Ravioli Menü",
+            "description": "El yapımı günlük taze ravioli (500 g), kremalı sos veya özel sos ile",
+            "price": 715.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559245142_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b81d52ceac63ceacc3c4ae",
+        "name": "Makarna Fettuccine",
+        "items": [
+          {
+            "id": "67b81d57ceac63ceacc3c4b7",
+            "name": "Kremalı Fettuccine",
+            "description": "Makarna (500 g), kremalı sos, özel çeşni",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559267613_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d57ceac63ceacc3c4b8",
+            "name": "Parmesanlı Fettuccine Makarna",
+            "description": "Makarna (500 g), kremalı sos, parmesan peyniri ve özel baharat karışımı ile ",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559280193_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d58ceac63ceacc3c4b9",
+            "name": "Pesto Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), fesleğenli pesto sos, parmesan peyniri ve özel baharat karışımı ile",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559294752_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d59ceac63ceacc3c4ba",
+            "name": "Salsa Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), közlenmiş domates ve biberli salsa sos, özel baharat karışımı ile ",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559321976_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d59ceac63ceacc3c4bb",
+            "name": "Arrabbiata Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), közlenmiş domates, chili biber, arrabbiata sosu",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559348904_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5aceac63ceacc3c4bc",
+            "name": "Közlenmiş Patlıcan Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), közlenmiş patlıcan, domates, köz biberli sos",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559384226_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5aceac63ceacc3c4bd",
+            "name": "Üç Peynirli Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), parmesan peyniri, kaşar peyniri, cheddar peyniri, krema",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559400165_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5bceac63ceacc3c4bf",
+            "name": "Bolonez Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), dana kıyma, közlenmiş domates, biber, soğan, baharatlar ve altında kremalı sos",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559449343_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5bceac63ceacc3c4c0",
+            "name": "Mantarlı Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), taze mantar, kremalı sos, özel çeşni",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559481328_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5cceac63ceacc3c4c1",
+            "name": "Tavuklu Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), marine edilmiş tavuk parçaları, kremalı sos, özel çeşni",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559497211_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5dceac63ceacc3c4c2",
+            "name": "Sosisli & Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), dana sosis, krema, baharatlar ile",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559517317_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5dceac63ceacc3c4c3",
+            "name": "İsveç Köfteli & Soslu Fettuccine Makarna",
+            "description": "Taze makarna (500 g), isveç köfte , krema, baharatlar",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559533574_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67dae2a1ceac63ceacde50c3",
+            "name": "Napolitan Soslu Makarna ",
+            "description": "Taze makarna (500 g), közlenmiş domates ve biberli napolitan sos, özel baharat karışımı ",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559548321_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "682cee51ceac63ceac28d55b",
+            "name": "Tavuklu Mantarlı Fettuccine Alfredo",
+            "description": "Taze makarna (500 g), marine edilmiş tavuk parçaları, taze mantar, kremalı sos, özel çeşni ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559566105_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b81d53ceac63ceacc3c4af",
+        "name": "Ravioli Special",
+        "items": [
+          {
+            "id": "67b81d5eceac63ceacc3c4c4",
+            "name": "Ravioli Üç Peynirli Pesto Soslu",
+            "description": "Taze ravioli (500 g), kremalı sos, mozzarella peyniri, parmesan peyniri, ricotta peyniri, pesto sos",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559586637_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5eceac63ceacc3c4c5",
+            "name": "Ravioli Patatesli Kırmızı Soslu",
+            "description": "Taze ravioli (500 g), kremalı sos, patates dolgusu, domatesli sos, maydanoz",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559603624_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67b81d5fceac63ceacc3c4c6",
+            "name": "Ravioli Kıymalı Kırmızı Soslu",
+            "description": "Taze ravioli (500 g),  kremalı sos, dana kıyma, domatesli sos",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772559632683_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b81d53ceac63ceacc3c4b0",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "67b81d60ceac63ceacc3c4c8",
+            "name": "Tava Profiterol",
+            "description": "Seçkin Belçika sütlü çikolatası sosu, taze profiterol topları, yoğun ve pürüzsüz bir tatlı deneyimi",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769513058303_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b81d54ceac63ceacc3c4b1",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6831c449ceac63ceac2cc113",
+            "name": "El Yapımı Limonata (330 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d62ceac63ceacc3c4cc",
+            "name": "Coca-Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d62ceac63ceacc3c4cd",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d63ceac63ceacc3c4ce",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d67ceac63ceacc3c4d6",
+            "name": "Gazoz (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d63ceac63ceacc3c4cf",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d64ceac63ceacc3c4d0",
+            "name": "Fuse Tea Karpuz (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d65ceac63ceacc3c4d1",
+            "name": "Fuse Tea Kavun & Çilek (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d65ceac63ceacc3c4d2",
+            "name": "Fuse Tea Mango (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d66ceac63ceacc3c4d3",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d66ceac63ceacc3c4d4",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b81d67ceac63ceacc3c4d5",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6947dea8ceac63ceac758086",
+            "name": "Coca-Cola (1 L)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6947def9ceac63ceac7580b4",
+            "name": "Coca-Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6947df26ceac63ceac7580c4",
+            "name": " Fanta (1 L)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6947df65ceac63ceac7580d8",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6947dfdcceac63ceac75810a",
+            "name": "Fuse Tea Mango (1 L)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6947e070ceac63ceac758146",
+            "name": "Fuse Tea Şeftali (1 L)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

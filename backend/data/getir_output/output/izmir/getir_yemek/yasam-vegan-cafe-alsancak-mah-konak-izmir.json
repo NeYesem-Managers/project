@@ -1,0 +1,516 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "5fe4f5cb4e805ab92479d8e3",
+  "name": "Yaşam Vegan Cafe (Alsancak Mah.)",
+  "slug": "yasam-vegan-cafe-alsancak-mah-konak-izmir",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı",
+    "Sokak Lezzetleri",
+    "Vegan Seçenekli",
+    "Vejetaryen"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5ff73430757a6c6fbc603401",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "5ff734345f0ab4f7e2e72965",
+            "name": "Vegan Cheeseburger Menü",
+            "description": "Baklagil köfte, vegan cheddar peyniri, soğan halkası, patates kızartması, ketçap ve vegan mayonez",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671318352784_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff734365f0ab4444ee72967",
+            "name": "Vegan Sucuk Burger Menü",
+            "description": "Vegan sucuk köfte (100 g) (organik soya kıyması, buğday gluteni), özel burger sosu. soğan halkası, patates kızartması, ketçap ve vegan mayonez ile",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671320055557_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "60379bb21c4df5113567cdb5",
+            "name": "Double Vegburger Menü",
+            "description": "Baklagil köfte (2 adet), soğan halkası, patates kızartması, ketçap ve vegan mayonez",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1687199006989_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "60379a974caff96ea25873e6",
+            "name": "Vegburger Menü",
+            "description": "Baklagil köfte,  soğan halkası, patates kızartması, ketçap ve vegan mayonez",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "60379b4adefc7428965a0898",
+            "name": "Double Vegan Cheeseburger Menü",
+            "description": "Baklagil köfte (2 adet), vegan cheddar peyniri (2 adet), soğan halkası, patates kızartması, ketçap ve vegan mayonez",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "60b68bf7b125719983c61aa6",
+            "name": "Beef N Burger",
+            "description": "Baklagil köfte (100 g), beef (100 g), domates, soğan, turşu, mayonez, ketçap, yaşam sos,  parmak patates kızartması (100 g) ve (3 adet) soğan halkası ile",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1687199074570_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff73430f21cfb42e398215e",
+        "name": "Ana Yemek",
+        "items": [
+          {
+            "id": "60379c588b973476c5fdcffe",
+            "name": "Humuslu Falafel",
+            "description": "Falafel (12 top), humus, havuç rendesi, turşu, lavaş ekmeği",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "60379c830b52e7713c2723a9",
+            "name": "Vegan İskender",
+            "description": "Dilimlenmiş bazlama, pirinç yoğurdu, domates sos, seitan döner",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1687199638228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "60379cbbf539a02aed059c1b",
+            "name": "Yoğurtlu Falafel",
+            "description": "Falafel (12 top), pirinç yoğurdu, pul biber sosu",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6543b647c129f782c2edb585",
+            "name": "Beyti Kebap",
+            "description": "Beyti kebap dürüm (lavaş ekmeği, döner, cheddar peyniri, patates kızartması, iskender sosu), yoğurt, salça sosu ve tereyağı, közlenmiş biber ve közlenmiş domates",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff734301f40a3756790a988",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "5ff7343a292a615f41b12d52",
+            "name": "Vegan Döner Dürüm",
+            "description": "Seitan döner dürüm, patates kızartması, ketçap ve mayonez",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1687199366793_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "60379d853a72eb7d2e987a82",
+            "name": "Vegan Tantuni Dürüm",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "60379d45d8119e75a422aa23",
+            "name": "Falafel Dürüm",
+            "description": "Falafel (6 adet) ve tahin sos",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1687199463563_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62f946ac41b54d004fcfd749",
+            "name": "Hatay Usulü Döner Menü",
+            "description": "Pul biber ve yağ ile kızartılmış lavaş içine vegan döner (seitan), özel salça sos, ketçap, mayonez, turşu, soğan, domates, patates kızartması (100 g),  ketçap ve mayonez",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1687199297075_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff734303cc99f65a5cbf32c",
+        "name": "Tost & Sandviç",
+        "items": [
+          {
+            "id": "5ff73434937d1b2b4cbc4cc5",
+            "name": "Vegan Kaşarlı Tost",
+            "description": "Vegan kaşar peyniri, domates, turşu, acuka ve zeytin ezmesi",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff73433f21cfbb8f1982160",
+            "name": "Vegan Kaşarlı Sucuklu Tost",
+            "description": "Vegan sucuk, domates, turşu",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e49e11a6b441d2e6f4fb2",
+            "name": "Double Karışık Tost",
+            "description": "Vegan peynir, domates, turşu, vegan tereyağı, ketçap ve vegan mayonez",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff73430e348f6c7f7a1cf73",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "5ff7343bf21cfbbc48982162",
+            "name": "Mozaik Pasta",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "654a6cf8926fcc89f78685bc",
+            "name": "Big Cookie (Adet)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ff73430fd88aedf596b90a1",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5ff7343c3cc99ff8b4cbf32e",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff7343d292a618557b12d5a",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ff7343d5757437c52da725a",
+            "name": "Şalgam Suyu (250 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "60379f0f92bfe58168d87880",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61976a91833497d87dea7b2f",
+            "name": "Coca Cola  (330 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "639e50e2cc0bd154fd22f6d4",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e5cbbcc0bd1545c2379df",
+            "name": "Vegan Ayran",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6037a86a1c4df5e85367d0ea",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "639e50882f2fe198d0c4f746",
+            "name": "Hardal (9 g)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927927541_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "639e50a797cb8282dbcee32b",
+            "name": "Acı Sos (9 g)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927911178_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6037a1556fdb1a9026be7ee6",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6037a3436fdb1ad95dbe7f19",
+            "name": "Soğan Halkası (5 Adet)",
+            "description": null,
+            "price": 63.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4dee40bfe900cfc0691e",
+            "name": "Küçük Söğüş Salata",
+            "description": "Domates, salatalık ve biber",
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "639e4ceb1a6b449c4a6f7ce1",
+        "name": "Vegan Lezzet",
+        "items": [
+          {
+            "id": "639e4d7b97cb8284abceb9f9",
+            "name": "Yaşam Vegan Baklagil Burger Köftesi (200 g)",
+            "description": "Nohut, patates, çiçek yağı, soğan, maydanoz, baharat ve tuz",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4e472f2fe103f9c4d87b",
+            "name": "Yaşam Vegan Sosis (200 g)",
+            "description": "Buğday glüteni, mısır nişastası, ayçiçek yağı, koruyucu (potasyum sorbat), sosis baharatı, su ve tuz",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4e771a6b443d276f96ca",
+            "name": "Yaşam Vegan Cheddar Peynir Dilimli (250 g)",
+            "description": "Bitkisel bezelye proteini, modifiye nişastalar, ayçiçek yağı, bitkisel aromalar (cheddar ve tereyağı), kıvam vericiler (guar gam, ksantam gam)",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4ea72f2fe18c79c4dd31",
+            "name": "Yaşam Vegan Tofu (250 g) (3 Adet)",
+            "description": "Yerli soya fasulyesi, su, tuz, elma sirkesi ve limon suyu",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4f0c97cb824a40cecea5",
+            "name": "Yaşam Vegan Soya Kıyması (300 g)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4f2b1a6b4422a06fa09b",
+            "name": "Yaşam Vegan Tofu L (250 g)",
+            "description": "Yerli soya fasulyesi, su, tuz, elma sirkesi ve limon suyu",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4f5d2f2fe1a15ac4e6c0",
+            "name": "Yaşam Vegan Tereyağı (250 g)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4f8740bfe957d8c07e5d",
+            "name": "Yaşam Vegan Sucuk Burger Köftesi (200 g)",
+            "description": "Soya proteini, buğday gluteni, sucuk baharatı, çiçek yağı, salça ve tuz",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e4fe62f2fe1de06c4ee73",
+            "name": "Yaşam Vegan Yoğurt XL (950 g)",
+            "description": "Pirinç, ayçiçek yağı, mısır nişastası, koruyucu (potasyum sorbat), limon, su ve tuz",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e50131a6b44ba6e6faf98",
+            "name": "Yaşam Vegan Yoğurt (350 g)",
+            "description": "Pirinç, ayçiçek yağı, mısır nişastası, koruyucu (potasyum sorbat), limon, su ve tuz",
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e50451a6b44d73e6fb1eb",
+            "name": "Yaşam Vegan Döner (200 g)",
+            "description": "Buğday gluteni, nohut, salça, baharatlar, koruyucu (potasyum sorbat) su ve tuz",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "639e506ecc0bd17d2422f110",
+            "name": "Yaşam Vegan Sucuk (200 g)",
+            "description": "Soya proteini, buğday gluteni, sucuk baharatı, çiçek yağı, salça ve tuz",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eed0339e31fcc8bce312fe",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eed0339e31fc27d1e3137b",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

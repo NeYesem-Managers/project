@@ -1,0 +1,559 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "676d66d38bf6b052f478c2c0",
+  "name": "Veganarsist, Şişli (Eskişehir Mah.)",
+  "slug": "veganarsist-sisli-eskisehir-mah-sisli-istanbul",
+  "cuisine_types": [
+    "Vegan Seçenekli",
+    "Vejetaryen"
+  ],
+  "rating": 4.6,
+  "rating_count": 150,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "67d2beb4ceac63ceacd99ab9",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "67d92bd8ceac63ceacdd02e4",
+            "name": "Vegan Burger Menü",
+            "description": "Tercih edeceğin vegan burger, hardallı patates salatası (200 g) ve tercih edeceğin içecek (330 ml) ile",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d92c1aceac63ceacdd032a",
+            "name": "Vegan Dürüm Menü",
+            "description": "Tercih edeceğin vegan dürüm, hardallı patates salatası (200 g) ve tercih edeceğin içecek (330 ml) ile",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d92c95ceac63ceacdd041a",
+            "name": "Narsist Vegan Islak Burger Menü",
+            "description": "Narsist vegan ıslak burger (5 adet) ve tercih edeceğin içecek (330 ml) (2 adet) ile",
+            "price": 1163.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bebfceac63ceacd99abe",
+        "name": "Kahvaltı",
+        "items": [
+          {
+            "id": "67d92928ceac63ceacdd01ea",
+            "name": "Vegan Menemen (1 Kişilik) (Glutensiz)",
+            "description": "Domates, yeşil biber, sarımsak, tuz, pul biber, karabiber",
+            "price": 271.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bec8ceac63ceacd99ac2",
+        "name": "Tost",
+        "items": [
+          {
+            "id": "67d9299dceac63ceacdd0210",
+            "name": "Nev’in Anne Vegan Köfte Tost",
+            "description": "Vegan tost ekmeği, 2 adet 35 g soya kıymalı nevin anne vegan köftesi, şefin özel sosu, özel acılı vegan gmz sosu, sarımsaklı vegan cheddar sos, domates, közlenmiş yeşil biber, zeytinyağı, kekik",
+            "price": 314.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d929b9ceac63ceacdd0215",
+            "name": "Ares Vegan Tost",
+            "description": "Vegan tost ekmeği, şefin vegan özel sosu, zeytin ezmesi, 37 g vegan peynir, domates, közlenmiş yeşilbiber, zeytinyağı, kekik",
+            "price": 284.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bf38ceac63ceacd99af5",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "67d82db4ceac63ceacdc19b7",
+            "name": "Ares Vegan Dürüm",
+            "description": "Büyük beyaz vegan lavaş ekmeği, şefin özel vegan sosu, zeytin ezmesi, 37 g vegan peynir, göbek marul, domates, kornişon turşu, közlenmiş yeşil biber, mısır taneleri, kekik, zeytinyağı",
+            "price": 338.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d82dceceac63ceacdc19c3",
+            "name": "Brutus Vegan Adana Dürüm (Acılı)",
+            "description": "Büyük beyaz vegan lavaş ekmeği, 100 g soya kıymalı dürüm köftesi, artemis beşamelli vegan mantar sosu, vegan acı sos, domates, kornişon turşu, göbek marul, sumaklı kuru soğan, maydanoz, acı biber turşusu, zeytinyağı, kekik",
+            "price": 338.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d926f7ceac63ceacdd00b1",
+            "name": "Narsist Vegan Dürüm",
+            "description": "Büyük beyaz vegan lavaş ekmeği, 100 g yeşil mercimek, siyah pirinç, nohut ve mantarlı vegan dürüm harcı, poseidon sarımsaklı ve sekiz sebzeli vegan sote (patlıcan, kabak, kapya biber, yeşilbiber, mantar, kurutulmuş domates, kuru soğan), göbek marul, domates, kornişon turşu, şefin özel vegan sosu, acılı özel gmz sosu, zeytinyağı, kekik",
+            "price": 484.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d92749ceac63ceacdd011f",
+            "name": "Nev'in Vegan Anne Köftesi Dürüm",
+            "description": "Büyük beyaz vegan lavaş ekmeği, 105 g soya kıymalı nevin anne vegan köftesi, sarımsaklı vegan cheddar sos, acılı özel vegan gmz sos, göbek marul, şefin özel vegan sosu, domates, kornişon turşu, zeytinyağı, kekik",
+            "price": 418.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d92784ceac63ceacdd0131",
+            "name": "Sezar Vegan Urfa Dürüm (Acısız)",
+            "description": "Büyük vegan beyaz lavaş ekmeği, 100 g soya kıymalı nevin anne vegan dürüm köftesi, sarımsaklı köz patlıcanlı vegan tahina sosu, şefin özel vegan sosu, domates, kornişon turşu, göbek marul, sumaklı kuru soğan, maydanoz, zeytinyağı, kekik",
+            "price": 338.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d92824ceac63ceacdd0186",
+            "name": "Hera Vegan Acılı Köfte Dürüm",
+            "description": "Vegan lavaş ekmek, 3 adet 40 g 5 sebzeli hera köfte, sarımsaklı ve köz patlıcanlı vegan tahina sos, vegan acı sos, göbek marul, roka, yeşil soğan, domates, kornişon turşu, limon, zeytinyağı, kekik",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d9284dceac63ceacdd0198",
+            "name": "Arwen Vegan Kokoreç Dürüm",
+            "description": "Lavaş ekmeği, 175 g bezelye proteininden kokoreç, domates, kekik, kimyon, zeytinyağı",
+            "price": 413.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d92870ceac63ceacdd01a5",
+            "name": "Alev Alev Vegan Dürüm (Acı & Tatlı)",
+            "description": "Büyük beyaz vegan lavaş ekmeği, 100 g siyah pirinç, yeşil mercimek, nohut ve mantarlı vegan dürüm harcı, göbek marul, şefin özel vegan sosu, domates, kornişon turşu, maydanoz, sarımsaklı ve köz patlıcanlı vegan tahin sosu, vegan acı biber reçeli, kavrulmuş susam, kekik, zeytinyağı",
+            "price": 484.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bf6bceac63ceacd99b09",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "67d82c91ceac63ceacdc18e9",
+            "name": "Narsist Vegan Burger",
+            "description": "Büyük beyaz vegan burger ekmeği (150 g), yeşil mercimek, siyah pirinç, nohutlu mantarlı vegan burger köftesi, göbek marul, domates, kornişon turşu poseidon sarımsaklı sekiz sebzeli vegan sote (patlıcan, kabak, kapya biber, yeşil biber, mantar, kurutulmuş domates, kuru soğan), şefin özel vegan sosu, acılı özel vegan gmz sosu, kekik, zeytinyağı",
+            "price": 484.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d82cb0ceac63ceacdc18ff",
+            "name": "Nevin Anne Vegan Burger",
+            "description": "Büyük beyaz vegan burger ekmeği (150 g), soya kıymalı nevin anne burger köftesi, göbek marul, domates, kornişon turşu, maydanoz, şefin özel sosu, sarımsaklı mayonez, humus, kekik, zeytinyağı",
+            "price": 484.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d82cd8ceac63ceacdc1913",
+            "name": "Alev Alev Vegan Burger (Acı & Tatlı)",
+            "description": "Büyük beyaz vegan burger ekmeği (150 g), yeşil mercimek, siyah pirinç, nohut ve mantarlı vegan burger köftesi, göbek marul, domates, kornişon turşu, şefin özel vegan sosu, maydanoz, sarımsaklı ve köz patlıcanlı vegan tahina sosu, acı biber reçeli, kavrulmuş susam, kekik, zeytinyağı",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d82cf1ceac63ceacdc191d",
+            "name": "Narsist Vegan Islak Hamburger",
+            "description": "Vegan Islak hamburger ekmeği (50 g), yeşil mercimek, siyah pirinç, nohut ve mantarlı vegan burger köftesi, sarımsaklı vegan özel ıslak hamburger sosu",
+            "price": 204.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d82d12ceac63ceacdc1936",
+            "name": "Nev'in Anne Vegan Islak Hamburger",
+            "description": "Vegan ıslak hamburger ekmeği (50 g), soya kıymalı nev'in anne vegan burger köftesi, sarımsaklı vegan özel ıslak hamburger sosu",
+            "price": 204.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bf71ceac63ceacd99b13",
+        "name": "Ana Yemek",
+        "items": [
+          {
+            "id": "67d825ceceac63ceacdc14cc",
+            "name": "Nev'in Vegan Anne Köftesi (Glütensiz)",
+            "description": "Pilav, kornişon turşu, göbek marul, domates, kırmızılahana, havuç, acı biber turşusu, şefin özel vegan sosu, acılı özel vegan gmz sosu, taze soğan, zeytinyağı, kekik",
+            "price": 547.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d82680ceac63ceacdc152e",
+            "name": "Prusias Vegan Pideli Köfte",
+            "description": "Beyaz vegan tırnaklı pide, kıymalı nevin anne köftesi (6 adet) (25 g), közlenmiş domates, közlenmiş biber, sarımsaklı vegan kaju yoğurdu (100 g), özel vegan salça sosu",
+            "price": 624.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d826c2ceac63ceacdc154b",
+            "name": "Hera Vegan Köfte (Glütensiz)",
+            "description": "Sebzeli hera köftesi (5 adet) (40 g), yarım porsiyon pilav, sarımsaklı, köz patlıcanlı vegan tahin sosu, kornişon turşu, göbek marul, domates, kırmızılahana, havuç, acı biber turşusu, roka, taze soğan, limon, zeytinyağı, kekik",
+            "price": 655.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d82642ceac63ceacdc14f5",
+            "name": "Zakharion Vegan Islama Köfte",
+            "description": "Özel vegan domates soslu kızarmış ekmek (4 dilim), soya kıymalı vegan köftesi (8 adet) (25 g), közlenmiş domates, közlenmiş yeşil biber, sumaklı kuru soğan, maydanoz, zeytinyağı, kekik",
+            "price": 624.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6812b193ceac63ceac13917f",
+            "name": "Troy Vegan Islim Kebabı (Glütensiz)",
+            "description": null,
+            "price": 538.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68711ee4ceac63ceac7b488c",
+            "name": "Hera Pilav Üstü Köfte (Glutensiz)",
+            "description": "5 adet 40 g beş sebzeli (patlıcan, kabak, yeşil biber, kapya biber,  kuru soğan, sarımsak) nohut köftesi, bir porsiyon pirinç pilavı, sarımsaklı ve köz patlıcanlı tahina sosu, taze soğan, limon, kekik, zeytinyağı",
+            "price": 632.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68711f8cceac63ceac7b4941",
+            "name": "Nevin Pilav Üstü Anne Köfte (Glutensiz)",
+            "description": "5 adet 35 g soya kıymalı nevin anne köftesi, bir porsiyon pirinç pilavı, şefin özel sosu, özel gmz sos, taze soğan, zeytinyağı, kekik",
+            "price": 487.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68cdc551ceac63ceacdf19f4",
+            "name": "Gimli Beyti Kebap",
+            "description": "Beyaz lavaş ekmeği, 150 g adana dürüm köftesi, sarımsaklı kaju yoğurt sosu, özel salça sosu, közlenmiş yeşil biber, közlenmiş domates, kekik, zeytinyağı, sebzeli bulgur pilavı (yarım porsiyon)",
+            "price": 776.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bf79ceac63ceacd99b16",
+        "name": "Dolma",
+        "items": [
+          {
+            "id": "67d3e58aceac63ceacda25cb",
+            "name": "Gülşah'ın Vegan Yaprak Sarması (10 Adet)",
+            "description": null,
+            "price": 308.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bf82ceac63ceacd99b1c",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "67d3e3bdceac63ceacda24ce",
+            "name": "Hestia Vegan Mantı",
+            "description": "Mantı (250 g), tercih edeceğiniz yoğurt ve tercih edeceğiniz sos ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d3e449ceac63ceacda2519",
+            "name": "Hardallı Vegan Patates Salatası (200 g)",
+            "description": "Haşlanmış patates, hardal, zeytinyağı, limon suyu, dereotu, karabiber, toz kırmızı biber",
+            "price": 138.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d3e4abceac63ceacda253c",
+            "name": "Pirinç Pilavı",
+            "description": "Pirinç, şehriye",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6812b134ceac63ceac139176",
+            "name": "Castumanna Vegan Kır Pidesi (Adet)",
+            "description": null,
+            "price": 251.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bf8dceac63ceacd99b1e",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "67d3e25bceac63ceacda240f",
+            "name": "Vegan Thor's Yoğurtlu Köfteli Salata",
+            "description": "Ak darı, börülce, közlenmiş bostan patlıcanlı vegan top köfte (6 adet) (20 g), göbek marul, taze soğan, kırmızılahana, rendelenmiş havuç, domates, kornişon turşu, mısır taneleri, sarımsaklı vegan kaju yoğurdu, sarımsaklı ve taze naneli vegan domates sos, nar ekşisi, zeytinyağı, kekik",
+            "price": 536.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d3e2ceceac63ceacda243a",
+            "name": "Vegan Nev'in Anne Köfte Salatası",
+            "description": "Soya kıymalı vegan köftesi (4 adet) (35 g), göbek marul, taze soğan, kırmızılahana, rendelenmiş havuç, domates, kornişon turşu, mısır taneleri, acılı özel vegan gmz sosu, nar ekşisi, zeytinyağı, kekik",
+            "price": 536.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d3e318ceac63ceacda2456",
+            "name": "Vegan Symrna Salatası",
+            "description": "Roka, göbek marul, maydanoz, domates, siyah zeytin, limon, sarımsaklı vegan kaju yoğurdu, zeytinyağı, kekik",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6812b0ebceac63ceac139172",
+            "name": "Hera Köfte Salata (Glutensiz)",
+            "description": null,
+            "price": 536.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bf93ceac63ceacd99b21",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "67d3e20aceac63ceacda23e1",
+            "name": "Ayşe'nin Kahveli Vegan Yaş Pastası (Dilim)",
+            "description": "Vegan kakaolu kek, hindistan cevizi kreması, beyaz şeker, kakao, öğütülmüş filtre kahve",
+            "price": 253.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6812afc4ceac63ceac139156",
+            "name": "Bartunun Vegan Islak Keki (Dilim)",
+            "description": null,
+            "price": 205.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67d2bfaeceac63ceacd99b2d",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "67d2bfe9ceac63ceacd99b4c",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2bff2ceac63ceacd99bad",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2c00dceac63ceacd99bb6",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2c014ceac63ceacd99bbb",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2c025ceac63ceacd99bc0",
+            "name": "Cappy Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2c035ceac63ceacd99bc6",
+            "name": "Cappy Vişne (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2c0b7ceac63ceacd99c20",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2c37aceac63ceacd99de7",
+            "name": "Elmalı Soda (200 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67d2c384ceac63ceacd99ded",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

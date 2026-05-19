@@ -1,0 +1,328 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67fe58f95208e52bb5948d15",
+  "name": "Gaziantepli Meşhur Nohutçu, Çankaya (Korkutreis Mah.)",
+  "slug": "gaziantepli-meshur-nohutcu-cankaya-korkutreis-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Ev Yemekleri",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 4.8,
+  "rating_count": 5,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "684fb7c9ceac63ceac51ee7a",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "684fb7ccceac63ceac51ee7e",
+            "name": "Tavuklu Pilav Menü",
+            "description": "Tavuklu pilav, patates kızartması ve turşu çeşitleri",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463537787_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7ccceac63ceac51ee84",
+            "name": "Tavuk Sote Menü",
+            "description": "Tavuk sote, patates kızartması ve turşu çeşitleri",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768286453036_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684fb7caceac63ceac51ee7b",
+        "name": "Pilav",
+        "items": [
+          {
+            "id": "684fb7cdceac63ceac51ee85",
+            "name": "Nohutlu Pilav",
+            "description": "Nohut, pirinç pilavı",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463564116_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7ceceac63ceac51ee86",
+            "name": "Tavuklu Pilav",
+            "description": "Tavuk, pirinç pilavı",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463577327_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69c69025ceac63ceac034747",
+            "name": "Fasulyeli Pilav",
+            "description": "Pirinç pilavı ve kuru fasulye",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684fb7cbceac63ceac51ee7c",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "684fb7ceceac63ceac51ee87",
+            "name": "Nohut Dürüm",
+            "description": "Nohut, tercihine göre patates kızartması, maydanoz, soğan, acı pul biber",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463646008_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7cfceac63ceac51ee88",
+            "name": "Ciğer Dürüm",
+            "description": "Ciğer, tercihine göre patates kızartması, maydanoz, soğan, acı pul biber",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463765611_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7cfceac63ceac51ee89",
+            "name": "Tavuk Sote Dürüm",
+            "description": "Tavuk, tercihine göre patates kızartması, maydanoz, soğan, acı pul biber",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463806995_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d0ceac63ceac51f003",
+            "name": "Nohut Tavuk Karışık Dürüm",
+            "description": "Tavuk, nohut, tercihine göre patates kızartması, maydanoz, soğan, acı pul biber",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463821971_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d1ceac63ceac51f005",
+            "name": "Nohut Ciğer Karışık Dürüm",
+            "description": "Nohut, ciğer, tercihine göre patates kızartması, maydanoz, soğan, acı pul biber",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463847344_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d1ceac63ceac51f004",
+            "name": "Patso Dürüm",
+            "description": "Patates kızartması, ketçap, mayonez",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768463863258_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684fb7cbceac63ceac51ee7d",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "684fb7d2ceac63ceac51f006",
+            "name": "Cola Turka (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774524752064_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d2ceac63ceac51f008",
+            "name": "Uludağ Gazoz (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774525376655_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d3ceac63ceac51f009",
+            "name": "Uludağ Potakallı Gazoz (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774896657064_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb932ceac63ceac51f4b7",
+            "name": "Didi Bergamot (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774896652175_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d4ceac63ceac51f00a",
+            "name": "Didi Şeftali (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774527856592_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d4ceac63ceac51f00b",
+            "name": "Limonata (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774527889007_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d5ceac63ceac51f00d",
+            "name": "Sütaş Ayran (175 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774525771862_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d6ceac63ceac51f00e",
+            "name": "Sütaş Ayran (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774527997584_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb8f8ceac63ceac51f4ac",
+            "name": "Acısız Şalgam Suyu (250 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774896662091_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d5ceac63ceac51f00c",
+            "name": "Acılı Şalgam Suyu (250 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774528920347_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb97fceac63ceac51f4e0",
+            "name": "Karpuz & Çilekli Maden Suyu (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774528612659_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb974ceac63ceac51f4dc",
+            "name": "Limonlu Maden Suyu (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774896682068_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d7ceac63ceac51f010",
+            "name": "Sade Maden Suyu (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774528877696_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "684fb7d8ceac63ceac51f011",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774528882738_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68720604ceac63ceac7beb80",
+            "name": "Frutti Extra Yeşil Limon (300 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774627583174_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68720639ceac63ceac7beb88",
+            "name": "Frutti Extra Orman Meyveli (300 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774627583235_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6872065fceac63ceac7beb8e",
+            "name": "Frutti Extra Mandalina (300 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774627598220_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "5fda12725e70c32caf8a0811",
+  "name": "Asian House Far East Cuisine, Çankaya (Kızılay Meşrutiyet Mah.)",
+  "slug": "asian-house-far-east-cuisine-cankaya-kizilay-mesrutiyet-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Mantı & Makarna",
+    "Tavuk",
+    "Uzak Doğu"
+  ],
+  "rating": 4.4,
+  "rating_count": 200,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5fff6a9f3b0c6d68840f2dd4",
+            "name": "Acılı Ekşili Çorba",
+            "description": "Havuç, lahana, deniz mantarı, kültür mantarı, tavuk, acı sos, ve ekşi sos",
+            "price": 256.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa165ba52311f2d1072",
+            "name": "Kun Pao Tavuk",
+            "description": "Tavuk, yeşilbiber, kırmızı biber, soğan, yeşil soğan ve fıstık ile",
+            "price": 328.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63b6b79c97cb82a457adbd91",
+            "name": "Kore Usulü Tavuk Kızartması",
+            "description": null,
+            "price": 288.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa1e348f66f3ca33d80",
+            "name": "Sichuan Acılı Tavuk",
+            "description": "Tavuk, yeşil biber, kırmızı biber, soğan, yeşil soğan, acı kırmızıbiber ve özel sos ile",
+            "price": 341.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa43b0c6de5c60f2dd6",
+            "name": "Tavada Deniz Mahsulü",
+            "description": "Yengeç, karides, kalamar, yeşil biber, kırmızı biber, soğan ve yeşil soğan ile",
+            "price": 456.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8c5f234920ba746e3f",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "5fff6aa01f40a3bfa491bce9",
+            "name": "Wonton Çorbası",
+            "description": "Mantı, yeşil soğan, zencefil, lahana ve et suyu",
+            "price": 248.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6a9f3b0c6d68840f2dd4",
+            "name": "Acılı Ekşili Çorba",
+            "description": "Havuç, lahana, deniz mantarı, kültür mantarı, tavuk, acı sos, ve ekşi sos",
+            "price": 256.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8c3cc99f7495cd77f2",
+        "name": "Beyaz Et",
+        "items": [
+          {
+            "id": "5fff6aa165ba52311f2d1072",
+            "name": "Kun Pao Tavuk",
+            "description": "Tavuk, yeşilbiber, kırmızı biber, soğan, yeşil soğan ve fıstık ile",
+            "price": 328.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63b6b79c97cb82a457adbd91",
+            "name": "Kore Usulü Tavuk Kızartması",
+            "description": null,
+            "price": 288.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa1e348f66f3ca33d80",
+            "name": "Sichuan Acılı Tavuk",
+            "description": "Tavuk, yeşil biber, kırmızı biber, soğan, yeşil soğan, acı kırmızıbiber ve özel sos ile",
+            "price": 341.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa2fa8f16283d04752e",
+            "name": "Köri Soslu Tavuk",
+            "description": "Tavuk, yeşi lbiber, kırmızı biber, patates ve köri sos ile",
+            "price": 350.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa0f21cfb02b0999047",
+            "name": "Tatlı Ekşi Tavuk",
+            "description": "Özel soslu marineli tavuk, yeşil biber ve kırmızı biber ile",
+            "price": 352.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8ce2d9e08365041a5b",
+        "name": "Kırmızı Et",
+        "items": [
+          {
+            "id": "5fff6aa358e9c16869d8d493",
+            "name": "Tavada Dana Eti",
+            "description": "Et, yeşil biber, kırmızı biber, soğan ve yeşil soğan ile",
+            "price": 416.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa4fa8f167583047530",
+            "name": "Yu Shiang Dana Eti",
+            "description": "Jülyen dilimlenmiş et, yeşil biber, kırmızı biber ve yeşil soğan ile",
+            "price": 416.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8c4a4dfa34ccabf700",
+        "name": "Balık",
+        "items": [
+          {
+            "id": "5fff6aa43b0c6de5c60f2dd6",
+            "name": "Tavada Deniz Mahsulü",
+            "description": "Yengeç, karides, kalamar, yeşil biber, kırmızı biber, soğan ve yeşil soğan ile",
+            "price": 456.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8c292a617149b2ae09",
+        "name": "Sebze",
+        "items": [
+          {
+            "id": "5fff6aa7937d1b20dbbe0be1",
+            "name": "Acı Ekşili Patates",
+            "description": "Rendelenmiş patates (haşlanmış), yeşil biber, kırmızı biber, ve acı biber ile",
+            "price": 272.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa7c92252e70d3a4aa9",
+            "name": "Biberli Lahana",
+            "description": "Lahana, acı biber ve özel sos ile",
+            "price": 272.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aa6def5a0826d571a15",
+            "name": "Özel Soslu Brokoli",
+            "description": "Brokoli, yeşil biber, kırmızı biber ve özel sos ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8ce348f648caa33d7e",
+        "name": "Maki (6 Pcs)",
+        "items": [
+          {
+            "id": "5fff6aa9e2d9e04300041a5f",
+            "name": "Salatalık Maki (6 pcs)",
+            "description": "Özel soslu pirinç, yosun ve salatalık",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aaa37b181618307eb26",
+            "name": "Ton Balıklı Maki (6 pcs)",
+            "description": "Özel soslu pirinç, yosun ve ton balığı",
+            "price": 252.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8cdef5a08190571a0d",
+        "name": "Nigiri (4 Pcs)",
+        "items": [
+          {
+            "id": "63b845002f2fe11412e7259c",
+            "name": "Onigiri (3 Adet)",
+            "description": "Özel soslu pirinç, yosun, tavuk eti, ton balığı ve mayonez ile",
+            "price": 312.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8c35e580aa59459b24",
+        "name": "Spesiyal",
+        "items": [
+          {
+            "id": "5fff6aaff73b33a6a5d197fd",
+            "name": "Kaliforniya Sarma",
+            "description": "Özel soslu pirinç, yosun, somon, yengeç, salatalık, avokado ve susam ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6a9e5f0ab40d31e8703d",
+            "name": "Mantı Kızartması",
+            "description": "Özel marineli kıyma, havuç, soğan, özel sos ve acı sos ile",
+            "price": 248.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6aae292a617555b2ae0d",
+            "name": "Vegan Karışık",
+            "description": "3 adet salatalık maki, 3 adet avokado maki ve 3 adet susam maki ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69414179ceac63ceac6c1e6b",
+            "name": "Asian House 1",
+            "description": "Hot philadelphia 8 ad, teriyaki somon maki 8 ad, kaliforniya roll 8 ad, dragon roll 8 ad",
+            "price": 1500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765883879923_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8c5757434700dbac7a",
+        "name": "Erişte",
+        "items": [
+          {
+            "id": "5fff6ab465ba5226802d1074",
+            "name": "Sebzeli Erişte",
+            "description": "Erişte, havuç, lahana ve yeşil soğan ile",
+            "price": 248.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ab5bb11615187773be4",
+            "name": "Tavuklu Erişte",
+            "description": "Erişte, tavuk, havuç, lahana ve yeşil soğan ile",
+            "price": 272.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ab35f0ab48531e8703f",
+            "name": "Dana Etli Erişte",
+            "description": "Erişte, dana eti, havuç, lahana ve yeşil soğan ile",
+            "price": 296.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ab44a4dfa92a9abf702",
+            "name": "Deniz Mahsullü Erişte",
+            "description": "Erişte, yengeç, kalamar, karides, havuç, lahana ve yeşil soğan ile",
+            "price": 312.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8c35e5803585459b26",
+        "name": "Pilav",
+        "items": [
+          {
+            "id": "5fff6ab64a4dfa4b5aabf704",
+            "name": "Sebzeli Pilav",
+            "description": "Pirinç, yumurta, mısır, bezelye, lahana, havuç ve yeşil soğan ile",
+            "price": 248.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ab53b0c6d7f430f2ddc",
+            "name": "Tavuklu Pilav",
+            "description": "Pirinç, tavuk, mısır, bezelye, lahana, havuç ve yeşil soğan ile",
+            "price": 272.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ab765ba524dc72d1076",
+            "name": "Köri Soslu Tavuklu Pilav",
+            "description": "Pirinç, tavuk, mısır, bezelye, lahana, havuç, köri sosu ve yeşil soğan ile",
+            "price": 272.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ab6f21cfb223c99904b",
+            "name": "Dana Etli Pilav",
+            "description": "Pirinç, dana eti, mısır, bezelye, lahana, havuç ve yeşil soğan ile",
+            "price": 296.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ab75f2349272f746e43",
+            "name": "Deniz Mahsullü Pilav",
+            "description": "Pirinç, yengeç, kalamar, karides, mısır, bezelye, havuç, lahana ve yeşil soğan ile",
+            "price": 328.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fff6a8cc92252c5733a4aa7",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "625abfb82d7a99384bd0785e",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 76.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "625abfd6a24aa3cf3c13569c",
+            "name": "Pepsi Max (330 ml)",
+            "description": null,
+            "price": 76.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705308620_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ac1f21cfb1a9399904d",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 76.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fff6abf3b0c6d73450f2de0",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 68.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ac1fd88aec3526cd542",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 68.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fff6ac437b181ed4307eb2a",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 44.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eecc187b3ba324afe5c417",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eecc187b3ba3232be5c50a",
+            "name": "Poşet",
+            "description": null,
+            "price": 1.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "650be79b7cb0a14fb2337f3d",
+  "name": "Fast Pizza (Küçük Piyale Mah.)",
+  "slug": "fast-pizza-kucuk-piyale-mah-beyoglu-istanbul",
+  "cuisine_types": [
+    "Pizza",
+    "Sokak Lezzetleri"
+  ],
+  "rating": 3.8,
+  "rating_count": 200,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 15,
+  "delivery_time_max": 25,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %10"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "69625eaeceac63ceac980103",
+            "name": "Sucuklu Pizza (Küçük Boy)",
+            "description": "Sucuklu, bol lezzetli, incecik hamur, özel sos ve eriyen mozzarellanın üstüne çıtır çıtır sucuklar. Açsan da tok olsan da dayanamayacağın efsane",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054432692_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625f02ceac63ceac98013e",
+            "name": "Karışık Pizza (Küçük Boy)",
+            "description": "Klasik karışık pizzanın en lezzetli hali seni bekliyor. Özel pizza sosu, bol mozzarella ve enfes sucuk-sosis ikilisiyle başlıyor, yeşil biber, mantar ve mısırla lezzetini taçlandırıyoruz",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054507628_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625f40ceac63ceac980186",
+            "name": "Bol Malzemeli Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, eriyen mozzarella, sucuk ve sosis, taze yeşil biber, mantar, mısır, domates ve siyah zeytin",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054584486_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625f7aceac63ceac9801ef",
+            "name": "Margarita Pizza (Küçük Boy)",
+            "description": "Pizza sosu ve mozzarella",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054645018_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625fb8ceac63ceac98022d",
+            "name": "Kavurmalı Pizza (Küçük Boy)",
+            "description": "Pizza sosu,mozzarella,köz biber,kavurma,soğan",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054706408_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "690745bbceac63ceac1dfd2a",
+        "name": "Pizza (Küçük Boy)",
+        "items": [
+          {
+            "id": "69625eaeceac63ceac980103",
+            "name": "Sucuklu Pizza (Küçük Boy)",
+            "description": "Sucuklu, bol lezzetli, incecik hamur, özel sos ve eriyen mozzarellanın üstüne çıtır çıtır sucuklar. Açsan da tok olsan da dayanamayacağın efsane",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054432692_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625f02ceac63ceac98013e",
+            "name": "Karışık Pizza (Küçük Boy)",
+            "description": "Klasik karışık pizzanın en lezzetli hali seni bekliyor. Özel pizza sosu, bol mozzarella ve enfes sucuk-sosis ikilisiyle başlıyor, yeşil biber, mantar ve mısırla lezzetini taçlandırıyoruz",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054507628_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625f40ceac63ceac980186",
+            "name": "Bol Malzemeli Pizza (Küçük Boy)",
+            "description": "Özel pizza sosu, eriyen mozzarella, sucuk ve sosis, taze yeşil biber, mantar, mısır, domates ve siyah zeytin",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054584486_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625f7aceac63ceac9801ef",
+            "name": "Margarita Pizza (Küçük Boy)",
+            "description": "Pizza sosu ve mozzarella",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054645018_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625fb8ceac63ceac98022d",
+            "name": "Kavurmalı Pizza (Küçük Boy)",
+            "description": "Pizza sosu,mozzarella,köz biber,kavurma,soğan",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768054706408_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69625fe2ceac63ceac980251",
+            "name": "Favori Üçlü (Küçük Boy)",
+            "description": "Pizza sosu, mozzarella, sucuk, mantar ve mısır",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "652d9687a0618d2e28a27b0c",
+        "name": "Pizza (Orta Boy)",
+        "items": [
+          {
+            "id": "652d99eeaa93f28407ccbe25",
+            "name": "Sucuklu Pizza (Orta Boy)",
+            "description": "Sucuklu, bol lezzetli. İncecik hamur, özel sos ve eriyen mozzarellanın üstüne çıtır çıtır sucuklar. Açsan da tok olsan da dayanamayacağın efsane",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008660037_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d9b35bfd853fb0d699f73",
+            "name": "Margherita Pizza (Orta Boy)",
+            "description": "Pizza sosu, mozzarella peyniri",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008694545_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d96e8fdb4c65b47867a0c",
+            "name": "Veggie Pizza (Orta Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, domates, siyahzeytin, yeşilbiber, mantar, közlenmiş biber",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652d9a88fdb4c6e96f86f4ba",
+            "name": "Süper Pizza (Orta Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, dana jambon, sosis, domates, siyahzeytin, sucuk",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008723962_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d99aeaa93f2a062ccb6be",
+            "name": "Karışık Pizza (Orta Boy)",
+            "description": "Klasik karışık pizzanın en lezzetli hali. İçindekiler: Özel pizza sosu, bol mozzarella, enfes sucuk, sosis, yeşil biber, mantar ve mısır",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008754445_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d9bbeab984e2e2685195a",
+            "name": "Kavurmalı Pizza (Orta Boy)",
+            "description": "Kavurma, köz biber ve soğan",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008774846_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d9afcbfd853da5c6998c3",
+            "name": "Bol Malzemeli Pizza (Orta Boy)",
+            "description": "Bol malzemenin gücü adına, özel pizza sosu, eriyen mozzarella, sucuk ve sosisin efsane uyumu, taze yeşil biber, mantar, mısır, domates ve siyah zeytinle tam bir lezzet patlaması",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008818765_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67958d46ceac63ceac871dbf",
+            "name": "Et Dönerli Pizza (Orta Boy)",
+            "description": "Pizza sosu, mozzarella, et döner, yeşil biber, soğan ve domates",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "652d9469a0618d8984a22baa",
+        "name": "Pizza (Büyük Boy)",
+        "items": [
+          {
+            "id": "652d99fcaa93f250caccbffe",
+            "name": "Sucuklu Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, sucuk",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008845441_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d9b45bfd85394b969a120",
+            "name": "Margherita Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella peyniri",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008863322_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d94c6bfd85376ba68cf60",
+            "name": "Veggie Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, domates, siyahzeytin, yeşilbiber, mantar, közlenmiş biber",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652d9a97ab984e133084f6de",
+            "name": "Süper Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, dana jambon, sosis, domates, siyahzeytin, sucuk",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008888794_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d99bdaa93f23edfccb858",
+            "name": "Karışık Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, sosis, sucuk, yeşilbiber, mantar, mısır",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008911308_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d9b0bbfd853456b699a7c",
+            "name": "Bol Malzemeli Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, dana jambon, sosis, domates, siyahzeytin, sucuk, yeşilbiber, mantar",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008938798_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "652d9b9ffdb4c66bf4871b93",
+            "name": "Kavurmalı Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella peyniri, kavurma, soğan, közlenmiş biber",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762008958158_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67944a8bceac63ceac86b08d",
+            "name": "Ton Balıklı Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella, ton balığı, közbiber, mısır, domates ve soğan",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67958d93ceac63ceac871dc4",
+            "name": "Et Dönerli Pizza (Büyük Boy)",
+            "description": "Pizza sosu, mozzarella, et döner, soğan, yeşil biber ve domates",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "652d94e2fdb4c6be938633d3",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "652d94f1a0618d443ba24058",
+            "name": "Coca Cola (250 ml)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d9527aa93f2e761cc1f7f",
+            "name": "Coca Cola Zero Sugar (250 ml)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d9555fdb4c6aaa28642e9",
+            "name": "Pepsi (250 ml)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d9530aa93f2623bcc20a3",
+            "name": "Fanta (250 ml)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652d953dfdb4c6468d863fd6",
+            "name": "Sprite (250 ml)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652d9647aa93f266edcc48d6",
+            "name": "Ice Tea (250 ml)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652d95c6fdb4c65fb58652c8",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d9627aa93f27319cc44ac",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d95d6a0618d63aca2613b",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d95f0bfd853433768f641",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698663749346_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d957fa0618d09bda254ff",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705249321_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d958abfd85393e268e8e8",
+            "name": "Pepsi Light (1 L)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705411732_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "652d960afdb4c6283b865c91",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "652d97caaa93f29512cc7a9a",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "652d97e9ab984eb3d8849a73",
+            "name": "Patates Kızartması (Orta Boy)",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652d97f5fdb4c623ce86a06b",
+            "name": "Patates Kızartması (Büyük Boy)",
+            "description": null,
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "652d97dfbfd8533c6a6935cf",
+            "name": "Nugget (6 Adet)",
+            "description": null,
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6538fd310f9255bc6b09490a",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "652d975ba0618d811aa29766",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "679ef3c0ceac63ceac8e5e70",
+            "name": "Mozaik Pasta",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

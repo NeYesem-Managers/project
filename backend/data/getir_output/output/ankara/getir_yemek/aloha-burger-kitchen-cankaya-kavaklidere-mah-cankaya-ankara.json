@@ -1,0 +1,798 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "698c3c5ddd0d666c44a67913",
+  "name": "Aloha Burger & Kitchen, Çankaya (Kavaklıdere Mah.)",
+  "slug": "aloha-burger-kitchen-cankaya-kavaklidere-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 4.4,
+  "rating_count": 5,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0f7",
+            "name": "ALH Cajun Tavuk (250 g)",
+            "description": "Cajun tavuk (250 g) , patates kızartması , tortilla",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d7",
+            "name": "ALH Cajun Tavuk (500 g) Menü",
+            "description": "Cajun tavuk (500 g) , patates kızartması , sos sepeti , 2 adet tortilla",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fe",
+            "name": "Cheeseburger (120 g)",
+            "description": "Dana hamburger köftesi, cheddar peyniri, turşu, domates",
+            "price": 569.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fa",
+            "name": "Füme Burger (120 g)",
+            "description": "Dana hamburger köftesi, turşu, domates, dana füme, karamelize soğan",
+            "price": 587.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fc",
+            "name": "Italiano Burger (120 g)",
+            "description": "Dana hamburger köftesi, roka, domates, mozzarella peyniri, pesto",
+            "price": 592.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d916e7ceac63ceac153e5b",
+        "name": "Pepsi'li Fırsat Menüleri",
+        "items": [
+          {
+            "id": "69d916e9ceac63ceac153e61",
+            "name": "Pepsi'li Fırsat Menüsü",
+            "description": "Aloha special burger (120 g) ve Pepsi (330 ml) ile",
+            "price": 632.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0ba",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0f7",
+            "name": "ALH Cajun Tavuk (250 g)",
+            "description": "Cajun tavuk (250 g) , patates kızartması , tortilla",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d7",
+            "name": "ALH Cajun Tavuk (500 g) Menü",
+            "description": "Cajun tavuk (500 g) , patates kızartması , sos sepeti , 2 adet tortilla",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0c2",
+        "name": "Vegan Yemekler",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e114",
+            "name": "Falafel Burger",
+            "description": "Vegan falafel köftesi, domates, turşu, patates kızartması ile",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e115",
+            "name": "Vegan Falafel Topu (12 Adet)",
+            "description": "Vegan falafel topları, patates kızartması ile",
+            "price": 154.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0bb",
+        "name": "Ana Yemekler",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0ff",
+            "name": "Chicken Chick 250 gr.",
+            "description": "Kajun tavuk 250 gr, patates kızartması, tortilla ekmeği, sos sepeti",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0bc",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e10a",
+            "name": "Aloha Special Burger (120 g)",
+            "description": "Dana hamburger köftesi, turşu, domates, cheddar peyniri, dana füme",
+            "price": 592.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e109",
+            "name": "Aloha Klasik Burger (120 g)",
+            "description": "Dana hamburger köftesi, turşu, domates, karamelize soğan, aloha sos",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fe",
+            "name": "Cheeseburger (120 g)",
+            "description": "Dana hamburger köftesi, cheddar peyniri, turşu, domates",
+            "price": 569.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0f9",
+            "name": "Empire State Burger (300 g)",
+            "description": "Üç kat dana hamburger köftesi, duble cheddar peyniri, kaşar peyniri",
+            "price": 977.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fa",
+            "name": "Füme Burger (120 g)",
+            "description": "Dana hamburger köftesi, turşu, domates, dana füme, karamelize soğan",
+            "price": 587.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fb",
+            "name": "Indiana Burger (200 g)",
+            "description": "Çift katlı hamburger köftesi, domates, duble cheddar peyniri",
+            "price": 827.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fc",
+            "name": "Italiano Burger (120 g)",
+            "description": "Dana hamburger köftesi, roka, domates, mozzarella peyniri, pesto",
+            "price": 592.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e104",
+            "name": "Kilbourne Burger (120 g)",
+            "description": "Dana hamburger köftesi, domates, turşu, karamelize soğan",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e105",
+            "name": "Ohio Burger (120 g)",
+            "description": "Dana hamburger, et sos, dana füme et parçaları, cheddar",
+            "price": 592.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0fd",
+            "name": "Pineapple Burger (120 g)",
+            "description": "Dana hamburger köftesi, ızgara ananas, bbq sos, karamelize soğan",
+            "price": 587.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e106",
+            "name": "Veg Burger",
+            "description": "Tekstüre bezelye proteini, hindistan cevizi yağı, ayçiçek yağı, bezelye lifi",
+            "price": 617.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e107",
+            "name": "Veg Schnitzel Burger",
+            "description": "Tekstüre bezelye proteini, ekmek kırıntısı, buğday nişastası, ayçiçek yağı",
+            "price": 617.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e108",
+            "name": "Veggie Burger",
+            "description": "Çıtır mozzarella peyniri, mısır, cheddar peyniri, karamelize soğan, domates",
+            "price": 374.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e10b",
+            "name": "Cheddar's Dream Burger (120 g)",
+            "description": "Dana hamburger köftesi, double cheddar peyniri, karamelize soğan",
+            "price": 578.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e10d",
+            "name": "Chicken Chick Burger (120 g)",
+            "description": "Cajun tavuk, domates, yeşillik, turşu, patates kızartması",
+            "price": 416.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e10e",
+            "name": "Ci-Hot Burger (120 g)",
+            "description": "Dana hamburger köftesi, jalapeno biberi, kırmızı soğan, acı sos",
+            "price": 587.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e10f",
+            "name": "Ciobella Burger (100 g)",
+            "description": "Dana hamburger köftesi, mozzarella peyniri, ceviz, kapya biber",
+            "price": 587.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e110",
+            "name": "Colorado Burger (200 g)",
+            "description": "Çift hamburger köftesi, turşu, domates, karamelize soğan, aloha sos",
+            "price": 817.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e111",
+            "name": "Deep Burger (120 g)",
+            "description": "Dana hamburger köftesi, turşu, domates, karamelize soğan, deep sos",
+            "price": 517.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0bd",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0f2",
+            "name": "Ton Balıklı Salata",
+            "description": "Akdeniz yeşillikleri (roka, iceberg), ton balığı, kapya biberi, kırmızılahana, havuç, mısır, domates",
+            "price": 356.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d2",
+            "name": "Çıtır Mozzarella Peynirli Salata",
+            "description": "Akdeniz yeşillikleri (roka, iceberg), mozzarella peyniri, kapya biberi, kırmızılahana, havuç, mısır, domates",
+            "price": 356.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d4",
+            "name": "Sezar Salata",
+            "description": "Akdeniz yeşillikleri(roka, iceberg), ızgara tavuk, Sezar sos, kapya biberi, kırmızı lahana, havuç, mısır, domates",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0f4",
+            "name": "Veg Salata",
+            "description": "Veg köfte dilimleri, Akdeniz yeşillikleri (roka, iceberg), mozzarella peyniri, kapya biberi, kırmızılahana, havuç, mısır, domates",
+            "price": 468.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d3",
+            "name": "Veg Schnitzel Salata",
+            "description": "Veg Schnitzel dilimleri, Akdeniz yeşillikleri (roka, iceberg), mozzarella peyniri, kapya biberi, kırmızılahana, havuç, mısır, domates",
+            "price": 468.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0be",
+        "name": "Yan Ürünler",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0d5",
+            "name": "Aloha Tabağı",
+            "description": "5 adet soğan halkası, 3 adet mozzarella sticks, 3 adet chicken fingers, patates kızartması",
+            "price": 248.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e103",
+            "name": "Mozzarella Sticks (6 Adet)",
+            "description": "Patates kızartması ile",
+            "price": 196.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e101",
+            "name": "Soğan Halkası (10 Adet)",
+            "description": "Patates kızartması ile",
+            "price": 134.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e100",
+            "name": "Kaşık Patates",
+            "description": "Ranch sos, ballı hardal ile",
+            "price": 137.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e102",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 81.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0dd",
+            "name": "Tortilla Lavaş",
+            "description": null,
+            "price": 44.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0f8",
+            "name": "Patso Tortilla ALH",
+            "description": "Patates kızartması, çıtır mozzarella peynir, kaşar peynir, cheddar peynir ve meat sos ile",
+            "price": 228.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d6",
+            "name": "Veg Schnitzel Topları (6 adet)",
+            "description": "Vegan Schnitzel topları ve patates kızartması ile",
+            "price": 212.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0f6",
+            "name": "Veg Schnitzel Topları (6 adet)",
+            "description": "Vegan Schnitzel topları ve patates kızartması ile",
+            "price": 212.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0bf",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0d8",
+            "name": "Mozaik Pasta",
+            "description": null,
+            "price": 192.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0da",
+            "name": "Özel Aydın Kabak Tatlısı",
+            "description": "Dondurma, tahin ve ceviz ile",
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0c0",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0e7",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d9",
+            "name": "Pepsi Zero (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e2",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0ef",
+            "name": "7Up (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e113",
+            "name": "Özerhisar Tombul Ayran (300 ml)",
+            "description": "Büyük",
+            "price": 67.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0de",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0df",
+            "name": "Elmalı Soda (200 ml)",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0db",
+            "name": "Karpuz & Çilek Soda (200 ml)",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e0",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 44.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0ce",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 28.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e1",
+            "name": "Erikli Su (330 ml)",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0ed",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e9",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0ee",
+            "name": "Lipton Ice Tea Mango (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e3",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e4",
+            "name": "Tropicana Şeftali (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0f0",
+            "name": "Tropicana Vişne (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e5",
+            "name": "Tropicana Karışık (330 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699ed969ceac63ceace1e0c1",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "699ed969ceac63ceace1e0ea",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0cf",
+            "name": "Ballı Hardal Sos",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e6",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0e8",
+            "name": "Ketçap",
+            "description": null,
+            "price": 28.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0ec",
+            "name": "Mayonez",
+            "description": null,
+            "price": 24.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0d0",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ed969ceac63ceace1e0eb",
+            "name": "Sarımsaklı Mayonez",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

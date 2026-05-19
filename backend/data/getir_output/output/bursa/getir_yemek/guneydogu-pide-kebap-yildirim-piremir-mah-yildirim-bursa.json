@@ -1,0 +1,846 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "60212b658e49cde86d45a418",
+  "name": "Güneydoğu Pide & Kebap, Yıldırım (Piremir Mah.)",
+  "slug": "guneydogu-pide-kebap-yildirim-piremir-mah-yildirim-bursa",
+  "cuisine_types": [
+    "Pide & Lahmacun"
+  ],
+  "rating": 4.2,
+  "rating_count": 500,
+  "min_order_amount": 240.0,
+  "delivery_fee": 47.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "64d625dc6ab926b241592889",
+            "name": "3'lü Lahmacun Menü",
+            "description": "3 Lahmacun +1 Ayran +Salata",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d626a96ab926d4d6595b05",
+            "name": "3'lü Kıymalı Cantık Menü",
+            "description": "3 kıymalı +1 Ayran + Salata",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266da0737d6a57910e17a",
+            "name": "Kıymalı Cantık",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266dc176fcc03cbffb278",
+            "name": "Lahmacun",
+            "description": null,
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266dbe566e820a5636f24",
+            "name": "Kuşbaşılı Cantık",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65e8608271f31f346b3d8bbd",
+        "name": "Ramazan'a Özel",
+        "items": [
+          {
+            "id": "69a00841ceac63ceace3d1de",
+            "name": "10'lu Lahmacun Menü",
+            "description": "10 adet lahmacun ve içecek ile (Lütfen acı tercihinizi not olarak belirtiniz.)",
+            "price": 1300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a008a6ceac63ceace3d8b0",
+            "name": "10'lu Cantık Menü",
+            "description": "10 adet cantık ve içecek",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "646a21c82ca5df6a88ff80c4",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "640625bae5f13a6b54b23fb6",
+            "name": "10'lu Cantık Menü",
+            "description": "Cantık (10 adet) ve ayran (1 L)\n(Lütfen cantık tercihinizi sipariş notu kısmında belirtiniz)",
+            "price": 1250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64062514e5f13a2562b21906",
+            "name": "10'lu Lahmacun Menü",
+            "description": "Lahmacun (10 adet) ve ayran (1 L) \n(Lütfen acı tercihinizi sipariş notu kısmında belirtiniz)",
+            "price": 1350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d625dc6ab926b241592889",
+            "name": "3'lü Lahmacun Menü",
+            "description": "3 Lahmacun +1 Ayran +Salata",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d626a96ab926d4d6595b05",
+            "name": "3'lü Kıymalı Cantık Menü",
+            "description": "3 kıymalı +1 Ayran + Salata",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d627d3d48fc35bcd7eca97",
+            "name": "3'lü Kuşbaşılı Cantık Menü",
+            "description": "3 kuşbaşı +1 Ayran +Salalata",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d6284e7540701ae321ec82",
+            "name": "3'lü Kaşarlı Cantık Menü",
+            "description": "3 Kaşarlı + 1 Ayran + Salata",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d629146ab9262d3f59ea93",
+            "name": "3 kuşbaşı kaşar Cantık menü",
+            "description": "3 kuşbaşı kaşar +1  Ayran + Salata",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d629808bcae0744834d80c",
+            "name": "3'lü Karışık Cantık Menü",
+            "description": "3 Karışık +1 +Ayran + Salata",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c53d73fa4cf58bd201",
+        "name": "Fırından Lezzet",
+        "items": [
+          {
+            "id": "602266da0737d6a57910e17a",
+            "name": "Kıymalı Cantık",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266dc176fcc03cbffb278",
+            "name": "Lahmacun",
+            "description": null,
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266dd99a26a4c7e7c1085",
+            "name": "Kaşarlı Cantık",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266dbe566e820a5636f24",
+            "name": "Kuşbaşılı Cantık",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d9c433e152cef7d96c",
+            "name": "Karışık Cantık",
+            "description": "Kaşar peyniri, kıyma, kuşbaşı, sucuk",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266df6a1085a43585c838",
+            "name": "Kuşbaşılı & Kaşarlı Cantık",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266de99a26a844a7c1087",
+            "name": "Özel Lahmacun",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266ddc8b9113a6c928ac6",
+            "name": "Kıymalı Pide",
+            "description": null,
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266da966d0a5466db6e66",
+            "name": "Kaşarlı Pide",
+            "description": null,
+            "price": 422.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266e0851ea96128cd3ed6",
+            "name": "Kuşbaşılı Pide",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61a096014c1b1c5a27caef1e",
+            "name": "Konya Usulü Kıymalı Pide",
+            "description": null,
+            "price": 388.89,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266df851ea95419cd3ecc",
+            "name": "Karışık Pide",
+            "description": "Kaşar peyniri, kıyma, kuşbaşı, sucuk",
+            "price": 444.44,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266db176fcc483fffb270",
+            "name": "Kaşarlı & Sucuklu Pide",
+            "description": null,
+            "price": 422.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266de944e3cea45df24c6",
+            "name": "Kuşbaşılı & Kaşarlı Pide",
+            "description": null,
+            "price": 466.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61a09527fb3f8b352e72dcab",
+            "name": "Konya Usulü Kuşbaşı Pide",
+            "description": null,
+            "price": 444.44,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61a095d123cb810d1ace1bed",
+            "name": "Konya Usulü Kuşbaşılı & Kaşarlı Pide",
+            "description": null,
+            "price": 466.67,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c56a10850a4985c834",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "602266d2c8b911fb14928ac4",
+            "name": "Pideli Köfte",
+            "description": null,
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d1e8a6b157a12764b8",
+            "name": "Izgara Köfte",
+            "description": "Marul, soğan, havuç, domates",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d2f98139ab6b3b1fbf",
+            "name": "Tavuk Şiş",
+            "description": "Soğan, marul, domates, közlenmiş biber, közlenmiş domates, fındık lahmacun",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60e433d7efc60f1b0d968c9e",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "60e4348bbdbf4d64e95b8daf",
+            "name": "Ezogelin Çorbası",
+            "description": "Ekmek, limon",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c5966d0a23d7db6e5c",
+        "name": "Kebap",
+        "items": [
+          {
+            "id": "602266ce176fcc9e71ffb258",
+            "name": "Urfa Kebap",
+            "description": "Soğan, marul, domates, közlenmiş biber, közlenmiş domates, fındık lahmacun",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d0215fd15ac2da918c",
+            "name": "Adana Kebap",
+            "description": "Soğan, marul, domates, közlenmiş biber, közlenmiş domates, fındık lahmacun",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d14db6bb1a4fee70a7",
+            "name": "İskender Kebap",
+            "description": "Yoğurt, sos, domates, közlenmiş biber",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d0176fccb7a1ffb260",
+            "name": "Patlıcanlı Kebap",
+            "description": "Soğan, marul, domates, közlenmiş biber, közlenmiş domates, fındık lahmacun",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266cf8881bd7327f9e9c8",
+            "name": "Karışık Kebap",
+            "description": "Patlıcanlı kebap, tavuk şiş, adana kebap, urfa kebap, soğan, marul, domates, közlenmiş biber, közlenmiş domates, fındık lahmacun",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c53d73fa42088bd203",
+        "name": "Ekmek Arası Lezzet & Dürüm",
+        "items": [
+          {
+            "id": "602266e0c8b91134d7928ad0",
+            "name": "Yarım Ekmek Izgara Köfte",
+            "description": "Soğan, domates, marul, sos",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "646a22c26a6a7796f19ac694",
+            "name": "Urfa Dürüm",
+            "description": "Maydanoz, domates, marul",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266e1e566e882f6636f26",
+            "name": "Adana Dürüm",
+            "description": "Maydanoz, domates, marul",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266e1468b46a5626c36e2",
+            "name": "Tam Ekmek Izgara Köfte",
+            "description": "Soğan, domates, marul, sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c58642d89101e37fc9",
+        "name": "Et Döner",
+        "items": [
+          {
+            "id": "646a22f82ca5df9570ffd339",
+            "name": "Yarım Ekmek Et Döner",
+            "description": "Soğan, domates, marul, sos, turşu",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "646a231a6a6a77b68a9adf76",
+            "name": "Et Döner Dürüm",
+            "description": "Soğan, domates, marul, sos, turşu",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d399a26a09d37c1083",
+            "name": "Tombik Ekmek Et Döner",
+            "description": "Soğan, domates, marul, sos, turşu",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "646a232a2ca5df668fffe0a4",
+            "name": "Tam Ekmek Et Döner",
+            "description": "Soğan, domates, marul, sos, turşu",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d4176fcc57bdffb268",
+            "name": "Et Döner (Porsiyon)",
+            "description": "Marul, soğan, havuç, domates",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d4468b46c7896c36da",
+            "name": "Pilav Üstü Et Döner",
+            "description": null,
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c599a26a9af77c107f",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "646a23716a6a7774779af6ea",
+            "name": "Yarım Ekmek Tavuk Döner",
+            "description": "Soğan, domates, marul, sos",
+            "price": 111.11,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "646a2381f39c9e740e099f0a",
+            "name": "Tavuk Döner Dürüm",
+            "description": "Soğan, domates, marul, sos",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "646a239f6218aa279a4cd746",
+            "name": "Tam Ekmek Tavuk Döner",
+            "description": "Soğan, domates, marul, sos",
+            "price": 222.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d6e566e86e92636f22",
+            "name": "Tombik Ekmek Tavuk Döner",
+            "description": "Soğan, domates, marul, sos",
+            "price": 177.78,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d5cc4332802ee15bc6",
+            "name": "Pilav Üstü Tavuk Döner",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266d8851ea9f416cd3ec4",
+            "name": "Tavuk Döner (Porsiyon)",
+            "description": "Marul, soğan, havuç, domates",
+            "price": 288.89,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c5ed13925b137a5acc",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "602266e38efa60499d9f1f43",
+            "name": "Burma Kadayıf (Porsiyon)",
+            "description": null,
+            "price": 166.66,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c5cc4332bd86e15bc4",
+        "name": "Çiğ Köfte",
+        "items": [
+          {
+            "id": "602266e29af3ba668fab4c6e",
+            "name": "Çiğ Köfte Dürüm",
+            "description": "Marul, limon, turşu, nar ekşisi",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266e3c8b91166b3928ad2",
+            "name": "Çiğ Köfte (12 Sıkım)",
+            "description": "Limon, marul, biber turşusu, nar ekşisi",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602266c5b7899a6c9bac4f96",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "646a23e46a6a7737f49b15e1",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "646a23eb2ca5df2378001656",
+            "name": "Pepsi Max (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705308620_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e4c8b9114faf928ad4",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707303473743_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e6ed139232c97a5ad2",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302519471_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e8e8a6b1b67d2764c6",
+            "name": "Tropicana (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707396923679_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e78881bd2441f9e9da",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e68881bd1811f9e9d8",
+            "name": "Uludağ Gazoz (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602266eae36a14f1846853fe",
+            "name": "Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e78881bd52b3f9e9dc",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e93c1a97bae9bb13a5",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266ea99a26a17997c1091",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e5cc43321b0de15bd2",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 22.22,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "628684366bf86a3b2955fa6c",
+            "name": "Coca Cola  (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602266e88881bdd23ef9e9de",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eece33fe4f4f7df472a3df",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eece33fe4f4f63d572a45a",
+            "name": "Poşet",
+            "description": null,
+            "price": 1.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

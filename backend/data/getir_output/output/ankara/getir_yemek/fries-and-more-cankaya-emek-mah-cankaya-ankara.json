@@ -1,0 +1,587 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "68821e10d4ba0fca18334904",
+  "name": "Fries And More, Çankaya (Emek Mah.)",
+  "slug": "fries-and-more-cankaya-emek-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı",
+    "Pasta & Tatlı",
+    "Sokak Lezzetleri"
+  ],
+  "rating": 4.6,
+  "rating_count": 20,
+  "min_order_amount": 300.0,
+  "delivery_fee": 53.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "688b6685ceac63ceac90b912",
+            "name": "Classic Smash Burger Menü",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber; 200 g klasik patates kızartması ve içecek ile",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6686ceac63ceac90b913",
+            "name": "Cheesy Burger Menü",
+            "description": "125 gr smash burger köftesi, üç dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber. (Menü içeriğine 200 gr klasik patates kızartması ve içecek dahildir.)",
+            "price": 713.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6687ceac63ceac90b917",
+            "name": "Oklahoma Onion Burger Menü",
+            "description": "125 gr smash burger köftesi, cheddar peyniri, göbek marul, 3 x karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber. (Menü içeriğine 200 gr klasik patates kızartması ve içecek dahildir.)",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6688ceac63ceac90b919",
+            "name": "Trüffle Burger Menü",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, trüf mantarlı mayonez, burger turşusu, özel burger sos, tuz, karabiber. (Menü içeriğine 200 gr klasik patates kızartması ve içecek dahildir.)",
+            "price": 714.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6686ceac63ceac90b915",
+            "name": "Smokey Burger Menü",
+            "description": "125 g smash burger köftesi, 30 g füme dana kaburga, 3 dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber, 200 g klasik patates kızartması ve içecek ile",
+            "price": 807.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6925e7a5ceac63ceac513f0f",
+        "name": "Burger Menüler",
+        "items": [
+          {
+            "id": "688b6685ceac63ceac90b912",
+            "name": "Classic Smash Burger Menü",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber; 200 g klasik patates kızartması ve içecek ile",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6686ceac63ceac90b913",
+            "name": "Cheesy Burger Menü",
+            "description": "125 gr smash burger köftesi, üç dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber. (Menü içeriğine 200 gr klasik patates kızartması ve içecek dahildir.)",
+            "price": 713.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6687ceac63ceac90b917",
+            "name": "Oklahoma Onion Burger Menü",
+            "description": "125 gr smash burger köftesi, cheddar peyniri, göbek marul, 3 x karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber. (Menü içeriğine 200 gr klasik patates kızartması ve içecek dahildir.)",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6688ceac63ceac90b919",
+            "name": "Trüffle Burger Menü",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, trüf mantarlı mayonez, burger turşusu, özel burger sos, tuz, karabiber. (Menü içeriğine 200 gr klasik patates kızartması ve içecek dahildir.)",
+            "price": 714.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6687ceac63ceac90b918",
+            "name": "Spicy Burger Menü",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, sriracha sos, jalapeno turşu, kornişon turşu, tuz ve karabiber; yanında 200 g klasik patates kızartması ve içecek",
+            "price": 714.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6686ceac63ceac90b915",
+            "name": "Smokey Burger Menü",
+            "description": "125 g smash burger köftesi, 30 g füme dana kaburga, 3 dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz, karabiber, 200 g klasik patates kızartması ve içecek ile",
+            "price": 807.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a60238ceac63ceace8a167",
+            "name": "More Special Burger Menü",
+            "description": "180 g (90 + 90) smash burger köftesi, 2 kat cheddar peyniri, kırmızı soğan, özel tatlı soğan sosu, burger turşusu, füme dana kaburga, algerienne sos, özel burger sos, tuz, karabiber, yanında 200 g klasik patates kızartması ve içecek",
+            "price": 820.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "688b6682ceac63ceac90b90d",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "688b668dceac63ceac90b923",
+            "name": "Classic Smash Burger",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz ve karabiber",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b668eceac63ceac90b924",
+            "name": "Cheesy Burger",
+            "description": "125 g smash burger köftesi, üç dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz ve karabiber",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b668eceac63ceac90b925",
+            "name": "Smokey Burger",
+            "description": "125 g smash burger köftesi, 30 g füme dana kaburga, üç dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz ve karabiber",
+            "price": 672.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b668fceac63ceac90b926",
+            "name": "Oklahoma Onion Burger",
+            "description": "125 g smash burger köftesi, cheddar peyniri, göbek marul, 3 adet karamelize kırmızı soğan, burger turşusu, özel burger sos, tuz ve karabiber",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6690ceac63ceac90b927",
+            "name": "Spicy Burger",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, sriracha sos, jalapeno turşu, kornişon turşu, tuz ve karabiber",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6690ceac63ceac90b928",
+            "name": "Truffle Burger",
+            "description": "125 g smash burger köftesi, dilim cheddar peyniri, göbek marul, karamelize kırmızı soğan, trüf mantarlı mayonez, burger turşusu, özel burger sos, tuz ve karabiber",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a602a6ceac63ceace8a1a0",
+            "name": "More Special Burger",
+            "description": "180 g (90 + 90) smash burger köftesi, 2 kat cheddar peyniri, kırmızı soğan, özel tatlı soğan sosu, burger turşusu, füme dana kaburga, algerinne sos, özel burger sos, tuz ve karabiber",
+            "price": 686.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "688b6683ceac63ceac90b90e",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "688b6691ceac63ceac90b929",
+            "name": "Patates Kızartması",
+            "description": "Kaşık patates",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6691ceac63ceac90b92a",
+            "name": "Trüffle Parmesanlı Patates Kızartması",
+            "description": "Kaşık patates, trüf mantar, mayonez, toz parmesan peyniri",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6692ceac63ceac90b92b",
+            "name": "Sriracha Soslu Jalapenolu Patates Kızartması",
+            "description": "Kaşık patates, sriracha (acı) sos, jalapeno turşu",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6692ceac63ceac90b92c",
+            "name": "Cheddarlı Parmesanlı Patates Kızartması",
+            "description": "Kaşık patates, cheddar sos, toz parmesan peyniri",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "688b6685ceac63ceac90b911",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "688b6699ceac63ceac90b942",
+            "name": "Algerienne Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b669aceac63ceac90b943",
+            "name": "Yupi Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b669aceac63ceac90b945",
+            "name": "Andalouse Sos",
+            "description": null,
+            "price": 74.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b669bceac63ceac90b947",
+            "name": "Truffle Sos",
+            "description": null,
+            "price": 74.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b669bceac63ceac90b949",
+            "name": "Cheddar Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68fd0fd2ceac63ceac149996",
+            "name": "Sriracha Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "694d8841ceac63ceac7c89be",
+            "name": "Truffle Sos",
+            "description": "Trüf mantarlı mayonez",
+            "price": 74.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d6bab5ceac63ceac123c22",
+            "name": "Çikolata Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d6bacbceac63ceac123c28",
+            "name": "Beyaz Çikolata Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d6bae2ceac63ceac123c37",
+            "name": "Bitter Çikolata Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d6bafcceac63ceac123c3d",
+            "name": "Karamel Sos",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d6bb1aceac63ceac123c41",
+            "name": "Dubai Sos",
+            "description": "Antep Fıstıklı Sos",
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "688b6683ceac63ceac90b90f",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "688b6693ceac63ceac90b92d",
+            "name": "Çikolatalı Churros",
+            "description": null,
+            "price": 284.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6694ceac63ceac90b931",
+            "name": "Beyaz Çikolatalı Churros",
+            "description": null,
+            "price": 284.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6694ceac63ceac90b932",
+            "name": "Karamelli Churros",
+            "description": null,
+            "price": 284.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6695ceac63ceac90b933",
+            "name": "Dubai Çikolatalı Churros",
+            "description": null,
+            "price": 337.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d6aa5eceac63ceac12316a",
+            "name": "Bitter Çikolatalı Churros",
+            "description": null,
+            "price": 284.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "688b6684ceac63ceac90b910",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "688b6696ceac63ceac90b93c",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1754302072852_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "688b6696ceac63ceac90b934",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6697ceac63ceac90b93d",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762841535913_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "688b6697ceac63ceac90b93e",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6698ceac63ceac90b93f",
+            "name": "Özerhisar Ayran (245 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688b6698ceac63ceac90b941",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 36.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6900e41bceac63ceac1714af",
+            "name": "Lipton Ice Tea Mango & Egzotik Karışık Meyve (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6900e43aceac63ceac1714b9",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6900e45aceac63ceac1714c5",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6914e997ceac63ceac2a33ce",
+            "name": "Beyoğlu Klasik Frambuaz & Limon Aromalı Gazoz (250 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69162622ceac63ceac447bc9",
+            "name": "Beyoğlu Reyhan & Gül Aromalı Gazoz (250 ml)",
+            "description": null,
+            "price": 94.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6916265fceac63ceac447be1",
+            "name": "Beyoğlu Zencefil Aromalı Gazoz (250 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

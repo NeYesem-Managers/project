@@ -1,0 +1,965 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "5e413f5db480df348551a97f",
+  "name": "Route Burger House (Kemankeş Karamustafapaşa Mah.)",
+  "slug": "route-burger-house-kemankes-karamustafapasa-mah-beyoglu-istanbul",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 4.6,
+  "rating_count": 3500,
+  "min_order_amount": 320.0,
+  "delivery_fee": 29.99,
+  "delivery_time_min": 35,
+  "delivery_time_max": 45,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %10"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5e4a865d7431264ed9a00de8",
+            "name": "Hamburger",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, karamelize soğan, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 567.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231692633_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a8a6befedd8e1982b9165",
+            "name": "Cheeseburger",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, karamelize soğan, cheddar peyniri, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 571.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231680550_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a93b9f94e7293c5e6570c",
+            "name": "Mushroom Cheeseburger",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, karamelize soğan, sarımsak ile sotelenmiş mantar, cheddar peyniri, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 574.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231570210_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9534e6d240c99abf742b",
+            "name": "French Burger",
+            "description": "150gr. Burger köftesi, turşu, domates, karamelize soğan, rokfor peyniri, roka, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 573.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231698071_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9b86efedd853b82b93b9",
+            "name": "Original Burger",
+            "description": "150gr. Burger köftesi, marul, turşu, domates, karamelize soğan, dana füme, cheddar peyniri, barbekü sos, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231702983_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63cd88fc071bb76f9257480c",
+        "name": "Slim Burger Menü",
+        "items": [
+          {
+            "id": "63cd8e8483f83023cb6efc7d",
+            "name": "Slim Burger Menü 1",
+            "description": "Burger köftesi (100 g), marul, turşu, domates, karamelize soğan, patates kızartması (100 g), ketçap, mayonez ve tercihinize göre içecek ile",
+            "price": 567.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1674508037613_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63cd93e01f285183786be80b",
+            "name": "Slim Burger Menü 2",
+            "description": "Burger köftesi (100 g), marul, turşu, domates, karamelize soğan, cheddar peyniri, patates kızartması (100 g), ketçap, mayonez ve tercihinize göre içecek ile",
+            "price": 567.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1674590727917_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63cd9606071bb7850359e19f",
+            "name": "Slim Burger Menü 3",
+            "description": "Burger köftesi (100 g), marul, turşu, domates, karamelize soğan, sarımsaklı sote mantar, patates kızartması (100 g), ketçap, mayonez ve tercihinize göre içecek ile",
+            "price": 558.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1674508097231_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63cd9a5d071bb7d99d5aa656",
+            "name": "Slim Burger Menü 4",
+            "description": "Burger köftesi (100 g), marul, turşu, domates, kuru soğan, jalapeno biberi, patates kızartması (100 g), ketçap, mayonez ve tercihinize göre içecek ile",
+            "price": 558.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1674508134612_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63cd9d2e037b50e1b3473a7c",
+            "name": "Slim Burger Menü 5",
+            "description": "Burger köftesi (100 g), marul, turşu, domates, hardal, patates kızartması (100 g), ketçap, mayonez ve tercihinize göre içecek ile",
+            "price": 558.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1674590751084_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5e4a5e29f94e72a62ce654e0",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "5e4a865d7431264ed9a00de8",
+            "name": "Hamburger",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, karamelize soğan, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 567.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231692633_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a8a6befedd8e1982b9165",
+            "name": "Cheeseburger",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, karamelize soğan, cheddar peyniri, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 571.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231680550_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a91ae0a2b5483735a7ce6",
+            "name": "Indian Burger (Acılı)",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, karamelize soğan, köri sos, acı biber, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 571.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231688019_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a929595f9af7bf327e12f",
+            "name": "Danger Burger (Acılı)",
+            "description": "Burger köftesi, iceberg marul, turşu, domates, kurutulmuş domates, jalapeno biber karışımı real hot sauce, eski kaşar peyniri, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231667082_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a93b9f94e7293c5e6570c",
+            "name": "Mushroom Cheeseburger",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, karamelize soğan, sarımsak ile sotelenmiş mantar, cheddar peyniri, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 574.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231570210_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a72e2aea16378d55a19c4",
+            "name": "Ginger Bells",
+            "description": "150gr. Burger köftesi, marul, domates, turşu, pesto rosso, ızgara hellim peyniri, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231575283_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9534e6d240c99abf742b",
+            "name": "French Burger",
+            "description": "150gr. Burger köftesi, turşu, domates, karamelize soğan, rokfor peyniri, roka, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 573.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231698071_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a98dcf94e720defe65774",
+            "name": "Cretan Burger",
+            "description": "150gr. Burger köftesi, iceberg marul, turşu, domates, tulum peyniri, közlenmiş kırmızı biber, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 573.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231584390_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a95efaea1636c6c5a1ee8",
+            "name": "Mexican Burger (Acılı)",
+            "description": "150gr. Burger köftesi, yeşillik, domates, guacamole, jalapeno biberi, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231593111_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a98680a2b5432b45a7d67",
+            "name": "Italian Burger",
+            "description": "150gr. Burger köftesi, marul, turşu, domates, mozzarella peyniri, pesto sos, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 573.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231656326_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9a2fbd2a7a01177d1188",
+            "name": "Veal Bacon Burger",
+            "description": "150gr. Burger köftesi, marul, turşu, domates, karamelize soğan, dana pastırması, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 575.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231599493_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9b86efedd853b82b93b9",
+            "name": "Original Burger",
+            "description": "150gr. Burger köftesi, marul, turşu, domates, karamelize soğan, dana füme, cheddar peyniri, barbekü sos, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231702983_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9bf095f9af256627e1c9",
+            "name": "Goat Cheese Burger",
+            "description": "150gr. Burger köftesi, marul, turşu, domates, karamelize soğan, keçi peyniri, kekik, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231671716_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9c35f94e728334e65841",
+            "name": "Newage Burger",
+            "description": "150gr. Burger köftesi, marul, turşu, domates, karamelize soğan, rende cheddar peyniri, ballı hardal sos, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231661046_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9c6864c6b9a6bdcb5e75",
+            "name": "Oldage Burger",
+            "description": "150gr. Burger köftesi, marul, turşu, domates, rende cheddar peyniri, ranch sos, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231707431_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9ddabd2a7a385f7d1207",
+            "name": "Wild Thing",
+            "description": "150gr. Burger köftesi, dip sos, maydanoz, domates, yer fıstığı ezmesi, cheddar peyniri, hindi füme, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 580.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231608736_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a71400a2b54354c5a7a78",
+            "name": "Pizza Burger",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, cheddar peyniri, mozzarella peyniri, küp sucuk, yeşil zeytin, siyah zeytin, yeşil biber, kapya biber, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1666556252191_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a723dad4d71072b75f655",
+            "name": "Big Onion Bang",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, cheddar peyniri, taze soğan, kıtır soğan parçaları, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 580.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677869762234_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a7349aea16373715a1a0c",
+            "name": "Fantastic Beast",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, dana füme, manda kaymağı, antep fıstığı, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677872637577_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a76f167569f9405eb7cb4",
+            "name": "Burger Grandiose",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, ceviz ve sarımsaklı grandiose sos, yeşil biber, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677872931684_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a776e518b84072261c21c",
+            "name": "Cubby Broccoli",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, sarımsak, mayonez ve brokoli sos, cheddar peyniri, kaju, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 580.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677873561072_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a891a95f9af83c227e074",
+            "name": "Veggie Burger",
+            "description": "170 g kırmızı meksika fasulyesi, bezelye, havuç, patates, kırmızı soğan, ceviz, baharat karışımı köfte, dip sos, iceberg marul, turşu, domates, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 549.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677873729050_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a89a967569f1d3aeb7e1a",
+            "name": "Chicken Cordon Bleu Burger",
+            "description": "Peynirle doldurulmuş 170 g tavuk, iceberg marul, turşu, domates, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 553.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677874498862_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a92da743126c37ea00f26",
+            "name": "Olive Burger",
+            "description": "150gr.Burger köftesi, marul, turşu, domates, zeytin ezmesi, kişniş, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 571.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677875289957_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a931864c6b9f09acb5db4",
+            "name": "Sultan Burger",
+            "description": "150gr. Burger köftesi, marul, közlenmiş patlıcan salatası, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 571.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677875955349_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a94bebd2a7a68507d112a",
+            "name": "El Bandido Burger",
+            "description": "150gr. Burger köftesi, karamelize soğan, cheddar peyniri, humus sos, domates sos, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 580.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677878193352_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a965f95f9afdbb627e17e",
+            "name": "Village Burger",
+            "description": "150 g burger köftesi, mayonez, hardal, ev yapımı village sos, çift cheddar peyniri, domates, maydanoz, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 580.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677879615030_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a980864c6b938c1cb5e1c",
+            "name": "King's Slayer",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, çift cheddar peyniri, soğanla kavrulmuş kremalı ıspanak, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704913843301_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9acaefedd816882b936d",
+            "name": "Quattro Formaggi",
+            "description": "150gr. Burger köftesi, marul, domates, cheddar peyniri, toz parmesan peyniri, mozzarella peyniri, ezine peyniri, tam yağlı beyaz peynir, ceviz parçaları, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704916759690_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9d8a24e59113aaf1d829",
+            "name": "Helter-Skelter",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, cheddar peyniri, avokado, frenk soğanı, sarımsaklı krem peynir, tane karabiber, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704917210329_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9e9867569f5b82eb7fa8",
+            "name": "Burger Bolognese",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, çift cheddar peyniri, kıymalı bolognese sos, taze kekik, turşu, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 583.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704917477462_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9ef195f9afdcc927e21e",
+            "name": "Hammer Burger (Acılı)",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, cheddar peyniri, ev yapımı kavurma, jalapeno biberi, dil peyniri, turşu, isot, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704917650691_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9f92b3446e24bad7beff",
+            "name": "Super Mushy Burger",
+            "description": "170 gr. Sotelenmiş mantar ve rende mozzarella peyniri ile doldurulmuş hamburger köftesi, dip sos, marul, domates, cheddar peyniri, acı biberli püre patlıcan sosu, maydanoz, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 603.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677877940682_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a9ff1aea163522c5a1f61",
+            "name": "Caribbean Queen (Acılı)",
+            "description": "150gr. Burger köftesi, dip sos, marul, domates, beşamel sos, mayo chili sos, kıtır soğan parçaları, dana füme, patates kızartması, 1 adet ketçap, 1 adet mayonez ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704917784965_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4aa05baea16323805a1fa7",
+            "name": "Giant Burger",
+            "description": "300 gr.Burger köftesi, marul, turşu, domates, karamelize soğan, patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677879077561_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "602435fb641c30028b30dda5",
+            "name": "Burger Delizia (Acılı)",
+            "description": "150gr. Burger köftesi, dipsos, marul, domates, Cheddar, Delizia hardal sos, yanında patates kızartması, 1 adet ketçap, 1 adet mayonez ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704918267986_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "631e286ac5b952747b59d905",
+            "name": "Sade Burger",
+            "description": "300 gr.Burger köftesi , dipsos, soğan turşusu, sade yağ, patates kızartması, 1 adet ketçap ve 1 adet mayonez ile",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704918374565_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "641f5141222c1077eff95a0b",
+        "name": "Tavuk Burger",
+        "items": [
+          {
+            "id": "641f5766e5f17a771adb6b5b",
+            "name": "Chicken Cheese Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, cheddar peyniri, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017204479_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "641f5df8222c10f4fdfabc0b",
+            "name": "Chicken Mushroom Cheese Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, sarımsaklı mantar, cheddar peyniri, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 454.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017636358_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "641f608ae5f13ac416764d2e",
+            "name": "Chicken Italian Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, mozzarella peyniri, pesto sos, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 451.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017659262_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "641f6449e5f13a186676ae6c",
+            "name": "Chicken Goat Cheese Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, kekik, keçi peyniri, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 454.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017677354_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "641f706cf4b4c172af0ce765",
+            "name": "Chicken New Age Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, cheddar peyniri, ballı hardal sos, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 454.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017698147_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "641f7542e5f17a1766ddcba5",
+            "name": "Chicken Oldage Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, cheddar peyniri, ranch sos, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 454.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017718621_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64207ef5f4b4c1695c2be617",
+            "name": "Chicken Village Burger",
+            "description": "Çıtır tavuk göğsü (150 g), mayonezli hardallı ev yapımı village sos, cheddar peyniri (2 adet), domates, maydanoz, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 453.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017739586_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "642080a7b6ab584594c2ffee",
+            "name": "Chicken Big Onion Bang",
+            "description": "Çıtır tavuk göğsü (150 g), marul, domates, soğan, cheddar peyniri, soğan, kıtır soğan, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 454.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017230884_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64208230222c10740c1c8b9c",
+            "name": "Chicken Ginger Bells",
+            "description": "Çıtır tavuk göğsü (150 g), marul, domates, turşu, pesto rosso, ızgara hellim peyniri, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017756385_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "642083cce5f17a10b5fd5a23",
+            "name": "Chicken Wild Thing",
+            "description": "Çıtır tavuk göğsü (150 g), maydanoz, domates, turşu, yer fıstığı ezmesi, cheddar peyniri, hindi füme, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017777429_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "642092ec222c101b931f5382",
+            "name": "Chicken Delizia",
+            "description": "Çıtır tavuk göğsü (150 g), marul, domates, cheddar peyniri, delizia hardal sosu, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 463.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017795267_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64209464e5f13a43c39a7f92",
+            "name": "Chicken Danger Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, kurutulmuş domates, jalapeno biber, real hot sauce, eski kaşar peyniri, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017813067_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6420961a222c10de1c1fc989",
+            "name": "Chicken Mexican Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, guacamole sos, jalapeno biber, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 458.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017838934_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "642097b5e5f13aa2a99af8fd",
+            "name": "Chicken Indian Burger",
+            "description": "Çıtır tavuk göğsü (150 g), marul, turşu, domates, köri sos, acı chili biberi, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 454.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017861230_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64209987e5f13aafcf9b31d7",
+            "name": "Chicken French Burger",
+            "description": "Çıtır tavuk göğsü (150 g), turşu, domates, rokfor peyniri, roka, patates kızartması (200 g), ketçap ve mayonez ile",
+            "price": 458.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017880789_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64209b17b6ab5820fec6cbb2",
+        "name": "Chicken Tenders",
+        "items": [
+          {
+            "id": "64209cccb6ab58114bc6ff6e",
+            "name": "4'lü Chicken Tenders",
+            "description": "Chicken tenders (4 adet), patates kızartması (200 g), ketçap, mayonez ve sweet chili sos ile",
+            "price": 445.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017902231_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64209daab6ab580311c71809",
+            "name": "6'lı Chicken Tenders",
+            "description": "Chicken tenders (6 adet), patates kızartması (200 g), ketçap, mayonez ve sweet chili sos ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017921959_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64209e34b6ab586262c726be",
+            "name": "8'li Chicken Tenders",
+            "description": "Chicken tenders (8 adet), patates kızartması (200 g), ketçap, mayonez ve sweet chili sos ile",
+            "price": 472.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680017938838_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5e4a3527f94e721369e642bd",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "5e4a3551bd2a7aa40f7cfee9",
+            "name": "French Fries",
+            "description": "Baharatlı patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 171.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231559363_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a35807c425b6253240a6f",
+            "name": "Soğan Halkası",
+            "description": "8 adet kızarmış baharatlı soğan halkası ve ranch sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231727081_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a359caea16384f359f76e",
+            "name": "Tavuk Nugget",
+            "description": "6 adet kızarmış tavuk parçası, ballı hardal sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747231550055_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a356667569fa539eb6ffb",
+            "name": "Elma Dilim Patates",
+            "description": "Baharatlı elma dilim patates kızartması, 1 adet ketçap, 1 adet mayonez ve dip sos ile",
+            "price": 171.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1680018156016_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5e4a329f518b84a05561bb46",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "5e4a32a6e6d240807abf65a4",
+            "name": "Ketçap",
+            "description": null,
+            "price": 13.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927933322_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a32abbd2a7a445c7cfee6",
+            "name": "Mayonez",
+            "description": null,
+            "price": 13.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927941688_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a32b3b3446e9e9ad78f10",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 16.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a32ba24e591a82df1cf9c",
+            "name": "Hardal",
+            "description": null,
+            "price": 16.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927927541_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a335d0a2b5424b85a75ad",
+            "name": "Hot Chili Sos",
+            "description": null,
+            "price": 16.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a3367b3446e44a8d78f12",
+            "name": "Rokfor Sos",
+            "description": null,
+            "price": 27.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a340167569fda9aeb6ff7",
+            "name": "Real Hot Sauce",
+            "description": null,
+            "price": 22.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a3412efedd82b6c2b8286",
+            "name": "Ballı Hardal Sos",
+            "description": null,
+            "price": 18.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927927541_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a3419e6d24060b4bf65a9",
+            "name": "Garlic Sos",
+            "description": null,
+            "price": 18.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a341f24e5910334f1cfa1",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 18.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927966195_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5e4a34251249efc887b30318",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5e4a343495f9af120a27c29f",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 112.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a3459518b84f2df61bb4a",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 112.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655218920_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a346264c6b9192fcb3e69",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 112.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a34751249ef7f62b3031a",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 112.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a347b7c425be50c240a60",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 112.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a34b9743126c7129fec45",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 112.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a34c97c425b9e66240a62",
+            "name": "Zafer Gazozu (200 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5e4a350befedd823402b828b",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 63.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a3516b3446e0b69d78f33",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "5e4a351e67569f41d5eb6ff9",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 27.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

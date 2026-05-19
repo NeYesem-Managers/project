@@ -1,0 +1,504 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "680f852a066d29328f0a9b1c",
+  "name": "Freedom Fries, Çankaya (Bahçelievler Mah.)",
+  "slug": "freedom-fries-cankaya-bahcelievler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı",
+    "Sokak Lezzetleri"
+  ],
+  "rating": 4.1,
+  "rating_count": 20,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "685d2a41ceac63ceac5f7051",
+        "name": "Kızartmalar",
+        "items": [
+          {
+            "id": "686bc363ceac63ceac73bcbf",
+            "name": "Freedom Kova",
+            "description": "450 g amsterdam patatesi",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "686bc399ceac63ceac73bcd8",
+            "name": "Freedom Çıtır Tavuk",
+            "description": "4 parça çıtır tavuk",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "686bc409ceac63ceac73bd24",
+            "name": "Frankfurter Dana Sosisli Sandwich",
+            "description": "100% dana",
+            "price": 378.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684c5a94ceac63ceac510080",
+        "name": "Menüler",
+        "items": [
+          {
+            "id": "68501250ceac63ceac52eb2f",
+            "name": "Çıtır Tavuk Burger Menü",
+            "description": "Çıtır tavuk burger, orta boy amsterdam patatesi, 1 adet içecek ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "686bc4b0ceac63ceac73bdba",
+            "name": "Freedom Çıtır Tavuk Menü",
+            "description": "4 parça çıtır tavuk, orta boy amsterdam patatesi, 1 adet içecek",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "686e85c9ceac63ceac7761c3",
+            "name": "Sosis Menü",
+            "description": "Sosis (%100 dana), orta boy amsterdam patatesi ve 1adet içecek ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "686e860cceac63ceac7761f7",
+            "name": "Burger Menü",
+            "description": "Dana burger (150 g) (%100 dana), orta boy amsterdam patatesi ve 1adet içecek ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "696427aaceac63ceac990eb1",
+            "name": "Trüf Burger Menü",
+            "description": "130 g %100 dana burger, orta boy amsterdam patatesi ve seçeceğin kutu içecek ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6850142fceac63ceac52ee8c",
+        "name": "Soslar",
+        "items": [
+          {
+            "id": "686e8729ceac63ceac776292",
+            "name": "Parmesan Peyniri",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6850146fceac63ceac52efce",
+            "name": "Algerienne Sos",
+            "description": "Hardal, soğan parçaları, tatlı acı biber, baharatlar, konsantre domates",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280169777_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501490ceac63ceac52efe5",
+            "name": "Americaine Sos",
+            "description": "Soğan, kapari, frenk maydanozu, baharatlar",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280179995_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685014baceac63ceac52eff7",
+            "name": "Andalouse Sos",
+            "description": "Baharatlar, domates, biber, kremalı mayonez sos",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280189921_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685014e0ceac63ceac52f020",
+            "name": "Burger Sos",
+            "description": "Mevsim sebzeleri, salatalık turşusu, soğan parçaları, susam, domates, hardal",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280200125_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685014fbceac63ceac52f049",
+            "name": "Riche Sos",
+            "description": "Pancar, frenk maydanozu, soğan",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280211333_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6850151cceac63ceac52f056",
+            "name": "Samurai Sos",
+            "description": "Hardal, sirke, baharatlar, acı samurai biber",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280226273_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6850153bceac63ceac52f05f",
+            "name": "Tartare Sos",
+            "description": "Frenk maydanozu ve kıtır soğan ile",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280296761_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501559ceac63ceac52f080",
+            "name": "Yopi Sos",
+            "description": "Yeşil soğan, kremalı mayonez, baharatlar",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280310097_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501577ceac63ceac52f08c",
+            "name": "Trüflü Mayonez",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280324200_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501580ceac63ceac52f08e",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280336272_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685015a7ceac63ceac52f0a0",
+            "name": "Sriracha Sos",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280347149_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685015b0ceac63ceac52f0a4",
+            "name": "Cheddar Sos",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280358733_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "686e866dceac63ceac776225",
+            "name": "Smoke Mayonez",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280371632_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "686e8686ceac63ceac77622c",
+            "name": "Sweet Chili",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772284712839_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685015bcceac63ceac52f0a8",
+            "name": "Ketçap",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685015c4ceac63ceac52f0aa",
+            "name": "Mayonez",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685015cfceac63ceac52f0ac",
+            "name": "Hardal",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685015d9ceac63ceac52f0b2",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68b836bdceac63ceacc5a1cf",
+            "name": "Peri Peri Sos",
+            "description": "Hardal, domates salçası, acı biber, worcestershire sos ve baharatlar",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280402953_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68c46463ceac63ceacd43cd8",
+            "name": "Lime",
+            "description": "Lime limon aroması sos",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280414181_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68c4648fceac63ceacd43d3b",
+            "name": "Brazil",
+            "description": "Ananas, limon ve tatlı ekşi krema kıvamlı sos",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280425072_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dd8636ceac63ceacebdfec",
+            "name": "Chipotle",
+            "description": "Tütsülenmiş kırmızı jalapeno biberi, domates, soğan, çeşitli baharatlar",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280438413_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684c5a8bceac63ceac510070",
+        "name": "Tatlılar",
+        "items": [
+          {
+            "id": "685015e8ceac63ceac52f0b9",
+            "name": "3'lü Churros",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280108091_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685015f3ceac63ceac52f0c3",
+            "name": "5'li Churros",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280121072_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501600ceac63ceac52f0c6",
+            "name": "7'li Churros",
+            "description": null,
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772280137547_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "684c5a7dceac63ceac51006d",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "691c630cceac63ceac4936fa",
+            "name": "Özerhisar Ayran (300 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772432497511_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "686e88a0ceac63ceac776422",
+            "name": "Coca Cola (300 ml) (Cam Şişe)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772284936975_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "686e8917ceac63ceac77645c",
+            "name": "Coca Cola Zero Sugar (300 ml) (Cam Şişe)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772284951982_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501610ceac63ceac52f0ec",
+            "name": "Coca Cola (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772284967000_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501659ceac63ceac52f134",
+            "name": "Coca Cola Zero Sugar (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772284961966_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501a31ceac63ceac52f768",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772284971972_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "686e887aceac63ceac7763a1",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772285063986_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501666ceac63ceac52f14a",
+            "name": "Sprite (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772285065132_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501651ceac63ceac52f101",
+            "name": "Fanta (250 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772285070085_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68501771ceac63ceac52f4d1",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772285082185_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "686e87ceceac63ceac776309",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772285132212_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

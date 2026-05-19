@@ -1,0 +1,558 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "68daf2be6e1e3f46ec4096cd",
+  "name": "Buongiorno İtalyan Sandviç, Konak (Mithatpaşa Mah.)",
+  "slug": "buongiorno-italyan-sandvic-konak-mithatpasa-mah-konak-izmir",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 4.5,
+  "rating_count": 100,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68daf2c9ceac63ceace95536",
+            "name": "Parma Grande Sandviç",
+            "description": "60 g dana füme kaburga, suda mozzarella, stracciatella sos, avokado sos, roka, lime suyu ve balzamik glaze",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759942465452_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95537",
+            "name": "Napoli Grande Sandviç",
+            "description": "60 g dana füme antrikot, suda mozzarella, pesto sos, stracciatella sos, kurutulmuş domates, roka, lime suyu ve balzamik glaze",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759942499528_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95538",
+            "name": "Genoa Grande Sandviç",
+            "description": "60 g dana bacon, suda mozzarella, pesto sos, stracciatella sos, antep fıstığı parçaları, bal, lime suyu, roka ve balzamik glaze",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759942440637_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69159b03ceac63ceac439773",
+            "name": "Vegetariano Sandviç",
+            "description": "Avokado dilimleri, pesto sos, stracciatella sos, zeytinyağlı kurutulmuş domates, mozzarella dilimleri, roka, balzamik glaze ve lime suyu",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763023603494_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691db526ceac63ceac4a8926",
+            "name": "Parma Sandviç (Medio)",
+            "description": "40 g dana füme kaburga, suda mozzarella peyniri, avokado sos, stracciatella sos, roka, lime suyu ve balsamik sos",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763554574192_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68daf2c9ceac63ceace95534",
+        "name": "Focaccia Sandviçler",
+        "items": [
+          {
+            "id": "68daf2c9ceac63ceace95536",
+            "name": "Parma Grande Sandviç",
+            "description": "60 g dana füme kaburga, suda mozzarella, stracciatella sos, avokado sos, roka, lime suyu ve balzamik glaze",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759942465452_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95537",
+            "name": "Napoli Grande Sandviç",
+            "description": "60 g dana füme antrikot, suda mozzarella, pesto sos, stracciatella sos, kurutulmuş domates, roka, lime suyu ve balzamik glaze",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759942499528_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95538",
+            "name": "Genoa Grande Sandviç",
+            "description": "60 g dana bacon, suda mozzarella, pesto sos, stracciatella sos, antep fıstığı parçaları, bal, lime suyu, roka ve balzamik glaze",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759942440637_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95539",
+            "name": "Milano Grande Sandviç",
+            "description": "60 g dana bacon, acı kurutulmuş domates sos, stracciatella sos, suda mozzarella, roka, balzamik glaze ve lime suyu",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759317934129_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace9553a",
+            "name": "Toskana Grande Sandviç",
+            "description": "60 g hindi füme, mozzarella peyniri, turna yemişi sosu, stracciatella sos, ballı hardal, lime suyu, roka ve balzamik glaze",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759317950298_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69159b03ceac63ceac439773",
+            "name": "Vegetariano Sandviç",
+            "description": "Avokado dilimleri, pesto sos, stracciatella sos, zeytinyağlı kurutulmuş domates, mozzarella dilimleri, roka, balzamik glaze ve lime suyu",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763023603494_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691db526ceac63ceac4a8926",
+            "name": "Parma Sandviç (Medio)",
+            "description": "40 g dana füme kaburga, suda mozzarella peyniri, avokado sos, stracciatella sos, roka, lime suyu ve balsamik sos",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763554574192_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691db560ceac63ceac4a8c57",
+            "name": "Napoli Sandviç (Medio)",
+            "description": "40 g dana füme antrikot, suda mozzarella peyniri, pesto sos, stracciatella sos, kurutulmuş domates, roka, lime suyu ve balsamik sos",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763554649844_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691db587ceac63ceac4a8de8",
+            "name": "Genoa Sandviç (Medio)",
+            "description": "40 g dana bacon, suda mozzarella peyniri, pesto sos, stracciatella sos, antep fıstık parçaları, bal, lime suyu, roka ve balsamik sos",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763554688791_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691db5c1ceac63ceac4a8e1d",
+            "name": "Milano Sandviç (Medio)",
+            "description": "40 g dana bacon, acı kurutulmuş domates sosu, stracciatella sos, suda mozzarella, lime suyu, roka ve balzamik glaze",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763554747053_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691db608ceac63ceac4a8e5f",
+            "name": "Toskana Sandviç (Medio)",
+            "description": "40 g Hindi füme, suda mozzarella, turn yemişi sosu, stracciatella sos, ballı hardal, lime suyu, roka ve balsamik sos",
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763554817167_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d703cceac63ceac6871c5",
+            "name": "Parma Menü",
+            "description": "Parma medio sandviç, patates kızartması (orta boy) ve coca cola (330 ml)",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765788902782_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d706fceac63ceac687209",
+            "name": "Napoli Menü",
+            "description": "Napoli medio sandviç, patates kızartması (orta boy), coca cola (330 ml)",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765806734842_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d70a2ceac63ceac68724f",
+            "name": "Genoa Menü",
+            "description": "Genoa medio sandviç, patates kızartması (orta boy), coca cola (330 ml)",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765806802717_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d70d1ceac63ceac687272",
+            "name": "Milano Menü",
+            "description": "Milano medio sandviç, patates kızartması (orta boy), coca cola (330 ml)",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765806826132_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d7148ceac63ceac6872a0",
+            "name": "Toskana Menü",
+            "description": "Toskana medio sandviç, patates kızartması (orta boy), coca cola (330 ml)",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765806880167_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "693d760aceac63ceac68754b",
+        "name": "Patates & Tavuklar",
+        "items": [
+          {
+            "id": "693d8452ceac63ceac687d8e",
+            "name": "Patates Kızartması (250 g)",
+            "description": null,
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777641896308_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693d8480ceac63ceac687da0",
+            "name": "Baharatlı Patates Kızartması (250 g)",
+            "description": null,
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777641925843_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69f4ab5bceac63ceac315ed9",
+            "name": "Chicken Tenders (250 g)",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777705545278_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68daf2c9ceac63ceace95535",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "68daf2c9ceac63ceace95540",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760424290913_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69144b3bceac63ceac293455",
+            "name": "Cola Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95541",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760424304599_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95542",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760424316217_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95543",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760424366514_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68edf18fceac63ceac04df74",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760424378712_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95545",
+            "name": "Damla Sade Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760424417400_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68daf2c9ceac63ceace95546",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760424435630_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699845b0ceac63ceacdc137f",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69144b1cceac63ceac293441",
+        "name": "Tatlılar",
+        "items": [
+          {
+            "id": "68daf2c9ceac63ceace9553b",
+            "name": "Dolce Vita",
+            "description": "Focaccia ekmeği, çikolatalı nutella, badem parçaları, pudra şekeri",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759317967980_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69148db6ceac63ceac29cf6c",
+            "name": "Bella Chips Cookie (3 Adet)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771398849113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6a0046a6ceac63ceac3fcecf",
+            "name": "Bella Chips Chocolate Cookie (3 Adet)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69284809ceac63ceac54199a",
+        "name": "Kahveler",
+        "items": [
+          {
+            "id": "69285972ceac63ceac543cd4",
+            "name": "Americano (M)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69285a7fceac63ceac5440f1",
+            "name": "Latte (M)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69285aaaceac63ceac54415d",
+            "name": "Flat White (M)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69285ac6ceac63ceac5441b0",
+            "name": "Cappuccino (M)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69285ad5ceac63ceac5441c1",
+            "name": "Karamel Latte (M)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69285ae6ceac63ceac54453c",
+            "name": "Filtre Kahve (M)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6929b223ceac63ceac56385d",
+            "name": "Demleme Çay (14 oz)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "694905ebceac63ceac75f017",
+            "name": "Karamel Macchiato (M)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b50271ceac63ceacf5779a",
+            "name": "Ice Filter Coffee (M)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b5024dceac63ceacf57796",
+            "name": "Ice Americano (M)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b50260ceac63ceacf57798",
+            "name": "Ice Latte (M)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b502a0ceac63ceacf577a1",
+            "name": "Ice Caramel Latte (M)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b502d5ceac63ceacf577a4",
+            "name": "Ice Caramel Macchiato (M)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69de1b2bceac63ceac195ddb",
+            "name": "Ice Mocha (14 oz)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

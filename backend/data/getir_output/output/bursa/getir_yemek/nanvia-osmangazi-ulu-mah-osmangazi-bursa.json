@@ -1,0 +1,802 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "68414e96fa57555b076e5987",
+  "name": "Nanvia, Osmangazi (Ulu Mah.)",
+  "slug": "nanvia-osmangazi-ulu-mah-osmangazi-bursa",
+  "cuisine_types": [
+    "Deniz Ürünleri",
+    "Dünya Mutfağı",
+    "Mantı & Makarna",
+    "Pasta & Tatlı",
+    "Salata",
+    "Sokak Lezzetleri",
+    "Tost & Sandviç",
+    "Vejetaryen"
+  ],
+  "rating": 4.4,
+  "rating_count": 50,
+  "min_order_amount": 220.0,
+  "delivery_fee": 45.99,
+  "delivery_time_min": 20,
+  "delivery_time_max": 30,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    },
+    {
+      "type": "tag",
+      "description": "Her üründe %20"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68517f62ceac63ceac541fcf",
+            "name": "Caprese Sandviç",
+            "description": "Mozzarella, fesleğen, domates, siyah zeytin ezmesi, kekikli zeytinyağı, ciabatta",
+            "price": 299.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750171434329_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68518019ceac63ceac54208d",
+            "name": "Ege Sandviç",
+            "description": "Ezine peyniri, domates, salatalık, ceviz, zeytinyağı, taze kekik, baget",
+            "price": 299.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750171533973_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68518090ceac63ceac54215d",
+            "name": "Mozzarella Sandviç",
+            "description": "Taze mozzarella, pesto sos, cherry domates, roka, zeytinyağı, ciabatta ekmeği",
+            "price": 295.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750171779565_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b7674eceac63ceacc40dd0",
+            "name": "Bol Etli Roast Beef Sandviç",
+            "description": "Roast beef, avokado sosu, labne peyniri, çeçil peyniri, roka",
+            "price": 585.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756849990397_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d461ceceac63ceace460a0",
+            "name": "Nanvia Pastırmalı Serpme Kahvaltı Sandviç",
+            "description": "27 cm baget ekmeği, labne peyniri, siyah zeytin ezmesi, acuka, dana jambon, kaşar peyniri, haşlanmış yumurta, çeçil peyniri, pastırma, marul, domates, salatalık, zeytinyağı, kekik",
+            "price": 454.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758749088456_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68510b9fceac63ceac5368f8",
+        "name": "Special Sandviç",
+        "items": [
+          {
+            "id": "68517f62ceac63ceac541fcf",
+            "name": "Caprese Sandviç",
+            "description": "Mozzarella, fesleğen, domates, siyah zeytin ezmesi, kekikli zeytinyağı, ciabatta",
+            "price": 299.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750171434329_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68518019ceac63ceac54208d",
+            "name": "Ege Sandviç",
+            "description": "Ezine peyniri, domates, salatalık, ceviz, zeytinyağı, taze kekik, baget",
+            "price": 299.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750171533973_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6851805eceac63ceac542142",
+            "name": "Füme Hindi Sandviç",
+            "description": "Haşlanmış yumurta, hindi füme, beyaz peynir, domates, zeytinyağı, cibiatta ekmeği",
+            "price": 359.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750323965036_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68518090ceac63ceac54215d",
+            "name": "Mozzarella Sandviç",
+            "description": "Taze mozzarella, pesto sos, cherry domates, roka, zeytinyağı, ciabatta ekmeği",
+            "price": 295.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750171779565_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6879d9b4ceac63ceac8097ea",
+            "name": "Dana Jambon Sandviç",
+            "description": "Labne, marul, fesleğen, dana jambon, zeytin ezmesi, rus salatası",
+            "price": 359.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756850356169_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b76641ceac63ceacc40d71",
+            "name": "Bol Etli Dana Füme Sandviç",
+            "description": "Dana füme, taze soğan, hardal sos, cheddar peyniri, yeşillik",
+            "price": 585.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756849677420_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b766afceac63ceacc40d91",
+            "name": "Bol Etli Antrikot Füme Sandviç",
+            "description": "Füme dana antrikot, cheddar peyniri, roka, domates, zeytin ezmesi, zeytinyağı",
+            "price": 585.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756849821561_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b7674eceac63ceacc40dd0",
+            "name": "Bol Etli Roast Beef Sandviç",
+            "description": "Roast beef, avokado sosu, labne peyniri, çeçil peyniri, roka",
+            "price": 585.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756849990397_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b7678aceac63ceacc40dde",
+            "name": "Bol Etli Füme Hindi Sandviç",
+            "description": "Haşlanmış yumurta, hindi füme, beyaz peynir, domates, zeytinyağı",
+            "price": 478.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756850049282_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b767c6ceac63ceacc40e01",
+            "name": "Bol Etli Dana Jambon Sandviç",
+            "description": "Labne peyniri, marul, fesleğen, dana jambon, zeytin ezmesi, rus salatası",
+            "price": 497.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756850110055_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b76809ceac63ceacc40e0c",
+            "name": "Bol Etli Nanvia Special Sandviç",
+            "description": "Dana antrikot füme, cheddar peyniri, marul, fesleğen, labne peyniri, zeytinyağı, avokado sosu, rus salatası",
+            "price": 688.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756850176768_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b7684aceac63ceacc40e16",
+            "name": "Full Mix Etli Sandviç",
+            "description": "Dana antrikot füme, hindi füme, roast beef, dana jambon, cheddar peyniri, roka, labne peyniri, zeytinyağı, avokado sos ve rus salatası",
+            "price": 799.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756850240688_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d461ceceac63ceace460a0",
+            "name": "Nanvia Pastırmalı Serpme Kahvaltı Sandviç",
+            "description": "27 cm baget ekmeği, labne peyniri, siyah zeytin ezmesi, acuka, dana jambon, kaşar peyniri, haşlanmış yumurta, çeçil peyniri, pastırma, marul, domates, salatalık, zeytinyağı, kekik",
+            "price": 454.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758749088456_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d4622fceac63ceace4610b",
+            "name": "Nanvia Serpme Kahvaltı Sandviç",
+            "description": "27 cm baget ekmeği, labne peyniri, siyah zeytin ezmesi, acuka, dana jambon, kaşar peyniri, haşlanmış yumurta, çeçil peyniri, ezine peyniri, marul, domates, salatalık, zeytinyağı ve kekik",
+            "price": 429.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758749215722_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6995b748ceac63ceacd85268",
+            "name": "Rose Waldorf Sandviç",
+            "description": "27 cm baget ekmeği, 4 dilim rose beef, waldorf salatası (yeşil elma, kereviz, mayonez, süzme yoğurt), roka, kuru domates, zeytinyağı",
+            "price": 408.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771419452571_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6995ba3aceac63ceacd87d4d",
+            "name": "Girit Deluxe Sandviç",
+            "description": "Ciabatta ekmeği, 4 dilim rose beef, girit ezme, labne peyniri, mozzarella peyniri, yeşil zeytin, roka, zeytinyağı, acı biber reçeli",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771420202552_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68510cd6ceac63ceac536995",
+        "name": "Gurme Sandviç",
+        "items": [
+          {
+            "id": "6852508dceac63ceac5460a8",
+            "name": "Antrikot Füme Sandviç",
+            "description": "Füme dana antrikot, cheddar, roka, domates, zeytin ezmesi, zeytinyağı, baget ekmeği",
+            "price": 448.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750225024689_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685251f3ceac63ceac54613e",
+            "name": "Roast Beef Sandviç",
+            "description": "Roast beef, avokado sosu, labne, çeçil peyniri, roka, tam buğday ekmeği",
+            "price": 448.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750225371796_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685252d6ceac63ceac54618b",
+            "name": "Ton Balıklı Akdeniz Sandviç",
+            "description": "Ton balığı, mısır, siyah zeytin, domates, marul, limonlu zeytinyağı, tam buğday ekmeği",
+            "price": 378.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750225606798_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68525432ceac63ceac546212",
+            "name": "Nanvia Spesiyel Sandviç",
+            "description": "Dana antrikot füme, cheddar peyniri, marul, fesleğen, labne peyniri, zeytinyağı, avokado sos, baget ekmek, rus salatası",
+            "price": 479.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750324109017_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f70f0aceac63ceac0ebb0d",
+        "name": "Sıcak Sandviçler",
+        "items": [
+          {
+            "id": "68f71d23ceac63ceac0ebbf0",
+            "name": "Tavuklu Meksika Sandviç (Sıcak)",
+            "description": "150 g ızgara tavuk göğüs, meksika fasulyesi, haşlanmış mısır, marul, domates, hardal sos, chili mayonez",
+            "price": 424.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761025302167_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6914896aceac63ceac29c6f1",
+            "name": "Dana Kaburga Tiftik Prime Sandviç (Sıcak)",
+            "description": "85 g dana kaburga tiftik, baget ekmeği (27 cm), kurutulmuş çıtır soğan tanecikleri, domates, lahana turşusu ve özel via sos ile",
+            "price": 552.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762953555525_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69357556ceac63ceac5ebf86",
+            "name": "Tavuk Şnitzel Sandviç (Sıcak)",
+            "description": "Ciabata ekmeği, schnitzel, marul, domates, hardal, via sos",
+            "price": 423.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765622860285_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f60538ceac63ceac0d810a",
+        "name": "Bowl",
+        "items": [
+          {
+            "id": "68f60cacceac63ceac0d8b2a",
+            "name": "Tavuklu Bowl",
+            "description": "150 g ızgara tavuk göğüs, Yasemin pirinç pilavı, haşlanmış mısır, haşlanmış meksika fasulyesi, marul, salatalık, domates ve zeytinyağı ile",
+            "price": 487.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760955577488_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f6111dceac63ceac0d8fe0",
+            "name": "Mozzarella Bowl",
+            "description": "Mozzarella peyniri, Yasemin pirinç pilavı, haşlanmış mısır, haşlanmış Meksika fasulyesi, marul, salatalık, domates ve zeytinyağı ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760956691732_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f61289ceac63ceac0d929a",
+            "name": "Sade Bowl Kasesi",
+            "description": "Yasemin pirinç pilavı, haşlanmış mısır, haşlanmış meksika fasulyesi, marul, salatalık, domates ve zeytinyağı ile",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760957052275_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f73dc5ceac63ceac0f1286",
+            "name": "Ton Balıklı Bowl",
+            "description": "80 g ton balığı, Yasemin pirinç pilavı, haşlanmış mısır, haşlanmış meksika fasulyesi, marul, salatalık, domates ve zeytinyağı ile",
+            "price": 449.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761033661952_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68fc8b72ceac63ceac143c11",
+            "name": "Fit Kahvaltı Bowl",
+            "description": "200 g süzme yoğurt, yulaf, chia, badem, muz, fıstık ezmesi ve bal ile",
+            "price": 352.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761381808611_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691aecacceac63ceac471e09",
+            "name": "Falafel Köfte Bowl",
+            "description": "Falafel köftesi (3 adet) (50 g), yasemin pirinç pilavı, haşlanmış mısır, haşlanmış Meksika fasulyesi, marul, salatalık, domates, zeytinyağı",
+            "price": 486.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763372171580_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69357a1bceac63ceac5ec338",
+            "name": "Tavuk Şnitzel Bowl",
+            "description": "Tavuk şnitzel (100 g), yasemin pirinç pilavı, mısır, haşlanmış meksika fasülyesi, salatalık, marul, domates, balzamik sos, zeytinyağı, via sos",
+            "price": 486.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765112337566_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693a7defceac63ceac65efb4",
+            "name": "Et Döner Bowl",
+            "description": "100 g et döner, yasemin pirinç pilavı, lahana turşusu, haşlanmış mısır, marul, domates, via sos",
+            "price": 499.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765440990314_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693a8992ceac63ceac66059b",
+            "name": "Pancake Dream Bowl",
+            "description": "Pancake, çilek, muz, antep fıstık tozu, çikolata sosu",
+            "price": 339.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765443976889_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6985cf14ceac63ceacbf1929",
+            "name": "Köfte Bowl",
+            "description": "4 adet dana köfte (100 g), yasemin pirinç pilavı, haşlanmış mısır, haşlanmış meksika fasulyesi, marul, salatalık, domates ve zeytinyağı ile",
+            "price": 516.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770376957011_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6985dc85ceac63ceacbf342f",
+            "name": "Tiftik Kaburga Bowl",
+            "description": "80 g dana tiftik kaburga, yasemin pirinç pilavı, haşlanmış mısır, haşlanmış meksika fasulyesi, marul, salatalık, domates via sos ve zeytinyağı ile",
+            "price": 612.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770380413745_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68510cfbceac63ceac5369c5",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "68525548ceac63ceac5462b2",
+            "name": "Chilli Soslu Penne Makarna",
+            "description": null,
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750226240074_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6852556aceac63ceac5462c6",
+            "name": "Kremalı Kaşarlı Penne Makarna",
+            "description": "Krema, kaşar peyniri, mantar",
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750226275535_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68525590ceac63ceac5462d8",
+            "name": "Pesto Soslu Penne Makarna",
+            "description": "Pesto sos, krema",
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750226308692_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "685911abceac63ceac5b8116",
+            "name": "Kekikli Köri Penne Makarna",
+            "description": "Kekik, köri, krema, penne makarna",
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756848317973_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6879d9e6ceac63ceac8097ef",
+            "name": "Chili Soslu Fettucine",
+            "description": null,
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756848348743_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6879d9f8ceac63ceac8097f1",
+            "name": "Pesto Soslu Fettucine",
+            "description": null,
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756848376581_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6879da18ceac63ceac8097f3",
+            "name": "Kremalı Kaşarlı Fettuccine",
+            "description": null,
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756848404519_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6879da3eceac63ceac8097f6",
+            "name": "Kekikli Köri Fettucine",
+            "description": null,
+            "price": 304.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756848443712_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b93d0aceac63ceacf8192b",
+            "name": "Kremalı Tavuklu Fettucine",
+            "description": "Krema, kaşar peyniri, özel soslu tavuk parçaları ve fesleğen",
+            "price": 328.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773747454706_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68510d03ceac63ceac5369c6",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "685259bfceac63ceac54647d",
+            "name": "Akdeniz Salata",
+            "description": "Akdeniz yeşillikleri, domates, salatalık, ezine peyniri, zeytinyağı, nar ekşisi",
+            "price": 299.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750227364573_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68525a11ceac63ceac5464de",
+            "name": "Tavuklu Sezar Salata",
+            "description": "Izgara tavuk, romaine, marul, parmesan, kruton, çeri domates, sezar sos",
+            "price": 349.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750227463176_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68fb608dceac63ceac13339f",
+            "name": "Ton Balıklı Akdeniz Salata",
+            "description": "80 g ton balığı, marul, domates, salatalık, roka, haşlanmış mısır, balzamik sos, limonlu zeytinyağı ile",
+            "price": 345.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761304707995_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68510ce0ceac63ceac5369aa",
+        "name": "Tatlı Sandviç",
+        "items": [
+          {
+            "id": "68525ad4ceac63ceac546536",
+            "name": "Muzlu Krunch Sandviç",
+            "description": "Nutella, dilimlenmiş muz, çıtır mısır gevreği, baget ekmeği",
+            "price": 309.6,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750227660138_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6879d93cceac63ceac8097e0",
+            "name": "Fıstık Ezmeli Sandviç",
+            "description": "Fıstık ezmesi, muz, bal ve ceviz parçaları",
+            "price": 378.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757443820718_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68510d20ceac63ceac5369f6",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "68525bcdceac63ceac54664f",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1752758196785_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68525f8dceac63ceac5470c9",
+            "name": "Sarıyer Kola (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68525fd2ceac63ceac5470f6",
+            "name": "Sarıyer Portakal (330 ml)",
+            "description": null,
+            "price": 79.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68525ff9ceac63ceac547100",
+            "name": "Uludağ Limonata (330 ml)",
+            "description": null,
+            "price": 88.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68526049ceac63ceac547142",
+            "name": "Uludağ Gazoz (330 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "685260c2ceac63ceac547177",
+            "name": "Nescafe Express Latte (250 ml)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68525b8cceac63ceac5465ac",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 56.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6895fd54ceac63ceaca6358c",
+            "name": "Nar Suyu (250 ml) (Organik)",
+            "description": null,
+            "price": 124.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772009252763_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689d8e0dceac63ceacaab929",
+            "name": "Pınar Soğuk Çay Limon (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689d8e1eceac63ceacaab92d",
+            "name": "Pınar Soğuk Çay Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689d8e32ceac63ceacaab931",
+            "name": "Pınar Soğuk Çay Şeftali (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689d8e41ceac63ceacaab934",
+            "name": "Pınar Soğuk Çay Çilek (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68eb6af1ceac63ceac02cf69",
+            "name": "Reyhan Şerbeti (250 ml) (Ev Yapımı)",
+            "description": null,
+            "price": 99.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760258781123_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68eb6b4eceac63ceac02cf82",
+            "name": "Reyhan Şerbetli Soda (250 ml) (Ev Yapımı)",
+            "description": null,
+            "price": 99.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760258882643_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f73a95ceac63ceac0f1089",
+            "name": "Cool Lime (250 ml)",
+            "description": "Taze nane yaprağı ile",
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "691ae8faceac63ceac471af4",
+            "name": "Taze Sıkılmış Portakal Suyu (250 ml)",
+            "description": null,
+            "price": 124.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763371764511_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699c6980ceac63ceacdeae3e",
+            "name": "Organik Karadut Suyu (200 ml)",
+            "description": null,
+            "price": 124.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772009229009_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6a06ee11ceac63ceac456661",
+            "name": "Kuzu Fizz (300 ml)",
+            "description": "Kuzu kulağı, yeşil elma, taze sıkılmış limon ve sprite",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

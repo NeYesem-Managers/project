@@ -1,0 +1,988 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "5c5a958d198a8541aec7927c",
+  "name": "Taj-Mahal Indian Restaurant (Asmalı Mescit Mah.)",
+  "slug": "taj-mahal-indian-restaurant-asmali-mescit-mah-beyoglu-istanbul",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Tavuk"
+  ],
+  "rating": 4.3,
+  "rating_count": 2000,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 70,
+  "delivery_time_max": 80,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %10"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77fe",
+            "name": "Balti Butter Chicken",
+            "description": "Badem, krema ve tereyağlı & baharatlı tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228194892_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f780d",
+            "name": "Chicken Tikka Masala",
+            "description": "Masala sosu, özel baharatlarla marine edilmiş tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228201121_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7821",
+            "name": "Palak Paneer",
+            "description": "Peynirli ıspanak",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228175084_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f77f8",
+            "name": "Basmati Steam Rice",
+            "description": "Haşlanmış yağsız basmati pilav",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228155194_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7807",
+            "name": "Biryani Rice",
+            "description": "Safranlı sade pilav",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228222146_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77e6",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f7800",
+            "name": "Mulligatawny Soup",
+            "description": "Mercimek çorbası",
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f780f",
+            "name": "Chicken Sorba",
+            "description": "Ispanaklı tavuk çorbası",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77e7",
+        "name": "Tavuk",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77fe",
+            "name": "Balti Butter Chicken",
+            "description": "Badem, krema ve tereyağlı & baharatlı tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228194892_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f780d",
+            "name": "Chicken Tikka Masala",
+            "description": "Masala sosu, özel baharatlarla marine edilmiş tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228201121_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f781a",
+            "name": "Chicken Karahi",
+            "description": "Yeşilbiber, domates, soğan ve baharatlı karahi usulü tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228206790_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7824",
+            "name": "Kashmiri Chciken",
+            "description": "Kaşmire baharatı, krema, hindistan cevizi sütü ve özel soslu tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228211397_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f782d",
+            "name": "White Chicken Korma",
+            "description": "Baharatla marine edilen tavuk, korma sos, yoğurt, krema ve fıstık ezmesi",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228215876_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7835",
+            "name": "Chicken Saagwala",
+            "description": "Ispanaklı tavuk",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f783f",
+            "name": "Chicken Madras",
+            "description": "Özel baharatlı tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7843",
+            "name": "Chicken Heryali Tikka",
+            "description": "Özel baharat, krema, yoğurt, mayonez, nane, marine edilmiş tavuk ve yeşil salata ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7848",
+            "name": "Chicken Ginger",
+            "description": "Zencefilli & baharat soslu tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f784a",
+            "name": "Murg Ananas Chilles",
+            "description": "Hindistan cevizi sütlü & ananaslı tavuk",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f784c",
+            "name": "Murgh Chana Masala",
+            "description": "Nohutlu tavuk masala",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f784e",
+            "name": "Shami Korma",
+            "description": "Köri soslu tavuk",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f0bc65ceac63ceac2cc686",
+            "name": "Coconut Chicken Curry",
+            "description": "Köri ve hindistan cevizi sütü soslu tavuk yemeği",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77e8",
+        "name": "Ghost Special",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77fd",
+            "name": "Shamarat Karai Ghost",
+            "description": "Kuru domates, yeşilbiberli karai usulü dana eti",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f780c",
+            "name": "Vindaloo",
+            "description": "Kuru biber ve patatesli dana eti",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7819",
+            "name": "Bhuana Ghost",
+            "description": "Yeşilbiber ve garam masala ile sotelenmiş dana eti",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77e9",
+        "name": "Keema Special",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77fc",
+            "name": "Keema Bhuna",
+            "description": "baharatlı dana kıyma",
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f780b",
+            "name": "Keema Mutter",
+            "description": "Kıymalı bezelye",
+            "price": 695.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77ea",
+        "name": "Kurry Special",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77fb",
+            "name": "Lamb Korma",
+            "description": "Körili kuzu eti",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228117067_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f780a",
+            "name": "Mutton Roghan Josh",
+            "description": "Hint usulü kuzu haşlama",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7818",
+            "name": "Daal Gosht",
+            "description": "Sarı mercimekli kuzu eti",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7823",
+            "name": "Lamb Achari",
+            "description": "Köri & acar soslu kuzu eti",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f782c",
+            "name": "Lamb Mushroom Paneer",
+            "description": "Mantar ve peynirli pişmiş kuzu eti",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7834",
+            "name": "Lamb With Spinach",
+            "description": "Penjap usulü kırmızıbiber & ıspanaklı kuzu eti",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77eb",
+        "name": "Sea Food Special",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f7817",
+            "name": "Shrimp Masala",
+            "description": "Domates, sarımsak ve masala soslu pencab usulü karides",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7822",
+            "name": "Prawn Malai",
+            "description": "Hindistan ceviz sütü, baharatlarla pişmiş karides",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77ec",
+        "name": "Spesiyal Lezzet",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77ff",
+            "name": "Onion Pakora & Onion Bhaji",
+            "description": "Nohut unlu soğan pakora",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228124248_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f780e",
+            "name": "Vegetable Samosa",
+            "description": "Hint usulü sebzeli börek",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228169750_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f781b",
+            "name": "Poppadom",
+            "description": "Mercimek kraker",
+            "price": 38.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7836",
+            "name": "Appetizer Platter",
+            "description": "Meze ile",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f783c",
+            "name": "Mince & Pea Samosa",
+            "description": "Kıymalı & bezelyeli samosa",
+            "price": 510.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7840",
+            "name": "Chicken Pakora",
+            "description": "Nohut ezmeli kızartılmış tavuk",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7844",
+            "name": "Classic Chicken Tikka",
+            "description": "Klasik tanduri masalalı tavuk pirzola, yeşil salata",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d8d5f9ceac63ceac148d06",
+            "name": "Chicken Samosa",
+            "description": null,
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77ed",
+        "name": "Vejetaryen Lezzet",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77f9",
+            "name": "Tarka Dal",
+            "description": "Mercimek yemeği",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228150125_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7808",
+            "name": "Punjabi Kadhi (Yogurt Curry)",
+            "description": "Yoğurt soslu pakora",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228130618_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7816",
+            "name": "Rajma Masala",
+            "description": "Masala soslu meksika fasulyesi",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228144074_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7821",
+            "name": "Palak Paneer",
+            "description": "Peynirli ıspanak",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228175084_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f782b",
+            "name": "Kadi Peynir",
+            "description": "Kırmızı soğan, dolmalık biber, panjabi usulü peynir kadi",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228134712_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7833",
+            "name": "Shahi Paneer",
+            "description": "Sahi peynir, el yapımı peynir, tereyağı, krema, sarımsaklı & zencefil soslu peynir",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228139232_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f783a",
+            "name": "Dal Makhani",
+            "description": "Tereyağlı yeşil mercimek",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228164215_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7842",
+            "name": "Aloo Chana",
+            "description": "Patatesli nohut yemeği",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7845",
+            "name": "Masala Dal",
+            "description": "Sarımsak, soğan, domates, yeşilbiber, özel baharatlı sarı mercimek",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7847",
+            "name": "Dal Fry",
+            "description": "Özel baharatlı & tereyağlı sarı mercimek",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7849",
+            "name": "Aluu Jeera",
+            "description": "Nane, kimyon, zerdeçal, patates",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f784b",
+            "name": "Vegetable Madras Curry",
+            "description": "Karışık mevsim sebzesi ve madras köri",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f784d",
+            "name": "Aloo Mater",
+            "description": "Bezelyeli patates, özel sos",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f7850",
+            "name": "Aloo Saag",
+            "description": "Patatesli ıspanak",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f7851",
+            "name": "Bhindi Masala",
+            "description": "Soğan, sarımsak, zencefil, domates ve özel baharatlı bamya",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f7852",
+            "name": "Balti Mushroom Paneer",
+            "description": "Peynirli mantar",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f7853",
+            "name": "Peynir Tikka Masala",
+            "description": "Özel baharat, yoğurtlu peynir, masala sos",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e75ceac63ceac0f7854",
+            "name": "Matar Paneer",
+            "description": "Peynir ve soslu bezelye",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77ee",
+        "name": "Basmati Rice Special",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77f8",
+            "name": "Basmati Steam Rice",
+            "description": "Haşlanmış yağsız basmati pilav",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228155194_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7807",
+            "name": "Biryani Rice",
+            "description": "Safranlı sade pilav",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228222146_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7815",
+            "name": "Chicken Biryani",
+            "description": "Safranlı & tavuklu basmati pilav",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228226409_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7820",
+            "name": "Lamb Biryani",
+            "description": "Safranlı & kuzu etli basmati pilav",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228238139_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f782a",
+            "name": "Kashmiri Rice",
+            "description": "Kuru üzüm, elma, nohut, kajulu basmati pilav",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7832",
+            "name": "Pillav Rice",
+            "description": "Tane baharat, soğan & tereyeağlı basmati pilav",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7839",
+            "name": "Vegetable Biryani",
+            "description": "Safranlı & sebzeli basmati pilav",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77ef",
+        "name": "Ekmek",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77f7",
+            "name": "Garlic Nan",
+            "description": "Sarımsaklı ekmek",
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228230976_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7806",
+            "name": "Onion Kulcha",
+            "description": "Soğanlı ekmek",
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228159651_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7814",
+            "name": "Aloo Paratha",
+            "description": "Patatesli paratha",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228182497_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f781f",
+            "name": "Roti",
+            "description": "Hindistan ekmeği",
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7829",
+            "name": "Roghni Nan",
+            "description": "Sade ekmek",
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7831",
+            "name": "Cheese Nan",
+            "description": "Peynirli ekmek",
+            "price": 105.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77f0",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77f6",
+            "name": "Raitha",
+            "description": "Hint usulü cacık",
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7805",
+            "name": "Mango Pickle",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f781e",
+            "name": "Fresh Garden Greens",
+            "description": "Yeşillik, domates, salatalık, elmalı özel sos",
+            "price": 355.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7828",
+            "name": "Punjabi Salad",
+            "description": "Kırmızı soğan, yeşillik, nohut, papadam ve yoğurt sos",
+            "price": 385.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77f1",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77f5",
+            "name": "Gulab Jamun",
+            "description": "Kızartılmış peynir topu, ballı sos, gül suyu",
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228189596_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77f2",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f77f4",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7803",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655218920_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7811",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f781d",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7827",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7830",
+            "name": "Mango Lassi (240 ml)",
+            "description": null,
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747228112253_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7838",
+            "name": "Sweet Lassi (240 ml)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f783d",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66336e74ceac63ceac0f7841",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66336e74ceac63ceac0f77f3",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "66336e74ceac63ceac0f7802",
+            "name": "Poşet",
+            "description": null,
+            "price": 3.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

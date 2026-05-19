@@ -1,0 +1,886 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "675b1a9682f5641fd85d1308",
+  "name": "Fried Meister, Çankaya (Mebusevleri Mah.)",
+  "slug": "fried-meister-cankaya-mebusevleri-mah-yenimahalle-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı"
+  ],
+  "rating": 4.3,
+  "rating_count": 750,
+  "min_order_amount": 260.0,
+  "delivery_fee": 51.99,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %10"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccdecff",
+            "name": "Mmeister Mix Menü",
+            "description": "Seçeceğiniz 1 Adet Tavuk Burger – 2 Adet Homemade Soğan Halkası – 2 Adet Sweet Chili Soslu Lokmalık Tenders – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393087043_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded01",
+            "name": "Mmmeister Mix Menü",
+            "description": "Seçeceğiniz 2 Adet Tavuk Burger – 4 Adet Homemade Soğan Halkası – 4 Adet Tenders – Patates Kızartması – Seçeceğiniz 4 Adet Sos İle Birlikte ve 2 İçecek Seçimi ile Birlikte.",
+            "price": 999.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769396182531_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecef",
+            "name": "6’lı Tenders Menü",
+            "description": "6 Adet Baharatlı Tenders – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393193781_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf0",
+            "name": "9’lu Tenders Menü",
+            "description": "9 Adet Baharatlı Tenders – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 789.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393342752_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf1",
+            "name": "Purple Tavuk Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Mor Lahana Sos - Alman Turşusu – İceberg – Cheddar sos- Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393646583_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdecc6",
+        "name": "Meister Mix Menü",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccdecff",
+            "name": "Mmeister Mix Menü",
+            "description": "Seçeceğiniz 1 Adet Tavuk Burger – 2 Adet Homemade Soğan Halkası – 2 Adet Sweet Chili Soslu Lokmalık Tenders – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393087043_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded01",
+            "name": "Mmmeister Mix Menü",
+            "description": "Seçeceğiniz 2 Adet Tavuk Burger – 4 Adet Homemade Soğan Halkası – 4 Adet Tenders – Patates Kızartması – Seçeceğiniz 4 Adet Sos İle Birlikte ve 2 İçecek Seçimi ile Birlikte.",
+            "price": 999.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769396182531_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdecc7",
+        "name": "Meister Tenders",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccdecef",
+            "name": "6’lı Tenders Menü",
+            "description": "6 Adet Baharatlı Tenders – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393193781_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf0",
+            "name": "9’lu Tenders Menü",
+            "description": "9 Adet Baharatlı Tenders – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 789.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393342752_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecfe",
+            "name": "12’li Tenders Menü",
+            "description": "12 Adet Baharatlı Tenders – Patates Kızartması – Seçeceğiniz 4 Adet Sos ve 2 İçecek Seçimi ile Birlikte.",
+            "price": 959.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393407321_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d0ddd8ceac63ceac0cb9fe",
+        "name": "Meister Hot Tenders",
+        "items": [
+          {
+            "id": "69d35f77ceac63ceac0dd4c4",
+            "name": "6'lı Hot Tenders",
+            "description": "Patates kızartması, sweet chili sos ve coleslaw sos ile",
+            "price": 589.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775460059638_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d35faaceac63ceac0dd4ec",
+            "name": "Hot Tenders (9 Adet)",
+            "description": "Patates Kızartması, 2 adet sos ile",
+            "price": 799.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775460258896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d3600eceac63ceac0dd54f",
+            "name": "12'li Hot Tenders",
+            "description": "Patates Kızartması, 2 adet sos tercihi ile",
+            "price": 999.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775460355438_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdecc8",
+        "name": "Meister Tavuk Burger",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccdecf1",
+            "name": "Purple Tavuk Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Mor Lahana Sos - Alman Turşusu – İceberg – Cheddar sos- Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393646583_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf4",
+            "name": "Just Cheddar Tavuk Burger Menü",
+            "description": "Kızarmış Meister Tavuğu – Cheddar Sos – Alman Turşusu – İceberg- Meister Dip Sos – Patates Kızartması - Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393733797_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded17",
+            "name": "Cheese Peasy Tavuk Burger Menü",
+            "description": "Kızarmış Meister Tavuğu Panelenmiş kaşar – Cheddar sos – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393852076_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd1",
+            "name": "Mexico Tavuk Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Hot Chili sos – Jalepenos biberi – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393767227_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded0e",
+            "name": "Sweet Chili Tavuk Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Sweet chili sos – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769393812298_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd8",
+            "name": "BBQ Tavuk Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Bbq sos – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394252028_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded0d",
+            "name": "Dynamite Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Dynamite sos-Alman Turşusu-IcebergMeister Dip Sos- Patates Kızartması – Brioche - Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394337303_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf5",
+            "name": "Spicy & Fruit Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Ekşi elmalı,Mayonez ve Mor Lahanalı Salata –Alman Turşusu – Iceberg – Meister Dip Sos –Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394379162_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecee",
+            "name": "Honey & Mustard Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Hardal ve Bal Sos – Susam - Alman Turşusu – Iceberg – Meister Dip Sos Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 541.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394410374_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf6",
+            "name": "Cheddar & Parmesan Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Cheddar peyniri – Parmesan peyniri – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche - Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394446190_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded0f",
+            "name": "Big Town Burger Menü",
+            "description": "Kızarmış Meister Tavuğu – 1 Kat Sweet Chili Sos – 1 Kat Cheddar Sos – Alman Turşusu – Iceberg – Meister Dip sos – Patates Kızartması - Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394476363_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf7",
+            "name": "Pesto Soslu Gravyer Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Pesto sos – Gravyer Peyniri – Alman turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394513970_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded19",
+            "name": "Chipsy & Cheese Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Cheddar Peynirli Kıtır Patates – Alman Turşusu – Iceberg – Meister Dip Sos –Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394548467_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecf8",
+            "name": "Spicy & Nashville Burger Menü",
+            "description": "Kızarmış Meister Tavuğu - Chipotle sos –– Garlic Mayo – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche - Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394589147_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded14",
+            "name": "Peri Peri Tavuk Burger menü",
+            "description": "Kızarmış meister tavuğu, peri peri sos, alman turşusu, iceberg, meister dip sos, patates kızartması, brioche ve 2 adet tercih edeceğin sos ve içecek ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394669018_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d667d1ceac63ceac11f5ed",
+        "name": "Çıtırlar",
+        "items": [
+          {
+            "id": "69d7891bceac63ceac1356d0",
+            "name": "Garlic Mayo",
+            "description": "150 g kızarmış Meister tavuğu, Garlic Mayo sos, Alman turşusu, iceberg marul, Meister dip sos, patates kızartması, brioche, 2 adet sos ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775732995809_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d78979ceac63ceac13576f",
+            "name": "Ranch Mayo",
+            "description": "150 g kızarmış Meister tavuğu, Ranch Mayo sos, Alman turşusu, Iceberg marul, Meister dip sos, patates kızartması, Brioche, 2 adet sos ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775733066805_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d789b4ceac63ceac13579b",
+            "name": "Truffle Mayo",
+            "description": "150 g kızarmış Meister tavuğu, Truffle Mantarlı Mayo sos, Alman turşusu, Iceberg marul, Meister dip sos, patates kızartması, Brioche ve iki adet sos ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775733167288_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d6680eceac63ceac11f61d",
+        "name": "Çıtırlar Menü",
+        "items": [
+          {
+            "id": "69d78a36ceac63ceac135939",
+            "name": "Garlic Mayo Menü",
+            "description": "150 g kızarmış Meister tavuğu, Garlic-Mayo sos, Alman turşusu, Iceberg marul, Meister dip sos, patates kızartması, Brioche, 2 adet sos ve içecek seçimi",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775733292456_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d78a5bceac63ceac13596a",
+            "name": "Ranch Mayo Menü",
+            "description": "150 g kızarmış Meister tavuğu, Ranch Mayo sos, Alman turşusu, Iceberg marul, Meister dip sos, Brioche, patates kızartması, seçeceğiniz 2 adet sos ve içecek seçimi ile birlikte",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775733332236_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d78ad2ceac63ceac1359f8",
+            "name": "Truffle Mayo Menü",
+            "description": "150 g kızarmış Meister tavuğu, truffle mantarlı mayo sos, Alman turşusu, iceberg marul, Meister dip sos, patates kızartması, Brioche ve 2 adet sos ve içecek seçimi ile",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775733412275_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdecc9",
+        "name": "Wing",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccdecf9",
+            "name": "Buffalo Wings (6 Adet) Menü",
+            "description": "Louisiana Sos – 6 Adet Wings – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394710993_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecfa",
+            "name": "Nashville Wings (6 Adet) Menü",
+            "description": "6 Adet Nashville Wings – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394742321_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecea",
+            "name": "Jack Wings (6 Adet) Menü",
+            "description": "Louisiana Sos- Bbq Sos – 6 Adet Wings – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394773753_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd2",
+            "name": "Crispy Wings (6 Adet) Menü",
+            "description": "6 Adet Çıtır Wings – Patates Kızartması – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394801603_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdecce",
+        "name": "Meister Et Burger",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccded0b",
+            "name": "Meister Classic Et Burger Menü",
+            "description": "140 grBurger Köftesi- Alman turşusu- Iceberg –Meister Dip Sos – Patates Kızartması- Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 683.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394870195_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded0a",
+            "name": "Meister Classic Cheeseburger Menü",
+            "description": "140 gr Burger Köftesi – Cheddar Sos – Alman Turşusu – Iceberg – Meister Dip Sos- Patates Kızartması – Brioche -Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 683.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394903800_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded09",
+            "name": "Meister Onion & Mush Et Burger Menü",
+            "description": "140 gr Burger Köftesi – Karamelize Soğan – Karamelize Mantar – Alman Turşusu- Iceberg – Meister Dip Sos- Patates Kızartması – Brioche -Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 683.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769395056421_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecfc",
+            "name": "Meister Bacon & Cheeseburger Menü (140 g)",
+            "description": "140 g Burger Köftesi, Dana Bacon, Cheddar Peyniri, Alman Turşusu, Iceberg, Meister Dip Sos, Patates Kızartması, Brioche, 2 adet sos ve içecek seçimi ile birlikte",
+            "price": 701.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769395090627_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded0c",
+            "name": "Meister Truffle Et Burger Menü",
+            "description": "140 gr Burger Köftesi – Trüf Mantarlı Mayonez – Gravyer Peyniri – Alman Turşusu – Iceberg- Meister Dip Sos –Patates Kızartması – Brioche -Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 683.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769395133943_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd3",
+            "name": "Meister Basil Et Burger Menü",
+            "description": "140 gr Burger Köftesi – Fesleğenli Mayonez – Alman Turşusu – Iceberg – Meister Dip Sos-Patates Kızartması - Brioche - Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 683.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769395162708_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded1a",
+            "name": "Meister Crispy Et Burger Menü",
+            "description": "140 gr Burger Köftesi – Kıtır Patates Kızartması – Cheddar PeyniriKaramelize Soğan - Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.e",
+            "price": 683.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769395201470_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded08",
+            "name": "Meister Crispy Cheese Burger Menü",
+            "description": "140 gr Burger Köftesi – Çıtır Panelenmiş Kaşar PeyniriCheddar Peyniri – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 701.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769395022089_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded12",
+            "name": "Meister Chili & BBQ Burger Menü",
+            "description": "140 gr Burger Köftesi - Chili&Bbq Sos – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 683.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394962942_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded1b",
+            "name": "Meister Big Boy Menü",
+            "description": "2 Adet 140 gr Burger Köftesi – Cheddar Peyniri – Gravy Sos – Çıtır Panelenmiş Kaşar Peyniri – Alman Turşusu – Iceberg – Meister Dip Sos – Patates Kızartması – Brioche – Seçeceğiniz 2 Adet Sos ve İçecek Seçimi ile Birlikte.",
+            "price": 791.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769394933942_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69da3cffceac63ceac15f8c9",
+        "name": "Roll Meister",
+        "items": [
+          {
+            "id": "69dca599ceac63ceac171241",
+            "name": "Sweet Chili Roll Menü",
+            "description": "Tortilla ekmeği içerisine meister çıtır tavuğu, iceberg marul, alman turşusu, sweet chili sos, baharatlı patates kızartması, seçeceğiniz 2 adet sos ve içecek seçimi ile birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776067927324_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69dca670ceac63ceac171352",
+            "name": "Ranch Roll Menü",
+            "description": "Tortilla ekmeği içerisine meister çıtır tavuğu, iceberg marul, alman turşusu, ranch sos, baharatlı patates kızartması, seçeceğiniz 2 adet sos ve içecek seçimi ile birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69dca861ceac63ceac171ae0",
+            "name": "Cheddar Roll Menü",
+            "description": "Tortilla ekmeği içerisine meister çıtır tavuğu, iceberg marul, alman turşusu, cheddar sos, baharatlı patates kızartması, seçeceğiniz 2 adet sos ve içecek seçimi ile birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776068692840_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69dca90dceac63ceac171ceb",
+            "name": "Purple Roll Menü",
+            "description": "Tortilla ekmeği içerisine meister çıtır tavuğu, iceberg marul, alman turşusu, mor lahana sos, baharatlı patates kızartması, seçeceğiniz 2 adet sos ve içecek seçimi ile birlikte",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776068743942_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69dca9acceac63ceac171d75",
+            "name": "Honey-Mustard Roll Menü",
+            "description": "Tortilla ekmeği içerisine meister çıtır tavuğu, iceberg marul, alman turşusu, ballı hardal sos, baharatlı patates kızartması, seçeceğiniz 2 adet sos ve içecek ile birlikte.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776068999982_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdeccd",
+        "name": "Yan Lezzetler",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccded18",
+            "name": "Meister Kaşarlı Mantarlı Tavuk Şiş (3 Adet)",
+            "description": "Kaşarlı mantarlı tavuk şiş, patates kızartması, sour cream sos ve sweet chili sos ile",
+            "price": 539.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763373484988_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded10",
+            "name": "Parmesan Fries",
+            "description": "Parmesan peynirli patates kızartması, sour cream sos ve sweet chili sos ile",
+            "price": 242.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763373500957_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdece9",
+            "name": "Meister Onion Ring (12 Adet)",
+            "description": "Homemade soğan halkası, baharatlı patates kızartması",
+            "price": 215.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763373514533_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded15",
+            "name": "Family Favorite Nachos",
+            "description": "Çıtır tavuk parçaları, baharatlı çıtır nachos, guacamole sos, chili biber, taze soğan, sour cream sos ve hot chili sos ile",
+            "price": 413.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763373531386_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded02",
+            "name": "Meister Patates Kızartması",
+            "description": "Baharatlı patates kızartması, sour cream sos ve sweet chili sos ile",
+            "price": 188.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763373545066_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69dcab12ceac63ceac171f50",
+            "name": "Jalapeño Cheese Fries",
+            "description": "Cheddar peynirli Jalapeno biber ve patates kızartması, 2 adet sos ile",
+            "price": 242.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69dcaba3ceac63ceac1721bd",
+            "name": "Cheese Fries",
+            "description": "Cheddar peynirli patates kızartması, 2 adet sos ile",
+            "price": 242.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdecca",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccdecfd",
+            "name": "Garlic Sos (Adet)",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdeceb",
+            "name": "Ranch Sos (Adet)",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdece8",
+            "name": "Barbekü Sos (Adet)",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecec",
+            "name": "Ballı Hardal Sos (Adet)",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdece7",
+            "name": "Cheddar Sos (Adet)",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded11",
+            "name": "Hot Sos (Adet)",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdeced",
+            "name": "Sweet Chili Sos",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd6",
+            "name": "Sour Cream Sos",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "698c917eceac63ceaccdeccb",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "698c917eceac63ceaccded00",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 89.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1737025971805_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded07",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 89.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1737026022638_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd7",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 89.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1737026062475_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd4",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 89.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757764972958_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded04",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 89.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757764959505_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdece6",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 89.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757764940074_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded05",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 89.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757764920939_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded13",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 53.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccded03",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 40.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "698c917eceac63ceaccdecd5",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 26.1,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

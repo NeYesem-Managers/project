@@ -1,0 +1,555 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "66fd48fc3523d0bb10339aa0",
+  "name": "Altabak Restoran Salata & Makarna, Karabağlar (Bahçelievler Mah.)",
+  "slug": "altabak-restoran-salata-makarna-karabaglar-bahcelievler-mah-karabaglar-izmir",
+  "cuisine_types": [
+    "Fit",
+    "Mantı & Makarna",
+    "Salata",
+    "Tavuk"
+  ],
+  "rating": 4.5,
+  "rating_count": 300,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66fd8d69486ef36cd286ebac",
+            "name": "Ispanaklı Beyaz Peynirli Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), ıspanak, krema, beyaz peynir, pirinç pilavı ve salata ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768760927311_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8daa486ef36cd286ed8e",
+            "name": "Körili Mantarlı Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), krema, köri baharatı, pirinç pilavı ve salata ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761442353_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8e4726a0ba48d463ef8e",
+            "name": "4 Peynirli Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), krema, cheddar peyniri, kaşar peyniri, hellim peyniri, beyaz peynir, pirinç pilavı ve salata ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761476956_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680bb67dceac63ceac0446a5",
+            "name": "Asya Usulü Tavuk",
+            "description": "150 g marine edilmiş jülyen tavuk, mantar, renkli kapya biber, soya sos, oyster sos, susam, pilav ve salata",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771767309762_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681d02bdceac63ceac1c7491",
+            "name": "Ispanaklı Cheddarlı Tavuk",
+            "description": "150 g marinasyonlu jülyen tavuk, ıspanak, krema, cheddar sos, pilav ve salata",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768760909711_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fd8cdd32a847840c62fe01",
+        "name": "Tavuk Yemeği",
+        "items": [
+          {
+            "id": "66fd8d69486ef36cd286ebac",
+            "name": "Ispanaklı Beyaz Peynirli Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), ıspanak, krema, beyaz peynir, pirinç pilavı ve salata ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768760927311_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8d8bad26f76f15d0b7f8",
+            "name": "Soyalı Mantarlı Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), krema, soya sos, pirinç pilavı ve salata ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768760966285_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8daa486ef36cd286ed8e",
+            "name": "Körili Mantarlı Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), krema, köri baharatı, pirinç pilavı ve salata ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761442353_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8dce9d6cc2b597e96e5c",
+            "name": "Mexico Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), mantar, renkli kapya biber, acı sos, napolitan sos, pirinç pilavı ve salata ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768760946071_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8df357c737782e0ac563",
+            "name": "Barbekü Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), mantar, renkli kapya biber, barbekü sos, pirinç pilavı ve salata ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761460295_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8e11274dabcbcfe0e188",
+            "name": "Cheddar Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), krema, cheddar sos, pirinç pilavı ve salata ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761037379_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8e4726a0ba48d463ef8e",
+            "name": "4 Peynirli Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), krema, cheddar peyniri, kaşar peyniri, hellim peyniri, beyaz peynir, pirinç pilavı ve salata ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761476956_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8e939d6cc2b597e9792e",
+            "name": "Ispanaklı Domates Soslu Tavuk",
+            "description": "Marinasyonlu jülyen tavuk (150 g), ev yapımı özel domates sos, beyaz peynir, pirinç pilavı ve salata ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771767374828_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680bb67dceac63ceac0446a5",
+            "name": "Asya Usulü Tavuk",
+            "description": "150 g marine edilmiş jülyen tavuk, mantar, renkli kapya biber, soya sos, oyster sos, susam, pilav ve salata",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771767309762_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681d02bdceac63ceac1c7491",
+            "name": "Ispanaklı Cheddarlı Tavuk",
+            "description": "150 g marinasyonlu jülyen tavuk, ıspanak, krema, cheddar sos, pilav ve salata",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768760909711_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681d0308ceac63ceac1c74a7",
+            "name": "Tikka Masala Tavuk",
+            "description": "150 g marinasyonlu jülyen tavuk, tikka masala baharatı, krema, domates sos, pilav ve salata",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768760994698_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681d033eceac63ceac1c74b7",
+            "name": "Pesto Soslu Tavuk",
+            "description": "150 g marinasyonlu jülyen tavuk, pesto sos, krema, pilav ve salata",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761498645_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681d035fceac63ceac1c74cd",
+            "name": "Acılı Tavuk",
+            "description": "150 g marinasyonlu jülyen tavuk, ev yapımı domates sos, acı biber sos, pilav ve salata",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761017693_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68cbe573ceac63ceacdd41d3",
+            "name": "Kremalı Mantarlı Tavuk",
+            "description": "150 g marinasyonlu jülyen tavuk, mantar, krema, pilav ve salata",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771767417672_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fd8ce5c46e8d5ee2b171cd",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "66fd8f4c486ef36cd286fb8a",
+            "name": "Ispanaklı Beyaz Peynirli Penne",
+            "description": "Penne makarna (250 g), krema, ıspanak ve beyaz peynir",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728127824016_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66fd8f6a57c737782e0ad208",
+            "name": "Soyalı Tavuklu Penne",
+            "description": "Penne makarna (250 g), tavuk, krema, soya sos ve kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761521873_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fd8f94c46e8d5ee2b1851c",
+            "name": "Körili Tavuklu Penne",
+            "description": "Penne makarna (250 g), tavuk, krema, köri baharatı ve kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761573477_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67099444f4cb7da14d924b65",
+            "name": "Penne Funghi",
+            "description": "Penne makarna (250 g), mantar, krema, kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728744428568_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6709946219ef415a13a3cf1a",
+            "name": "Penne Arrabbiata",
+            "description": "Penne makarna (250 g), zeytin, mısır, acı sos, özel domates sos, pesto sos, kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728744970157_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "670994d59c9e4c894ab45f4a",
+            "name": "Penne Napolitan",
+            "description": "Penne makarna (250 g), napolitan sos, pesto sos, kaşar peyniri",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761596737_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "670994f49c9e4c894ab45fd3",
+            "name": "Kremalı Kekikli Penne",
+            "description": "Penne makarna (250 g), krema, kekik, kaşar peyniri",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728744914928_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67099515f2b06d56eba52127",
+            "name": "4 Peynirli Penne",
+            "description": "Penne makarna (250 g), krema, cheddar peyniri, kaşar peyniri, hellim peyniri, beyaz peynir",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761621497_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "670995349c9e4c894ab460a0",
+            "name": "Cheddar Penne",
+            "description": "Penne makarna (250 g), krema, cheddar sos, kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761545047_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6709956619ef415a13a3d302",
+            "name": "Pesto Penne",
+            "description": "Penne makarna (250 g), krema, pesto sos, kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728744823403_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "670995b356a60bf7dd873e7d",
+            "name": "Penne Alfredo",
+            "description": "Penne makarna (250 g), krema, tavuk, mantar, kaşar peyniri",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761067719_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "670995d59c9e4c894ab462a6",
+            "name": "Ispanaklı Cheddarlı Penne",
+            "description": "Penne makarna (250 g), krema, ıspanak, cheddar sos ve beyaz peynir",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "680bb6fbceac63ceac0446d7",
+            "name": "Barbekü Tavuklu Sebzeli Penne",
+            "description": "250 g penne, jülyen tavuk, yeşil biber, kırmızı kapya biber, mantar, domates sos, barbekü sos ve kaşar peyniri",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761089881_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680bb724ceac63ceac0446f0",
+            "name": "Tikka Masala Tavuklu Penne",
+            "description": "250 g penne, jülyen tavuk, tikka masala baharat, krema, domates sos ve kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681d03d5ceac63ceac1c74e0",
+            "name": "Kremalı Tavuklu Penne",
+            "description": "250 g penne, jülyen tavuk, krema ve kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761415614_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681d0415ceac63ceac1c74ed",
+            "name": "Sebzeli Penne",
+            "description": "250 g penne, mantar, kırmızı biber, yeşil biber, havuç, ev yapımı domates sos ve kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68cbe5a7ceac63ceacdd4241",
+            "name": "Acılı Tavuklu Penne",
+            "description": "250 g penne, jülyen tavuk, acı sos, domates sos ve kaşar peyniri",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761111998_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68cbe5d4ceac63ceacdd425d",
+            "name": "Kremalı Mısırlı Penne",
+            "description": "250 g penne, mısır, krema ve kaşar peyniri",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68cbe612ceac63ceacdd4582",
+            "name": "Domates Mısır Penne",
+            "description": "250 g penne, mısır, domates sos ve kaşar peyniri",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fd8cec374d67c216bb188b",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "6709968956a60bf7dd8741c3",
+            "name": "Tavuk Salata",
+            "description": "Kıvırcık marul, lolorosso, karabuğday, domates, salatalık, zeytin, mısır, marinasyonlu tavuk dilimleri, zeytinyağlı reyhanlı özel salata sos",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761142107_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "670996a702a080a9cf47b6e6",
+            "name": "Ton Balıklı Salata",
+            "description": "Kıvırcık marul, lolorosso, zeytin, mısır, soğan, domates, salatalık, ton balığı, zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761292931_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "670996c056a60bf7dd8742e5",
+            "name": "Izgara Hellim Salata",
+            "description": "Kıvırcık marul, lolorosso, karabuğday, zeytin, mısır, domates, salatalık, hellim peyniri, zeytinyağlı reyhanlı özel salata sos",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761320949_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680bb744ceac63ceac0446fb",
+            "name": "Soyalı Sebzeli Tavuk Salata",
+            "description": "Kıvırcık, lolorosso, karabuğday, domates, salatalık, dilim zeytin, mısır, yeşil biber, kırmızı kapya biber, mantar, soya sos, tavuk dilimleri ve zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761169491_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680bb764ceac63ceac04470d",
+            "name": "Körili Tavuk Salata",
+            "description": "Kıvırcık, lolorosso, karabuğday, domates, salatalık, dilim zeytin, mısır, kremalı körili tavuk dilimleri ve zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771767642719_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68cbe4afceac63ceacdd40f4",
+            "name": "Cheddar Tavuk Salata",
+            "description": "Iceberg marul, lolorosso, karabuğday, domates, salatalık, dilim zeytin, mısır, 100 g cheddar soslu tavuk dilimleri ve zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761346022_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68cbe4eaceac63ceacdd412e",
+            "name": "Kremalı Soyalı Tavuk Salata",
+            "description": "Iceberg marul, lolorosso, karabuğday, domates, salatalık, dilim zeytin, mısır, 100 g soya soslu kremalı tavuk dilimleri ve zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68cbe511ceac63ceacdd4160",
+            "name": "Acılı Tavuk Salata",
+            "description": "Iceberg marul, lolorosso, karabuğday, domates, salatalık, dilim zeytin, mısır, 100 g acı soslu tavuk dilimleri ve zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761382968_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68cbe53fceac63ceacdd4186",
+            "name": "Mexico Tavuk Salata",
+            "description": "Iceberg marul, lolorosso, karabuğday, domates, salatalık, dilim zeytin, mısır, kırmızı kapya biber, yeşil biber, mantar, 100 g acı soslu tavuk dilimleri ve zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768761269205_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68ffdff9ceac63ceac167ca2",
+            "name": "Pesto Soslu Tavuk Salata",
+            "description": "Iceberg marul, lolorosso, karabuğday, domates, salatalık, dilim zeytin, mısır, kremalı pesto soslu tavuk dilimleri ve zeytinyağlı reyhanlı özel salata sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771767684957_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fd8cfbc46e8d5ee2b1728a",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6709973e56a60bf7dd8744d7",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768773473196_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "670997851af73e39e4253d87",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 29.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

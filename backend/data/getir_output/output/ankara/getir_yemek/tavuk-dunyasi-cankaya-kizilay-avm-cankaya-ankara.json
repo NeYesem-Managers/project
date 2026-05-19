@@ -1,0 +1,914 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67a5c362dd317d0c9f601bdb",
+  "name": "Tavuk Dünyası, Çankaya (Kızılay AVM)  ",
+  "slug": "tavuk-dunyasi-cankaya-kizilay-avm-cankaya-ankara",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Salata",
+    "Tavuk"
+  ],
+  "rating": 4.0,
+  "rating_count": 200,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf0576",
+            "name": "Lezzet İkilisi",
+            "description": "Tercih edeceğiniz 2 adet tavuk ve litrelik içecek",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354249691_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05b1",
+            "name": "Peynirli Patates Topları (8 Adet)",
+            "description": "İçi cheddar peynirli  8 adet patates topları",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517014937_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0524",
+            "name": "Trüflü Tavuk",
+            "description": "Trüf soslu tavuk, özel soslu makarna, akdeniz salatası ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735886500599_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0530",
+            "name": "Alinazik Tavuk",
+            "description": "Alinazik üzerine soslu tavuk, özel soslu makarna ve Akdeniz salatası ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255227016_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf051f",
+            "name": "Labiate",
+            "description": "Labiate soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254716142_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf051d",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf0576",
+            "name": "Lezzet İkilisi",
+            "description": "Tercih edeceğiniz 2 adet tavuk ve litrelik içecek",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354249691_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0574",
+            "name": "Akılalmaz Lezzet Üçlüsü",
+            "description": "Tercih edeceğiniz 3 adet tavuk, beş baharatlı patates (büyük) ve litrelik içecek",
+            "price": 1725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354273354_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0535",
+            "name": "Dört Dörtlük Menü",
+            "description": "Tercih edeceğiniz 4 adet tavuk ve litrelik içecek",
+            "price": 2100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354260998_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68ac00fdceac63ceacb60038",
+            "name": "Maç Menüsü",
+            "description": "Tercih edeceğinizi 2 tavuk tabak, Pepsi (1 L) ve 2 adet sütlaç ile.",
+            "price": 1292.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756102498485_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "692d3467ceac63ceac5790e6",
+            "name": "Mucidinden Menü",
+            "description": null,
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569955448_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "695370acceac63ceac81524b",
+            "name": "Schnitzel Menü",
+            "description": null,
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767076006359_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf0515",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf0539",
+            "name": "Domates Çorbası",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517556114_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05b0",
+            "name": "Mercimek Çorbası",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517572696_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05a8",
+            "name": "Tavuk Suyu Çorba",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517583282_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf0516",
+        "name": "Başlangıç",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf05aa",
+            "name": "Klasik Patates Kızartması (Orta)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517112306_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf053a",
+            "name": "Beş Baharatlı Patates Kızartması (Orta)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517135576_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05a7",
+            "name": "Beş Baharatlı Patates Kızartması (Büyük)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685516990209_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0542",
+            "name": "Klasik Patates Kızartması (Büyük)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517068011_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05c2",
+            "name": "Karışık Başlangıç Tabağı",
+            "description": "Alabama sos eşliğinde çıtır tavuk, mozzarella sticks ve cheddarlı patates topları.",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764572252094_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05ac",
+            "name": "Çıtır Tavuk Küpleri (8 Adet)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517034728_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05b1",
+            "name": "Peynirli Patates Topları (8 Adet)",
+            "description": "İçi cheddar peynirli  8 adet patates topları",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685517014937_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05bf",
+            "name": "Falafel (6 Adet)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704264030807_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6881db66ceac63ceac885376",
+            "name": "Churros Patates",
+            "description": "Alabama sos ile.",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753340758253_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "695372cfceac63ceac81ac18",
+            "name": "Peynir Çubukları",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767076553762_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf053f",
+            "name": "Beğendi",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685516969991_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05ab",
+            "name": "Alinazik",
+            "description": null,
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685516955367_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05c3",
+            "name": "Humus",
+            "description": null,
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704264009098_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf0514",
+        "name": "Çocuk Menüsü",
+        "items": [
+          {
+            "id": "68638a4aceac63ceac69474f",
+            "name": "Çocuk Dünyası Lipton Ice Tea Menü",
+            "description": null,
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354332667_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68638b17ceac63ceac695305",
+            "name": "Çocuk Dünyası Tropicana Menü",
+            "description": null,
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354353042_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf052a",
+            "name": "Neşeli Tavuklum",
+            "description": "Margarita soslu tavuk, özel soslu makarna, akdeniz salatası ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735887732588_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05d0",
+            "name": "Çıtır Çıtır Tavuklum",
+            "description": "Çıtır tavuk dünyası tavukları, özel soslu makarna, akdeniz salatası ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735887764261_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf052d",
+            "name": "Sevimli Köftem",
+            "description": "Mangal köfte, özel soslu makarna, akdeniz salatası ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735887790246_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf0517",
+        "name": "Beyaz Et",
+        "items": [
+          {
+            "id": "68bfc690ceac63ceaccccf93",
+            "name": "Bademli Çıtır Schnitzel",
+            "description": "Marine edilmiş tavuk fileto, dilimlenmiş badem ve çıtır kadayıf kaplama. Alabama sos ile.",
+            "price": 535.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757398650717_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0524",
+            "name": "Trüflü Tavuk",
+            "description": "Trüf soslu tavuk, özel soslu makarna, akdeniz salatası ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735886500599_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0526",
+            "name": "Tavuk Teriyaki",
+            "description": "Teriyaki soslu tavuk, özel soslu makarna, akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735886668846_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf057d",
+            "name": "Kendini Beğenmiş Tavuk (Çok Acı)",
+            "description": "Beğendi üzerinde soslu but ve tercih edeceğiniz makarna, salata veya sebze ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254615570_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0530",
+            "name": "Alinazik Tavuk",
+            "description": "Alinazik üzerine soslu tavuk, özel soslu makarna ve Akdeniz salatası ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255227016_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf052e",
+            "name": "Café de Paris Soslu Tavuk",
+            "description": "Cafe De Paris soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255229668_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf052b",
+            "name": "Barbeküs",
+            "description": "Barbeküs soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255228056_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf051f",
+            "name": "Labiate",
+            "description": "Labiate soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254716142_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0528",
+            "name": "Şefin Tavası",
+            "description": "Kültür mantarı, kaliforniya biberi ve arpacık soğan ile sotelenmiş tavuk ve tercih edeceğiniz makarna, salata veya sebze ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685518290743_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0523",
+            "name": "Kremantar",
+            "description": "Kremantar soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254715438_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0527",
+            "name": "Biköri",
+            "description": "Hint körisi, soğan ve kültür mantarı ile sotelenmiş tavuk, özel soslu makarna ve Akdeniz salata ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255228578_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0529",
+            "name": "Efsane Buffalo (Orta Acı)",
+            "description": "Efsane Buffalo soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255230642_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf052c",
+            "name": "Kekiklim",
+            "description": "Kekiklim soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254714127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0522",
+            "name": "Közlüce",
+            "description": "Közlüce soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254714725_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0532",
+            "name": "Fülfül (Süper Acı)",
+            "description": "Fülfül soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255231664_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0531",
+            "name": "Chili Lokumu (Hafif Acı)",
+            "description": "Chili Lokumu, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255230151_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf057b",
+            "name": "Baharatlım",
+            "description": "Baharatlım soslu tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255227477_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf052f",
+            "name": "Sriracha Soslu Tavuk (Çok Acı)",
+            "description": "Sriracha soslu çok acı but, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254717505_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0533",
+            "name": "Mucidinden Soslu Tavuk",
+            "description": "Mucidinden Soslu Tavuk, özel soslu makarna, Akdeniz salatası ile",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706254716817_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0521",
+            "name": "Bi'Margarita",
+            "description": "Margarita soslu tavuk, özel soslu makarna ve Akdeniz salata ile​",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706255229142_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69ba2152ceac63ceacf97199",
+            "name": "Peynirlim",
+            "description": "Peynirlim, özel soslu makarna, Akdeniz salatası ile.",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773811335035_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf0519",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf0544",
+            "name": "Kendini Beğenmiş Köfte",
+            "description": "Beğendi üzerinde ızgara köfte,özel soslu makarna ve Akdeniz salatası ile",
+            "price": 645.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727275249173_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0548",
+            "name": "Mangal Köfte",
+            "description": "Izgara köfte, özel soslu makarna, akdeniz salata ile",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727275266718_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf051a",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf0537",
+            "name": "Çıtır Tavuklum Salata",
+            "description": "Akdeniz yeşillikleri, çeri domates, rende kaşar peyniri, tane mısır, rende havuç, çıtır tavuk parçaları ve özel sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685518373854_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf053c",
+            "name": "Sezarım Tavuklum Salata",
+            "description": "Göbek marul, sezar sos, kruton ekmeği, çeri domates, parmesan peyniri ve sote jülyen tavuk parçaları",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685518396956_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0536",
+            "name": "Şefin Salatası",
+            "description": "Akdeniz yeşillikleri, çeri domates, rende kaşar peyniri, tane mısır, rende havuç, şef'in dünyası tavuk parçaları ve özel sos",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685518416742_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0553",
+            "name": "Humuslu Falafel Salata",
+            "description": null,
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1704264075779_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf051b",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf05c5",
+            "name": "Fındıklı Fırın Sütlaç",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685518438419_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05ce",
+            "name": "Tiramisu",
+            "description": null,
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735887583898_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67a5c428ceac63ceacaf051c",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "67a5c428ceac63ceacaf0538",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352908662_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf053e",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352315700_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0541",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352282657_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68638082ceac63ceac691714",
+            "name": "Lipton Ice Tea Mango (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352291794_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05c4",
+            "name": "Tropicana Şeftali (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352837765_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0540",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352262860_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0543",
+            "name": "Tropicana Karışık (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352820956_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0545",
+            "name": "Tropicana Vişne (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352845867_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0587",
+            "name": "Damla Meyveli Soda Elma (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0584",
+            "name": "Damla Meyveli Soda Limon (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05c1",
+            "name": "Karadut Suyu",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728473055239_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0547",
+            "name": "Limonata",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728473051714_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05c7",
+            "name": "Çilekli Limonata",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728473046310_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0551",
+            "name": "Sıkma Portakal Suyu",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728473086774_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05c8",
+            "name": "Karadut Limonata",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728473068044_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf05c6",
+            "name": "İçim Ayran (285 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684998089844_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0549",
+            "name": "Soda",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf054a",
+            "name": "Su",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf054b",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352189949_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf0550",
+            "name": "Pepsi Zero Sugar (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352206212_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf054d",
+            "name": "7up (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352134495_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67a5c428ceac63ceacaf054e",
+            "name": "Yedigün (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751352340043_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

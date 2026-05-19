@@ -1,0 +1,956 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "5f33cc95c1fe828274b006fb",
+  "name": "Öz Hanedan Ciğer & İskender (Mebusevleri Mah.)",
+  "slug": "oz-hanedan-ciger-iskender-mebusevleri-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Kebap"
+  ],
+  "rating": 4.7,
+  "rating_count": 6000,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5f33ccaf73c35d5752e6fa95",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "5f33ccdec1fe82d820b006fc",
+            "name": "Tavuk Şiş Menü",
+            "description": "Tavuk şiş (200 g), pilav, közlenmiş biber, közlenmiş domates, sumaklı soğan, lavaş, salata, ezme, çiğ köfte,günün tatlısı ve eker ayran (220 ml)",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150487991_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccdf572e4cd0f9c3e26f",
+            "name": "2'li Lahmacun Menü",
+            "description": "2'li lahmacun, salata, ezme,günün tatlısı ve ayran (220 ml)",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150344377_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cce09396283e60b6a58d",
+            "name": "Tavuk Menü (1 kg)",
+            "description": "Tavuk (1 kg), közlenmiş domates, közlenmiş biber, pilav, çiğ köfte, sumaklı soğan, salata, ezme,günün tatlısı ve ayran (200 ml) (2 adet)",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150343443_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fe1eec8d108fc5f592c1bd3",
+            "name": "Izgara Köfte (500 g) Menü",
+            "description": "Köz domates, köz biber soğan, salata, ezme,günün tatlısı ve 2 adet ayran ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150343421_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccdefd2b282951ab34de",
+            "name": "Tavuk Pirzola Menü (1 kg)",
+            "description": "Tavuk pirzola (1 kg ), közlenmiş domates, közlenmiş biber, pilav, sumaklı soğan, çiğ köfte, salata, ezme,günün tatlısı ve ayran (200 ml) (2 adet)",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd11f598aa314a302b24",
+            "name": "İskender Menü",
+            "description": "İskender (et dönerden), salata, ezme, yoğurt günün tatlısı ile",
+            "price": 760.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccdf83c0cc7a30002436",
+            "name": "Adana Kebap Menü",
+            "description": "Adana kebap (közlenmiş domates, közlenmiş biber, sumaklı soğan, pilav, tırnak pide, salata, ezme, çiğ köfte),günün tatlısı ve ayran (200 ml)",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fe1ee181e9538006595bbc6",
+            "name": "Tavuk Şiş (500 g) Menü",
+            "description": "Köz domates, köz biber, soğan, pilav, tırnaklı pide, salata, ezme, çiğ köfte,günün tatlısı, ayran (200 ml)",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ff7569be2d9e050ff029997",
+            "name": "Izgara Köfte (1 kg) Menü",
+            "description": "Köz domates, köz biber, sumaklı soğan, pilav, tırnaklı pide, salata, ezme, çiğ köfte, günün tatlısı ve ayran (1 L)",
+            "price": 2250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccaffb453f6f195c4b2f",
+        "name": "Başlangıç",
+        "items": [
+          {
+            "id": "6072d55daecd776bdcf9a967",
+            "name": "Pide",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150344464_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "601aba2812aa73782a65dd1b",
+            "name": "Lavaş",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150487959_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cce19396280a55b6a58f",
+            "name": "Çiğ Köfte",
+            "description": "Yeşillik ile",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623076919901_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fdb1bee61e54059fb1cedfa",
+            "name": "Acılı Ezme",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077100937_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fe9d50887a63b9d023242ca",
+            "name": "Bulgur Pilavı",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1618137240428_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fe9d54e630a761827feed69",
+            "name": "Yoğurtlu Meze",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1618137587299_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cce0ad55161e285854a7",
+            "name": "Mercimek Çorbası",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077354893_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fe1ec9bbbf1bda3d7fad797",
+            "name": "Yoğurt",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150487988_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fe9d4eaf351dc9a1566a7f2",
+            "name": "Pirinç Pilavı",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150487973_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6135cf398cc877ca8f96e648",
+            "name": "Patates Tava",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccaf6b1e0fefe5f3a06f",
+        "name": "Kebap",
+        "items": [
+          {
+            "id": "5f33cce4b61d5385946d77eb",
+            "name": "Beyti Kebap",
+            "description": "Pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150344352_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cce4754cca196f429e11",
+            "name": "Urfa Kebap",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan, pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077473505_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cce34c2c7782d437b5c4",
+            "name": "Adana Kebap",
+            "description": "(150 g) közlenmiş domates, közlenmiş biber, soğan, pilav, tırnak pide, salata, ezme, çiğ köfte,günün tatlısı ve çiğ köfte ile",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623076880977_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cce3f598aafcd6302b00",
+            "name": "Yoğurtlu Kebap",
+            "description": "Pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccaffb453f255b5c4b31",
+        "name": "Spesiyel Kebap",
+        "items": [
+          {
+            "id": "5f33cce5968675fa89003d3e",
+            "name": "Özel Hanedan Kebap",
+            "description": "Adana kebap, beyti kebap, et şiş, ızgara köfte, patlıcanlı kebap, tavuk kanat, tavuk şiş, fındık lahmacun. közlenmiş biber, közlenmiş domates, soğan, pilav, lavaş, salata, ezme, çiğ köfte ve günün tatlısı ile",
+            "price": 1450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cce81f35d3254056d601",
+            "name": "Özel Tepsi Kebabı (2 Kişilik)",
+            "description": "Adana kebap, beyti kebap, et şiş, ızgara köfte, patlıcanlı kebap, tavuk kanat, tavuk şiş, fındık lahmacun. közlenmiş biber, közlenmiş domates, soğan, pilav, lavaş, salata, ezme, çiğ köfte ve günün tatlısı ile",
+            "price": 2750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccafe99eb659fe1c0cc7",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "5f33cce9bc33c955e7addb11",
+            "name": "Tavuk Pirzola",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan, pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077422164_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccea572e4c1d31c3e27d",
+            "name": "Tavuk Şiş",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan, pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077446124_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccec939628076bb6a591",
+            "name": "Kuzu Ciğer Şiş",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan, pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623076947181_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cceb03a8186ce39249b7",
+            "name": "Izgara Köfte",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan, pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077185958_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cced10f172016cf3224c",
+            "name": "Tavuk Kanat",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan, pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150487978_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccec335da48b671d3cb7",
+            "name": "Tavuk Külbastı",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan, pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccaf9686755b60003d3b",
+        "name": "Döner",
+        "items": [
+          {
+            "id": "5f33ccef73c35d5954e6fa9b",
+            "name": "İskender (Et Dönerden)",
+            "description": "Pilav, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150345139_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccf06b1e0f7c96f3a073",
+            "name": "Pilav Üstü Tereyağlı Soslu Döner",
+            "description": "Salata, çiğ köfte, közlenmiş domates, közlenmiş biber, ezme ve günün tatlısı ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623076977271_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccfb089c644dae779cbf",
+            "name": "Sarma Beyti (Et Dönerden)",
+            "description": "Pilav, çiğ köfte, salata, ezme ve günün tatlısı ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "630f66cd0bc88e5eb7540f9c",
+            "name": "Et Döner",
+            "description": "Köz biber, köz domates, soğan, pilav, salata, ezme, çiğ köfte ve günün tatlısı ile",
+            "price": 635.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "630fa84fb0f9a96f9a6ad686",
+            "name": "Pilav Üstü Et Döner",
+            "description": "Köz domates, köz biber, soğan, salata, ezme, çiğ köfte,günün tatlısı ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccaffb453fa09e5c4b33",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "5f33ccfd572e4c4f28c3e287",
+            "name": "Adana Dürüm",
+            "description": "Yeşillik, domates ve tercihe  göre soğan, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150343425_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccfcad55164ba55854ab",
+            "name": "Ciğer Şiş Dürüm",
+            "description": "5 adet ciğer şiş, yeşillik, domates ve tercihe göre soğan,günün tatlısı ile",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150344746_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccfd98769605088f5ad6",
+            "name": "Urfa Dürüm",
+            "description": "Yeşillik, domates ve tercihe göre soğan,günün tatlısı ile",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150343425_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccfead5516aaab5854b3",
+            "name": "Tavuk Şiş Dürüm",
+            "description": "Yeşillik, domates ve tercihe göre soğan ,günün tatlısı ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150487983_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33ccfe30bf6369d82c9101",
+            "name": "Et Şiş Dürüm",
+            "description": "5 adet et şiş, yeşillik, domates ve tercihe göre soğan,günün tatlısı ile",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150345025_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccaffb6dd9ed85dd494d",
+        "name": "Fırından Lezzet",
+        "items": [
+          {
+            "id": "5f33cd081f35d37d8056d605",
+            "name": "Lahmacun",
+            "description": "Salata, ezme, günün tatlısı ve çiğ köfte ile",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077378795_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd02fb6dd90b1ddd4957",
+            "name": "Kuşbaşılı Kaşarlı Pide",
+            "description": "Salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1618137447402_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd044c2c77242937b5cc",
+            "name": "Kıymalı Pide",
+            "description": "Salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077228760_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd06e99eb6b16c1c0cd1",
+            "name": "Kaşarlı Pide",
+            "description": "Salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1618137411670_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd02c1598633db91975d",
+            "name": "Kıymalı Kaşarlı Pide",
+            "description": "Salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150487934_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0383c0cc419b002444",
+            "name": "Karışık Pide",
+            "description": "Kuşbaşı et, kaşar peyniri, kıyma ve yumurta. salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 610.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077250402_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0730bf6367ec2c9109",
+            "name": "Kuşbaşılı Pide",
+            "description": "Salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077400776_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd05bc33c93209addb1c",
+            "name": "Kaşarlı Dönerli Pide (Kapalı)",
+            "description": "Salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccafc1598619a8919759",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "5f33cd08089c644c33779cc9",
+            "name": "Çoban Salata",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150344452_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fe60382e152151fa094a357",
+            "name": "Mevsim Salata",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077340305_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccb603a81893c59249b5",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "5f33cd09754ccaf268429e1c",
+            "name": "Künefe",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077159931_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd09987696439b8f5ae1",
+            "name": "İrmik Helvası",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077082464_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62e7d6d190dfdf4de385147f",
+            "name": "Sütlaç",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6331d65c82f262399a9f7fad",
+            "name": "Triliçe Tatlısı",
+            "description": null,
+            "price": 114.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fb67fcf5fa4d81c22d6ea44",
+        "name": "Glutensiz",
+        "items": [
+          {
+            "id": "5fb685d348db4610d4a29fb3",
+            "name": "Glutensiz Et Şiş",
+            "description": "10 adet şiş et, köz domates, köz biber, soğan, glutensiz ekmek, salata ve yoğurtlu meze ile",
+            "price": 850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1623077022512_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fb683f6f7e53189d554ea3f",
+            "name": "Glutensiz Ciğer Şiş",
+            "description": "Ciğer şiş (8 adet), köz domates, köz biber, soğan, glutensiz ekmek, salata, yoğurtlu meze ile",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1618137263836_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fb68707b28e0b536a60aa1a",
+            "name": "Glutensiz Tavuk Şiş",
+            "description": "Köz biber, köz domates, soğan, glutensiz ekmek, salata ve yoğurtlu meze ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1618137569055_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fb6816afd39b86b543b22a8",
+            "name": "Glutensiz iskender",
+            "description": "Salata ve yoğurtlu meze ile",
+            "price": 730.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1630150345139_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fb68684d913d5d9041eee5a",
+            "name": "Glutensiz Special Şiş",
+            "description": "Et şiş (4 adet), ciğer şiş (4 adet), köz biber, köz domates, soğan glutensiz ekmek ve salata ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fb6875de1a4c037bafc7ab8",
+            "name": "Glutensiz Tavuk Kanat",
+            "description": "Köz biber, köz domates, soğan, glutensiz ekmek, yoğurtlu meze",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fb6827321ec4124d07b40a4",
+            "name": "Glutensiz Adana",
+            "description": "Közlenmiş domates, közlenmiş biber, soğan,  glutensiz ekmek, salata ve yoğurtlu meze ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fb6880bad497d73eda64ebd",
+            "name": "Glutensiz Yoğurtlu Kebap (Adanadan)",
+            "description": "Salata ve yoğurtlu meze ile",
+            "price": 730.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "618f7aa728e070af411bd88a",
+            "name": "Glutensiz Lahmacun",
+            "description": "Salata, ezme ve yoğurtlu meze ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62e7d6743fe32c965653f997",
+            "name": "Glutensiz Sütlaç",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "631f3dba76812750885a59db",
+            "name": "Glutensiz Çiğ Köfte",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63ce7d7b037b50863260b82f",
+            "name": "Glütensiz Fındıklı İrmik Helvası",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccb683c0cc1238002434",
+        "name": "Kiloluk Lezzet",
+        "items": [
+          {
+            "id": "5f33cd12754cca18b9429e24",
+            "name": "Izgara Köfte (1 kg) (Pişirilmiş)",
+            "description": "Köz domates, köz biber, sumaklı soğan, pilav, lavaş, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 2200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd1283c0ccb4e5002454",
+            "name": "Tavuk Şiş (1 kg) (Pişirilmiş)",
+            "description": "Köz domates, köz biber, sumaklı soğan, pilav, lavaş, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 1020.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0a572e4c55cdc3e28f",
+            "name": "Tavuk Şiş (500 g) (Pişirilmiş)",
+            "description": "Köz domates, köz biber, sumaklı soğan, pilav, lavaş, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0a335da4539b1d3cc9",
+            "name": "Izgara Köfte (500 g) (Pişirilmiş)",
+            "description": "Köz domates, köz biber, sumaklı soğan, pilav, lavaş, salata, ezme,günün tatlısı ve çiğ köfte ile",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eed091eef549820a9f8db6",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eed091eef54928639f8e86",
+            "name": "Poşet",
+            "description": null,
+            "price": 2.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f33ccb6ad5516498d5854a5",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5f33cd0e4c2c77389137b5da",
+            "name": "Yayık Ayran (1 L)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0fad55163a4c5854c9",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0f03a818e48b9249c1",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655218920_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd10335da45d2d1d3ccb",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0bfd2b28f232ab34e0",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0e03a8182b4c9249bf",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd1003a8187f069249c3",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0d83c0cc4f2200244c",
+            "name": "Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0dc1fe822324b006ff",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fedb5480e63fe504ecb7dbe",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0bf598aa228c302b20",
+            "name": "Soda (330 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f33cd0cf598aa188f302b22",
+            "name": "Su (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64f465b2f694a62690d20295",
+            "name": "Yayık Ayran (300 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

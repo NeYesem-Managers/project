@@ -1,0 +1,1443 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "673b1e475915eab5aae330d6",
+  "name": "Dodo Pizza, Karabağlar (Bozyaka Mah.)  ",
+  "slug": "dodo-pizza-karabaglar-bozyaka-mah-karabaglar-izmir",
+  "cuisine_types": [
+    "Pizza"
+  ],
+  "rating": 4.4,
+  "rating_count": 400,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 35,
+  "delivery_time_max": 45,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Zincir Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf2f4",
+            "name": "3 Orta Boy Pizza",
+            "description": null,
+            "price": 759.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744895619653_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf338",
+            "name": "Çift Kişilik Menü",
+            "description": "Pizza (orta boy) (2 adet) ve içecek (1 L) ile",
+            "price": 649.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744895502931_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f3",
+            "name": "2 Orta Boy Pizza",
+            "description": "Tercih edeceğiniz 2 adet orta boy pizza. (Menü fiyatı, seçilen ürünlere göre farklılık gösterebilir.)",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744895867118_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd2e5ceac63ceac7a18c5",
+            "name": "Büyük Boy Menü",
+            "description": "1 Adet 30 cm Pizza ve Coca-Cola (1 L)",
+            "price": 549.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766576842662_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd8deceac63ceac7a1f97",
+            "name": "Tek Kişilik Orta Boy Menü",
+            "description": "1 Adet 25 cm. Pizza, 1 Adet Orta Boy Fırında Patates, Coca-Cola (330 ml)",
+            "price": 479.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766578379683_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2b7",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf2f1",
+            "name": "5 Orta Boy Pizza",
+            "description": "Tercih edeceğiniz 5 Adet Orta Boy Pizza",
+            "price": 1259.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1741196192106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f4",
+            "name": "3 Orta Boy Pizza",
+            "description": null,
+            "price": 759.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744895619653_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf338",
+            "name": "Çift Kişilik Menü",
+            "description": "Pizza (orta boy) (2 adet) ve içecek (1 L) ile",
+            "price": 649.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744895502931_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f3",
+            "name": "2 Orta Boy Pizza",
+            "description": "Tercih edeceğiniz 2 adet orta boy pizza. (Menü fiyatı, seçilen ürünlere göre farklılık gösterebilir.)",
+            "price": 559.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744895867118_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf348",
+            "name": "Büyük Çift Kişilik Menü",
+            "description": "2 adet büyük boy pizza & 1 adet içecek (1 L)",
+            "price": 899.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756112267472_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f2",
+            "name": "Aile Menüsü",
+            "description": "Pizza (2 adet) (büyük boy), atıştırmalık (2 adet) ve içecek (2 adet) (1 L) ile",
+            "price": 999.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758137281256_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf33e",
+            "name": "Süper 7'li Kombo",
+            "description": "7 adet 25 cm orta boy pizza.",
+            "price": 1599.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751308524239_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf34f",
+            "name": "Mega 10'lu Kombo",
+            "description": "10 adet 25 cm orta boy pizza.",
+            "price": 2099.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751311784964_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf337",
+            "name": "Parti Kombo",
+            "description": "5 adet orta boy 25 cm Pizza, 2 büyük boy Fırında Patates, 1 büyük boy Tavuk Topları, 6 sos",
+            "price": 1699.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751311974990_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf35b",
+            "name": "Mısır & Patates Box",
+            "description": "1 Adet Tatlı Chilli Mısır & 1 Orta Boy Fırında Patates",
+            "price": 149.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770887105952_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf35d",
+            "name": "Double Tavuk Box",
+            "description": "1 Küçük Boy Tavuk Parçaları & 1 Orta Boy Tavuk Topları & 1 Adet Sos",
+            "price": 249.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751307866005_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f5",
+            "name": "Tavuk & Patates Box",
+            "description": "1 Küçük Boy Tavuk Parçaları & 1 Orta Boy Fırında Patates & 1 Adet Sos",
+            "price": 229.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770887143876_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf353",
+            "name": "İkili Dodster",
+            "description": null,
+            "price": 429.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1752184258995_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd2a8ceac63ceac7a1817",
+            "name": "2 Büyük Boy Menü",
+            "description": "2 Adet 30 cm Pizza",
+            "price": 779.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766576788228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd2e5ceac63ceac7a18c5",
+            "name": "Büyük Boy Menü",
+            "description": "1 Adet 30 cm Pizza ve Coca-Cola (1 L)",
+            "price": 549.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766576842662_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd8a5ceac63ceac7a1f62",
+            "name": "3'ü Bir Arada Menü",
+            "description": "1 Adet 25 cm Pizza, 1 Adet Sufle, Coca-Cola (330 ml)",
+            "price": 499.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766578325533_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd8deceac63ceac7a1f97",
+            "name": "Tek Kişilik Orta Boy Menü",
+            "description": "1 Adet 25 cm. Pizza, 1 Adet Orta Boy Fırında Patates, Coca-Cola (330 ml)",
+            "price": 479.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766578379683_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd91dceac63ceac7a2013",
+            "name": "Orta Boy Menü",
+            "description": "1 Adet 25 cm Pizza ve Coca-Cola (330 ml)",
+            "price": 419.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766578441816_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd95bceac63ceac7a2075",
+            "name": "2’li Sos",
+            "description": "Tercih edeceğiniz 2 adet sos: Cheddar Sos, Ranch Sos, Barbekü Sos, Tatlı Chili Sos",
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766578489258_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694bd995ceac63ceac7a20ae",
+            "name": "4’lü Sos",
+            "description": "Tercih edeceğiniz 4 adet sos: Cheddar Sos, Ranch Sos, Barbekü Sos, Tatlı Chili Sos",
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766578555976_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2b8",
+        "name": "Pizza (Küçük Boy)",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf340",
+            "name": "Sosisli (20 cm)",
+            "description": "Domates sosu, mozarella peyniri, sosis, mısır, domates",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755473398825_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f9",
+            "name": "Domates Sucuklu Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, domates",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732108436385_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2cb",
+            "name": "Margarita Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, domates, kekik",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109186066_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2ca",
+            "name": "Sucuklu Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, domates",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109080840_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2fa",
+            "name": "Kremalı mantar (20 cm)",
+            "description": "Alfredo sos, baharat, mozzarella peyniri, mantar, ranch sos",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109094134_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf362",
+            "name": "Jambon ve Peynirli Pizza (20 cm)",
+            "description": "Alfredo sos, jambon, mozzarella peyniri, kekik",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109152703_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f6",
+            "name": "Sebze ve Mantar Pizza (20 cm)",
+            "description": "Domates sosu, baharat, mozzarella peyniri, kırmızı soğan, yeşil biber, domates, mantar, paneer peyniri, kekik",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109168541_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f7",
+            "name": "İtalyan Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, siyahzeytin, mantar, kekik",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109201352_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2bf",
+            "name": "Karışık Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, sosis, siyahzeytin, mısır",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109288973_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf363",
+            "name": "Jambon ve mantar (20 cm)",
+            "description": "Domates sosu, hindi jambon, mozzarella, taze mantar, kekik",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732108569197_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf33d",
+            "name": "Meksika Pizza (20 cm)",
+            "description": "Domates sosu, baharat, tavuk, mozzarella peyniri, kırmızı soğan, domates, mısır, jalapeno biberi",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109481855_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2fb",
+            "name": "Pesto Sucuk Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, pesto sos, sucuk, kırmızı soğan ve domates",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109510269_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2fc",
+            "name": "Peynirli Pizza (20 cm)",
+            "description": "Alfredo sos, mozzarella peyniri, paneer peyniri, çörek otlu peynir",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109702752_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf34b",
+            "name": "Hawaii Karışık (20 cm)",
+            "description": "Alfredo sos, mozzarella peyniri, sosis, kırmızı soğan, mısır, ananas, tatlı biber sosu",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753542295543_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971ca05ceac63ceaca94fd4",
+            "name": "Tavuk Ranch (20 cm)",
+            "description": "Alfredo sos, hindi jambon, tavuk, mozzarella peyniri, domates, kuru sarımsak, ranch sos",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769412210961_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf328",
+            "name": "Double Tavuk Döner (20 cm)",
+            "description": "Domates sosu, sarımsak tozu, baharat, tavuk, mozzarella, kırmızı soğan, taze domates",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738134445325_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2fd",
+            "name": "Pesto Tavuklu Pizza (20 cm)",
+            "description": "Alfredo sos, tavuk, mozzarella peyniri, pesto sos, taze domates, paneer peyniri",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109594196_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf35e",
+            "name": "Tavuklu Bomboni Pizza (20 cm)",
+            "description": "Alfredo sos, tavuk parçaları, mozzarella peyniri, kırmızı soğan, yeşil biber, tatlı biber sos",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109611216_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2fe",
+            "name": "Dodo Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, kavurma, sucuk, tavuk, kırmızı soğan, yeşil biber, domates, mantar, kekik",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732108650729_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c3",
+            "name": "Kavurmalı Pizza (20 cm)",
+            "description": "Domates sosu, mozzarella peyniri, kavurma, kırmızı soğan, yeşil biber, mantar, kekik",
+            "price": 499.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109734915_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2b6",
+        "name": "Pizza (Orta Boy)",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf324",
+            "name": "Sosisli (25 cm)",
+            "description": "Domates sosu, mozarella peyniri, sosis, mısır, domates",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755473431440_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2cc",
+            "name": "Domates Sucuk Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, domates",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566010709_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf300",
+            "name": "Margarita Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, domates, kekik",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566046613_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf301",
+            "name": "Sucuklu Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk",
+            "price": 429.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566204453_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf32d",
+            "name": "Kremalı Mantar (25 cm)",
+            "description": "Alfredo sos, baharat, mozzarella peyniri, mantar, ranch sos",
+            "price": 429.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709126485227_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf364",
+            "name": "Jambon ve Peynirli Pizza (25 cm)",
+            "description": "Alfredo sos, jambon, mozzarella peyniri, kekik",
+            "price": 429.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566140712_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf32e",
+            "name": "Sebze ve Mantar Pizza (25 cm)",
+            "description": "Domates sosu, baharat, mozzarella peyniri, kırmızı soğan, yeşil biber, domates, mantar, paneer peyniri, kekik",
+            "price": 429.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566455967_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c1",
+            "name": "İtalyan Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, siyahzeytin, mantar, kekik",
+            "price": 429.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566174792_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf303",
+            "name": "BBQ Tavuk Pizza (25 cm)",
+            "description": "Domates sosu, tavuk, mozzarella peyniri, kırmızı soğan, yeşil biber, domates, barbekü sos",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566608163_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf347",
+            "name": "Karışık Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, sosis, siyahzeytin, mısır",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566533840_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf344",
+            "name": "Jambon ve Mantarlı (25 cm)",
+            "description": "Domates sosu, hindi jambon, mozzarella, taze mantar, kekik",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709126558853_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf304",
+            "name": "Meksika Pizza (25 cm)",
+            "description": "Domates sosu, baharat, tavuk, mozzarella peyniri, kırmızı soğan, domates, mısır, jalapeno biberi",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566492416_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2ff",
+            "name": "Hawaii Karışık (25 cm)",
+            "description": "Alfredo sos, mozzarella peyniri, sosis, kırmızı soğan, mısır, ananas, tatlı biber sosu",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753542329822_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf343",
+            "name": "Pesto Sucuk Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, pesto sos, sucuk, kırmızı soğan ve domates",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732108783404_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf32f",
+            "name": "Peynirli Pizza (25 cm)",
+            "description": "Alfredo sos, mozzarella peyniri, paneer peyniri, çörek otlu peynir",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566812310_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971cb02ceac63ceaca95103",
+            "name": "Tavuk Ranch (25 cm)",
+            "description": "Alfredo sos, hindi jambon, tavuk, mozzarella peyniri, domates, kuru sarımsak, ranch sos",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769412227091_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf329",
+            "name": "Double Tavuk Döner (25 cm)",
+            "description": "Domates sosu, sarımsak tozu, baharat, tavuk, mozzarella, kırmızı soğan, taze domates",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738134505642_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf306",
+            "name": "Pesto Tavuk Pizza (25 cm)",
+            "description": "Alfredo sos, tavuk, mozzarella peyniri, pesto sos, domates, paneer peyniri",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566579506_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c0",
+            "name": "Tavuklu Bomboni Pizza (25 cm)",
+            "description": "Alfredo sos, tavuk parçaları, mozzarella peyniri, kırmızı soğan, yeşil biber, tatlı biber sos",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566895827_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf308",
+            "name": "Dodo Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, kavurma, sucuk, tavuk, kırmızı soğan, yeşil biber, domates, mantar, kekik",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1708338072887_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf309",
+            "name": "Kavurmalı Pizza (25 cm)",
+            "description": "Domates sosu, mozzarella peyniri, kavurma, kırmızı soğan, yeşil biber, mantar, kekik",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566844503_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2b9",
+        "name": "Pizza (Büyük Boy)",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf342",
+            "name": "Sosisli (30 cm)",
+            "description": "Domates sosu, mozarella peyniri, sosis, mısır, domates",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755473486079_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf305",
+            "name": "Domates Sucuklu Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, domates",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109034915_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf333",
+            "name": "Margarita Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, domates, kekik",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707566987438_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf307",
+            "name": "Kremalı Mantar (30 cm)",
+            "description": "Alfredo sos, baharat, mozzarella peyniri, mantar, ranch sos",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709126687536_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf30b",
+            "name": "Sucuklu Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567110947_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf339",
+            "name": "Jambon ve Peynirli Pizza (30 cm)",
+            "description": "Alfredo sos, hindi jambon, mozzarella peyniri, kekik",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567081913_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf330",
+            "name": "Sebze ve Mantar Pizza (30 cm)",
+            "description": "Domates sosu, baharat, mozzarella peyniri, kırmızı soğan, yeşil biber, domates, mantar, paneer peyniri, kekik",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567140694_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf302",
+            "name": "İtalyan Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, siyahzeytin, mantar, kekik",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567048602_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf35a",
+            "name": "BBQ Tavuk Pizza (30 cm)",
+            "description": "Domates sosu, tavuk, mozzarella peyniri, kırmızı soğan, yeşilbiber, domates, barbekü sos",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567291113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf30c",
+            "name": "Karışık Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, sucuk, sosis, siyahzeytin, mısır",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567210012_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf33a",
+            "name": "Jambon ve mantar (30 cm)",
+            "description": "Domates sosu, hindi jambon, mozzarella, taze mantar, kekik",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109310048_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf34c",
+            "name": "Hawaii Karışık (30 cm)",
+            "description": "Alfredo sos, mozzarella peyniri, sosis, kırmızı soğan, mısır, ananas, tatlı biber sosu",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753542357562_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c4",
+            "name": "Meksika Pizza (30 cm)",
+            "description": "Domates sosu, baharat, tavuk, mozzarella peyniri, kırmızı soğan, domates, mısır, jalapeno biber",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567171971_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf30d",
+            "name": "Pesto Sucuk Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, pesto sos, sucuk, kırmızı soğan ve domates",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720619842978_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf331",
+            "name": "Peynirli Pizza (30 cm)",
+            "description": "Alfredo sos, mozzarella peyniri, paneer peyniri, çörek otlu peynir",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109823880_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971cbddceac63ceaca951c5",
+            "name": "Tavuk Ranch (30 cm)",
+            "description": "Alfredo sos, hindi jambon, tavuk, mozzarella peyniri, domates, kuru sarımsak, ranch sos",
+            "price": 579.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769412242424_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf32a",
+            "name": "Double Tavuk Döner (30 cm)",
+            "description": "Domates sosu, sarımsak tozu, baharat, tavuk, mozzarella, kırmızı soğan, taze domates",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738135301390_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf30e",
+            "name": "Pesto Tavuk Pizza (30 cm)",
+            "description": "Alfredo sos, tavuk, mozzarella peyniri, pesto sos, domates, paneer peyniri",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567261809_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf35f",
+            "name": "Tavuklu Bomboni Pizza (30 cm)",
+            "description": "Alfredo sos, tavuk parçaları, mozzarella peyniri, kırmızı soğan, yeşil biber, tatlı biber sos",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567462222_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2d4",
+            "name": "Dodo Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, kavurma, sucuk, tavuk, kırmızı soğan, yeşil biber, domates, mantar, kekik",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109627157_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf334",
+            "name": "Kavurmalı Pizza (30 cm)",
+            "description": "Domates sosu, mozzarella peyniri, kavurma, kırmızı soğan, yeşil biber, mantar, kekik",
+            "price": 685.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732109788652_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2b5",
+        "name": "Yarı Yarıya",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf30f",
+            "name": "Karışık Pizza & İtalyan Pizza (30 cm)",
+            "description": null,
+            "price": 629.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742459249475_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf310",
+            "name": "Pesto Sucuklu Pizza & Pesto Tavuklu Pizza (30 cm)",
+            "description": null,
+            "price": 689.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742459328108_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf358",
+            "name": "Bbq Tavuk Pizza & Dodo Pizza (30 cm)",
+            "description": null,
+            "price": 689.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742459408406_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf346",
+            "name": "Dört Peynirli & Sucuklu",
+            "description": "İki yarıdan oluşan büyük pizza (30 cm): Dört Peynirli ve Sucuklu",
+            "price": 629.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751312439064_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2ba",
+        "name": "Çocuklara Özel Menü",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf33c",
+            "name": "Sucuklu Teddy",
+            "description": "Domates sosu, mozzarella peyniri, sucuk",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1752184161314_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf335",
+            "name": "Tavuklu Teddy Pizza",
+            "description": "Alfredo sos, tavuk, mozzarella peyniri, mısır",
+            "price": 339.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744895947672_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2bb",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf316",
+            "name": "Dodster",
+            "description": "Fırında pişirilmiş çıtır ince tortilla arasına tavuk, domates, mozzarella peyniri, ranch sos, özel meze, baharat",
+            "price": 239.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567615514_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf317",
+            "name": "Fırında Patates (Orta)",
+            "description": null,
+            "price": 89.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770887181877_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf318",
+            "name": "Fırında Patates (Buyük)",
+            "description": "Fırında pişirilmiş çıtır patates – klasik lezzet, ancak daha az yağlı.",
+            "price": 109.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770887212935_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf319",
+            "name": "Fırında Baharatlı Patates (Orta)",
+            "description": null,
+            "price": 89.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770887256704_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf31a",
+            "name": "Fırında Baharatlı Patates (Büyük)",
+            "description": null,
+            "price": 109.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770887278099_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf31b",
+            "name": "Tavuk Parçaları (5 Adet)",
+            "description": null,
+            "price": 139.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732128413685_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2cd",
+            "name": "Tavuk Parçaları (Büyük Boy)",
+            "description": null,
+            "price": 219.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567763895_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf34e",
+            "name": "Tavuk Topları (Orta)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732110474595_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf31c",
+            "name": "Tavuk Topları (Büyük Boy)",
+            "description": null,
+            "price": 169.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707567741603_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf35c",
+            "name": "Tatlı Chilli Mısır",
+            "description": "Tatlı mısır, özel alfredo sosu, eritilmiş mozzarella peyniri, acı tatlı sos ve sıcak krema",
+            "price": 79.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732128371725_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c2",
+            "name": "Kremalı Tavuklu Mısır",
+            "description": "Tatlı mısır, özel alfredo sosu, mozzarella peyniri ve tavuklu sıcak krema",
+            "price": 79.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732128393383_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69bbffa7ceac63ceacfb50a6",
+            "name": "Sucuklu Peynirli Rolls (8 adet)",
+            "description": "Hamur, ranch sos, mozzarella, sucuk",
+            "price": 169.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775038967500_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69bbffebceac63ceacfb50d9",
+            "name": "Sarımsaklı Peynirli Rolls (8 adet)",
+            "description": "Hamur, ranch sos, mozzarella, sarımsak tozu",
+            "price": 149.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775038978386_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2bc",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf31e",
+            "name": "Sufle",
+            "description": null,
+            "price": 139.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707482301126_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf323",
+            "name": "Sufle (2 Adet)",
+            "description": null,
+            "price": 249.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707482355321_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2bd",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf2d9",
+            "name": "Ketçap",
+            "description": null,
+            "price": 5.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761142254844_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2d7",
+            "name": "Mayonez",
+            "description": null,
+            "price": 5.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761142269905_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf313",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1734096070747_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf359",
+            "name": "BBQ Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1734096116989_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf34a",
+            "name": "Tatlı Chilli Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1734096149604_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6901bc54ceac63ceac1748a5",
+            "name": "Baharat (1 Parça)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761721388582_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68b16874ceac63ceacbdf2be",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "68b16874ceac63ceacbdf332",
+            "name": "Ayran (280 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770517172_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2ce",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f8",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770512059_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf32c",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770502233_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c6",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770502538_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf320",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770507114_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2d8",
+            "name": "Cappy Karışık (200 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770532183_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf32b",
+            "name": "Cappy Portakal (200 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770507188_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c5",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770512076_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2d0",
+            "name": "Damla Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770512065_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf31f",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770527066_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf321",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770552092_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2d3",
+            "name": "Coca Cola Light (1 L)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698664413949_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2d1",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770542070_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf327",
+            "name": "Cappy Karışık (1 L)",
+            "description": null,
+            "price": 159.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770522183_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf33b",
+            "name": "Cappy Portakal  (1 L)",
+            "description": null,
+            "price": 159.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770522074_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf315",
+            "name": "Fuse Tea Limon  (1 L)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770532104_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2c7",
+            "name": "Fuse Tea Şeftali (1 L)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770542092_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf2f0",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 129.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770532070_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf314",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778770537066_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b16874ceac63ceacbdf322",
+            "name": "Limmo Limonata (250 ml)",
+            "description": null,
+            "price": 99.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755031793084_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "5f3646b764610ea11d605c2b",
+  "name": "Tostçu İlker (Selamet Mah.)",
+  "slug": "tostcu-ilker-selamet-mah-osmangazi-bursa",
+  "cuisine_types": [
+    "Sokak Lezzetleri",
+    "Tost & Sandviç"
+  ],
+  "rating": 4.6,
+  "rating_count": 1750,
+  "min_order_amount": 240.0,
+  "delivery_fee": 47.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5f36471bf7ff42bf482a8b21",
+            "name": "Yarım Ekmeğe Yengen Tost & Patates Kızartması & Ayran Menü",
+            "description": "Yarım ekmeğe yengen tost, patates kızartması ve ayran (170 ml) ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638217_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471e5e18f660f63e63ed",
+            "name": "Yarım Ekmeğe Sucuklu Tost Menü",
+            "description": "Yarım ekmeğe sucuklu tost, patates kızartması ve  ayran (170 ml) ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638206_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fb2878db19dc5e826a61737",
+            "name": "Yarım Ekmeğe Sucuklu Kaşarlı & Patates Kızartması & Ayran Menü",
+            "description": "Yarım ekmeğe sucuklu, kaşarlı tost, patates kızartması ve ayran (170 ml) ile",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360902_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364722a1bf050a939bb53c",
+            "name": "Yarım Ekmeğe Yumurtalı & Sucuklu Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311837533_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647259c0da79f20c71f45",
+            "name": "Yarım Ekmeğe Sucuklu & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311361805_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f3646efc93ea04aca25931c",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "5f36471bf7ff42bf482a8b21",
+            "name": "Yarım Ekmeğe Yengen Tost & Patates Kızartması & Ayran Menü",
+            "description": "Yarım ekmeğe yengen tost, patates kızartması ve ayran (170 ml) ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638217_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471cc1827857798d3b97",
+            "name": "Yarım Ekmeğe Kaşarlı Tost & Patates Kızartması & Ayran Menü",
+            "description": "Yarım ekmeğe kaşarlı tost, patates kızartması ve ayran (170 ml) ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311361804_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471d02e00824ed8fe297",
+            "name": "Yarım Ekmeğe Kavurmalı & Kaşarlı Tost Menü",
+            "description": "Yarım ekmeğe kavurmalı kaşarlı tost, patates kızartması ve  ayran (170 ml) ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311361803_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471e82cfcf00a45263a5",
+            "name": "Yarım Ekmeğe Kaşarlı Kumru & Patates Kızartması & Ayran Menü",
+            "description": "Yarım ekmeğe kaşarlı kumru, patates kızartması ve ayran (170 ml) ile",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638282_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471e5e18f660f63e63ed",
+            "name": "Yarım Ekmeğe Sucuklu Tost Menü",
+            "description": "Yarım ekmeğe sucuklu tost, patates kızartması ve  ayran (170 ml) ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638206_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471fe63302e7118051f8",
+            "name": "Yarım Ekmeğe Bol Kaşarlı Tost Menü",
+            "description": "Yarım ekmeğe bol kaşarlı tost, patates kızartması ve ayran (170 ml) ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360899_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fb2878db19dc5e826a61737",
+            "name": "Yarım Ekmeğe Sucuklu Kaşarlı & Patates Kızartması & Ayran Menü",
+            "description": "Yarım ekmeğe sucuklu, kaşarlı tost, patates kızartması ve ayran (170 ml) ile",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360902_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fb287e19dd4f4523bfb0b9c",
+            "name": "Yarım Ekmek Beyaz Peynirli & Patates Kızartması & Ayran Menü",
+            "description": "Yarım ekmeğe beyaz peynirli tost, patates kızartması ve ayran (170 ml) ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f3646efa1bf05f6bf9bb4fc",
+        "name": "Ekmek Arası Tost",
+        "items": [
+          {
+            "id": "5f3647214589df9a394a97f4",
+            "name": "Yarım Ekmeğe Yumurtalı & Kavurmalı & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638234_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647217bcccf7bb5d97360",
+            "name": "Yarım Ekmeğe Yumurtalı & Sucuklu & Kaşarlı Tost",
+            "description": "İsteğe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638248_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364722a1bf050a939bb53c",
+            "name": "Yarım Ekmeğe Yumurtalı & Sucuklu Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311837533_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36472302e0080e278fe2d1",
+            "name": "Yarım Ekmeğe Sucuklu Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311769503_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647234e6e6a41408e3ea8",
+            "name": "Yarım Ekmeğe Patatesli & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360902_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364724c5459f858e5cee3e",
+            "name": "Yarım Ekmeğe Macar Salamlı & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311361921_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364724da66dc171ad6fab8",
+            "name": "Yarım Ekmeğe Beyaz Peynirli Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360823_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364725da66dc4e3cd6fae6",
+            "name": "Yarım Ekmeğe Bol Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360909_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647259c0da79f20c71f45",
+            "name": "Yarım Ekmeğe Sucuklu & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311361805_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647267199f85b5a901b7d",
+            "name": "Yarım Ekmeğe Kavurmalı & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360904_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36472686f7db216cf8f7c4",
+            "name": "Yarım Ekmeğe Bol Sucuklu Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638216_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364727be5a0bc46abb2e4e",
+            "name": "Yarım Ekmeğe Bol Sucuklu & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638227_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364728c93ea0aa4e259338",
+            "name": "Yarım Ekmeğe Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360919_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647285e18f6c8213e6427",
+            "name": "Yarım Ekmeğe Yumurtalı & Kavurmalı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638237_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364729a1bf054a129bb56a",
+            "name": "Yarım Ekmeğe Yumurtalı & Kaşarlı Tost",
+            "description": "Tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638237_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f3646ef9c0da70f77c71f2f",
+        "name": "Ekmek Arası Kumru",
+        "items": [
+          {
+            "id": "5f364729d6468181c3febdb7",
+            "name": "Yarım Ekmek Yengen Kumru",
+            "description": "Sucuk, kaşar peyniri, yumurta, salam, tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638280_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36472ac5459f84ec5cee6c",
+            "name": "Yarım Ekmek Kumru",
+            "description": "Salam, tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638262_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36472a4589df00154a9822",
+            "name": "Yarım Ekmek Kaşarlı Kumru",
+            "description": "Salam, kaşar peyniri tercihe göre turşu biber, kornişon turşu, mayonez, salça, pul biber, kekik ve tuz ile",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638251_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36472bda66dc6cacd6fb14",
+            "name": "Yarım Ekmek Sucuklu & Kaşarlı Kumru",
+            "description": "Sucuk, kaşar peyniri, tercihe göre turşu biber, kornişon turşu, mayonez, salam, salça, pul biber, kekik ve tuz",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311638381_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f3646efe63302ccde80517c",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "5f364706f7ff4280b12a8b17",
+            "name": "Patates Kızartması (Küçük Boy)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1632311360814_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f3646efe44c7975aaeffe58",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "5f364706c5459f39285cee3a",
+            "name": "Kısmet Sütlaç",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f3647077bcccffe1ed9735c",
+            "name": "Kısmet Kazandibi",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fdcfd2923d1cc46e49a423e",
+            "name": "Karamelli Trileçe",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5f3646f0e633023aa380517e",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5f3647164e6e6ab5f88e3ea4",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364713cd664a03256ad807",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471af3dfd133de2e5cb2",
+            "name": "Coca Cola (200 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410171059_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36470ec1827850708d3b93",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364718c5459f97065cee3c",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f3647135e18f6919a3e63eb",
+            "name": "Fanta (200 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364708c18278441d8d3b8f",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f36470fe63302654c8051e0",
+            "name": "Cappy (250ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364709f7ff4221292a8b1f",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471086f7db4bdaf8f7c0",
+            "name": "Uludağ Limonata (330 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f36471402e00871f78fe295",
+            "name": "Didi (500 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f36470e3322a823ded8d82d",
+            "name": "Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36470dbee2879efd545133",
+            "name": "Uludağ Gazoz (330 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364716f4135439fc4f32e7",
+            "name": "Uludağ Gazoz (250 ml)",
+            "description": "Cam şişe",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364707d646817675febd9f",
+            "name": "Red Bull (250 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364717f3dfd198c42e5cb0",
+            "name": "Burn (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f36470a7199f85c71901b75",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647157199f887e9901b7b",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36471aa1bf057b7e9bb530",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f36471986f7db3592f8f7c2",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364718be5a0b8254bb2e4c",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647154589df44474a97f2",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f364717a886cd3a4948f5de",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705249321_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647194e6e6a7c648e3ea6",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364708c8d3a94ace7540f0",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36470fa1bf05cc5b9bb524",
+            "name": "Uludağ Limonata (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364712e6330275888051f6",
+            "name": "Coca Cola (1.5 L)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410148552_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36470ac182785fb08d3b91",
+            "name": "Eker Ayran (1.5 L)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364710f86cbf937410f410",
+            "name": "Uludağ Limonata (2 L)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5f364712c18278631e8d3b95",
+            "name": "Coca Cola (2.5 L)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410187088_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f36470c82cfcf32065263a3",
+            "name": "Pepsi (2.5 L)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705353359_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5f3647115e18f697f33e63e9",
+            "name": "Fanta (2.5 L)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a3ef18ceac63ceaca39dd9",
+            "name": "Özerhisar Ayran (245 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eed00009131285dba6fe56",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eed00009131240cea6fe96",
+            "name": "Poşet",
+            "description": null,
+            "price": 1.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,989 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "68711999d6630dee9dd97141",
+  "name": "Route 95, Konak (Mimar Sinan Mah.)",
+  "slug": "route-95-konak-mimar-sinan-mah-konak-izmir-2",
+  "cuisine_types": [
+    "Pasta & Tatlı",
+    "Tost & Sandviç"
+  ],
+  "rating": 3.8,
+  "rating_count": 50,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cfc",
+            "name": "Domates Çorbası & Kaşar Peynirli Kare Tost",
+            "description": "Kaşar peynirli tost ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747388910812_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699d5572ceac63ceacdf2308",
+            "name": "Kekikli Tavuk Bowl",
+            "description": "Basmati pilavı, kekikli tavuk, meksika fasulyesi, mevsim yeşillikleri yanında köz biberli yoğurt sos ile ",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771924224119_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699d55aeceac63ceacdf232f",
+            "name": "Vegan Bowl",
+            "description": "Basmati pilavı, falafel, mevsim yeşillikleri, salatalık, çeri domates yanında patlıcanlı tahin sos ile",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771918747728_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c84",
+            "name": "Chicken Cutlet Hero Sandviç",
+            "description": "Ciabatta ekmeği arasına, çıtır tavuk (140 g), kırmızı soğan, akdeniz yeşillikleri, mozzarella peyniri, balzamik sos yanında patates kızartması ile",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747388946328_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c69",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cfc",
+            "name": "Domates Çorbası & Kaşar Peynirli Kare Tost",
+            "description": "Kaşar peynirli tost ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747388910812_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699c19aaceac63ceacde235f",
+        "name": "Bowllar",
+        "items": [
+          {
+            "id": "699d5572ceac63ceacdf2308",
+            "name": "Kekikli Tavuk Bowl",
+            "description": "Basmati pilavı, kekikli tavuk, meksika fasulyesi, mevsim yeşillikleri yanında köz biberli yoğurt sos ile ",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771924224119_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699d55aeceac63ceacdf232f",
+            "name": "Vegan Bowl",
+            "description": "Basmati pilavı, falafel, mevsim yeşillikleri, salatalık, çeri domates yanında patlıcanlı tahin sos ile",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771918747728_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699d55f3ceac63ceacdf2347",
+            "name": "Tiftik Bowl",
+            "description": "Basmati pilavı, tiftik et, coleslaw, baharatlı nohut, avokado, çeri domates yanında fesleğenli yoğurt sos ile",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771918819372_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699d5657ceac63ceacdf2389",
+            "name": "Granola Bowl",
+            "description": null,
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771924241364_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c6a",
+        "name": "Soğuk Sandviç",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cb2",
+            "name": "Fresh Mozzarella Sandviç",
+            "description": "Ciabatta ekmeği arasına, mozzarella peyniri, marul, pesto sos, domates, kırmızı soğan, balzamik sos",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747388929761_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cb6",
+            "name": "Breakfast Sandviç",
+            "description": "Ciabatta ekmeği arasına, zeytin ezmesi, 3 adet dilim kaşar peyniri, domates, 1 adet haşlanmış yumurta",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743880649628_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6996f03cceac63ceacda04e0",
+            "name": "Tapenade Sandviç",
+            "description": "Ciabatta ekmeği arasına krem peynir, tapenade sos, dana jambon, roka, kırmızı soğan ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771924687927_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c73",
+        "name": "Sıcak Sandviç",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8c84",
+            "name": "Chicken Cutlet Hero Sandviç",
+            "description": "Ciabatta ekmeği arasına, çıtır tavuk (140 g), kırmızı soğan, akdeniz yeşillikleri, mozzarella peyniri, balzamik sos yanında patates kızartması ile",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747388946328_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6996f100ceac63ceacda0699",
+            "name": "Chipotle Chicken Sandviç",
+            "description": "Ciabatta ekmeğine 140 g çıtır tavuk bonfile, chipotle sos, yeşillik, domates yanında kaşık patates kızartması ile",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771924664455_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6996f12cceac63ceacda0711",
+            "name": "Mornay Chicken Sandviç",
+            "description": "Ciabatta ekmeğine 140 g çıtır tavuk bonfile, mornay sos, kıtır soğan yanında kaşık patates kızartması ile",
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771924702718_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c77",
+        "name": "Bagel Sandviç",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8ca3",
+            "name": "Egg & Cheese Bagel Sandviç",
+            "description": "Bagel ekmeğine, 2 adet yumurtalı omlet, 2 dilim cheddar peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881471183_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cb9",
+            "name": "Lox Bagel Sandviç",
+            "description": "Seçeceğin bagel arasına, somon füme, kapari, krem peyniri, kırmızı soğan halkası",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881491187_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cbb",
+            "name": "Dana Bacon & Egg & Cheese Bagel Sandviç",
+            "description": "Seçeceğin bagel arasına, 2 adet yumurtalı omlet, 2 dilim cheddar peyniri, 3 dilim dana bacon",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389020946_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cba",
+            "name": "Hindi Füme & Dana Jambon Bagel Sandviç",
+            "description": "Bagel ekmek arasına, 2 adet dilim hindi füme, 2 adet dilim dana jambon ve 2 adet dilim cheddar peyniri",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389044012_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c86",
+            "name": "Cream Cheese Bagel Sandviç",
+            "description": "Seçeceğin bagel arasına seçeceğin peynir (60 g) ile",
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389062755_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c9f",
+            "name": "Avocado Bagel",
+            "description": "Seçeceğin bagel arasına, krem peynir, avokado, domates, salatalık, marul ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389076558_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cbf",
+            "name": "Peanut & Choco",
+            "description": "Yer fıstığı ezmesi, muz dilimleri, çikolata sos, çikolata parçaları ve pudra şekeri",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771924923563_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c82",
+            "name": "3 Peynirli Bagel Sandviç",
+            "description": "Tercih edeceğin bagel arasına 3 dilim cheddar peyniri, 3 dilim kaşar peyniri, kapya biber, smoked cheese ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881887267_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c9e",
+            "name": "Egg & Avocado Bagel",
+            "description": "Bagel ekmeği arası, krem peynir, 2 adet yumurtalı omlet ve avokado dilimleri",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881906687_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cbe",
+            "name": "Everything Bagel",
+            "description": "Mix baharatlı bagel",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881921788_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8ca4",
+            "name": "Susamlı Haşhaşlı Bagel",
+            "description": "Susamlı, haşhaşlı bagel",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881932902_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c81",
+            "name": "Sade Bagel",
+            "description": "Sade amerikan simidi",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881945356_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c6b",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8ceb",
+            "name": "Mac & Cheese",
+            "description": "3 peynirli, soslu, kremalı makarna",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743881981417_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cf6",
+            "name": "Chicken Mac & Cheese",
+            "description": "3 peynirli soslu, kremalı makarna üzerine, (140 g) kızarmış çıtır tavuk bonfile",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389115242_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c6c",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cc1",
+            "name": "Double Smash Burger (100 g)",
+            "description": "Burger köftesi (2 adet) (100 g), özel burger sosu, 2 adet dilim cheddar peyniri yanında patates kızartması ile",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743882035829_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8caf",
+            "name": "Trüflü Füme Smash Burger (100 g)",
+            "description": "Burger köftesi (100 g), dana bacon, trüflü mayonez, relish sos, cheddar peyniri, kıtır soğan yanında patates kızartması ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389137615_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cac",
+            "name": "Smash Burger (100 g)",
+            "description": "Burger köftesi (100 g), özel burger sosu, 1 adet dilim cheddar yanında patates kızartması ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389157977_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6996f2caceac63ceacda0f1f",
+            "name": "Tiftik Burger",
+            "description": "Tereyağlı brioche hamburger ekmeğine 100 g tiftik et, özel burger sosu (acı), coleslaw, karamelize soğan, 1 dilim cheddar peyniri yanında kaşık patates kızartması ile",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c6e",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8c7d",
+            "name": "Kaşık Dilim Patates Kızartması",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743882238841_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cad",
+            "name": "Mozzarella Sticks (5 Adet)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743882252141_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c7e",
+            "name": "Atıştırma Tabağı",
+            "description": "Çıtır tavuk bonfile, 4 adet mozzarella stick, kaşık dilim patates kızartması ve soğan halkası",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771839080549_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6996f326ceac63ceacda0fd1",
+            "name": "Route Chicken",
+            "description": "Çıtır tavuk bonfile parçaları, kaşık dilim patates kızartması, coleslaw, texas toast ve golden sos ile",
+            "price": 515.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c70",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8c8d",
+            "name": "Gorgonzola Peynirli Salata",
+            "description": "Mevsim yeşillikleri, ceviz, cranberry, yeşil elma, avokado, gorgonzola peyniri, salata sosu ve bread stick ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389222376_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c8f",
+            "name": "Tavuklu Salata",
+            "description": "Mevsim yeşillikleri, kapya biber, domates, çıtır tavuk (140 g), salata sosu ve bread stick ile",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389255997_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c6f",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cff",
+            "name": "Classic Cinnamon Rolls",
+            "description": "Frosting soslu tarçınlı çörek",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743882428959_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cfe",
+            "name": "Caramel Cinnamon Rolls",
+            "description": "Frosting ve karamel sos, tarçın",
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743882442774_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cc2",
+            "name": "Beyaz Çikolatalı Brownie",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743882459127_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c9a",
+            "name": "KitKat Cheesecake",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389327238_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c8b",
+            "name": "Ny Roll Chocolate",
+            "description": null,
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1743882671086_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "688dd8bdceac63ceac92f186",
+            "name": "Ananas & Bademli Birthday Cake",
+            "description": null,
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688dd969ceac63ceac92f1c8",
+            "name": "Limonlu Mono Pasta",
+            "description": null,
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1754126691759_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "688dd97eceac63ceac92f1ec",
+            "name": "Mango & Hindistan Cevizli Mono Cheseecake",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688dd992ceac63ceac92f1fb",
+            "name": "Passion Fruit Mono Pasta",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699c22f4ceac63ceacde2dd0",
+            "name": "Bademli Cheesecake",
+            "description": null,
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699c230eceac63ceacde2e0a",
+            "name": "Mozaik Mousse",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699c232fceac63ceacde2e82",
+            "name": "Crunchy Pistachio Cheesecake",
+            "description": null,
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699c2341ceac63ceacde2e8e",
+            "name": "Pumpkin Cheesecake",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699ef4f7ceac63ceace2afdc",
+            "name": "Salted Caramel Cheesecake",
+            "description": null,
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772025233906_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699ef522ceac63ceace2aff6",
+            "name": "Dulce Cheesecake",
+            "description": null,
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772025269918_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c72",
+        "name": "Soğuk Kahve",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cf3",
+            "name": "Iced Americano (14 oz)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cf8",
+            "name": "Iced Latte (14 oz)",
+            "description": null,
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cf9",
+            "name": "Iced Mocha (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c99",
+            "name": "Toffee Nut Iced Latte (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cf7",
+            "name": "Salted Oat Iced Latte (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cfb",
+            "name": "Marry Me Iced Latte (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cfa",
+            "name": "Iced White Mocha (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c75",
+        "name": "Soğuk İçecek",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8d01",
+            "name": "Strawberry Virgin Mojito (14 oz)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389564538_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c88",
+            "name": "Milky Lemonade (14 oz)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389582516_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8ca2",
+            "name": "Island Rush Cooler (14 oz)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389596204_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c9d",
+            "name": "Iced Matcha Latte (Orta Boy)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389482767_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8d00",
+            "name": "Iced Strawberry Matcha Latte (Orta Boy)",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c6d",
+        "name": "Sıcak Kahve",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8c87",
+            "name": "Americano (14 oz)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389634860_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c85",
+            "name": "Latte (14 oz)",
+            "description": null,
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747389648245_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c90",
+            "name": "Mocha (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cee",
+            "name": "White Chocolate Mocha (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cec",
+            "name": "Cappuccino (14 oz)",
+            "description": null,
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cef",
+            "name": "Caramel Macchiato (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8ced",
+            "name": "Flat White (14 oz)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c79",
+            "name": "Filtre Kahve (14 oz)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cf1",
+            "name": "Coconut Latte (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c7a",
+            "name": "Marry Me Latte (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cf2",
+            "name": "Banana Latte (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c7c",
+            "name": "Vanilla Latte (14 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c74",
+        "name": "Sıcak İçecek",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cc9",
+            "name": "Sıcak Çikolata (14 oz)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cb1",
+            "name": "Chai Tea Latte (14 oz)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6888dcccceac63ceac8d8c71",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6888dcccceac63ceac8d8cc6",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771835372916_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cb0",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771835415464_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cb7",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771835439540_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c98",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771835462965_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8c9b",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771835487816_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cc5",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6888dcccceac63ceac8d8cc7",
+            "name": "Damla Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "68cd0b044839c49678c3fd25",
+  "name": "Baget Burger, Konak (Alsancak Mah.)",
+  "slug": "baget-burger-konak-alsancak-mah-konak-izmir",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 3.4,
+  "rating_count": 20,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "6971d820ceac63ceaca961cc",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "6971d820ceac63ceaca96201",
+            "name": "Hamburger Menü",
+            "description": "Hamburger (burger ekmeğine, el yapımı burger köftesi, turşu, özel sos, mayonez), patates kızartması, içecek",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951615901_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9621d",
+            "name": "Cheeseburger Menü",
+            "description": "Cheeseburger (burger ekmeğine, el yapımı burger köftesi, cheddar peyniri, turşu, özel sos, mayonez), patates kızartması, içecek",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951627716_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961de",
+            "name": "Köz Burger Menü",
+            "description": "Köz burger (burger ekmeğine, el yapımı burger köftesi, közlenmiş biber, turşu, özel sos, mayonez), patates kızartması, içecek",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951651544_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96203",
+            "name": "Karışık Burger Menü",
+            "description": "Karışık burger (burger ekmeğine, el yapımı burger köftesi, turşu, özel sos, mayonez, sucuk, salam, cheddar peyniri, yumurta)\n, patates kızartması, içecek",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951662053_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961df",
+            "name": "Badılcanlı Burger Menü",
+            "description": "Badılcanlı burger, patates kızartması, içecek",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951671732_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96207",
+            "name": "Double Burger Menü",
+            "description": "Double burger (burger ekmeğine, el yapımı double burger köftesi, turşu, özel sos, mayonez), patates kızartması, içecek",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951716962_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9621c",
+            "name": "Tost Burger Menü",
+            "description": "Tost burger (burger ekmeğine, turşu, özel sos, mayonez, sucuk, salam, cheddar peyniri, yumurta), patates kızartması, içecek",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951736323_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96202",
+            "name": "Vejetaryan Burger Menü",
+            "description": "Vejetaryan burger (burger ekmeğine, turşu, özel sos, mayonez, patates, köz biber, cheddar peyniri, yumurta), patates kızartması, içecek",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951753737_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9620a",
+            "name": "Double Cheeseburger Menü",
+            "description": "Double cheeseburger (burger ekmeğine, el yapımı double burger köftesi, cheddar peyniri, turşu, özel sos, mayonez), patates kızartması, içecek",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951808956_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96209",
+            "name": "Double Köz Burger Menü",
+            "description": "Double köz burger (burger ekmeğine, el yapımı double burger köftesi, közlenmiş biber, turşu, özel sos, mayonez), patates kızartması, içecek",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951821062_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961e1",
+            "name": "Double Karışık Burger Menü",
+            "description": "Double karışık burger (burger ekmeğine, el yapımı double burger köftesi, turşu, özel sos, mayonez, sucuk, salam, cheddar peyniri, yumurta), patates kızartması, içecek",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951829869_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96218",
+            "name": "Double Badılcanlı Burger Menü",
+            "description": "Double badılcanlı burger (burger ekmeğine, el yapımı double burger köftesi, közlenmiş patlıcan, turşu, özel sos, mayonez), patates kızartması, içecek",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951841463_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6971d820ceac63ceaca961cd",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "6971d820ceac63ceaca961e0",
+            "name": "Hamburger",
+            "description": "Burger ekmeğine, el yapımı burger köftesi, turşu, özel sos, mayonez",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952181093_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96200",
+            "name": "Cheeseburger",
+            "description": "Burger ekmeğine, el yapımı burger köftesi, cheddar peyniri, turşu, özel sos, mayonez",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952206504_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961e2",
+            "name": "Köz Burger",
+            "description": "Burger ekmeğine, el yapımı burger köftesi, közlenmiş biber, turşu, özel sos, mayonez",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952218604_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961e3",
+            "name": "Karışık Burger",
+            "description": "Burger ekmeğine, el yapımı burger köftesi, turşu, özel sos, mayonez, sucuk, salam, cheddar peyniri, yumurta",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952230577_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961e4",
+            "name": "Badılcanlı Burger",
+            "description": "Burger ekmeğine, el yapımı burger köftesi, közlenmiş patlıcan, turşu, özel sos, mayonez",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952240809_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96206",
+            "name": "Double Burger",
+            "description": "Burger ekmeğine, el yapımı double burger köftesi, turşu, özel sos, mayonez",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952251372_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961e5",
+            "name": "Tost Burger",
+            "description": "Burger ekmeğine, turşu, özel sos, mayonez, sucuk, salam, cheddar peyniri, yumurta",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952264119_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96204",
+            "name": "Vejetaryan Burger",
+            "description": "Burger ekmeğine, turşu, özel sos, mayonez, patates, köz biber, cheddar peyniri, yumurta",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952274851_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96217",
+            "name": "Double Cheeseburger",
+            "description": "Burger ekmeğine, el yapımı double burger köftesi, cheddar peyniri, turşu, özel sos, mayonez",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952287148_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96208",
+            "name": "Double Köz Burger",
+            "description": "Burger ekmeğine, el yapımı double burger köftesi, közlenmiş biber, turşu, özel sos, mayonez",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952301422_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96205",
+            "name": "Double Karışık Burger",
+            "description": "Burger ekmeğine, el yapımı double burger köftesi, turşu, özel sos, mayonez, sucuk, salam, cheddar peyniri, yumurta",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952316510_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96216",
+            "name": "Double Badılcanlı Burger",
+            "description": "Burger ekmeğine, el yapımı double burger köftesi, közlenmiş patlıcan, turşu, özel sos, mayonez",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952329368_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6971d820ceac63ceaca961d0",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6971d820ceac63ceaca961d8",
+            "name": "16'lı Soğan Halkası",
+            "description": "16 adet",
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952362819_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961ff",
+            "name": "12'Li Soğan Halkası",
+            "description": "12 adet olarak servis edilir",
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760950938008_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9620b",
+            "name": "6'lı Çıtır Soğan Halkası",
+            "description": "6 adet olarak servis edilir.",
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760952376645_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96211",
+            "name": "Patates Kızartması (100 g)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951392117_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96212",
+            "name": "Patates Kızartması (200 g)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951464792_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6971d820ceac63ceaca961ce",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6971d820ceac63ceaca961e7",
+            "name": "Kola (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961d2",
+            "name": "Coca Cola (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753191926572_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9621f",
+            "name": "Coca Cola Zero Sugar (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753191950545_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961db",
+            "name": "Sprite (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951018565_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961d5",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951046148_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961eb",
+            "name": "Fuse Tea Karpuz (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951059647_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961d4",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951071539_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9621a",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951085817_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9621e",
+            "name": "Eker Ayran (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951100333_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961dd",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951122263_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961da",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760951132718_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6971d820ceac63ceaca961cb",
+        "name": "Kampanyalı Menüler",
+        "items": [
+          {
+            "id": "6971d820ceac63ceaca9620d",
+            "name": "2'li Karışık Burger Menü",
+            "description": "2 adet karışık burger ve 2 adet içecek ile",
+            "price": 745.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433531948_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9620e",
+            "name": "2'li Double Burger Menü",
+            "description": "2 adet double burger, patates kızartması, 2 adet içecek",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433578708_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca9620f",
+            "name": "Double Burger & Double Cheeseburger Menü",
+            "description": "Double burger, double cheeseburger, patates kızartması ve 2 adet içecek ile",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433622588_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961e8",
+            "name": "Double Burger & Double Köz Burger Menü",
+            "description": "Double burger, double köz burger, patates kızartması ve içecek ile",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433667127_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca96210",
+            "name": "2'li Double Köz Burger Menü",
+            "description": "2 adet double köz burger, patates kızartması ve 2 adet içecek ile",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433701365_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961fa",
+            "name": "Double Köz Burger &  Double Cheeseburger Menü",
+            "description": "Double köz burger, double cheeseburger, patates kızartması ve 2 adet içecek ile",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433757622_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961f9",
+            "name": "2'li Double Cheeseburger Menü",
+            "description": "2 adet double cheeseburger, patates kızartması ve 2 adet içecek ile",
+            "price": 795.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433897229_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961fc",
+            "name": "2'li Hamburger Menü",
+            "description": "2 adet hamburger, patates kızartması ve 2 adet içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760434013272_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961f8",
+            "name": "Hamburger & Cheeseburger Menü",
+            "description": "Hamburger, cheeseburger, patates kızartması ve 2 adet içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760434055518_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961ea",
+            "name": "Hamburger & Köz Burger Menü",
+            "description": "Hamburger, köz burger, patates kızartması ve 2 adet içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760434111033_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961fb",
+            "name": "2'li Cheeseburger Menü",
+            "description": "2 adet cheeseburger, patates kızartması ve 2 adet içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760434160050_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961fd",
+            "name": "Cheeseburger & Köz Burger Menü",
+            "description": "Cheeseburger, köz burger, patates kızartması ve 2 adet içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760434206803_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6971d820ceac63ceaca961fe",
+            "name": "2'li Közburger Menü",
+            "description": "2 adet köz burger, patates kızartması ve 2 adet içecek ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760434248816_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

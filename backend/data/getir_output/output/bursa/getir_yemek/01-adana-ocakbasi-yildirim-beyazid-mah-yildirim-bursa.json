@@ -1,0 +1,416 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "670d12f7be2b3a29166c968e",
+  "name": "01 Adana Ocakbaşı, Yıldırım (Beyazıd Mah.)",
+  "slug": "01-adana-ocakbasi-yildirim-beyazid-mah-yildirim-bursa",
+  "cuisine_types": [
+    "Döner",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 4.8,
+  "rating_count": 20,
+  "min_order_amount": 0.0,
+  "delivery_fee": 5.9,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6721ec90684561e13a868fef",
+            "name": "Tam Ekmek Arası Tavuk Döner",
+            "description": "Tavuk döner, soğan, domates sos ketçap mayonez patates",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6721ebe2684561e13a868638",
+            "name": "Tam Ekmek Arası Et Döner",
+            "description": "Et döner, soğan, domates sos",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67443797ceac63ceacf8c648",
+            "name": "Tam Ekmek Arası Köfte",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774795904659_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69bfe496ceac63ceacfc8ed5",
+            "name": "Ciğer Porsiyon",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f67288ceac63ceac323d79",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6721ec2131ac1a3869457d74",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "6721ec90684561e13a868fef",
+            "name": "Tam Ekmek Arası Tavuk Döner",
+            "description": "Tavuk döner, soğan, domates sos ketçap mayonez patates",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6721ec9c31ac1a386945823b",
+            "name": "Yarım Ekmek Arası Tavuk Döner",
+            "description": "Tavuk döner, soğan, domates sos",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6721ebbc03fecbeb62b0189c",
+        "name": "Et Döner",
+        "items": [
+          {
+            "id": "6721ebe2684561e13a868638",
+            "name": "Tam Ekmek Arası Et Döner",
+            "description": "Et döner, soğan, domates sos",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6721ec1865e82093458aadf5",
+            "name": "Yarım Ekmek Arası Et Döner",
+            "description": "Et döner, soğan, domates sos",
+            "price": 229.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6741e810ceac63ceacf84133",
+        "name": "Köfte Ekmek",
+        "items": [
+          {
+            "id": "67443797ceac63ceacf8c648",
+            "name": "Tam Ekmek Arası Köfte",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774795904659_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "674437f3ceac63ceacf8c685",
+            "name": "Yarım Ekmek Arası Köfte",
+            "description": "Domates, soğan, ketçap, mayonez",
+            "price": 229.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6721eca2684561e13a8690d0",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6721ecad684561e13a869138",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774867317807_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6721ecb3dd0c2132dab88080",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774867362738_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69c11256ceac63ceacfd5b48",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c1127cceac63ceacfd5b72",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 149.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774867302725_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69beae09ceac63ceacfc3559",
+        "name": "Porsiyonlar",
+        "items": [
+          {
+            "id": "69bfe417ceac63ceacfc8e8c",
+            "name": "Adana Kebap (Porsiyon)",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bfe43cceac63ceacfc8e97",
+            "name": "Urfa Kebap (Porsiyon)",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bfe47bceac63ceacfc8ec5",
+            "name": "Pideli Köfte",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bfe496ceac63ceacfc8ed5",
+            "name": "Ciğer Porsiyon",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bfe51aceac63ceacfc8f37",
+            "name": "Kanat Porsiyon",
+            "description": null,
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bfe53aceac63ceacfc8f4e",
+            "name": "Tavuk Şiş (Porsiyon)",
+            "description": null,
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bfe618ceac63ceacfc8fe3",
+            "name": "Karışık Kebap (Porsiyon)",
+            "description": null,
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69bfe637ceac63ceacfc9008",
+            "name": "Patlıcanlı Kebab (Porsiyon)",
+            "description": null,
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774796517065_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69bfe656ceac63ceacfc901c",
+            "name": "Domatesli Kebap (1 Porsiyon)",
+            "description": null,
+            "price": 799.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c0fc05ceac63ceacfd2482",
+            "name": "Pideli Köfte",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f67288ceac63ceac323d79",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f76bd7ceac63ceac328860",
+            "name": "İçli Köfte",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6a00dd15ceac63ceac400ee1",
+            "name": "Yürek",
+            "description": null,
+            "price": 770.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69bfe6ffceac63ceacfc9074",
+        "name": "Dürümler",
+        "items": [
+          {
+            "id": "69c0fb24ceac63ceacfd2365",
+            "name": "Urfa Dürum",
+            "description": null,
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c0fb3eceac63ceacfd238c",
+            "name": "Adana Dürüm",
+            "description": null,
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c0fb53ceac63ceacfd23a2",
+            "name": "Ciger Dürüm",
+            "description": null,
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774796752176_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69c0fb7fceac63ceacfd240a",
+            "name": "Et Dürüm",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69c0fbaeceac63ceacfd2442",
+            "name": "Tavuk Dürüm",
+            "description": null,
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69f4c457ceac63ceac31773d",
+            "name": "Tavuk Şiş Dürüm",
+            "description": "Domates ve soğan",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6a00dd54ceac63ceac400f00",
+            "name": "Yürek Dürüm",
+            "description": null,
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

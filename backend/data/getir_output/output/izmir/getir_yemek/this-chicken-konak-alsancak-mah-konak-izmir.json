@@ -1,0 +1,1164 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "6739d1b48c58506bbe1068e1",
+  "name": "This Chicken, Konak (Alsancak Mah.)",
+  "slug": "this-chicken-konak-alsancak-mah-konak-izmir",
+  "cuisine_types": [
+    "Burger",
+    "Tavuk"
+  ],
+  "rating": 3.8,
+  "rating_count": 10,
+  "min_order_amount": 260.0,
+  "delivery_fee": 48.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Zincir Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6978975cceac63ceacafae95",
+            "name": "Big Mix Menü",
+            "description": "1 Adet Chicken Bowl, 1 Adet Chicken Burger ve içecek (1 L) ile (Seçilen soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 499.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774616216645_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864d476ceac63ceac6c9a04",
+            "name": "Çıtır Bowl",
+            "description": "Patates kızartması (300 g), 2 adet çıtır tenders ve tercihe göre bowl üzeri 3 adet sos ile (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 399.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751438480560_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d07",
+            "name": "Pop-Up Chicken (20 Adet)",
+            "description": "140 g",
+            "price": 194.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751355044708_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6903564aceac63ceac18d1f9",
+        "name": "Kaçmaz Menü",
+        "items": [
+          {
+            "id": "69fc316bceac63ceac3d3894",
+            "name": "Kaçmaz Menü",
+            "description": "2 adet chicken burger ve 2 adet chicken bowl (İndirim ödeme ekranında yansıyacaktır.)",
+            "price": 1499.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778136280625_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69fc3489ceac63ceac3d3c80",
+            "name": "Kaçmaz Menü 2",
+            "description": "2 Eko Chick Burger ve 1 adet bowl ile (İndirim ödeme ekranında yansıyacaktır.)",
+            "price": 699.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778136299832_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c9a",
+        "name": "Eco Mini Menü",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5d31",
+            "name": "EcoChick Menü",
+            "description": "3 Adet fingers, 3 adet nugget, 3 adet soğan halkası, 10 adet pop up chicken ve patates kızartması",
+            "price": 299.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751382209447_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d33",
+            "name": "EcoPop Menü",
+            "description": "40 Adet pop up chicken ve patates kızartması",
+            "price": 314.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751382574633_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d35",
+            "name": "MiniChick Menü",
+            "description": "2 Adet çıtır tenders, 2 adet küp tenders, 10 adet pop up chicken ve patates kızartması",
+            "price": 329.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751382709793_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d37",
+            "name": "Double Eco Menü",
+            "description": "2 Adet chickburger ve patates kızartması",
+            "price": 349.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751383230201_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d38",
+            "name": "Triple Eco Menü",
+            "description": "3 Adet EkoChickBurger ve patates kızartması",
+            "price": 424.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751383466542_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d39",
+            "name": "4x4 Eco Menü",
+            "description": "2 Adet EcoChickburger, 2 adet EcoHamburger, 2 adet patates kızartması, 20 adet pop up chicken, 8 adet soğan halkası ve içecek (1 L)",
+            "price": 784.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751383620271_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c8f",
+        "name": "GetirYemek’e Özel Menü",
+        "items": [
+          {
+            "id": "69035797ceac63ceac18d46a",
+            "name": "Double Bowl Menü",
+            "description": "2 adet tercih edeceğiniz bowl ile (Seçilen soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 499.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774615384353_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6978975cceac63ceacafae95",
+            "name": "Big Mix Menü",
+            "description": "1 Adet Chicken Bowl, 1 Adet Chicken Burger ve içecek (1 L) ile (Seçilen soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 499.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774616216645_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d2b",
+            "name": "Maxi Chicken Burger Menü",
+            "description": "Chicken burger, 2 adet çıtır tenders, patates kızartması ve kutu içecek",
+            "price": 499.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751381381815_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d2d",
+            "name": "Doy Doy Menü",
+            "description": "2 Adet chicken burger, 4 adet fingers, 10 adet pop up chicken, 6 adet soğan halkası, 2 adet patates kızartması ve içecek (1 L)",
+            "price": 699.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751381578319_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c90",
+        "name": "Kiloluk Çıtır Lezzet",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5d11",
+            "name": "Çıtır Wings (500 g)",
+            "description": "Çıtır Wings (Kök ve Yaprak Kanat) (Belirtilen gramajlarda, ürünün pişmeden önceki donuk hali baz alınmıştır.)",
+            "price": 604.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751379484987_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d16",
+            "name": "Çıtır Tenders (500 g)",
+            "description": "Çıtır Tenders (Belirtilen gramajlarda, ürünün pişmeden önceki donuk hali baz alınmıştır.)",
+            "price": 544.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751380187521_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d1b",
+            "name": "Çıtır Mix (500 g)",
+            "description": "Çıtır Wings (Kök ve Yaprak Kanat), Çıtır Tenders, Fingers (Belirtilen gramajlarda, ürünün pişmeden önceki donuk hali baz alınmıştır.)",
+            "price": 549.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751380343783_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d1f",
+            "name": "Çıtır Wings (1 kg)",
+            "description": "Kök ve Yaprak Kanat (Belirtilen gramajlarda, ürünün pişmeden önceki donuk hali baz alınmıştır.)",
+            "price": 964.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751380486085_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d23",
+            "name": "Çıtır Tenders (1 kg)",
+            "description": "Çıtır Tenders (Belirtilen gramajlarda, ürünün pişmeden önceki donuk hali baz alınmıştır.)",
+            "price": 899.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751380605128_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d27",
+            "name": "Çıtır Mix (1 kg)",
+            "description": "Kök ve Yaprak Kanat, Çıtır Tenders, Fingers (Belirtilen gramajlarda, ürünün pişmeden önceki donuk hali baz alınmıştır.)",
+            "price": 899.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751380719270_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864e904ceac63ceac6d03ce",
+        "name": "Ekonomik Menü",
+        "items": [
+          {
+            "id": "6864ead7ceac63ceac6d0c7c",
+            "name": "Ekonomik Menü 1",
+            "description": "Çıtır bowl, mix bowl ve içecek (1 L) (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 604.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751444170454_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864eb7eceac63ceac6d0dd6",
+            "name": "Ekonomik Menü 2",
+            "description": "Chickburger (90 g), EcoChickburger (65 g), 4 adet soğan halkası, patates kızartması ve kutu içecek",
+            "price": 514.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751444320254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864efecceac63ceac6d2624",
+            "name": "Ekonomik Menü 3",
+            "description": "2 Adet Chicken burger, 20 adet pop up chicken, 2 adet patates kızartması ve içecek (1 L)",
+            "price": 664.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751445436404_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864f07bceac63ceac6d274d",
+            "name": "Ekonomik Menü 4",
+            "description": "4 Adet yaprak kanat, 4 adet kök kanat, 4 adet fingers, 4 adet soğan halkası, patates kızartması ve içecek (1 L)",
+            "price": 734.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751445586254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864f120ceac63ceac6d28c2",
+            "name": "Ekonomik Menü 5",
+            "description": "4 Adet çıtır tenders, 4 adet küp tenders, 4 adet fingers, 20 adet pop up chicken, patates kızartması ve içecek (1 L)",
+            "price": 664.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751445754720_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c91",
+        "name": "Avantajlı Algida Menüsü",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5d1a",
+            "name": "Avantajlı Algida Menüsü 1",
+            "description": "Çıtır bowl, mix bowl ve 2 adet algida maraş cup (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 604.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751377346716_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d1d",
+            "name": "Avantajlı Algida Menüsü 2",
+            "description": "Chickburger (90 g), EcoChickBurger (65 g), 4 adet soğan halkası, patates kızartması ve algida maraş cup",
+            "price": 514.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751377544950_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d0d",
+            "name": "Avantajlı Algida Menüsü 3",
+            "description": "2 Adet chicken burger, 20 adet pop up chicken, 2 adet patates kızartması ve 2 adet algida maraş cup",
+            "price": 664.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751378290145_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d0e",
+            "name": "Avantajlı Algida Menüsü 4",
+            "description": "4 Adet yaprak kanat, 4 adet kök kanat, 4 adet fingers, 4 adet soğan halkası, patates kızartması ve 2 adet algida maraş cup",
+            "price": 734.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751378720235_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d0f",
+            "name": "Avantajlı Algida Menüsü 5",
+            "description": "4 Adet çıtır tenders, 4 adet küp tenders, 4 adet fingers, 20 adet pop up chicken, patates kızartması ve 2 adet algida maraş cup",
+            "price": 664.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751379243506_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864d325ceac63ceac6c8a72",
+        "name": "Bowl",
+        "items": [
+          {
+            "id": "6864d476ceac63ceac6c9a04",
+            "name": "Çıtır Bowl",
+            "description": "Patates kızartması (300 g), 2 adet çıtır tenders ve tercihe göre bowl üzeri 3 adet sos ile (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 399.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751438480560_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864d572ceac63ceac6c9b4b",
+            "name": "Mix Bowl",
+            "description": "Patates kızartması (300 g), 10 adet pop up chicken, 2 adet fingers, 2 adet nugget ve tercih edeceğiniz 3 adet bowl üzeri sos ile (Seçmiş olduğunuz soslar bowl üzerine sıkılarak servis edilir.)",
+            "price": 399.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751438690303_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c92",
+        "name": "1 - 2 Kişilik Çıtır Menü",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5ca4",
+            "name": "S'Wings Menü",
+            "description": "2 Adet yaprak kanat, 2 adet kök kanat ve patates kızartması",
+            "price": 434.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751370133911_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d0b",
+            "name": "S'Tenders Menü",
+            "description": "2 Adet çıtır tenders, 2 adet küp tenders, 2 adet fingers ve patates kızartması",
+            "price": 404.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751370879508_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d34",
+            "name": "S'Pop Up Çıtır Menü",
+            "description": "4 Adet küp tenders, 20 adet pop up chicken ve patates kızartması",
+            "price": 404.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751372139072_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d36",
+            "name": "M'Wings Menü",
+            "description": "4 Adet yaprak kanat, 4 adet kök kanat ve patates kızartması",
+            "price": 604.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751373321069_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d3a",
+            "name": "M'Tenders Menü",
+            "description": "4 Adet çıtır tenders, 4 adet küp tenders, 4 adet fingers ve patates kızartması",
+            "price": 544.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751373417358_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d15",
+            "name": "M'Pop Up Çıtır Menü",
+            "description": "2 Adet çıtır tenders, 4 adet küp tenders, 30 adet pop up chicken ve patates kızartması",
+            "price": 514.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751375648884_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d17",
+            "name": "M'Çıtır Mix Menü",
+            "description": "2 Adet yaprak kanat, 2 adet kök kanat, 2 adet çıtır tenders, 2 adet küp tenders, 10 adet pop up chicken, 2 adet fingers, 2 adet nugget, 2 adet soğan halkası ve patates kızartması",
+            "price": 624.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751377021373_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c93",
+        "name": "3 - 4 Kişilik Çıtır Menü",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5d1c",
+            "name": "L'Wings Menü",
+            "description": "6 Adet yaprak kanat, 6 adet kök kanat ve 2 adet patates kızartması",
+            "price": 809.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751367105478_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d20",
+            "name": "L'Tenders Menü",
+            "description": "6 Adet çıtır tenders, 6 adet küp tenders, 6 adet fingers ve 2 adet patates kızartması",
+            "price": 724.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751367323950_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d29",
+            "name": "XL'Wings Menü",
+            "description": "8 Adet yaprak kanat, 8 adet kök kanat ve 2 adet patates kızartması",
+            "price": 954.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751367970944_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d44",
+            "name": "XL'Tenders Menü",
+            "description": "8 Adet çıtır tenders, 8 adet küp tenders, 8 adet fingers ve 2 adet patates kızartması",
+            "price": 844.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751368633657_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5ca1",
+            "name": "XL'Çıtır Mix Menü",
+            "description": "4 Adet yaprak kanat, 4 adet kök kanat, 4 adet çıtır tenders, 4 adet küp tenders, 20 adet pop up chicken, 4 adet fingers, 4 adet nugget, 4 adet soğan halkası ve 2 adet patates kızartması",
+            "price": 989.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751369755275_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c94",
+        "name": "1 - 2 Kişilik Burger & Roll Menü",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5cf9",
+            "name": "Chicken Burger Menü",
+            "description": "Chicken burger, patates kızartması ve kutu içecek",
+            "price": 434.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751360288791_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cf5",
+            "name": "ChickBurger Menü",
+            "description": "Chickburger (90 g), patates kızartması ve kutu içecek",
+            "price": 394.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751361967958_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cfc",
+            "name": "EcoChickBurger Menü",
+            "description": "Eco chickburger (65 g), patates kızartması ve kutu içecek",
+            "price": 369.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751362181867_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cf2",
+            "name": "EcoHamburger Menü",
+            "description": "EcoHamburger (45 g), patates kızartması ve kutu içecek",
+            "price": 404.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751362884943_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d01",
+            "name": "Score Menü",
+            "description": "Chicken burger, çıtır tenders, 2 adet fingers, 4 adet soğan halkası, patates kızartması ve kutu içecek",
+            "price": 504.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751363519602_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d02",
+            "name": "Gamer Menü",
+            "description": "Chicken burger, çıtır tenders, 2 adet fingers, 10 adet pop up chicken, 4 adet soğan halkası, patates kızartması ve içecek (1 L)",
+            "price": 544.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751364774013_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cec",
+            "name": "Kanka Menü",
+            "description": "2 adet chicken burger, 2 adet çıtır tenders, 4 adet fingers, 20 adet pop up chicken, 2 adet patates kızartması ve içecek (1 L) ile",
+            "price": 784.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751365152438_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cff",
+            "name": "Çocuk Menü",
+            "description": "EcoChickBurger (65 g), patates kızartması, donut ve cappy (250 ml) ile",
+            "price": 359.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751366193260_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c96",
+        "name": "3 - 4 Kişilik Burger & Roll Menü",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5d3c",
+            "name": "Triple Chicken Burger Menü",
+            "description": "3 Adet chicken burger, 15 adet pop up chicken, 6 adet nugget, 6 adet soğan halkası ve patates kızartması",
+            "price": 784.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751384349026_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864dd9cceac63ceac6cc465",
+            "name": "Triple ChickBurger Menü",
+            "description": "3 Adet ChickBurger (90 g), 15 adet pop up chicken, 6 adet nugget, 6 adet soğan halkası ve patates kızartması",
+            "price": 664.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751440681002_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864dff0ceac63ceac6ccdc0",
+            "name": "Combo EcoChick Pop Up Menü",
+            "description": "4 Adet EcoChickburger (65 g), 40 adet pop up chicken ve 2 adet patates kızartması",
+            "price": 664.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751441318812_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864e1faceac63ceac6ce4b5",
+            "name": "Combo Chicken Pop-Up Menü",
+            "description": "4 Adet chicken burger, 40 adet pop up chicken ve 2 adet patates kızartması",
+            "price": 969.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751441868688_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c97",
+        "name": "Atıştırmalık Lezzet",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5d03",
+            "name": "Patates Kızartması",
+            "description": "200 g",
+            "price": 134.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354863431_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d04",
+            "name": "Elma Dilim Patates",
+            "description": "200 g",
+            "price": 134.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354896008_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d05",
+            "name": "Soğan Halkası (6 Adet)",
+            "description": "90 g",
+            "price": 129.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354960514_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cad",
+            "name": "Soğan Halkası (12 Adet)",
+            "description": "180 g",
+            "price": 174.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751354981462_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d06",
+            "name": "Pop-Up Chicken (10 Adet)",
+            "description": "70 g",
+            "price": 139.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751355027883_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d07",
+            "name": "Pop-Up Chicken (20 Adet)",
+            "description": "140 g",
+            "price": 194.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751355044708_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d08",
+            "name": "Nugget (6 Adet)",
+            "description": "130 g",
+            "price": 139.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751355097035_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d09",
+            "name": "Nugget (12 Adet)",
+            "description": "260 g",
+            "price": 204.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751355109182_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d12",
+            "name": "Çıtır Tenders (3 Adet)",
+            "description": "180 g",
+            "price": 204.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751355478046_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d0c",
+            "name": "Çıtır Tenders (6 Adet)",
+            "description": "360 g",
+            "price": 309.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751355487503_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d22",
+            "name": "Küp Tenders (6 Adet)",
+            "description": "180 g",
+            "price": 209.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356082295_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d24",
+            "name": "Küp Tenders (12 Adet)",
+            "description": "360 g",
+            "price": 309.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356094132_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d2c",
+            "name": "Çıtır Wings (Yaprak Kanat) (3 Adet)",
+            "description": "126",
+            "price": 209.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356312021_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d2e",
+            "name": "Çıtır Wings (Yaprak Kanat) (6 Adet)",
+            "description": "252 g",
+            "price": 309.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356323642_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d3d",
+            "name": "Çıtır Wings (Kök Kanat) (3 Adet)",
+            "description": "165 g",
+            "price": 229.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356596063_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d3e",
+            "name": "Çıtır Wings (Kök Kanat) (6 Adet)",
+            "description": "330 g",
+            "price": 339.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356631196_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d3f",
+            "name": "Fingers (3 Adet)",
+            "description": "84 g",
+            "price": 139.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356699803_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5d40",
+            "name": "Fingers (6 Adet)",
+            "description": "168 g",
+            "price": 209.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751356845003_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cf3",
+            "name": "EcoHamburger (45 g)",
+            "description": "45 g",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751357047502_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cf4",
+            "name": "Chicken Burger",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751357282491_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cf8",
+            "name": "ChickBurger (90 g)",
+            "description": "90 g",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751357323480_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cfb",
+            "name": "EcoChickBurger (65 g)",
+            "description": "65 g",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751357370621_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c98",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5cb9",
+            "name": "Algida Maraş Cup",
+            "description": null,
+            "price": 129.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353840165_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c95",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5caf",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 104.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733902834608_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5ce5",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 104.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733902858795_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cba",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 104.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733902876668_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb5",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 104.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353588817_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb1",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 104.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733902919444_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb4",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 104.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cae",
+            "name": "Cappy (330 ml)",
+            "description": null,
+            "price": 104.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733902958118_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb7",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 89.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353700737_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb0",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 114.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903004180_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5ce6",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 114.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353668773_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cbd",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 114.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903042350_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb6",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 114.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353607056_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb2",
+            "name": "Fuse Tea Şeftali (1 L)",
+            "description": null,
+            "price": 114.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903079974_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb3",
+            "name": "Fuse Tea Limon (1 L)",
+            "description": null,
+            "price": 114.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cb8",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 114.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353708865_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cbc",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 59.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353623703_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cbb",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 49.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903166958_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6864a4bcceac63ceac6c5c99",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "6864a4bcceac63ceac6c5ca7",
+            "name": "3'lü Sos",
+            "description": null,
+            "price": 39.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5ca9",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 19.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903271784_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cab",
+            "name": "Ketçap",
+            "description": null,
+            "price": 9.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903244399_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cac",
+            "name": "Mayonez",
+            "description": null,
+            "price": 9.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1751353446019_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5ce9",
+            "name": "Sarımsaklı Mayonez",
+            "description": null,
+            "price": 19.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903284709_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5cea",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 19.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903213957_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6864a4bcceac63ceac6c5ceb",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 19.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733903198975_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

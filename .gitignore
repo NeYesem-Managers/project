@@ -1,0 +1,43 @@
+.DS_Store
+**/.DS_Store
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Node
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+**/__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Flutter / Dart
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+**/build/
+**/coverage/
+**/ios/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/windows/flutter/ephemeral/
+
+# IDE
+**/.idea/
+*.iml
+
+# Local backups
+backend-working-backup/
+mobile-working-backup/
+.push-staging/

@@ -1,0 +1,674 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "5fc7cbce90b67d1b5c62ca14",
+  "name": "Son Durak Büfe ve Kokoreç (Konak Mah.)",
+  "slug": "son-durak-bufe-ve-kokorec-konak-mah-konak-izmir",
+  "cuisine_types": [
+    "Sokak Lezzetleri"
+  ],
+  "rating": 3.0,
+  "rating_count": 2000,
+  "min_order_amount": 220.0,
+  "delivery_fee": 46.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5fd678c0a70ce4146ccc4ec6",
+            "name": "Tam Ekmek Arası İstanbul Kokoreç",
+            "description": "Biber, soğan, domates",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985752926_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd6727de730aef62e5e1968",
+        "name": "Tost",
+        "items": [
+          {
+            "id": "5fd672c6b5d2b3351db358ca",
+            "name": "Ayvalık Tostu",
+            "description": "Sucuk, sosis, salam, kaşar peyniri, turşu, ketçap, mayonez",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985644617_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "603dff4660cc46c73e8847c8",
+            "name": "Üç Peynirli Tost",
+            "description": "Kaşar peyniri , tulum peynir ve sayas peyniri",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985788461_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd672d683fab1ac5d052c32",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "5fd672f134da9f41c74df4e5",
+            "name": "Yumurtalı Karışık Sandviç",
+            "description": "Hamburger ekmeğine; dana sucuk, sosis, salam, kaşar peyniri, yumurta, turşu, ketçap, mayonez ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985852150_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd673189501112ae8bc6f23",
+            "name": "Kumru Sandviç",
+            "description": "Dana sucuk, sosis, salam, turşu, kaşar peyniri",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985665022_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd6733238a4643bc991116c",
+            "name": "Salamlı Kaşarlı Kumru Sandviç",
+            "description": "Salam, kaşar peyniri, turşu, ketçap, mayonez ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd673579d557cefc264a89d",
+            "name": "Karışık Sandviç",
+            "description": "Hamburger ekmeğine; dana sucuk, sosis, salam, kaşar peyniri, kavurma, turşu, ketçap, mayonez ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985654757_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd6736bad8c482c3dd9b14b",
+            "name": "Pastırmalı Kaşarlı Sandviç1",
+            "description": "Hamburger ekmeğine; pastırma, kaşar peyniri, turşu, ketçap, mayonez ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985678624_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd6737eeceda30c921e5284",
+            "name": "Sayaslı Kumru Sandviç",
+            "description": "Sayas peyniri, sucuk, kaşar peyniri, turşu, ketçap, mayonez ile",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd67386e1bbde4f02113291",
+        "name": "Kokoreç",
+        "items": [
+          {
+            "id": "5fd67398f8c21793b537d433",
+            "name": "Kokoreç",
+            "description": "Tuz, kimyon, pul biber ile",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308556_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd673ab406e54931d3268df",
+            "name": "Badem Kokoreç",
+            "description": "Tuz, kimyon, pul biber ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308616_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd676817b882476b77e654d",
+            "name": "Yarım Ekmek Arası Kokoreç",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985830566_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd677c3a70ce4d3bbcc4e79",
+            "name": "Çeyrek Ekmek Arası Kokoreç",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985610012_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd677d4b4816a05ea807022",
+            "name": "Yarım Ekmek Arası Duble Kokoreç",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308686_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd677eca9ef54f674af22e2",
+            "name": "Tam Ekmek Arası Kokoreç",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985778371_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd677fca9ef540757af22e4",
+            "name": "Yarım Ekmek Arası Badem Kokoreç",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308641_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67854475c71d3680409e4",
+            "name": "Çeyrek Ekmek Arası Badem Kokoreç",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308610_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd6786549c7da8819349454",
+            "name": "Tam Ekmek Arası Badem Kokoreç",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308585_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "60238fb13d73fa026f8bfbc7",
+            "name": "Yarım Ekmek Kuzu Kokoreç",
+            "description": "tuz kimyon pul biber",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308517_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6023911d468b465bdc6c6f9f",
+            "name": "Tam Ekmek Kuzu Kokoreç",
+            "description": "tuz kimyon pul biber",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308506_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "602391709af3ba640dab79a5",
+            "name": "Porsiyon Kuzu Kokoreç",
+            "description": "tuz kimyon pul biber",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985733351_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "603e002cb3d2c39d5738f973",
+            "name": "Çeyrek Ekmek Arası Kuzu Kokoreç",
+            "description": "tuz kimyon pul biber",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308577_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd67880e730ae9c565e198e",
+        "name": "İstanbul Kokoreç",
+        "items": [
+          {
+            "id": "5fd6789134da9f51f04df4fd",
+            "name": "İstanbul Kokoreç",
+            "description": "Biber, soğan, domates ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308663_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd678a12d7fe364d863a554",
+            "name": "Çeyrek Ekmek Arası İstanbul Kokoreç",
+            "description": "Biber, soğan, domates",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985599737_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd678b0e1bbde28f71132a0",
+            "name": "Yarım Ekmek Arası İstanbul Kokoreç",
+            "description": "Biber, soğan, domates",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985802322_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd678c0a70ce4146ccc4ec6",
+            "name": "Tam Ekmek Arası İstanbul Kokoreç",
+            "description": "Biber, soğan, domates",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985752926_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61085c0533c376e14a695333",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "61085c5d2d958b17b33ca80d",
+            "name": "Yarım Ekmek Izgara Tavuk",
+            "description": "Yeşillik, soğan ve domates ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd678ccc0f73b80813c2cbd",
+        "name": "Köfte",
+        "items": [
+          {
+            "id": "5fd678e17b882433af7e6555",
+            "name": "Izgara Köfte",
+            "description": "Közlenmiş domates, közlenmiş biber ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985714868_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd678f083fab1586a052c43",
+            "name": "Çeyrek Ekmek Arası Köfte",
+            "description": "Yeşillik, soğan, domates",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd678fda70ce47956cc4ec8",
+            "name": "Yarım Ekmek Arası Köfte",
+            "description": "Yeşillik, soğan, domates",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985817293_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd6790cb5d2b3ac77b358d9",
+            "name": "Tam Ekmek Arası Köfte",
+            "description": "Yeşillik, soğan, domates",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985765017_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd6791aa9ef545908af22ea",
+        "name": "Uykuluk",
+        "items": [
+          {
+            "id": "5fd6793031411aef36457e2a",
+            "name": "Uykuluk",
+            "description": "Tuz, kimyon, pul biber ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd6793e34da9f00aa4df4ff",
+            "name": "Çeyrek Ekmek Arası Uykuluk",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308610_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd6794bc0f73bdedb3c2cc0",
+            "name": "Yarım Ekmek Arası Uykuluk",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd6795b7b8159ec11a8b46d",
+            "name": "Tam Ekmek Arası Uykuluk",
+            "description": "Tuz, kimyon, pul biber",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308585_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd6796b2d7fe346c163a556",
+        "name": "İstanbul Uykuluk",
+        "items": [
+          {
+            "id": "5fd679827b81590981a8b46f",
+            "name": "İstanbul Uykuluk",
+            "description": "Biber, soğan, domates ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308663_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67992b4816a97fb80703d",
+            "name": "Çeyrek Ekmek Arası İstanbul Uykuluk",
+            "description": "Biber, soğan, domates",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308736_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67a0e7b8824e24f7e655b",
+            "name": "Yarım Ekmek Arası İstanbul Uykuluk",
+            "description": "Biber, soğan, domates",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308625_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67a1c43e702b19d1a98e0",
+            "name": "Tam Ekmek Arası İstanbul Uykuluk",
+            "description": "Biber, soğan, domates",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1634537308611_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "602f7b645f9272f1dc867abe",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "602f7be785b2c6221027b9a2",
+            "name": "Patates Kızartması",
+            "description": "İki kişilik",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1615985696153_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5fd67a27a9ef5410b6af22f0",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5fd67a4e7b8824b6317e655d",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67b46406e54498432694d",
+            "name": "Coca Cola Şekersiz (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67bcaa70ce401abcc4ed9",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd67bd783fab1e96c052c54",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd67be5406e54e3e732694f",
+            "name": "Cappy (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd67bf4eceda30df81e5292",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd67c0a43e702d4041a98f6",
+            "name": "Limonata (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925708603_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67c1f14bd88f769aac970",
+            "name": "Niğde Gazozu (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd67c37f8c21700c037d44e",
+            "name": "Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67c42e1bbde5b041132ef",
+            "name": "Ayran ( 300 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67c67a9ef54331baf230b",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67c7feceda3ed351e5298",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd67c9334da9fd8454df501",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67cb3e1bbde05ba1132fb",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67cc634da9f72414df505",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5fd67cd6475c71cb3c0409fd",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5fd67ce3e1bbded3361132fd",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eecfdb1ff1394a50415e2c",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eecfdc1ff139a1b9415f11",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

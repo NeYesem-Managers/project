@@ -1,0 +1,626 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "6360c2fda4c706e1b10e7b4e",
+  "name": "Pide By Pide, Konak (Güneşli Mah.)",
+  "slug": "pide-by-pide-konak-gunesli-mah-konak-izmir",
+  "cuisine_types": [
+    "Pide & Lahmacun"
+  ],
+  "rating": 3.3,
+  "rating_count": 50,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "69d610d7ceac63ceac1136d5",
+            "name": "Dilediğin Pide Menü",
+            "description": "Tercih edeceğiniz pide (45 cm) ve içecek (330 ml) veya ayran ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775636670794_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605ae1520cf546",
+            "name": "Dilediğin 2'li Pide Menü",
+            "description": "Tercih edeceğiniz pide (2 adet) ve içecek (1 L) ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280815148_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69681af6ceac63ceac9fd878",
+            "name": "2'li Patatesli Leziz Menü",
+            "description": "Patatesli pide (2 adet) ve içecek (1 L) ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768430342149_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "663db8eaed3c22d4fd7d4f9b",
+            "name": "Kıymalı Pide Menü",
+            "description": "Kıymalı pide ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280750569_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663db922062542ddcb0c1682",
+            "name": "3'lü Karışık Pide Menü",
+            "description": "3'lü Karışık pide ve içecek (330 ml)",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280760231_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69681a74ceac63ceac9fd7a9",
+        "name": "GetirYemek'e Özel Menü",
+        "items": [
+          {
+            "id": "69d610d7ceac63ceac1136d5",
+            "name": "Dilediğin Pide Menü",
+            "description": "Tercih edeceğiniz pide (45 cm) ve içecek (330 ml) veya ayran ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775636670794_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605ae1520cf546",
+            "name": "Dilediğin 2'li Pide Menü",
+            "description": "Tercih edeceğiniz pide (2 adet) ve içecek (1 L) ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280815148_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69681af6ceac63ceac9fd878",
+            "name": "2'li Patatesli Leziz Menü",
+            "description": "Patatesli pide (2 adet) ve içecek (1 L) ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768430342149_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6375f6fc37605a5ec10cf52b",
+        "name": "Fırsat Menüsü",
+        "items": [
+          {
+            "id": "663db85d4e764b1fc0f8789d",
+            "name": "Patatesli Pide Menü",
+            "description": "Patatesli pide ve içecek (330 ml)",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280728790_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69df8bf5ceac63ceac1b552d",
+            "name": "Peynirli Pide Menü",
+            "description": "Peynirli pide (45 cm) ve içecek (330 ml)",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776258006398_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "663db8c9e0cc1ad722de4411",
+            "name": "Tavuklu Pide Menü",
+            "description": "Tavuklu pide ve içecek (330 ml)",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280741699_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663db8eaed3c22d4fd7d4f9b",
+            "name": "Kıymalı Pide Menü",
+            "description": "Kıymalı pide ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280750569_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663db922062542ddcb0c1682",
+            "name": "3'lü Karışık Pide Menü",
+            "description": "3'lü Karışık pide ve içecek (330 ml)",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280760231_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66fecfcdceac63ceac84428d",
+            "name": "Patatesli Leziz Menü",
+            "description": "Patatesli pide (45 cm), çorba ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728542860341_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66fed01dceac63ceac8442d4",
+            "name": "Tavuklu & Patatesli Leziz Menü",
+            "description": "Tavuklu & patatesli pide (45 cm), çorba ve içecek (330 ml)",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728542833028_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66fed048ceac63ceac844314",
+            "name": "Kıymalı & Patatesli Leziz Menü",
+            "description": "Kıymalı & patatesli pide (45 cm), çorba ve içecek (330 ml)",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728542816905_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6773cd9bceac63ceac4d09dd",
+        "name": "Lahmacunlu Menü",
+        "items": [
+          {
+            "id": "69ce588aceac63ceac0aac3a",
+            "name": "Lahmacun Menü",
+            "description": "Lahmacun, garnitür ve ayran (300 ml) ile",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775130759194_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66fcf654ceac63ceac81e691",
+            "name": "Lahmacun & Çorba Menü",
+            "description": "Lahmacun, garnitür, çorba ve kutu içecek/ayran ile",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1728542875275_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a8ad00cf575",
+            "name": "2'li Lahmacun & İçecek Menü",
+            "description": "Lahmacun (2 adet) ve içecek (330 ml) ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280772137_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a0a5a0cf5df",
+            "name": "4'lü Lahmacun & İçecek Menü",
+            "description": "Lahmacun (4 adet) ve içecek (1 L) ile",
+            "price": 730.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280782344_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69cd2557ceac63ceac09ba2e",
+            "name": "6’lı Lahmacun Menü",
+            "description": "Lahmacun (6 adet) ve içecek (1 L) ile",
+            "price": 1080.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775052112077_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cbc8f6ceac63ceac073869",
+            "name": "10’lu Lahmacun Menü",
+            "description": "Lahmacun (10 adet) ve içecek (1 L) ile",
+            "price": 1800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774962928511_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6375f6fc37605a9d3a0cf52c",
+        "name": "Pide & Lahmacun",
+        "items": [
+          {
+            "id": "6375f6fc37605adc010cf580",
+            "name": "Lahmacun",
+            "description": null,
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280451361_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605adf170cf59e",
+            "name": "Tavuklu Pide",
+            "description": null,
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280500676_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a62f90cf5ab",
+            "name": "Kıymalı Pide",
+            "description": null,
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280510944_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69c44cdbceac63ceac01458f",
+            "name": "Kıymalı Kaşarlı Pide",
+            "description": null,
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774472365908_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69c44d48ceac63ceac0145ec",
+            "name": "Kıymalı Yumurtalı Pide",
+            "description": null,
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774472513485_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a72fc0cf5c5",
+            "name": "Kuşbaşılı Pide",
+            "description": null,
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280530990_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69c44d79ceac63ceac014610",
+            "name": "Kuşbaşılı Kaşarlı Pide",
+            "description": null,
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774472552711_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69c44db2ceac63ceac014658",
+            "name": "Kuşbaşılı Yumurtalı Pide",
+            "description": null,
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774472622892_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69df8b82ceac63ceac1b549c",
+            "name": "Peynirli Pide",
+            "description": null,
+            "price": 355.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776257918462_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605ae5fe0cf584",
+            "name": "3'lü Karışık Pide",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280520885_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "668cfac4ceac63ceac61d62e",
+            "name": "Kıymalı & Patatesli Pide",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730283123178_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "668cfad9ceac63ceac61d63f",
+            "name": "Tavuklu & Patatesli Pide",
+            "description": null,
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730283134053_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a3aee0cf538",
+            "name": "Patatesli Pide",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280403595_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67739882ceac63ceac4c5c5e",
+            "name": "Sucuklu Pide",
+            "description": null,
+            "price": 355.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735628917834_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "677398b3ceac63ceac4c5cc4",
+            "name": "Sucuklu Karışık Pide",
+            "description": null,
+            "price": 355.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735628973046_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6375f6fc37605a29c70cf52d",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "6375f6fc37605a9e8e0cf545",
+            "name": "Mercimek Çorbası",
+            "description": "Tırnaklı pide ile",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773842799980_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6375f6fc37605a220d0cf52f",
+        "name": "Ekstra Lezzet",
+        "items": [
+          {
+            "id": "6375f6fc37605ad1380cf536",
+            "name": "Turşu",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280576287_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a2e090cf560",
+            "name": "Biberiye Turşusu",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280586226_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605ad1180cf563",
+            "name": "Roka Salata",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280601247_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6375f6fc37605a94c20cf530",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6375f6fc37605a16cd0cf564",
+            "name": "By Bomba Tatlısı",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280619608_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "64902c2ac5fb42eb17fe1a82",
+            "name": "Sufle",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280629353_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6992bcb7ceac63ceacd32fd7",
+            "name": "2'li Sufle",
+            "description": "Sufle (2 adet)",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771224242494_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6375f6fc37605a44a00cf531",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6375f6fc37605a9d560cf535",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718280908005_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605aaeaf0cf562",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718285134574_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a2a370cf566",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730290185650_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605ae7710cf569",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718285037724_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a0aee0cf56b",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677848760763_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605affba0cf56e",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677848902774_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605aca9a0cf56f",
+            "name": "Su (330 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1677848903679_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a7d2f0cf570",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718285231827_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a5c0e0cf571",
+            "name": "Pepsi Max (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718285212129_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605aa5300cf573",
+            "name": "Yedigün (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718285251729_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6375f6fc37605a17920cf574",
+            "name": "7Up (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1718285279351_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

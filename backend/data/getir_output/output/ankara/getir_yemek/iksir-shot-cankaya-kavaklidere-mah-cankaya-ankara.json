@@ -1,0 +1,809 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6998bfb9423ed3a5101fd5c0",
+  "name": "İksir Shot, Çankaya (Kavaklıdere Mah.)",
+  "slug": "iksir-shot-cankaya-kavaklidere-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Kahve & İçecek"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": 260.0,
+  "delivery_fee": 51.99,
+  "delivery_time_min": 20,
+  "delivery_time_max": 30,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Keşfet"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "69e54f4cceac63ceac22ebae",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "69e55109ceac63ceac22ed03",
+            "name": "Mercimek Çorbası",
+            "description": null,
+            "price": 199.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55133ceac63ceac22ed08",
+            "name": "Tavuksuyu Çorbası",
+            "description": "Limon ve ekmek ile",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54f68ceac63ceac22ebb2",
+        "name": "Menüler",
+        "items": [
+          {
+            "id": "69e55646ceac63ceac22eec3",
+            "name": "Cajun Kıtır Menü",
+            "description": "5 li cajun baharatlı tavuk + patates kızartması + coca cola (200 ml)",
+            "price": 655.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55666ceac63ceac22eec8",
+            "name": "Cheese Burger Menü",
+            "description": "Cheese burger (120 gr) + patates kızartması + coca cola (200 ml)",
+            "price": 625.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6513fceac63ceac2414e6",
+            "name": "Günaydın Menüsü",
+            "description": "Kaşarlı sucuklu bazlama tost + patates kızartması + cappy meyve suyu (şeftali - karışık - vişne)",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6515fceac63ceac2414ff",
+            "name": "Dev Doyuran 2'Li Sanayi Tostu Menü",
+            "description": "2 adet sanayi tostu + patates kızartması + içecek (1 l)",
+            "price": 1450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54f94ceac63ceac22ebce",
+        "name": "Tost Çeşitleri",
+        "items": [
+          {
+            "id": "69e65188ceac63ceac24151c",
+            "name": "Çift Kaşarlı Tost",
+            "description": "Jumbo kare tost ekmeği içerisine sadece bol kaşar konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e651a6ceac63ceac241529",
+            "name": "Zeytinli Kaşarlı Tost",
+            "description": "Jumbo kare tost ekmeği içerisine dilimlenmiş zeytin ve kaşar peyniri konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e651c6ceac63ceac241547",
+            "name": "Sucuklu Tost",
+            "description": "Jumbo kare tost ekmeği içerisine sadece dana sucuk konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e651e3ceac63ceac24154f",
+            "name": "Sucuklu Kaşarlı Tost",
+            "description": "Jumbo kare tost ekmeği içerisine dana sucuk ve kaşar peynir konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65211ceac63ceac241567",
+            "name": "Karışık Tost",
+            "description": "Jumbo kare tost ekmeği içerisine dana sucuk + kaşar peynir ve salam konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6522fceac63ceac241581",
+            "name": "Kavurmalı Tost",
+            "description": "Jumbo kare ekmeğe sadece dana kavurma konularak hazırlanır, Garnitür ile servis edilir",
+            "price": 725.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65252ceac63ceac241596",
+            "name": "Kavurma Kaşarlı Tost",
+            "description": "Jumbo kare tost ekmeği içerisine dana kavurma ve kaşar peyniri konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6526cceac63ceac2415a8",
+            "name": "Beyaz Peynirli Tost",
+            "description": "Jumbo kare tost ekmeği içerisine beyaz peynir konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6528bceac63ceac2415c5",
+            "name": "4 Peynirli Tost",
+            "description": "Jumbo kare tost ekmeği içerisine kaşar peyniri, mozzarella peyniri, cheddar peyniri ve labne peynir konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e652a1ceac63ceac2415d2",
+            "name": "Sanayi Tostu",
+            "description": "Tüm bakkal ekmeğine kaşar peynir, dana sucuk, dana kavurma, salça, domates, biber ile hazırlanır. Garnitür ile servis edilir.",
+            "price": 775.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e652c7ceac63ceac241611",
+            "name": "Yan Sanayi Tostu",
+            "description": "Tüm bakkal ekmeğine kaşar peynir, dana sucuk, salam, salça, domates, biber ile hazırlanır. Garnitür ile servis edilir.",
+            "price": 715.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e652e8ceac63ceac241648",
+            "name": "Organize Sanayi Tostu",
+            "description": "Tüm bakkal ekmeğine kaşar peynir, dana sucuk, dana kavurma, pastırma, salça, domates, biber ile hazırlanır. Garnitür ile servis edilir.",
+            "price": 850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e652fdceac63ceac241655",
+            "name": "Beyaz Peynirli Domatesli Tost",
+            "description": "Jumbo kare tost ekmeğine beyaz peynir, domates ve kekik ile hazırlanır. Garnitür ile servis edilir.",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65320ceac63ceac2416a6",
+            "name": "Pastırmalı Kaşarlı Tost",
+            "description": "Jumbo kare tost ekmeği içerisine pastırma ve kaşar peynir konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 715.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65350ceac63ceac2416bc",
+            "name": "Bas-bas Özel Tost",
+            "description": "Jumbo kare ekmeğe kasap sucuk, kaşar peyniri, pastırma ve kavurma ile yapılmış special tost, garnitür ile servis edilir",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65374ceac63ceac2416cc",
+            "name": "Kaşarlı Tost",
+            "description": "Jumbo kare tost ekmeği içerisine sadece kaşar konularak hazırlanır. Garnitür ile servis edilir.",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54f9cceac63ceac22ebd2",
+        "name": "Bazlama Tostlar",
+        "items": [
+          {
+            "id": "69e6539cceac63ceac2416e0",
+            "name": "Kaşarlı Bazlama Tost",
+            "description": "Bazlama ekmeğine; kaşar peyniri, domates, yeşil biber. Garnitür ile servis edilir",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65427ceac63ceac241747",
+            "name": "Sucuklu Kaşarlı Bazlama Tost",
+            "description": "Bazlama ekmeğine; dana sucuk, kaşar peyniri, domates, yeşil biber ile hazırlanır. Garnitür ile servis edilir",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65443ceac63ceac241757",
+            "name": "Karışık Bazlama Tost",
+            "description": "Bazlama ekmeğine; dana sucuk, kaşar peyniri, salam, domates, yeşil biber ile hazırlanır. Garnitür ile servis edilir",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6545aceac63ceac24175f",
+            "name": "Köylüm Bazlama",
+            "description": "Bazlama ekmeğine; beyaz peynir, kaşar, domates ve yeşil biber ve kekik hazırlanır. Garnitür ile servis edilir",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65475ceac63ceac24176b",
+            "name": "Kavurma Kaşarlı Bazlama Tost",
+            "description": "Bazlama ekmeğine, dana kavurma, kaşar peyniri, domates, yeşil biber. Garnitür ile servis edilir",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6548fceac63ceac241774",
+            "name": "Cheddarlı Sucuklu Bazlama Tost",
+            "description": "Bazlama ekmeğine; cheddar peyniri, dana sucuk, domates, yeşil biber. Garnitür ile servis edilir",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e654aaceac63ceac241783",
+            "name": "Bazlama Pizza",
+            "description": "Salam, sosis, sucuk, mısır, zeytin, kapya biber, köy biberi, kaşar ve domates sos",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54fb3ceac63ceac22ebfc",
+        "name": "Soğuk Sandviçler",
+        "items": [
+          {
+            "id": "69e654f1ceac63ceac241793",
+            "name": "Kaşarlı Sandwich",
+            "description": "Sandviç ekmeğine kaşar peyniri, kıvırcık, turşu, domates, rus salatası ve zeytin ezmesi",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6550dceac63ceac2417a1",
+            "name": "Salam Kaşarlı Sandwich",
+            "description": "Sandviç ekmeğine kaşar peyniri, salam, kıvırcık, turşu, domates, rus salatası ve zeytin ezmesi",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6552dceac63ceac2417a8",
+            "name": "Beyaz Peynirli Sandwich",
+            "description": "Sandviç ekmeğine, beyaz peynir, kıvırcık domates, salatalık ve zeytin ezmesi ile servis edilir",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65546ceac63ceac2417b5",
+            "name": "Dolu Dolu Sandwich",
+            "description": "Sandviç ekmeğine, beyaz peynir, kaşar peyniri, zeytin ezmesi, salam, domates, biber, salatalık, mısır, yeşillik.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e6555fceac63ceac2417bb",
+            "name": "Ton Balıklı Sandwich",
+            "description": "Sandviç ekmeğine, ton balığı, kaşar peyniri, kıvırcık, domates, salatalık, zeytin ezmesi ve mısır ile",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65582ceac63ceac2417c8",
+            "name": "Arnavut Ciğerli Soğuk Sandviç",
+            "description": "Sandviç ekmeğine, arnavut ciğeri, domates ve soğan ile servis edilir.",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54fc0ceac63ceac22ebff",
+        "name": "Sıcak Sandviçler",
+        "items": [
+          {
+            "id": "69e655a2ceac63ceac2417d6",
+            "name": "Sucuklu Sandviç",
+            "description": "Sandviç ekmeğine, dana sucuk, yeşillik ve domates ile servis edilir.",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e655b9ceac63ceac2417e0",
+            "name": "Patso Sandwich",
+            "description": "Sandviç ekmeğine, patates kızartması, turşu, ketçap ve mayonez",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e655d2ceac63ceac2417f4",
+            "name": "Kavurmalı Sandwich",
+            "description": "Sandviç ekmeği içerisine dana kavurma, kaşar, rus salatası ve turşu ile servis edilir",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54fcfceac63ceac22ec11",
+        "name": "Burger Çeşitleri",
+        "items": [
+          {
+            "id": "69e655ebceac63ceac24180b",
+            "name": "Klasik Burger",
+            "description": "Özel burger ekmeğine, hamburger köftesi (120 gr), turşu, kıvırcık, domates, özel dip sos, karamelize soğan, yanında patates kızartması ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65730ceac63ceac2418f3",
+            "name": "Cheese Burger",
+            "description": "Özel burger ekmeğine, hamburger köftesi (120 gr), cheddar peyniri, turşu, kıvırcık, domates, özel dip sos, karamelize soğan, yanında patates kızartması ile",
+            "price": 625.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e65749ceac63ceac241903",
+            "name": "Double Cheese Burger",
+            "description": "Özel burger ekmeğine, hamburger köftesi (120 gr), 2 adet cheddar peyniri, turşu, kıvırcık, domates, özel dip sos, karamelize soğan, yanında patates kızartması ile",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54fdaceac63ceac22ec17",
+        "name": "Tavuk Cajun",
+        "items": [
+          {
+            "id": "69e552a3ceac63ceac22ed91",
+            "name": "4'Lü Cajun Baharatlı Tavuk",
+            "description": "4 adet cajun baharatlı çıtır tavuk şeritleri yanında patates kızartması istediğin 2 adet sos ve lavaş ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55301ceac63ceac22edce",
+            "name": "7'Li Cajun Baharatlı Tavuk",
+            "description": "7 adet cajun baharatlı çıtır tavuk şeritleri yanında patates kızartması istediğin 2 adet sos ve lavaş ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55324ceac63ceac22edd2",
+            "name": "Chicken Cheese Burger",
+            "description": "Burger ekmeğine, tavuk cajun, yeşillik, turşu, domates, cheddar peyniri ve patates kızartması ile",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55343ceac63ceac22edd9",
+            "name": "Cajun Kıtır Sandviç",
+            "description": "Sandviç ekmeği içine cajun kıtır tavuk, rus salatası, marul, domates ve özel dip sos ile servis edilir.",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54f54ceac63ceac22ebb0",
+        "name": "Tatlılar",
+        "items": [
+          {
+            "id": "69e55176ceac63ceac22ed42",
+            "name": "Kaymaklı Ekmek Kadayıfı",
+            "description": "Tek kişilik",
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54ff0ceac63ceac22ec2e",
+        "name": "Yan Lezzetler",
+        "items": [
+          {
+            "id": "69e551a0ceac63ceac22ed4e",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e551adceac63ceac22ed51",
+            "name": "Elma Dilim Patates",
+            "description": null,
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e551bdceac63ceac22ed55",
+            "name": "Mozzarella Stick (6 Adet)",
+            "description": null,
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e551d5ceac63ceac22ed58",
+            "name": "Soğan Halkası (8 Adet)",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69e54feaceac63ceac22ec2c",
+        "name": "Sos Çeşitleri",
+        "items": [
+          {
+            "id": "69e551edceac63ceac22ed5b",
+            "name": "Ketçap",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e551fcceac63ceac22ed5d",
+            "name": "Mayonez",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55209ceac63ceac22ed61",
+            "name": "Sarımsaklı Mayonez",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55217ceac63ceac22ed63",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55224ceac63ceac22ed66",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e5523cceac63ceac22ed7c",
+            "name": "Hardal",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e5524aceac63ceac22ed84",
+            "name": "Ballı Hardal",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e55265ceac63ceac22ed8b",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6998bfbfceac63ceacdc9e8c",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "6998bfbfceac63ceacdc9e99",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847542975_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69e54e6aceac63ceac22eb3d",
+            "name": "Cola Zero (330 ml)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e54eb6ceac63ceac22eb4d",
+            "name": "Coca-Cola (200 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e54e33ceac63ceac22eb1b",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e54e41ceac63ceac22eb21",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6998bfbfceac63ceacdc9e9e",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847565294_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6998bfbfceac63ceacdc9e9a",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847579482_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6998bfbfceac63ceacdc9e9d",
+            "name": "Şalgam Suyu Acısız (300 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847596382_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699c3fb7ceac63ceacde5e9a",
+            "name": "Şalgam Suyu Acılı (300 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847596382_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6998bfbfceac63ceacdc9e9c",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847622790_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6998bfbfceac63ceacdc9e9b",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771847638253_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69e54e7aceac63ceac22eb44",
+            "name": "Cola-Cola (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e54e8cceac63ceac22eb48",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

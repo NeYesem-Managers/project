@@ -1,0 +1,678 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "63d2683eb2e5c066c0baef96",
+  "name": "Alfred's Croissant & Coffee, Çankaya (Emek Mah.)",
+  "slug": "alfred-s-croissant-coffee-cankaya-emek-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Kahvaltı",
+    "Kahve & İçecek"
+  ],
+  "rating": 4.8,
+  "rating_count": 150,
+  "min_order_amount": 300.0,
+  "delivery_fee": 53.99,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac0634d6",
+            "name": "Croissant (Sade Kruvasan)",
+            "description": "Pudra şekeri ile",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684755865495_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634fd",
+            "name": "Fruit Freshness",
+            "description": "Nutella, çilek, muz ve pudra şekeri ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756072362_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634dd",
+            "name": "Saros",
+            "description": "Ezine peyniri, cherry domates, marul, alfred's sos, akdeniz yeşillikleri ve yeşilzeytin ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756118473_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634ec",
+            "name": "Tuna Fish",
+            "description": "Ton balığı, cherry domates, kaşar peyniri, marul, alfred's sos, akdeniz yeşillikleri ve kornişon turşu ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756212959_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f1",
+            "name": "Beef Rib",
+            "description": "Füme kaburga eti, cherry domates, kaşar peyniri, marul, alfred's sos, akdeniz yeşillikleri ve jalapone biberi ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65f04962ceac63ceac0634cf",
+        "name": "Tatlı Kruvasan",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac0634d6",
+            "name": "Croissant (Sade Kruvasan)",
+            "description": "Pudra şekeri ile",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684755865495_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634dc",
+            "name": "Pietro (Nutella Kruvasan)",
+            "description": "Pudra şekeri ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684755890744_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e1",
+            "name": "Cronut",
+            "description": "Ev yapımı parçacıklı fındık ezmesi, muz ve pudra şekeri ile",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684755913730_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e6",
+            "name": "Flavia",
+            "description": "Ev yapımı parçacıklı fındık ezmesi, muz ve pudra şekeri ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684755937533_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634eb",
+            "name": "D'Avola",
+            "description": "Ev yapımı parçacıklı badem ezmesi, muz ve pudra şekeri ile",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684755963497_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f0",
+            "name": "Biscoff",
+            "description": "Bıscoff, kreması, muz ve pudra şekeri ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685627312383_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f4",
+            "name": "Strawberry Jam",
+            "description": "Ev yapımı taneli çilek reçeli ve pudra şekeri ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f7",
+            "name": "Bluberry Jam",
+            "description": "Ev yapımı taneli yaban mersini reçeli ve pudra şekeri ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634fa",
+            "name": "Süt Karameli Kruvasan",
+            "description": "Karamelize edilmiş süt, muz ve pudra şekeri ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634fd",
+            "name": "Fruit Freshness",
+            "description": "Nutella, çilek, muz ve pudra şekeri ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756072362_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65f04962ceac63ceac0634d0",
+        "name": "Tuzlu Kruvasan",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac0634d7",
+            "name": "Gruyeres",
+            "description": "Gravyer peyniri, cherry domates, marul, alfred's sos, akdeniz yeşillikleri ve yeşilzeytin ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756095744_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634dd",
+            "name": "Saros",
+            "description": "Ezine peyniri, cherry domates, marul, alfred's sos, akdeniz yeşillikleri ve yeşilzeytin ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756118473_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e2",
+            "name": "Fimen",
+            "description": "Hindi füme, cherry domates, kaşar peyniri, marul, alfred's sos, üzerine cheddar peynir, akdeniz yeşillikleri ve jalapeno biber ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756155866_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e7",
+            "name": "Ötzi",
+            "description": "Hindi fileto, cherry domates, kaşar peyniri, marul, alfred's sos, akdeniz yeşillikleri ve kornişon turşu ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756183394_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634ec",
+            "name": "Tuna Fish",
+            "description": "Ton balığı, cherry domates, kaşar peyniri, marul, alfred's sos, akdeniz yeşillikleri ve kornişon turşu ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1684756212959_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f1",
+            "name": "Beef Rib",
+            "description": "Füme kaburga eti, cherry domates, kaşar peyniri, marul, alfred's sos, akdeniz yeşillikleri ve jalapone biberi ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68765122ceac63ceac7e356d",
+        "name": "Bowl",
+        "items": [
+          {
+            "id": "68e2ade1ceac63ceacf90534",
+            "name": "Ötzi Bowl",
+            "description": "Hindi fileto, basmati pirinç, iceeberg, salatalık, havuç, çeri domates, lolorosso ve yanında özel sos",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759686077472_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e2ae3aceac63ceacf905c7",
+            "name": "Avokado Bowl",
+            "description": "Avokado, basmati pirinç, iceberg marul, salatalık, havuç, çeri domates, lolorosso ve yanında özel sos",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759686178185_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e2aeb6ceac63ceacf90607",
+            "name": "Tuna Bowl",
+            "description": "Ton balığı, basmati pirinç, iceberg marul, salatalık, havuç, çeri domates, lolorosso ve yanında özel sos",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759686266142_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65f04962ceac63ceac0634d1",
+        "name": "Sıcak Kahve",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac0634d8",
+            "name": "Americano (300 ml)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685627421769_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634de",
+            "name": "Cappuccino (300 ml)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e3",
+            "name": "Latte (300 ml)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685627442613_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e8",
+            "name": "Caramel Latte (300 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634ed",
+            "name": "Hazelnut Latte (300 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f2",
+            "name": "Coconut Latte (300 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f5",
+            "name": "Mocha (300 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685627506439_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f8",
+            "name": "White Mocha (300 ml)",
+            "description": null,
+            "price": 253.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634fb",
+            "name": "Choco Cookie Latte (300 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634fe",
+            "name": "Flat White (300 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634ff",
+            "name": "Irısh Coffee (300 ml) (Alkolsüz)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063501",
+            "name": "Chai Tea Latte (300 ml)",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063502",
+            "name": "Salted Caramel Latte",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65f04962ceac63ceac0634d2",
+        "name": "Sıcak İçecek",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac0634d9",
+            "name": "Sıcak Çikolata (300 ml)",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634df",
+            "name": "Salep (300 ml)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e4",
+            "name": "Bal Badem Salep (300 ml)",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634e9",
+            "name": "Süt (200 ml)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634ee",
+            "name": "Nutella & Biscoff Süt (200 ml)",
+            "description": null,
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65f04962ceac63ceac0634d3",
+        "name": "Çay",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac0634da",
+            "name": "Fincan Çay (180 ml)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65f04962ceac63ceac0634d4",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac0634ef",
+            "name": "Churchill (300 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f6",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634f9",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac0634fc",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac06350c",
+            "name": "Ev Yapımı Klasik Limonata (400 ml)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925708603_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac06350d",
+            "name": "Ev Yapımı Limonata Naneli (400 ml)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925708603_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac06350e",
+            "name": "Ev Yapımı Limonata Çilekli (400 ml)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925702241_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "65f04962ceac63ceac0634d5",
+        "name": "Soğuk Kahve",
+        "items": [
+          {
+            "id": "65f04962ceac63ceac063503",
+            "name": "Ice Salted Caramel Latte (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063504",
+            "name": "Ice Caramel Latte (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063505",
+            "name": "Ice Mocha (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685627537318_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063506",
+            "name": "Ice White Mocha (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063507",
+            "name": "Ice Americano (400 ml)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1685627566113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063509",
+            "name": "Ice Hazelnut Latte (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac06350a",
+            "name": "İce Coconut Latte (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac06350b",
+            "name": "İce Choco Cookie Latte (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac06350f",
+            "name": "Ice Latte (400 ml)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f04962ceac63ceac063510",
+            "name": "Ice Flat White (400 ml)",
+            "description": null,
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

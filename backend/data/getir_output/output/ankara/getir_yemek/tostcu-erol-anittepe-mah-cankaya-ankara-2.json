@@ -1,0 +1,410 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "66b499c3a33897ca53a7176f",
+  "name": "Tostçu Erol, (Anıttepe Mah.)",
+  "slug": "tostcu-erol-anittepe-mah-cankaya-ankara-2",
+  "cuisine_types": [
+    "Sokak Lezzetleri",
+    "Tost & Sandviç"
+  ],
+  "rating": 4.5,
+  "rating_count": 400,
+  "min_order_amount": 280.0,
+  "delivery_fee": 52.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66c86096ceac63ceacdba410",
+            "name": "Atom Tost",
+            "description": "Kaşar peyniri, salam, sucuk, sosis, yumurta ve tereyağı ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970639518_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba413",
+            "name": "Yumurtasız Atom Tost",
+            "description": "Kaşar peyniri, salam, sucuk, sosis ve tereyağı ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052925664_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba41b",
+            "name": "Kavurmalı Atom Tost",
+            "description": "Kaşar peyniri, salam, sucuk, sosis, yumurta, tereyağı ve kavurma ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052911849_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba409",
+            "name": "Sucuklu Kaşarlı Tost",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052934400_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba406",
+            "name": "Kavurmalı Kaşarlı Tost",
+            "description": null,
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052919291_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c86096ceac63ceacdba400",
+        "name": "Tost",
+        "items": [
+          {
+            "id": "66c86096ceac63ceacdba410",
+            "name": "Atom Tost",
+            "description": "Kaşar peyniri, salam, sucuk, sosis, yumurta ve tereyağı ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970639518_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba413",
+            "name": "Yumurtasız Atom Tost",
+            "description": "Kaşar peyniri, salam, sucuk, sosis ve tereyağı ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052925664_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba41b",
+            "name": "Kavurmalı Atom Tost",
+            "description": "Kaşar peyniri, salam, sucuk, sosis, yumurta, tereyağı ve kavurma ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052911849_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba409",
+            "name": "Sucuklu Kaşarlı Tost",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052934400_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba406",
+            "name": "Kavurmalı Kaşarlı Tost",
+            "description": null,
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052919291_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba40a",
+            "name": "Sucuklu Yumurtalı Tost",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052946448_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba407",
+            "name": "Spesiyal Tost",
+            "description": "Kaşar peyniri, sucuk, yumurta ve tereyağı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052906911_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba412",
+            "name": "Çift Kaşarlı Sucuklu Tost",
+            "description": null,
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970349545_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba421",
+            "name": "Kaşarlı Anne Tostu",
+            "description": "Kaşar peyniri ve tereyağı ile",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970259012_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba40f",
+            "name": "Kasap Sucuklu Kaşarlı Tost",
+            "description": null,
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052896253_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba408",
+            "name": "Cheddarlı Beyaz Peynirli Tost",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970303291_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba414",
+            "name": "Beyaz Peynirli Tost",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970404123_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba422",
+            "name": "Kavurmalı Spesiyal Tost",
+            "description": "Kaşar peyniri, yumurta, tereyağı ve kavurma ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970445079_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba40d",
+            "name": "Çift Kaşarlı Tost",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970520180_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba415",
+            "name": "Sucuklu Anne Tostu",
+            "description": "Sucuk ve tereyağı ile",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970558684_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba40e",
+            "name": "Kaşarlı Yumurtalı Tost",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716970694350_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c86096ceac63ceacdba401",
+        "name": "Tatlı Tost",
+        "items": [
+          {
+            "id": "66c86096ceac63ceacdba417",
+            "name": "Çikolatalı Spesiyal Tost",
+            "description": "Nutella, muz, toz fıstık ve çikolata sos ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052953682_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba40b",
+            "name": "Fıstıkella Tost",
+            "description": "Fıstık ezmesi, muz, taze fıstık ve çikolata sos ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747052941603_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c86096ceac63ceacdba405",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "66c86096ceac63ceacdba423",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716982636131_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba424",
+            "name": "Acı Sos (Adet)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767255210514_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c86096ceac63ceacdba402",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "66c86096ceac63ceacdba418",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767255230043_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba41c",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba41d",
+            "name": "Eker Ayran (295 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba40c",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba41f",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767255272787_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba420",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c86096ceac63ceacdba403",
+        "name": "Vitamin Bar",
+        "items": [
+          {
+            "id": "66c86096ceac63ceacdba416",
+            "name": "Taze Sıkma Portakal Suyu (250 ml)",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767255179632_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66c86096ceac63ceacdba411",
+            "name": "Ev Yapımı Limonata (250 ml)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925708603_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66c86096ceac63ceacdba404",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "66c86096ceac63ceacdba419",
+            "name": "Poşet",
+            "description": null,
+            "price": 1.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

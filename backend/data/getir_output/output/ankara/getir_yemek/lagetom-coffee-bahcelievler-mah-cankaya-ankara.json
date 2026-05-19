@@ -1,0 +1,606 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6045cfdfee8c4a34c9a0af08",
+  "name": "Lagetom Coffee (Bahçelievler Mah.)",
+  "slug": "lagetom-coffee-bahcelievler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Dünya Mutfağı",
+    "Kahve & İçecek",
+    "Uzak Doğu"
+  ],
+  "rating": 5.0,
+  "rating_count": 100,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6417633ce5f17a224ec6c40d",
+            "name": "Caffé Americano",
+            "description": "Sıcak su ile inceltilmiş yoğun espresso",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546382505_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64176648e5f17a1b63c74f4f",
+            "name": "Cortado",
+            "description": "Espresso, espresso miktarı kadar buharla ısıtılmış kadifemsi süt ve süt köpüğü (Little (8 oz.) boy bardak ile servis edilir)",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546401853_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "648092124ba2307f60f5d264",
+            "name": "Iced Americano (12 oz)",
+            "description": "Soğuk su ile inceltilmiş yoğun espresso ve buz",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546066899_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6480908e0206134282a13bc2",
+            "name": "Iced Latte (12 oz)",
+            "description": "Espresso, soğuk süt ve buz",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546086749_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "648091cf4ba2306140f5b85d",
+            "name": "Iced White Mocha (12 oz)",
+            "description": "Espresso, white mocha sos (beyaz çikolata sosu), soğuk süt ve buz",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546145208_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "607e8e63d4c5247276621ffd",
+        "name": "Espresso Bazlı Kahve",
+        "items": [
+          {
+            "id": "6417633ce5f17a224ec6c40d",
+            "name": "Caffé Americano",
+            "description": "Sıcak su ile inceltilmiş yoğun espresso",
+            "price": 185.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546382505_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64176648e5f17a1b63c74f4f",
+            "name": "Cortado",
+            "description": "Espresso, espresso miktarı kadar buharla ısıtılmış kadifemsi süt ve süt köpüğü (Little (8 oz.) boy bardak ile servis edilir)",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546401853_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64176a11e5f13a2d3756a525",
+            "name": "Cappuccino",
+            "description": "Espresso, buharla ısıtılmış kadifemsi süt, yoğun süt köpüğü",
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546417813_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6417676cf4b4c147bfef5141",
+            "name": "Flat White",
+            "description": "Ristretto, buharla ısıtılmış süt ve mikro süt köpüğü",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546431516_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "641768cae5f17a18c9c7b9eb",
+            "name": "Caffé Latte",
+            "description": "Espresso, buharla ısıtılmış kadifemsi süt ve süt köpüğü",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546445434_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60d1ca96d9f575a6b93946cc",
+        "name": "Soğuk Kahve",
+        "items": [
+          {
+            "id": "648092124ba2307f60f5d264",
+            "name": "Iced Americano (12 oz)",
+            "description": "Soğuk su ile inceltilmiş yoğun espresso ve buz",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546066899_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6480908e0206134282a13bc2",
+            "name": "Iced Latte (12 oz)",
+            "description": "Espresso, soğuk süt ve buz",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546086749_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "648091e44ba23052a1f5beaa",
+            "name": "Iced Salted Caramel Latte (12 oz)",
+            "description": "Espresso, salted caramel sos (tuzlu karamel sosu), soğuk süt ve buz",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546106739_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6480924867a94dc1312da108",
+            "name": "Iced Caramel Latte (12 oz)",
+            "description": "Espresso, karamel sos, soğuk süt, buz",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546119783_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "648090eb67a94d72d12d3a37",
+            "name": "Iced Mocha (12 oz)",
+            "description": "Espresso, mocha sos (çikolata sosu), soğuk süt ve buz",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546132817_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "648091cf4ba2306140f5b85d",
+            "name": "Iced White Mocha (12 oz)",
+            "description": "Espresso, white mocha sos (beyaz çikolata sosu), soğuk süt ve buz",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546145208_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "687df19cceac63ceac844f99",
+            "name": "Iced Caramelized Banana Latte (12 oz)",
+            "description": "Espresso, karamelize muz püresi, soğuk süt ve buz",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546183187_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "687df1e0ceac63ceac844ff6",
+            "name": "Iced Island Latte (12 oz)",
+            "description": "Espresso, hindistan cevizi, karamelize muz püresi, soğuk süt ve buz",
+            "price": 254.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546196242_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cce6d0ceac63ceac092005",
+            "name": "Cold Brew (200 ml)",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775036140302_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "607e8e63a1b8be0509d5e685",
+        "name": "Espresso & Sos Bazlı Kahve",
+        "items": [
+          {
+            "id": "64808f2b020613a3b9a0e7e7",
+            "name": "Salted Caramel Latte",
+            "description": "Espresso (Tuzlu Karamelli Latte) , salted caramel sosu ve buharla ısıtılmış kadifemsi süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546459932_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64808fa81e55827efe8da617",
+            "name": "Caramel Latte",
+            "description": "Espresso, karamel sosu ve buharla ısıtılmış kadifemsi süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546473427_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64808fc10206130ca2a10d16",
+            "name": "Caffé Mocha",
+            "description": "Espresso, mocha sos (çikolata sos) ve buharla ısıtılmış kadifemsi süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546488391_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6480902b1e5582f43b8dc389",
+            "name": "White Mocha",
+            "description": "Espresso, beyaz çikolata sosu ve buharla ısıtılmış kadifemsi süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546499995_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "659010b6022bca4ba5517134",
+            "name": "Strawberry White Mocha",
+            "description": "Espresso, çilek şurubu, white mocha (beyaz çikolata) sosu, buharla ısıtılmış süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65900e52a9c75f6566ac34c1",
+            "name": "Pumpkin Spice Latte",
+            "description": "Espresso, pumpkin spice (bal kabağı) şurubu, buharla ısıtılmış süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546513426_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "65900f4848f7255365f6eaf8",
+            "name": "Gıngerbread Latte",
+            "description": "Espresso, gingerbread (zencefilli kurabiye) şurubu, buharla ısıtılmış süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546530130_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "65900ff15fa3dc72298c12dc",
+            "name": "Toffee Nut Latte",
+            "description": "Espresso, toffee nut (fındıklı şekerleme) şurubu ve buharla ısıtılmış süt",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546545528_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66a24bc7c3a4e6ca2e1cdf38",
+        "name": "Soğuk Matcha Latte",
+        "items": [
+          {
+            "id": "66a24ccab2d17cafe0139c07",
+            "name": "Iced Matcha Latte (12 oz)",
+            "description": "Toz haline getirilmiş %100 Matcha (Chado saf yeşil çay), süt ve buz",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546209964_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66a24d15b2d17cafe013a064",
+            "name": "Iced Vanilla Matcha Latte (12 oz)",
+            "description": "Toz haline getirilmiş %100 Matcha (Chado saf yeşil çay), vanilya, süt ve buz",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546222893_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66a24e3db2d17cafe013ac56",
+            "name": "Iced Strawberry Matcha Latte (12 oz)",
+            "description": "Toz haline getirilmiş %100 Matcha (Chado saf yeşil çay), çilek şurubu, süt ve buz",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546236533_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680f2493ceac63ceac053463",
+            "name": "Iced Matcha Tonic (Standart Boy)",
+            "description": "Matcha koicha, tonic, kurutulmuş limon ve buz",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546298413_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6852c2dcceac63ceac551c06",
+            "name": "Iced Mango Matcha Latte",
+            "description": "Matcha koicha, el yapımı mango püresi ve şurubu, süt ve buz",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546312855_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6852c312ceac63ceac551c39",
+            "name": "Iced Green Apple Matcha Latte",
+            "description": "Matcha koicha, el yapımı yeşil elma püresi ve şurubu, süt ve buz",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546342870_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "673c65b9ceac63ceacf2916c",
+        "name": "Sıcak Matcha Latte",
+        "items": [
+          {
+            "id": "679c9a37ceac63ceac8ce6d3",
+            "name": "Matcha Latte",
+            "description": "Toz haline getirilmiş %100 Matcha (Chado saf yeşil çay), süt",
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546593287_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "679c9a9fceac63ceac8ce704",
+            "name": "Vanilla Matcha Latte",
+            "description": "Toz haline getirilmiş %100 Matcha (Chado saf yeşil çay), vanilya, süt",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546607846_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "607e8e63a562d45096f1758f",
+        "name": "Filtre Kahve",
+        "items": [
+          {
+            "id": "64ca61e6cee53fbfaf94dca9",
+            "name": "Filtre Kahve",
+            "description": "Demlenmiş, dengeli filtre kahve",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546560882_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64ca63408ca624ae32a669aa",
+            "name": "Café au lait",
+            "description": "Demlenmiş dengeli, yoğun filtre kahve ve süt",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770546577306_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "607e8e63a7e10a4134727b2a",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "68e7e5adceac63ceacff733f",
+            "name": "Beyaz Çikolatalı Brownie",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761290126836_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e7e68cceac63ceacff744f",
+            "name": "Chocolate Chip Cookie",
+            "description": "Çikolata dolgulu cookie",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761290286140_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68fb29eeceac63ceac12c6f6",
+            "name": "Çilekli Cookie Tart",
+            "description": "Alt tabanı cookie, içi pastacı kreması, çilek, üzeri beyaz çikolatalı",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761290723298_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68fb2a40ceac63ceac12c83e",
+            "name": "Böğürtlenli Cookie Tart",
+            "description": "Alt tabanı cookie, içi pastacı kreması, böğürtlen, üzeri beyaz çikolatalı",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761290808357_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eb1f8586aef16ede12e414",
+        "name": "Yaz İçeceği",
+        "items": [
+          {
+            "id": "6480973367a94d71e42f2c1d",
+            "name": "Mojito Fresh (12 oz)",
+            "description": "Misket limonu, yeşil nane ve mojito bazlı soğuk içecek (alkolsüz)",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "607e8e63974e0808e90c4300",
+        "name": "Çekirdek Kahve",
+        "items": [
+          {
+            "id": "607e8e83c298af3df3946431",
+            "name": "Lagom Filter Blend (200 g)",
+            "description": "Sütlü çikolata, karamel, vanilya",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778749993883_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "607e8e80a7e10a3591727b2c",
+            "name": "Just Right Espresso (200 g)",
+            "description": "Çikolata, sütlü karamel, fındık",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778750030593_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6851984dceac63ceac543ab4",
+            "name": "Monteblanco Geisha & Colombia (200 g)",
+            "description": "Mango, portakal, yeşil elma, papatya, çiçeksi",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761299301844_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "679c966bceac63ceac8ce522",
+            "name": "Cundinamarca & Colombia (200 g)",
+            "description": "Sütlü karamel, frenk üzümü, hünnap",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778750065010_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "679c96daceac63ceac8ce53b",
+            "name": "Huehuetenango & Guatemala (200 g)",
+            "description": "Sütlü çikolata, vanilya",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778750090551_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a6c956ceac63ceacb1d079",
+            "name": "Ethiopia - Chelbesa (200 g)",
+            "description": "Lime, ahududu, bal, vanilya, çiçeksi",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778750167396_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a6c9a2ceac63ceacb1d17a",
+            "name": "Colombia - Pina Colada (200 g)",
+            "description": "Ananas, hindistan cevizi, likör, tropik meyveler",
+            "price": 945.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778750203558_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66a0cbb6bc5bb48061d3e830",
+        "name": "Filtre Kağıdı",
+        "items": [
+          {
+            "id": "66a0cdacd89235c00be42cef",
+            "name": "Cafec - Traditional Filter Cup 4",
+            "description": "100 adet filtre kağıdı içerir. Tüm Cafec Flower Cup4, Origami M, Hario V60 02 drippler’lar için kullanabilirsiniz.",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1721990553249_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "60eecec0127af3620682ffec",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "60eecec0127af357a383010b",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

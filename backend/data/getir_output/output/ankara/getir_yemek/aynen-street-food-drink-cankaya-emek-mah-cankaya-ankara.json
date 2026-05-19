@@ -1,0 +1,564 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "62e81fe03112f4c5eaac5393",
+  "name": "Aynen Street Food & Drink Çankaya (Emek Mah.)",
+  "slug": "aynen-street-food-drink-cankaya-emek-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 4.8,
+  "rating_count": 500,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "62efdc02e9b5bd02560f50c4",
+            "name": "Cheeseburger",
+            "description": "Burger köftesi, cheddar peyniri, karamelize soğan, burger sos, aioli sos ve patates kızartması ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0177907b42edecef98",
+            "name": "İsli Burger",
+            "description": "Burger köftesi, çıtır soğan, füme kaburga, isli çerkez peyniri, barbekü sos, isli mayonez, kornişon turşu ve patates kızartması ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0293981d5df89a209b",
+            "name": "Aynen Burger",
+            "description": "Burger köftesi, tandır tiftik et, karamelize soğan, burger peyniri, barbekü sos, kornişon turşu, kırmızı soğan turşusu ve patates kızartması ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc04e9b5bd52820f5155",
+            "name": "Chicken Burger",
+            "description": "Buttermilk kızartma, tavuk göğüs, coleslaw sos, aioli sos, kornişon turşu ve patates kızartması ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d970a9037b50866a204d9c",
+            "name": "Ottoman Burger",
+            "description": "Burger köftesi, dilim patlıcan, kuru üzüm, kuru kayısı, ceviz, burger peyniri, bal, beğendi, isli mayonez. Patates kızartması ile",
+            "price": 594.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62efdbfee9b5bdfc130f4f57",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "62efdc02e9b5bd02560f50c4",
+            "name": "Cheeseburger",
+            "description": "Burger köftesi, cheddar peyniri, karamelize soğan, burger sos, aioli sos ve patates kızartması ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0177907b42edecef98",
+            "name": "İsli Burger",
+            "description": "Burger köftesi, çıtır soğan, füme kaburga, isli çerkez peyniri, barbekü sos, isli mayonez, kornişon turşu ve patates kızartması ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0377907b420becf030",
+            "name": "Mushroom Burger",
+            "description": "Burger köftesi, mantar, burger peyniri, kornişon turşu, sarımsaklı kızarmış biber, kızarmış domates, trüf mayonez, aioli sos ve patates kızartması ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0293981d5df89a209b",
+            "name": "Aynen Burger",
+            "description": "Burger köftesi, tandır tiftik et, karamelize soğan, burger peyniri, barbekü sos, kornişon turşu, kırmızı soğan turşusu ve patates kızartması ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc04e9b5bd52820f5155",
+            "name": "Chicken Burger",
+            "description": "Buttermilk kızartma, tavuk göğüs, coleslaw sos, aioli sos, kornişon turşu ve patates kızartması ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e40592037b50258a9211b5",
+            "name": "Hot Chicken Burger",
+            "description": "Acı soslu tavuk (150 g) ,kremalı mantar sos, kornişon turşu ve isli mayonez ile",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d970a9037b50866a204d9c",
+            "name": "Ottoman Burger",
+            "description": "Burger köftesi, dilim patlıcan, kuru üzüm, kuru kayısı, ceviz, burger peyniri, bal, beğendi, isli mayonez. Patates kızartması ile",
+            "price": 594.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6405d904f4b4c13fee41c34e",
+            "name": "Falafel Burger",
+            "description": "Falafel köfte, kajun baharatı, hibeş sos ve patates kızartması ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "697b3bf1ceac63ceacb2a678",
+            "name": "Trüffy Burger (100 g)",
+            "description": "Burger köftesi, trüflü mayo, roka, kaşar peyniri",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62efdbff93981d2abb9a1f9b",
+        "name": "Wrap",
+        "items": [
+          {
+            "id": "62efdc0677907b8313ecf130",
+            "name": "Beyaz Wrap",
+            "description": "Tavuk, kapya biber, yeşil biber, mantar ve patates kızartması ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e405a21f2851fcdbb348da",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "63e405ce037b50784792184c",
+            "name": "Tiftik Etli Sandviç",
+            "description": "Tiftik et, karamelize soğan, cheddar peyniri, kibrit patates ve şef sos ile",
+            "price": 549.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e405f0ca813d5e55317022",
+            "name": "Tavuklu Sandviç",
+            "description": "Çıtır tavuk, kibrit patates, çıtır soğan ve isli mayonez ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62efdbff93981d19c39a1fb9",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "62efdc0793981d18ea9a2252",
+            "name": "Patates Kızartması (300 g)",
+            "description": null,
+            "price": 198.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc095fc6c960eba2c063",
+            "name": "Mac & Cheese Topu (2 Adet)",
+            "description": null,
+            "price": 198.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0a77907bd4c3ecf257",
+            "name": "Soğan Halkası (6 Adet)",
+            "description": null,
+            "price": 198.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0a4817565d41195330",
+            "name": "Cheddarlı Brokoli Topu (4 Adet)",
+            "description": null,
+            "price": 189.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc085fc6c9e2fea2c035",
+            "name": "Cheddar Soslu Patates Kızartması",
+            "description": null,
+            "price": 216.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0b481756fb6e195370",
+            "name": "Kokoreç Topları (4 Adet)",
+            "description": null,
+            "price": 216.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc07e9b5bd3b080f5266",
+            "name": "Parmesanlı Trüf Yağlı Patates Kızartması",
+            "description": "Trüf mantar yağı ve parmesan peyniri ile",
+            "price": 243.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0be9b5bd31c80f5393",
+            "name": "Çıtır Tavuk Parçaları",
+            "description": "4 adet çıtır tavuk",
+            "price": 198.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0c93981d34889a23d6",
+            "name": "Mozzarella Stick",
+            "description": "3 adet el yapımı mozarella stick",
+            "price": 198.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0d4817562fd01953db",
+            "name": "Karışık Atıştırmalık Kutusu",
+            "description": "Patates kızartması, mac & cheese topu (2 adet), çıtır soğan (4 adet) ve çıtır tavuk (4 adet) ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6346a5057afb434cd3d27e1d",
+            "name": "Çıtır Mantar (5 Adet)",
+            "description": null,
+            "price": 198.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62efdc00e9b5bd37ea0f4fe9",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "62efdc0de9b5bd087d0f553e",
+            "name": "Ketçap",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927933322_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0e77907beb59ecf388",
+            "name": "Mayonez",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927941688_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0e5fc6c9432ba2c215",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927966195_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc0f77907b76ccecf405",
+            "name": "Ekşi Barbekü Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1093981d70349a2508",
+            "name": "Ailoi Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1093981d515d9a253a",
+            "name": "Ramulade Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc11e9b5bd2fd90f5668",
+            "name": "Şef Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63d8e8d4037b50f737fc7da5",
+            "name": "Acı Ranch",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66a3a73fceac63ceac6e1307",
+            "name": "3'Lü Sos",
+            "description": "Remulade, şef sos, acı ranch",
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67656c04ceac63ceac32c962",
+            "name": "İsli Mayonez",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67656c2cceac63ceac32c97d",
+            "name": "Trüflü Mayonez",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62efdc0077907b448eecef5e",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "62efdc1177907beb14ecf4bc",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc125fc6c97e63a2c35d",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc13e9b5bd0e3f0f5711",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1393981d270a9a2621",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1893981d0f699a2784",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc175fc6c9360ba2c507",
+            "name": "Cappy (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1493981d78839a2650",
+            "name": "Özerhisar Ayran (300 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1593981d34099a267c",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc15e9b5bd5b900f57d0",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1677907b63a9ecf623",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62efdc1793981dbc9a9a270c",
+            "name": "Coca Cola Şekersiz (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698663749346_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

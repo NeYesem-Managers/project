@@ -1,0 +1,743 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "68e7cfc25604be59fb6a902b",
+  "name": "Karadağlı Meşhur Bursa Döner, Osmangazi (Yeşilova Mah.)",
+  "slug": "karadagli-meshur-bursa-doner-osmangazi-yesilova-mah-osmangazi-bursa",
+  "cuisine_types": [
+    "Döner"
+  ],
+  "rating": 4.7,
+  "rating_count": 5,
+  "min_order_amount": 260.0,
+  "delivery_fee": 49.99,
+  "delivery_time_min": 20,
+  "delivery_time_max": 30,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %30"
+    },
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68f9df88ceac63ceac114d50",
+            "name": "Atom Et Döner Menü",
+            "description": "Atom et döner (80 g), patates kızartması, profiterol, fanta (330 ml)",
+            "price": 304.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df89ceac63ceac114d52",
+            "name": "Tam Tavuk Menü",
+            "description": "Tam tavuk (120 g), patates kızartması, profiterol, kutu içecek",
+            "price": 263.53,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8aceac63ceac114d54",
+            "name": "Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm (90 g), patates kızartması, günün tatlısı, kutu içecek",
+            "price": 230.59,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8eceac63ceac114d5a",
+            "name": "Menü 3",
+            "description": "Tam ekmek arası tavuk döner (120 g), patates kızartması, ayran (200 ml)",
+            "price": 197.65,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9aceac63ceac114d71",
+            "name": "Hatay Usulü Tavuk Döner Dürüm (90 g)",
+            "description": "Hatay sos, domates, yeşillik",
+            "price": 131.77,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df81ceac63ceac114d37",
+        "name": "Süper Menü",
+        "items": [
+          {
+            "id": "68f9df88ceac63ceac114d50",
+            "name": "Atom Et Döner Menü",
+            "description": "Atom et döner (80 g), patates kızartması, profiterol, fanta (330 ml)",
+            "price": 304.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df89ceac63ceac114d51",
+            "name": "Tam Kumru Sandviç Menü",
+            "description": "Tam kumru sandviç, patates kızartması, eker profiterol (100 g), pepsi zero sugar (330 ml)",
+            "price": 247.06,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df89ceac63ceac114d52",
+            "name": "Tam Tavuk Menü",
+            "description": "Tam tavuk (120 g), patates kızartması, profiterol, kutu içecek",
+            "price": 263.53,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8aceac63ceac114d53",
+            "name": "Tam Ekmek Arası Et Döner Menü",
+            "description": "Tam ekmek arası et döner (120 g), patates kızartması, günün tatlısı, kutu içecek",
+            "price": 345.88,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8aceac63ceac114d54",
+            "name": "Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm (90 g), patates kızartması, günün tatlısı, kutu içecek",
+            "price": 230.59,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8bceac63ceac114d55",
+            "name": "Et Dürüm Menü",
+            "description": "Et dürüm (90 g), patates kızartması, tatlı, kutu içecek",
+            "price": 308.83,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df82ceac63ceac114d38",
+        "name": "Avantajlı Menü",
+        "items": [
+          {
+            "id": "68f9df8cceac63ceac114d56",
+            "name": "İskender Menü",
+            "description": "İskender (150 g) ve pepsi (200 ml)",
+            "price": 370.59,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8cceac63ceac114d57",
+            "name": "Pideli Köfte",
+            "description": "Pideli köfte ve pepsi (200 ml)",
+            "price": 329.41,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df82ceac63ceac114d39",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "68f9df8dceac63ceac114d58",
+            "name": "Menü 1",
+            "description": "Atom ekmek arası tavuk döner (80 g), patates kızartması, ayran (200 ml)",
+            "price": 181.17,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8dceac63ceac114d59",
+            "name": "Menü 2",
+            "description": "Yarım ekmek arası tavuk döner (60 g), patates kızartması, ayran (200 ml)",
+            "price": 131.77,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8eceac63ceac114d5a",
+            "name": "Menü 3",
+            "description": "Tam ekmek arası tavuk döner (120 g), patates kızartması, ayran (200 ml)",
+            "price": 197.65,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8fceac63ceac114d5b",
+            "name": "Menü 4",
+            "description": "Tavuk döner dürüm (90 g), patates kızartması, ayran (200 ml)",
+            "price": 172.94,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df8fceac63ceac114d5c",
+            "name": "Menü 6",
+            "description": "Tavuk döner (90 g), patates kızartması, ayran (200 ml)",
+            "price": 255.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df90ceac63ceac114d5d",
+            "name": "Menü 8",
+            "description": "Hatay usulü tavuk döner dürüm (90 g) , patates kızartması, ayran (200 ml)",
+            "price": 189.41,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df90ceac63ceac114d5e",
+            "name": "Menü 11",
+            "description": "Atom ekmek arası et döner (80 g), patates kızartması, ayran (200 ml)",
+            "price": 255.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df91ceac63ceac114d5f",
+            "name": "Menü 12",
+            "description": "Yarım ekmek arası et döner (60 g), patates kızartması, ayran (200 ml)",
+            "price": 222.35,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df91ceac63ceac114d60",
+            "name": "Menü 13",
+            "description": "Tam ekmek arası et döner (120 g), patates kızartması, ayran (200 ml)",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df92ceac63ceac114d61",
+            "name": "Menü 14",
+            "description": "Et döner dürüm (90 g), patates kızartması, ayran (200 ml)",
+            "price": 247.06,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df93ceac63ceac114d62",
+            "name": "Menü 16",
+            "description": "Et döner (150 g), patates kızartması, ayran (200 ml)",
+            "price": 288.23,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df93ceac63ceac114d63",
+            "name": "Menü 17",
+            "description": "Atom ekmek arası kumru, patates kızartması, ayran (200 ml)",
+            "price": 181.17,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df94ceac63ceac114d64",
+            "name": "Menü 18",
+            "description": "Tam ekmek arası kumru, patates kızartması, ayran (200 ml)",
+            "price": 197.65,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df95ceac63ceac114d69",
+            "name": "Menü 21",
+            "description": "Atom ekmek arası ızgara köfte, patates kızartması, ayran (200 ml)",
+            "price": 205.88,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df96ceac63ceac114d6a",
+            "name": "Menü 22",
+            "description": "Tam ekmek arası ızgara köfte, patates kızartması, ayran (200 ml)",
+            "price": 247.06,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df97ceac63ceac114d6b",
+            "name": "Menü 24",
+            "description": "Atom ekmek arası bonfrit, patates kızartması, ayran (200 ml)",
+            "price": 172.94,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df83ceac63ceac114d3a",
+        "name": "Bursa Kebap",
+        "items": [
+          {
+            "id": "68f9df98ceac63ceac114d6e",
+            "name": "Pideli Köfte",
+            "description": "Tereyağı, pide, köfte",
+            "price": 288.23,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df98ceac63ceac114d6f",
+            "name": "İskender (150 g)",
+            "description": "Et dönerden",
+            "price": 329.41,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df83ceac63ceac114d3b",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "68f9df99ceac63ceac114d70",
+            "name": "Tam Ekmek Arası Tavuk Döner (120 g)",
+            "description": "Hatay sos, domates, yeşillik",
+            "price": 156.47,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9aceac63ceac114d71",
+            "name": "Hatay Usulü Tavuk Döner Dürüm (90 g)",
+            "description": "Hatay sos, domates, yeşillik",
+            "price": 131.77,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9aceac63ceac114d72",
+            "name": "Yarım Ekmek Arası Tavuk Döner (60 g)",
+            "description": "Hatay sos, domates, yeşillik",
+            "price": 78.23,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9bceac63ceac114d73",
+            "name": "Atom Ekmek Arası Tavuk Döner (80 g)",
+            "description": "Hatay sos, domates, yeşillik",
+            "price": 98.83,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9bceac63ceac114d74",
+            "name": "Tavuk Döner Dürüm (90 g)",
+            "description": "Domates, yeşillik, soğan",
+            "price": 111.17,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9cceac63ceac114d78",
+            "name": "Tavuk Döner (150 g)",
+            "description": "Garnitür ile",
+            "price": 164.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df84ceac63ceac114d3c",
+        "name": "Et Döner",
+        "items": [
+          {
+            "id": "68f9df9dceac63ceac114d79",
+            "name": "Atom Et Döner (80 g)",
+            "description": "Domates, yeşillik, soğan",
+            "price": 164.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9dceac63ceac114d7a",
+            "name": "Et Döner Dürüm (90 g)",
+            "description": "Domates, yeşillik, soğan",
+            "price": 164.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9eceac63ceac114d7b",
+            "name": "Yarım Ekmek Arası Et Döner (60 g)",
+            "description": "Domates, yeşillik, soğan",
+            "price": 123.53,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9eceac63ceac114d7c",
+            "name": "Tam Ekmek Arası Et Döner (120 g)",
+            "description": "Tam ekmek arası",
+            "price": 247.06,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9df9fceac63ceac114d7d",
+            "name": "Et Döner (150 g)",
+            "description": "Garnitür ile",
+            "price": 271.77,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df85ceac63ceac114d3d",
+        "name": "Kumru",
+        "items": [
+          {
+            "id": "68f9dfa0ceac63ceac114d7e",
+            "name": "Tam Kumru Sandviç",
+            "description": "Sucuk, sosis, kaşar peyniri, patates kızartması, turşu",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa0ceac63ceac114d7f",
+            "name": "Atom Kumru Sandviç",
+            "description": "Sucuk, sosis, kaşar peyniri, patates kızartması, turşu",
+            "price": 82.36,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa1ceac63ceac114d83",
+            "name": "Atom Ekmek Arası Bonfrit",
+            "description": "Domates, marul, soğan",
+            "price": 82.36,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df85ceac63ceac114d3e",
+        "name": "Köfte",
+        "items": [
+          {
+            "id": "68f9dfa1ceac63ceac114d84",
+            "name": "Tam Ekmek Arası Izgara Köfte",
+            "description": "Domates, marul, soğan",
+            "price": 197.65,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa2ceac63ceac114d86",
+            "name": "Atom Köfte",
+            "description": "Domates, marul, soğan",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa2ceac63ceac114d87",
+            "name": "Izgara Köfte",
+            "description": null,
+            "price": 238.83,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df86ceac63ceac114d3f",
+        "name": "Sucuk",
+        "items": [
+          {
+            "id": "68f9dfa3ceac63ceac114d88",
+            "name": "Tam Ekmek Arası Sucuk",
+            "description": "Sucuk ile",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa4ceac63ceac114d89",
+            "name": "Atom Ekmek Arası Sucuk",
+            "description": "Sucuk ile",
+            "price": 107.06,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df87ceac63ceac114d41",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "68f9dfa7ceac63ceac114d8f",
+            "name": "Eker Çikolatalı Puding (100 g)",
+            "description": null,
+            "price": 45.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68f9df87ceac63ceac114d42",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "68f9dfa8ceac63ceac114d92",
+            "name": "Pepsi (250 ml)",
+            "description": null,
+            "price": 32.94,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761206851457_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfacceac63ceac114d98",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761206887055_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa8ceac63ceac114d90",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761206899332_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfaeceac63ceac114d9e",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 24.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761206918316_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfaaceac63ceac114d95",
+            "name": "Eker Ayran (175 ml)",
+            "description": null,
+            "price": 16.47,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761209484859_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa9ceac63ceac114d94",
+            "name": "Eker Ayran (270 ml)",
+            "description": null,
+            "price": 24.7,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761209494780_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfa9ceac63ceac114d93",
+            "name": "Doğanay Acılı Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 32.94,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761208720028_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9e9a9ceac63ceac116284",
+            "name": "Doğanay Acısız Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 32.94,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761208738110_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfabceac63ceac114d96",
+            "name": "Kınık Soda (200 ml)",
+            "description": null,
+            "price": 16.47,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761209509130_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfabceac63ceac114d97",
+            "name": "Aroma Su (500 ml)",
+            "description": null,
+            "price": 12.36,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761209539859_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfadceac63ceac114d9b",
+            "name": "Meysu Kola (1 L)",
+            "description": null,
+            "price": 61.77,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfacceac63ceac114d99",
+            "name": "Meysu Portakal (1 L)",
+            "description": null,
+            "price": 61.77,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68f9dfadceac63ceac114d9d",
+            "name": "Eker Ayran (1 L)",
+            "description": null,
+            "price": 45.3,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1761209657088_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

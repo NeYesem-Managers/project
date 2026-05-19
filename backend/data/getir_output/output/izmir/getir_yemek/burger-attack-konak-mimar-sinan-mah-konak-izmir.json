@@ -1,0 +1,411 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "602e72695f92727883866263",
+  "name": "Burger Attack, Konak (Mimar Sinan Mah.)",
+  "slug": "burger-attack-konak-mimar-sinan-mah-konak-izmir",
+  "cuisine_types": [
+    "Burger",
+    "Dondurma",
+    "Dünya Mutfağı",
+    "Sokak Lezzetleri"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "632d918407ac3920b6f84501",
+        "name": "Çocuk Menü",
+        "items": [
+          {
+            "id": "632d918407ac39e587f84521",
+            "name": "Jr. Alien Burger Menü",
+            "description": "Dana köfte (100 g), turşu, patates kızartması ve içecek ile",
+            "price": 296.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663672936245_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "632d918407ac397936f84502",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "632d918407ac399c86f8453b",
+            "name": "Burger Attack Classic Burger",
+            "description": "Dana köfte (150 g), cheddar peyniri, kırmızı soğan, turşu ve attack sos ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663672863476_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac393849f84555",
+            "name": "Marsist Burger",
+            "description": "Dana köfte (150 g), jalapeno biber, acı sos, cheddar peyniri, karamelize soğan ve attack sos",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663673007007_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac391ebbf84569",
+            "name": "Mr. Mushroom Burger",
+            "description": "Dana köfte (150 g), sotelenmiş mantar, karamelize soğan ve attack sos ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663673127142_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac396893f84572",
+            "name": "Big Cheese Bang Burger",
+            "description": "Dana köfte (150 g), cheddar peyniri (2 adet), kaşar peyniri ve attack sos ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663673225885_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac39259ef84582",
+            "name": "51. Bölge",
+            "description": "Dana köfte (150 g), füme kaburga, karamelize soğan, cheddar peyniri ve attack sos ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663672785565_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac396b0bf845ab",
+            "name": "Big Yellow Sticky Burger",
+            "description": "Dana köfte (150 g), karamelize ananas, kırmızı soğan ve sour sweet sos ile",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663673280068_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac398bc3f845c6",
+            "name": "Hunger Games Burger",
+            "description": "Dana köfte (150 g) (2 adet), cheddar peyniri (2 adet), kaşar peyniri (2 adet), füme kaburga eti ve attack sos ile",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663673486565_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac39ec63f845cc",
+            "name": "XXX Burger",
+            "description": "Dana köfte (100 g) (3 adet), cheddar peyniri (3 adet), karamelize soğan, turşu ve attack sos ile",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663673560570_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac39bb0ef845d6",
+            "name": "Trüüüf Burger",
+            "description": "Dana köfte (150 g), trüflü mayonez, isli çerkez peyniri ve sweet chilli sos ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663688440333_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac392edef845de",
+            "name": "Trüfüme Burger",
+            "description": "Dana köfte (150 g), trüflü mayonez, füme kaburga eti, alman turşusu ve sweet sour sos ile",
+            "price": 359.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663688510404_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "632d918407ac3929b7f84505",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "632d918407ac39f384f84514",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617454584158_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac395286f8454b",
+            "name": "Soğan Halkası (10 Adet)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1617454594307_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac396f02f8459b",
+            "name": "Mozzarella Stick (5 Adet)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1663672331956_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "632d918407ac39176df84508",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "632d918407ac39112df84511",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac392f38f84543",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655218920_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac390abbf8455e",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac398342f84570",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac391aa7f84594",
+            "name": "Sprite ( 330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac391cb5f84595",
+            "name": "Fuse Tea  (330 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac39c33df845a5",
+            "name": "Cappy (330 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac397fa2f845c3",
+            "name": "Capri-Sun Safari Fruits (200 ml)",
+            "description": null,
+            "price": 42.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac397396f845cb",
+            "name": "Ayran (293 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac3983daf845d4",
+            "name": "Soda (330 ml)",
+            "description": null,
+            "price": 29.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac39ce1ff845d5",
+            "name": "Su (330 ml)",
+            "description": null,
+            "price": 19.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "632d918407ac3933b5f84509",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "632d918407ac397e3cf84510",
+            "name": "Ketçap",
+            "description": null,
+            "price": 5.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927933322_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac390f94f84544",
+            "name": "Mayonez",
+            "description": null,
+            "price": 5.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927941688_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac3922a8f8455d",
+            "name": "Ballı Hardal",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927927541_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac39906cf84571",
+            "name": "Sarımsaklı Mayonez",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927973481_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac3993bdf84581",
+            "name": "Barbekü Sos",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac391041f8459a",
+            "name": "Sweet Chilli Sos",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927986422_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac390e30f845aa",
+            "name": "Ballı Barbekü Sos",
+            "description": null,
+            "price": 11.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac3960e6f845ba",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927911178_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "632d918407ac394ef3f845c4",
+            "name": "Hardal",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927927541_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "632d918407ac390548f8450a",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "632d918407ac39ecd6f84513",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,944 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "61f26ba14aad6568820e6292",
+  "name": "Coffy, Çankaya (Fakülteler Mah.)",
+  "slug": "coffy-cankaya-fakulteler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Kahve & İçecek",
+    "Pasta & Tatlı"
+  ],
+  "rating": 4.3,
+  "rating_count": 2000,
+  "min_order_amount": 260.0,
+  "delivery_fee": 51.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Zincir Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e797d",
+            "name": "Latte",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724783801_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7986",
+            "name": "Iced Americano",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725419805_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79b5",
+            "name": "Iced Latte",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725250388_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7895",
+            "name": "Iced Caramel Macchiato",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725038014_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7991",
+            "name": "Iced Salted Caramel Latte",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725327991_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e781c",
+        "name": "Sıcak Kahve",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e7982",
+            "name": "Filtre Kahve",
+            "description": null,
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724696654_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7981",
+            "name": "Americano",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724983719_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e797d",
+            "name": "Latte",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724783801_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7907",
+            "name": "Cappuccino",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724464577_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7906",
+            "name": "Flat White",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724662836_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7828",
+            "name": "Mocha",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724817643_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7901",
+            "name": "White Chocolate Mocha",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724885623_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7827",
+            "name": "Caramel Macchiato",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724477831_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e782a",
+            "name": "Latte Salted Caramel",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724851211_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7833",
+            "name": "Bulletproof Americano",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724442460_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7832",
+            "name": "Bulletproof Latte",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724451324_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e790a",
+            "name": "Cherry Brownie Latte",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724510635_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e781b",
+        "name": "Soğuk Kahve",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e7986",
+            "name": "Iced Americano",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725419805_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79b5",
+            "name": "Iced Latte",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725250388_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e784c",
+            "name": "Iced Cappuccino",
+            "description": null,
+            "price": 155.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725434008_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7896",
+            "name": "Iced Mocha",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725284156_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7897",
+            "name": "Iced White Chocolate Mocha",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725354220_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e787f",
+            "name": "Cold Brew",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725181986_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7895",
+            "name": "Iced Caramel Macchiato",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725038014_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7991",
+            "name": "Iced Salted Caramel Latte",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725327991_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78e4",
+            "name": "Caramel Frappe",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725022183_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78ea",
+            "name": "Mocha Frappe",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725264795_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78e2",
+            "name": "Chocolate Cookie Frappe",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750341419425_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7999",
+            "name": "Iced Cherry Blossom Zen Latte",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725389303_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e781d",
+        "name": "Sıcak İçecek",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e79ed",
+            "name": "Matcha Latte",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763463819084_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79f3",
+            "name": "Vanilla Matcha Latte",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763463833365_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e7824",
+        "name": "Soğuk İçecek",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e78ef",
+            "name": "Cool Lime",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724212669_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78d8",
+            "name": "Minty Lemonade",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724346541_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78ed",
+            "name": "Granada Lemonade",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749735083472_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78f4",
+            "name": "Hibiscus",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724225128_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7883",
+            "name": "Freshaa Cool Lime & Mango",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724108065_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78ff",
+            "name": "Freshaa Cool Lime Strawberry",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749728268740_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78fd",
+            "name": "Freshaa Hibiskus & Blueberry",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724272421_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78f7",
+            "name": "Freshaa Hibiskus & Strawberry",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724309323_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78eb",
+            "name": "Orman Meyveli Frozen",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724359447_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78fa",
+            "name": "Mangolu Frozen",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724335280_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78f0",
+            "name": "Coffychino Caramel",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749725110644_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78e7",
+            "name": "Çilekli Milkshake",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724417414_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78e9",
+            "name": "Çikolatalı Milkshake",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724406042_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79f4",
+            "name": "Iced Matcha",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753175295959_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7909",
+            "name": "Iced Strawberry Matcha",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753175416470_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79f5",
+            "name": "Iced Vanilla Matcha",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753175338279_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d49f25ceac63ceac0f075d",
+            "name": "Iced Mango Matcha",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775542035502_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d49f47ceac63ceac0f07ee",
+            "name": "Iced Berry Matcha",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775542076888_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e7820",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e7926",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710849645989_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e792b",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710849645051_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e7825",
+        "name": "Çay",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e79ee",
+            "name": "Earl Grey Çay",
+            "description": null,
+            "price": 105.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724642845_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e781f",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e7843",
+            "name": "Çikolatalı Cookie",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723439040_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7845",
+            "name": "Çikolata Parçacıklı Cookie",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723391650_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7847",
+            "name": "Mozaik Pasta",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723222372_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7848",
+            "name": "Cookie Cups Kakaolu Fındık Kremalı",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723484252_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7849",
+            "name": "Karamelli Cookie Cups",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723117961_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e791e",
+            "name": "Mozaik Kek (Dilim)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723234311_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e78a4",
+            "name": "Kremalı Havuçlu Dilim Kek",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723276543_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7844",
+            "name": "Çikolatalı Muffin",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723426505_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e784b",
+            "name": "Yaban Mersinli Muffin",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723301407_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79cc",
+            "name": "Sıcak Sufle",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723325703_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79d6",
+            "name": "Tiramisu",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723313291_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79cd",
+            "name": "Frambuazlı Cheesecake",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723289010_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7846",
+            "name": "Limonlu Cheesecake",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749729329855_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e784a",
+            "name": "Profiterollü Pasta",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723207180_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e791f",
+            "name": "İspanyol Creamy Cheesecake",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723352914_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7888",
+            "name": "Latte Pasta",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757507476860_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79ec",
+            "name": "Chia Puding",
+            "description": null,
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723169250_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7893",
+            "name": "Orman Meyveli Pasta",
+            "description": null,
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1757507492931_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "698f1d26ceac63ceacd155d7",
+            "name": "Kalpli Muffin",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770986784921_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e781e",
+        "name": "Kahvaltılık & Sandviç",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e7913",
+            "name": "Tereyağlı Kruvasan (85 g)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723997042_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7912",
+            "name": "Dereotlu Ev Poğaçası",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723973204_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e790e",
+            "name": "Çikolata Dolgulu Kruvasan",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724008728_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e790d",
+            "name": "Çikolate ve Fındık Kremalı Kruvasan",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749724022298_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7838",
+            "name": "Peynirli Sandviç (Sıcak)",
+            "description": "Tam yağlı beyaz peynir, kaşar peyniri ve cheddar peyniri",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723901290_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e783a",
+            "name": "Hindi Jambonlu & Peynirli Bagel",
+            "description": null,
+            "price": 205.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749729235241_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7839",
+            "name": "Füme Etli Peynirli Bagel Sandviç",
+            "description": null,
+            "price": 205.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723733513_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e783c",
+            "name": "Köri Soslu Tavuklu Baget Sandviç",
+            "description": null,
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749723858799_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e783d",
+            "name": "İsli Peynir ve Hindi Fümeli Baget Sandviç",
+            "description": null,
+            "price": 215.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1749729267680_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e7821",
+        "name": "Atıştırmalık",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e7894",
+            "name": "Zbarz Power Coconut & Cacao Fruit Bar",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727076362422_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e7929",
+            "name": "Corny Kakao Kırmızı My Tahıl Bar",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742388924774_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6967fc8aceac63ceac9e7826",
+        "name": "Çekirdek Kahve (250 g)",
+        "items": [
+          {
+            "id": "6967fc8aceac63ceac9e7928",
+            "name": "Colombia Supremo (250 g)",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1613487831715_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e79c3",
+            "name": "Costarica (250 g)",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1629763400374_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6967fc8aceac63ceac9e792a",
+            "name": "Ethiopia (250 g)",
+            "description": null,
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1629763357827_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

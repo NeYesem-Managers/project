@@ -1,0 +1,462 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "6939ac70297fd3ca649ae48b",
+  "name": "Waffle De Nuit, Karabağlar (Doğanay Mah.)",
+  "slug": "waffle-de-nuit-karabaglar-doganay-mah-karabaglar-izmir",
+  "cuisine_types": [
+    "Pasta & Tatlı"
+  ],
+  "rating": 4.3,
+  "rating_count": 20,
+  "min_order_amount": 240.0,
+  "delivery_fee": 47.99,
+  "delivery_time_min": 20,
+  "delivery_time_max": 30,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "693c058aceac63ceac67b351",
+            "name": "Kendi Waffleni Oluştur",
+            "description": "Çıtır waffle hamuru",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c058bceac63ceac67b352",
+            "name": "Dolce Class",
+            "description": "Çıtır Belçika waffle, Sütlü çikolata, muz, çilek, çikolata sos ve yer fıstığı",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646371106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058cceac63ceac67b353",
+            "name": "Maldivian",
+            "description": "Hindistan cevizi, beyaz çikolata, muz, ananas, kivi, yaban mersini, beyaz çikolatalı sos, bitter çikolatalı sos",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775580655793_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058cceac63ceac67b355",
+            "name": "Blue Berries",
+            "description": "Sütlü çikolata, muz, yaban mersini, böğürtlen, çikolata sos, file badem, pirinç patlağı",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646437640_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058dceac63ceac67b356",
+            "name": "Fıstığım",
+            "description": "Sütlü çikolata, antep fıstıklı çikolata, muz, çilek, çikolata sos, antep fıstığı tozu, bitter pirinç patlağı",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646468353_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "693c0588ceac63ceac67b34a",
+        "name": "Waffles",
+        "items": [
+          {
+            "id": "693c058aceac63ceac67b351",
+            "name": "Kendi Waffleni Oluştur",
+            "description": "Çıtır waffle hamuru",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c058bceac63ceac67b352",
+            "name": "Dolce Class",
+            "description": "Çıtır Belçika waffle, Sütlü çikolata, muz, çilek, çikolata sos ve yer fıstığı",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646371106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058cceac63ceac67b353",
+            "name": "Maldivian",
+            "description": "Hindistan cevizi, beyaz çikolata, muz, ananas, kivi, yaban mersini, beyaz çikolatalı sos, bitter çikolatalı sos",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775580655793_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058cceac63ceac67b355",
+            "name": "Blue Berries",
+            "description": "Sütlü çikolata, muz, yaban mersini, böğürtlen, çikolata sos, file badem, pirinç patlağı",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646437640_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058dceac63ceac67b356",
+            "name": "Fıstığım",
+            "description": "Sütlü çikolata, antep fıstıklı çikolata, muz, çilek, çikolata sos, antep fıstığı tozu, bitter pirinç patlağı",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646468353_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058dceac63ceac67b357",
+            "name": "Red Berries",
+            "description": "Sütlü çikolata, frambuazlı çikolata, çilek, frambuaz, böğürtlen, beyaz çikolatalı sos, pirinç patlağı mix",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646482922_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058eceac63ceac67b358",
+            "name": "Special Waffle",
+            "description": "Sütlü çikolata, muz, çilek, yaban mersini, beyaz çikolatalı sos, bitter çikolatalı sos, file badem, antep fıstığı",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646524258_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058fceac63ceac67b359",
+            "name": "Choco Caramel",
+            "description": "Sütlü çikolata, muz, çilek, karamel sos, rende çikolata, damla çikolata, rulokat",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646567641_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "693c058fceac63ceac67b35b",
+            "name": "Beyaz Döngü",
+            "description": "Beyaz çikolata, muz, çilek, beyaz çikolatalı sos, beyaz pirinç patlağı, file badem",
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765646590286_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d52ac5ceac63ceac109f64",
+            "name": "Dolce Class Bardak Waffle",
+            "description": "Sütlü çikolata, muz, çilek, sütlü çikolata sos ve yer fıstığı",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775577723111_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d53266ceac63ceac10a6a9",
+            "name": "Blueberries Bardak Waffle",
+            "description": "Sütlü çikolata, muz, böğürtlen, yaban mersini, çikolata sos ve filebadem",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775579728148_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d532bbceac63ceac10a70d",
+            "name": "Chestnut Bardak Waffle",
+            "description": "Beyaz çikolata, muz, frambuaz, sos, kestane şekeri ve krep kırığı",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775579817564_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d533c6ceac63ceac10a818",
+            "name": "Fıstığım Bardak Waffle",
+            "description": "Sütlü çikolata, Antep fıstıklı çikolata, muz, çilek, çikolata sosu, Antep fıstığı tozu ve bitter pirinç patlağı",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69d53413ceac63ceac10a86b",
+            "name": "Beyaz Döngü Bardak Waffle",
+            "description": "Beyaz çikolata, muz, çilek, beyaz çikolata sos ve file badem",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775580172517_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "693c0589ceac63ceac67b34b",
+        "name": "Sıcak Kahve",
+        "items": [
+          {
+            "id": "693c0590ceac63ceac67b35d",
+            "name": "Cafe Latte (8 oz)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0591ceac63ceac67b35e",
+            "name": "Americano (8 oz)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0591ceac63ceac67b35f",
+            "name": "Cappucino (12 oz)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0592ceac63ceac67b360",
+            "name": "Latte Machiato (12 oz)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0592ceac63ceac67b361",
+            "name": "Cafe Mocha (12 oz)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0593ceac63ceac67b362",
+            "name": "Salted Caramel Latte (8 oz)",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0594ceac63ceac67b363",
+            "name": "White Chocolate Mocha (12 oz)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0594ceac63ceac67b365",
+            "name": "Caramel Latte (8 oz)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0595ceac63ceac67b366",
+            "name": "Coconut Cream Cappucino (12 oz)",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0595ceac63ceac67b367",
+            "name": "Pumpkın Cappucino (12 oz)",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0596ceac63ceac67b368",
+            "name": "Flat White (12 oz)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "693c0589ceac63ceac67b34e",
+        "name": "Soğuk Kahve",
+        "items": [
+          {
+            "id": "693c0597ceac63ceac67b369",
+            "name": "Iced Americano (12 oz)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0597ceac63ceac67b36a",
+            "name": "Iced Cafe Mocha (12 oz)",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0598ceac63ceac67b36f",
+            "name": "Iced Caramel Mocha (12 oz)",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0598ceac63ceac67b370",
+            "name": "Iced Latte (12 oz)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0599ceac63ceac67b371",
+            "name": "Fappe Latte (12 oz)",
+            "description": null,
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c0599ceac63ceac67b372",
+            "name": "Iced Salted Caramel Latte (12 oz)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c059aceac63ceac67b373",
+            "name": "Iced Coconut Cream Cappucino (12 oz)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c059bceac63ceac67b374",
+            "name": "Iced Pumpkın Cappucino (12 oz)",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "693c058aceac63ceac67b350",
+        "name": "Vitamin Bar",
+        "items": [
+          {
+            "id": "693c059bceac63ceac67b375",
+            "name": "Taze Sıkma Portakal Suyu (12 oz)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c059cceac63ceac67b376",
+            "name": "Taze Sıkma Havuç Suyu (12 oz)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "693c059dceac63ceac67b377",
+            "name": "Taze Sıkma Elma Suyu (12 oz)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

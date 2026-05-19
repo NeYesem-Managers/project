@@ -1,0 +1,540 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "676a784a26d0a453eb2dee92",
+  "name": "Cafe Bu Kumpir & Makarna, Osmangazi (Kükürtlü Mah.)",
+  "slug": "cafe-bu-kumpir-makarna-osmangazi-kukurtlu-mah-osmangazi-bursa",
+  "cuisine_types": [
+    "Kahve & İçecek",
+    "Mantı & Makarna",
+    "Sokak Lezzetleri"
+  ],
+  "rating": 2.8,
+  "rating_count": 50,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "6788ebd8ceac63ceac7de4b9",
+        "name": "Kumpir",
+        "items": [
+          {
+            "id": "6788ecb0ceac63ceac7de57d",
+            "name": "Sade Kumpir",
+            "description": "Tereyağ ve kaşar peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ecfaceac63ceac7de5e0",
+            "name": "Standart 4 Malzemeli Kumpir",
+            "description": "Tereyağ, kaşar peyniri, sosis, mısır, siyah zeytin, turşu",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ed0cceac63ceac7de67f",
+            "name": "Standart 4 Malzemeli Kumpir (Büyük Boy) (750 g)",
+            "description": "Tereyağ, kaşar peyniri, sosis, mısır, siyah zeytin, turşu",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ed4aceac63ceac7de69d",
+            "name": "Güveçte Kumpir",
+            "description": "Tereyağ, kaşar peyniri, ketçap, mayonez",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788f03eceac63ceac7ded2b",
+            "name": "Kumpirini Oluştur",
+            "description": "Tereyağ, kaşar peyniri, ketçap, mayonez",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788f0b2ceac63ceac7deda9",
+            "name": "Közlenmiş Sade Patates (Büyük Boy)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788f0dcceac63ceac7dedc7",
+            "name": "Special Kumpirini Oluştur (750 g)",
+            "description": "Tereyağ, kaşar peyniri, ketçap, mayonez",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788f18eceac63ceac7df163",
+            "name": "Güveçte Kavurmalı Kumpir & Ayran",
+            "description": "Güveçte kavurmalı kumpir (kavurma, kaşar peyniri) ve ayran (300 ml) ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6788e97fceac63ceac7de162",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "6788e996ceac63ceac7de174",
+            "name": "Ton Balıklı Makarna",
+            "description": "Özel soslu makarna (300 g), ton balığı (80 g)",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788e9afceac63ceac7de190",
+            "name": "Üç Peynirli Makarna",
+            "description": "Labne peynir, cheddar peyniri, parmesan peyniri",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788e9d0ceac63ceac7de1a2",
+            "name": "Napolitan Soslu Makarna",
+            "description": "Ev yapımı sos, zeytinyağı, sarımsak, domates püresi, fesleğen, kekik, karabiber, tuz, parmesan peyniri",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788e9f1ceac63ceac7de1b4",
+            "name": "Kremalı Mantarlı Makarna",
+            "description": "Ev yapımı sos, mantar, sarımsak, krema, zeytinyağı, fesleğen, karabiber ,tuz",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ea1dceac63ceac7de1dc",
+            "name": "Boldner Soslu Makarna",
+            "description": "Ev yapımı sos, zeytinyağı, havuç, soğan, kereviz, sarımsak, kıyma, domates püresi, salça, et suyu, karabiber, tuz",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ea3eceac63ceac7de205",
+            "name": "Makarina Soslu Makarna",
+            "description": "Ev yapımı sos, zeytinyağı, soğan, domates püresi, karabiber, defne yaprağı, fesleğen",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ea58ceac63ceac7de225",
+            "name": "Limon Soslu Makarna",
+            "description": "Ev yapımı sos, sarımsak, limon suyu, limon kabuğu, krema, maydanız, karabiber, tuz",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eb36ceac63ceac7de336",
+            "name": "Acılı Makarna (300 g)",
+            "description": "Ev yapımı acılı sos",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eb71ceac63ceac7de46b",
+            "name": "Mantarlı Makarna",
+            "description": "Ev yapımı özel sos, krema, mantar",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eb89ceac63ceac7de47b",
+            "name": "Tavuklu Mantarlı Makarna",
+            "description": "Ev yapımı özel sos, krema, mantar, tavuk",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ebb6ceac63ceac7de49c",
+            "name": "Pesto Soslu Makarna",
+            "description": "Ev yapımı sos, sarımsak, fesleğen, çam fıstığı, parmesan peyniri, zeytinyağı, karabiber, tuz",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ebcbceac63ceac7de4a6",
+            "name": "Köri Soslu Makarna",
+            "description": "Ev yapımı özel sos, krema",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6788e924ceac63ceac7de111",
+        "name": "Vitamin Bar",
+        "items": [
+          {
+            "id": "6788e93aceac63ceac7de128",
+            "name": "Limonata (300 ml)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788e953ceac63ceac7de138",
+            "name": "Cafebu Multimix (300 ml)",
+            "description": "Portakal, nar, limonata",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788e95fceac63ceac7de13d",
+            "name": "Nar Suyu (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788e969ceac63ceac7de142",
+            "name": "Boza (200 ml)",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788e977ceac63ceac7de151",
+            "name": "Portakal Suyu (1 L)",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eaa2ceac63ceac7de28f",
+            "name": "Çilekli Limonata (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eaaaceac63ceac7de29c",
+            "name": "Karpuzlu Limonata (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eac8ceac63ceac7de2c7",
+            "name": "Nar Suyu (1 L)",
+            "description": null,
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ed6eceac63ceac7de6b7",
+            "name": "Ananaslı Muzlu Portakal Suyu (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ed7aceac63ceac7de6d0",
+            "name": "Kivi Suyu (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ed86ceac63ceac7de6db",
+            "name": "Salatalık Suyu (300 ml)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788edb4ceac63ceac7de7c8",
+            "name": "Portakal Suyu (300 ml)",
+            "description": null,
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788edc9ceac63ceac7de7d2",
+            "name": "Havuçlu Elmalı Portakal Suyu (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788edd7ceac63ceac7de850",
+            "name": "Çilekli Kırmızı Elma Suyu (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ede9ceac63ceac7de908",
+            "name": "Ananas Suyu (300 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6788ea6fceac63ceac7de261",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6788ea7eceac63ceac7de26b",
+            "name": "Cola Turka (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ea87ceac63ceac7de26e",
+            "name": "Ayran (330 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ea97ceac63ceac7de286",
+            "name": "Uludağ Gazoz (200 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ead2ceac63ceac7de2cf",
+            "name": "Uludağ Premium Su (400 ml)",
+            "description": null,
+            "price": 24.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6788eaeaceac63ceac7de305",
+        "name": "Soğuk İçecek",
+        "items": [
+          {
+            "id": "6788eb01ceac63ceac7de311",
+            "name": "Ice Americano (300 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eb0bceac63ceac7de31e",
+            "name": "Ice Mocha (300 ml)",
+            "description": null,
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eb16ceac63ceac7de328",
+            "name": "Ice White Chocolate Mocha (300 ml)",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eb1eceac63ceac7de32d",
+            "name": "Berry Hibiscus (300 ml)",
+            "description": null,
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6788ed90ceac63ceac7de6f7",
+        "name": "Sıcak İçecek",
+        "items": [
+          {
+            "id": "6788ed9cceac63ceac7de716",
+            "name": "Americano (200 ml)",
+            "description": null,
+            "price": 95.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788eda5ceac63ceac7de72b",
+            "name": "Cappuccino (200 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788edf5ceac63ceac7de91a",
+            "name": "Çay (180 ml)",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788edfeceac63ceac7de929",
+            "name": "Filtre Kahve (200 ml)",
+            "description": null,
+            "price": 95.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6788ee06ceac63ceac7de936",
+            "name": "Sütlü Filtre Kahve (200 ml)",
+            "description": null,
+            "price": 102.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

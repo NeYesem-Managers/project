@@ -1,0 +1,592 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6900747f4ee311e5b1d46b4e",
+  "name": "The Golden Fry Schnitzel, Mamak (Kutlu Mah.)",
+  "slug": "the-golden-fry-schnitzel-mamak-kutlu-mah-mamak-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı",
+    "Tavuk"
+  ],
+  "rating": 4.3,
+  "rating_count": 5,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "69007497ceac63ceac16acae",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16ace3",
+            "name": "The Golden Fry Doyuran Menü",
+            "description": "Seçeceğiniz çorba ve seçeceğiniz schnitzel ile",
+            "price": 729.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776772927826_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16ace2",
+            "name": "The Golden Fry İkili Menü",
+            "description": "Seçeceğiniz 2 adet schnitzel ve seçeceğiniz litrelik içecek ile",
+            "price": 1079.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776772919658_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69007497ceac63ceac16acb1",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16acce",
+            "name": "Mercimek Çorbası",
+            "description": "(Tavuk suyu içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+            "price": 179.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366336623_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acc3",
+            "name": "Tavuk Suyu Çorbası",
+            "description": "(Maydanoz içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+            "price": 189.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366377127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd1",
+            "name": "Domates Çorbası",
+            "description": "(Rendelenmiş kaşar ve sarımsak içerir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+            "price": 179.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366266134_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16accd",
+            "name": "Yayla Çorbası",
+            "description": null,
+            "price": 179.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366407601_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16ace1",
+            "name": "Brokoli Çorbası",
+            "description": null,
+            "price": 179.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16ace0",
+            "name": "Ayran Aşı Çorbası",
+            "description": "(Soğuk servis edilir.) (Ekmek/pide/roll ekmek uygunluğa göre gönderilir.)",
+            "price": 179.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753799473944_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69007497ceac63ceac16acaf",
+        "name": "Schnitzel",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16ace9",
+            "name": "Klasik Schnitzel",
+            "description": "Çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon",
+            "price": 569.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773801450_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd8",
+            "name": "Cheddar Soslu Schnitzel",
+            "description": "Cheddar soslu çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773815197_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acdd",
+            "name": "Acı Soslu Schnitzel",
+            "description": "Acılı çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773827880_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16ace8",
+            "name": "Türk İşi Schnitzel",
+            "description": "Pilav, schnitzel, çoban salata, havuç tarator, limon",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773848732_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acc5",
+            "name": "Sriracha Mayo Soslu Schnitzel",
+            "description": "Sriracha mayonez soslu çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon.",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773874238_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acc6",
+            "name": "Ballı Hardallı Schnitzel",
+            "description": "Ballı hardal soslu çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon.",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773885769_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acca",
+            "name": "Ranch Soslu Schnitzel",
+            "description": "Ranch soslu çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon.",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773910488_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acc9",
+            "name": "Trüflü Mayonez Soslu Schnitzel",
+            "description": "Trüflü mayonez soslu çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon.",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773899889_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acb6",
+            "name": "Barbekü Soslu Schnitzel",
+            "description": "Barbekü soslu çıtır altın schnitzel, hardallı patates salatası, mor lahana turşusu, patates kızartması, havuç tarator, limon.",
+            "price": 589.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776773924957_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69007497ceac63ceac16acb2",
+        "name": "Bowl",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16acc0",
+            "name": "Klasik Schnitzel Bowl",
+            "description": "Çıtır altın schnitzel, göbek marul, haşlanmış sebze, mısır, mor lahana turşusu, havuç tarator, hardallı patates salatası, basmati pilav, kokteyl domates",
+            "price": 649.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771849368407_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16ace5",
+            "name": "Schnitzel Bowl",
+            "description": "Schnitzel, haşlanmış sebze, mısır, köz biber, mor lahana turşusu, meksika fasulyesi, guacamole sos, basmati pilav, kokteyl domates, salatalık, süzme yoğurt",
+            "price": 649.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771849384518_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16accc",
+            "name": "Çıtır Tavuklu Bowl",
+            "description": "Çıtır tavuk parçaları, haşlanmış sebze, göbek marul, mısır, köz biber, mor lahana turşusu, meksika fasulyesi, guacamole sos, basmati pilav, kokteyl domates, salatalık, süzme yoğurt",
+            "price": 649.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771849358775_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "695e4b83ceac63ceac92a619",
+            "name": "Schnitzel Bowl Kasesi",
+            "description": "Çıtır altın schnitzel, tercihe göre tereyağlı Türk pilavı veya zerdeçallı basmati pilav, mısır, köz biber, salatalık turşusu, mor lahana turşusu, domates, salatalık, havuç tarator",
+            "price": 629.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771849400479_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "695e4b99ceac63ceac92a662",
+            "name": "Makarnalı Schnitzel Bowl",
+            "description": "Schnitzel, haşlanmış sebze, mısır, köz biber, mor lahana turşusu, meksika fasulyesi, guacamole sos, penne makarna, kokteyl domates, salatalık, süzme yoğurt",
+            "price": 649.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768460540878_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69007497ceac63ceac16acb0",
+        "name": "Meze",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16ace7",
+            "name": "Humus",
+            "description": null,
+            "price": 239.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366306864_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd5",
+            "name": "Havuç Tarator",
+            "description": null,
+            "price": 239.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366298130_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16aceb",
+            "name": "Hardallı Patates Salatası",
+            "description": null,
+            "price": 199.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366291881_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69007497ceac63ceac16acb3",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16accf",
+            "name": "İçli Köfte (Adet)",
+            "description": null,
+            "price": 159.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366314215_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16accb",
+            "name": "Çoban Salata",
+            "description": null,
+            "price": 109.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366439804_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acbc",
+            "name": "Yoğurt",
+            "description": null,
+            "price": 69.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366411917_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acc1",
+            "name": "Ekmek",
+            "description": "Ekmek/pide/roll ekmek uygunluğa göre gönderilir.",
+            "price": 39.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366271428_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69007497ceac63ceac16acb4",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16ace4",
+            "name": "Tiramisu",
+            "description": null,
+            "price": 369.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366400903_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd0",
+            "name": "San Sebastian Cheesecake",
+            "description": null,
+            "price": 369.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366367094_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acb9",
+            "name": "Ricottalı Frambuazlı Cheesecake",
+            "description": null,
+            "price": 369.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366419934_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd2",
+            "name": "İzmir Bomba (Adet)",
+            "description": null,
+            "price": 139.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366323089_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd4",
+            "name": "İrmik Helvası",
+            "description": null,
+            "price": 219.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742366319541_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "69494b9cceac63ceac76c9c4",
+            "name": "Orman Meyveli Magnolia",
+            "description": "Orman meyveleri, magnolia kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+            "price": 369.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777273957992_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69494bb3ceac63ceac76c9f7",
+            "name": "Fıstıklı Magnolia",
+            "description": "Fıstık kreması, magnolia kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+            "price": 399.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777273912720_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69494bd0ceac63ceac76ca54",
+            "name": "Lotus Magnolia",
+            "description": "Lotus kreması, magnolia kreması ve bisküvi katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+            "price": 369.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777273929144_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69494be7ceac63ceac76ca85",
+            "name": "Oreo Magnolia",
+            "description": "Oreo bisküvisi, magnolia kreması ve kek katmanlarıyla hazırlanmış, soğuk servis edilen tek porsiyonluk bir tatlı",
+            "price": 369.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1777273942681_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69007497ceac63ceac16acb5",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "69007497ceac63ceac16acdf",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 119.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acdc",
+            "name": "Coca Cola Zero (330 ml)",
+            "description": null,
+            "price": 119.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acb7",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 119.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acda",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 119.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd6",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 79.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acec",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 119.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acea",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 119.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd9",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 119.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acb8",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 69.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd7",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 49.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acdb",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 139.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acd3",
+            "name": "Coca Cola Zero (1 L)",
+            "description": null,
+            "price": 139.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acc4",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 139.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69007497ceac63ceac16acde",
+            "name": "Fuse Tea Şeftali (1 L)",
+            "description": null,
+            "price": 139.95,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

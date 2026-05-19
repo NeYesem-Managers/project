@@ -1,0 +1,520 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "66fbcc7348440953515ea52f",
+  "name": "Maxi Chef, Karabağlar (Bozyaka Mah.)",
+  "slug": "maxi-chef-karabaglar-bozyaka-mah-karabaglar-izmir-2",
+  "cuisine_types": [
+    "Burger",
+    "Tost & Sandviç"
+  ],
+  "rating": 4.5,
+  "rating_count": 500,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %20"
+    },
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66fbd211cbc599b1e8786d9b",
+            "name": "Hamburger Menü",
+            "description": "Hamburger, patates kızartması (küçük boy) ve içecek ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067dd6ceac63ceac0e8f2b",
+            "name": "Maxi Karışık Menü",
+            "description": "Maxi karışık, patates kızartması (küçük boy) ve içecek ile",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067f9eceac63ceac0e90bc",
+            "name": "Chef Burger Menü",
+            "description": "Chef burger, patates kızartması (küçük boy) ve içecek ile",
+            "price": 444.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670680c9ceac63ceac0e9166",
+            "name": "Ayvalık Tostu Menü",
+            "description": "Ayvalık tostu, patates kızartması (küçük boy) ve içecek ile",
+            "price": 372.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd202dc678937f5e5df44",
+            "name": "Ayvalık Tost",
+            "description": "Salam, sucuk, kaşar peyniri, domates, turşu, ketçap, mayonez",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fbd1fdf11dd8291e3752c4",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "66fbd211cbc599b1e8786d9b",
+            "name": "Hamburger Menü",
+            "description": "Hamburger, patates kızartması (küçük boy) ve içecek ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067dd6ceac63ceac0e8f2b",
+            "name": "Maxi Karışık Menü",
+            "description": "Maxi karışık, patates kızartması (küçük boy) ve içecek ile",
+            "price": 396.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067f9eceac63ceac0e90bc",
+            "name": "Chef Burger Menü",
+            "description": "Chef burger, patates kızartması (küçük boy) ve içecek ile",
+            "price": 444.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067fe4ceac63ceac0e90ce",
+            "name": "Maxi Chef Cheddarlı Sandviç Menü",
+            "description": "Maxi chef cheddarlı sandviç, patates kızartması (küçük boy) ve içecek ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67068021ceac63ceac0e90e3",
+            "name": "Chicken Burger Menü",
+            "description": "Chicken burger, patates kızartması (küçük boy) ve içecek ile",
+            "price": 372.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67068083ceac63ceac0e9139",
+            "name": "Cheseeburger Menü",
+            "description": "Cheseeburger, patates kızartması (küçük boy) ve içecek ile",
+            "price": 444.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670680c9ceac63ceac0e9166",
+            "name": "Ayvalık Tostu Menü",
+            "description": "Ayvalık tostu, patates kızartması (küçük boy) ve içecek ile",
+            "price": 372.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67068153ceac63ceac0e91bb",
+            "name": "Yumurtalı Yengen Sandviç Menü",
+            "description": "Yumurtalı yengen sandviç, patates kızartması (küçük boy) ve içecek ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670681e1ceac63ceac0e91ea",
+            "name": "Kanka Menü (2 Kişilik)",
+            "description": "Maxi karışık sandviç (2 adet), patates kızartması (büyük boy) ve pepsi (1 L) ile",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670685d3ceac63ceac0e946f",
+            "name": "Aile Menü (3 Kişilik)",
+            "description": "Maxi karışık sandviç (3 adet), patates kızartması (büyük boy) ve pepsi (1 L) ile",
+            "price": 960.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670685efceac63ceac0e947c",
+            "name": "Aile Menü (4 Kişilik)",
+            "description": "Maxi karışık sandviç (4 adet), patates kızartması (büyük boy) ve pepsi (1 L) ile",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fbd1fedc678937f5e5df1d",
+        "name": "Tost",
+        "items": [
+          {
+            "id": "66fbd202dc678937f5e5df44",
+            "name": "Ayvalık Tost",
+            "description": "Salam, sucuk, kaşar peyniri, domates, turşu, ketçap, mayonez",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fbd1fecbc599b1e8786cbb",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "66fbd204dc678937f5e5df53",
+            "name": "Maxi Karışık Sandviç",
+            "description": "Sosis, salam, sucuk, kaşar peyniri, ketçap, mayonez, turşu",
+            "price": 264.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd204cbc599b1e8786d00",
+            "name": "Double Karışık",
+            "description": "Sucuk, salam, sosis, kaşar peyniri, turşu, ketçap, mayonez",
+            "price": 312.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd205a53c22429e11df27",
+            "name": "Maxi Chef Cheddarlı Sandviç",
+            "description": "Sosis, salam, sucuk, cheddar peyniri, kaşar peyniri, turşu, ketçap, mayonez",
+            "price": 288.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067847ceac63ceac0e81a6",
+            "name": "Yumurtalı Yengen Karışık Sandviç",
+            "description": "Sosis, salam, sucuk, kaşar peyniri, ketçap, mayonez, turşu, yumurta",
+            "price": 288.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fbd1ffdc678937f5e5df29",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "66fbd206496612b98d314ebb",
+            "name": "Chicken Burger",
+            "description": "Burger köftesi, marul, domates, turşu, ketçap, mayonez",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd207dc678937f5e5df78",
+            "name": "Hamburger",
+            "description": "Hamburger köftesi, marul, domates, turşu, ketçap, mayonez",
+            "price": 288.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd207cbc599b1e8786d2b",
+            "name": "Cheeseburger",
+            "description": "Burger köftesi, cheddar peyniri, kaşar peyniri, marul, domates, turşu, ketçap, mayonez",
+            "price": 312.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067aceceac63ceac0e89f4",
+            "name": "Ranch Sos Burger",
+            "description": "Burger köftesi, marul, domates, turşu, ketçap, mayonez, ranch sos",
+            "price": 312.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067ae8ceac63ceac0e89fa",
+            "name": "Barbekü Sos Burger",
+            "description": "Burger köftesi, marul, domates, turşu, ketçap, mayonez, barbekü sos",
+            "price": 312.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67067b2bceac63ceac0e8a1b",
+            "name": "Chef Burger",
+            "description": "Burger köftesi, marul, domates, turşu, ketçap, mayonez, özel sos, cheddar peynir",
+            "price": 312.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fbd20065d3c6cd66e66668",
+        "name": "Ekmek Arası Lezzet",
+        "items": [
+          {
+            "id": "66fbd205f11dd8291e375315",
+            "name": "Patso",
+            "description": "Patates kızartması, ketçap, mayonez, turşu",
+            "price": 216.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fbd200815572bcec3d356c",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "66fbd20ccbc599b1e8786d4e",
+            "name": "Nugget (5 Adet)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd20aa53c22429e11df4d",
+            "name": "Soğan Halkası (5 Adet)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd209815572bcec3d35c2",
+            "name": "Patates Kızartması (Küçük Boy)",
+            "description": null,
+            "price": 96.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd20bcbc599b1e8786d47",
+            "name": "Patates Kızartması (Büyük Boy)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd20bdc678937f5e5dfb5",
+            "name": "Çıtır Sepeti",
+            "description": "Nugget (5 adet), soğan halkası (5 adet), patates kızartması (küçük boy) ve pepsi (250 ml) ile",
+            "price": 324.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66fbd201fdcb0e1618f4593e",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "66fbd20f65d3c6cd66e666cc",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd20cfdcb0e1618f459da",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67066e8fceac63ceac0e79bf",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 72.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd20df4b13dfa934db207",
+            "name": "Ayran (285 ml)",
+            "description": null,
+            "price": 36.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67066eacceac63ceac0e79c5",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670674a9ceac63ceac0e7fba",
+            "name": "Elmalı Soda (200 ml)",
+            "description": null,
+            "price": 28.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6706749eceac63ceac0e7fb6",
+            "name": "Karpuz & Çilekli Soda (200 ml)",
+            "description": null,
+            "price": 28.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "670672a0ceac63ceac0e7bb7",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 28.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd20ef11dd8291e37536d",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 24.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd210f11dd8291e37538c",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 24.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66fbd210815572bcec3d3612",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

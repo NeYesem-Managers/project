@@ -1,0 +1,590 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "63dcaffc834791a6fccf044d",
+  "name": "Maydanoz Mutfak (Cerrahpaşa Mah.)",
+  "slug": "maydanoz-mutfak-cerrahpasa-mah-fatih-istanbul",
+  "cuisine_types": [
+    "Tost & Sandviç"
+  ],
+  "rating": 4.8,
+  "rating_count": 200,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "63e0f55383f830a08d5c14b5",
+            "name": "Üç Peynirli Sandviç",
+            "description": "Ciabatta ekmeği, labne kuru domates veya labne avakado baz, kaşar peyniri, cheddar peyniri, zeytin salatası, domates, kıvırcık",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403804264_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83022905c1597",
+            "name": "Ton Balıklı Sandviç",
+            "description": "Ciabatta ekmeği, ton balığı (75 g), kıvırcık, mayonez, dijon hardal, kornişon turşu, kapari, beyaz biber, dereotu, kırmızı soğan",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403803067_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83005565c1493",
+            "name": "Hindi Füme Sandviç",
+            "description": "Ciabatta ekmeği, labne kuru domates veya labne avakado baz, kaşar peyniri, hindi füme (50 g), domates, kıvırcık",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403730385_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "643f6f4dd1cc7d4274556422",
+            "name": "Egeli Panini Tost",
+            "description": "Ciabatta ekmeği, kaşar peyniri, kuru domates, zeytin ezmesi, kekik, zeytinyağı, maydanoz",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830863f5c151f",
+            "name": "Nohutlu Yunan Salatası",
+            "description": "Akdeniz yeşilliği, maydanoz, avokado, biber, domates, soslu nohut, lor peyniri, kırmızı soğan",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403797170_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e0f55383f83034de5c147f",
+        "name": "Soğuk Sandviç",
+        "items": [
+          {
+            "id": "63e0f55383f830a08d5c14b5",
+            "name": "Üç Peynirli Sandviç",
+            "description": "Ciabatta ekmeği, labne kuru domates veya labne avakado baz, kaşar peyniri, cheddar peyniri, zeytin salatası, domates, kıvırcık",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403804264_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83022905c1597",
+            "name": "Ton Balıklı Sandviç",
+            "description": "Ciabatta ekmeği, ton balığı (75 g), kıvırcık, mayonez, dijon hardal, kornişon turşu, kapari, beyaz biber, dereotu, kırmızı soğan",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403803067_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8302df25c14e2",
+            "name": "Dana Jambon Sandviç",
+            "description": "Ciabatta ekmeği, labne kuru domates veya labne avakado baz, kaşar peyniri, dana jambon (45 g), domates, kıvırcık",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403721754_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83005565c1493",
+            "name": "Hindi Füme Sandviç",
+            "description": "Ciabatta ekmeği, labne kuru domates veya labne avakado baz, kaşar peyniri, hindi füme (50 g), domates, kıvırcık",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403730385_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830288a5c150e",
+            "name": "Dana Füme Dil Sandviç",
+            "description": "Ciabatta ekmeği, labne kuru domates veya labne avokado baz, dana füme dil (30 g), eski kaşar peyniri, domates, kıvırcık",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403718604_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8309a2a5c1574",
+            "name": "Mozarella Caprise Sandviç",
+            "description": "Ciabatta ekmeği, mozzarella peyniri, fesleğen, pesto sos",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403794740_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830a2805c1547",
+            "name": "Biberli Füme Et Sandviç",
+            "description": "Ciabatta ekmeği, labne kuru domates veya labne avakado baz, kaşar peyniri, karabiberli füme et (40 g), domates, kıvırcık",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403716259_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830243a5c15ac",
+            "name": "Füme Somon Sandviç",
+            "description": "Ciabatta ekmeği, füme somon (50 g), avokado, kapari, roka, dereotu, labne sos, kırmızı soğan",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403725288_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6641ebbe76b6d74329b73537",
+            "name": "Beyaz Peynirli Sandviç",
+            "description": "Ciabatta ekmeği, kuru domatesli labne baz, kıvırcık, domates, salatalık, kapya biber, yeşil biber, beyaz peynir",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e0f55383f830d47f5c1481",
+        "name": "Sıcak Sandviç",
+        "items": [
+          {
+            "id": "63e0f55383f8301b2a5c148b",
+            "name": "Izgara Sebzeli Hellim Sandviç",
+            "description": "Ciabatta ekmeği, ızgara sebze dilimleri, hellim peynir, pesto sos, tercihinize göre kırmızı soğan ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63fce87de5f13a828453fdca",
+            "name": "Vegan Sandviç 4",
+            "description": "Ciabatta ekmek, lütanitse sos, ızgara sebze dilimleri, karamalize soğan",
+            "price": 273.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643f6da9f4b4c16c2e377908",
+        "name": "Kruvasan",
+        "items": [
+          {
+            "id": "643f6ebfc7a5db4c64dd37db",
+            "name": "Tereyağlı Kruvasan (110 g)",
+            "description": null,
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643f6dd4f4b4c184cc377992",
+            "name": "Süt Reçelli Kruvasan",
+            "description": "Tereyağlı kruvasan (110 g), süt reçeli",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643f6e04b6ab5867e7d3fc74",
+            "name": "Nutella Mousse Kruvasan",
+            "description": "Tereyağlı kruvasan (110 g), nutella mousse",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643f6e56d1cc7d5274555fbe",
+            "name": "3 Peynirli Kruvasan",
+            "description": "Tereyağlı kruvasan (110 g), taze kaşar, cheddar peyniri, labne, avokado sos, zeytin salatası, domates, kıvırcık marul",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643f6e35d1cc7d78b6555f5e",
+            "name": "Mozzarella Caprese Kruvasan",
+            "description": "Tereyağlı kruvasan (70 g), suda mozarella peyniri, fesleğen, roka, pesto sos",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "651d835044fed05bd69d3e3f",
+            "name": "Kaşarlı Kruvasan",
+            "description": "Tereyağlı kruvasan (110 g), taze kaşar peyniri, domates, salatalık, kıvırcık marul ve biber ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "651d83d9b16c2330e5577318",
+            "name": "Hindi Füme Kruvasan",
+            "description": "Tereyağlı kruvasan (110 g), hindi füme (35 g), taze kaşar peyniri, domates, salatalık, kıvırcık marul ve biber ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "651d850afdb4c62332363c0c",
+            "name": "Dana Jambon Kruvasan",
+            "description": "Tereyağlı kruvasan (110 g), dana jambon (45 g), taze kaşar peyniri, domates, salatalık, kıvırcık marul ve biber ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643f6edac7a5db6248dd382c",
+        "name": "Panini Tost",
+        "items": [
+          {
+            "id": "643f6f00222c1040fd342e4d",
+            "name": "Beyaz Peynirli Panini Tost",
+            "description": "Ciabatta ekmeği, beyaz peynir, zeytinyağı, hatay tatlı biber salçası, maydanoz, kekik",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643f6f22b6ab587637d3ffe3",
+            "name": "Biberli Rozbif Panini Tost",
+            "description": "Ciabatta Ekmeği, karabiberli füme et (45 g), cheddar peyniri, karamelize soğan, hardal",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643f6f4dd1cc7d4274556422",
+            "name": "Egeli Panini Tost",
+            "description": "Ciabatta ekmeği, kaşar peyniri, kuru domates, zeytin ezmesi, kekik, zeytinyağı, maydanoz",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643f6f6dd1cc7d879e556492",
+            "name": "Dana Jambon Panini Tost",
+            "description": "Ciabatta ekmeği, cheddar peyniri, hardal, domates, hatay tatlı biber salçası",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e0f55383f8307a325c1480",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "63e0f55383f830863f5c151f",
+            "name": "Nohutlu Yunan Salatası",
+            "description": "Akdeniz yeşilliği, maydanoz, avokado, biber, domates, soslu nohut, lor peyniri, kırmızı soğan",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403797170_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8301da35c1579",
+            "name": "Antioksidan Kinoa Tabule (Vegan)",
+            "description": "Haşlanmış pancar, nar, kabak çekirdeği, nohut, fesleğen, kinoa (150 g), kırmızı soğan",
+            "price": 565.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403711819_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83002425c14c7",
+            "name": "Brokolili Makarna Salatası",
+            "description": "Makarna (125 g), brokoli, cherry domates, avokado, dilim zeytin, parmesan peyniri, kırmızı soğan",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403717550_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8303e705c155e",
+            "name": "Ton Balıklı Salata",
+            "description": "Mevsim yeşillikleri, maydanoz, ton balığı (150 g), kapari, meksika fasülyesi, mısır taneleri, kırmızı soğan",
+            "price": 595.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403802170_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8302fa05c1568",
+            "name": "Ton Balıklı Makarna Salatası",
+            "description": "Makarna (125 g), ton balığı (150 g) domates, salatalık, bezelye, kereviz sapı, turşu, maydanoz, kırmızı soğan",
+            "price": 485.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403801300_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83000fb5c15ec",
+            "name": "Serin Salata",
+            "description": "Mevsim yeşillikleri, rende havuç, çeri domates, kapya biber, beyaz peynir, ceviz",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83092705c15ed",
+            "name": "Izgara Hellim Salata",
+            "description": "Mevsim yeşillikleri, çeri domates, salatalık, biber, dilim zeytin, hellim peynir",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8309eaf5c15f3",
+            "name": "Mozzarella Peynirli Salata",
+            "description": "Mevsim yeşillikleri, çeri domates, salatalık, biber, kekikli zeytin salatası, mozzarella peyniri",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830d57b5c15f1",
+            "name": "Izgara Tavuklu Makarna Salatası",
+            "description": "Makarna.125 gr, ızgara tavuk göğüs eti, kapya biber, bezelye, kornişon turşu, toz parmesan",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668684decf0bc3bf43e409ee",
+            "name": "Dört Mevsim Salata (Vegan)",
+            "description": "Lolorosso,kıvırcık,roka,dereotu,maydanoz,havuç,çeri domates,salatalık,kapya biber,pancar",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e0f55383f830dbb45c1485",
+        "name": "Smoothie",
+        "items": [
+          {
+            "id": "63e0f55383f8306fa05c14d0",
+            "name": "Healty Coffee Smoothie (300 ml)",
+            "description": "Muz, strong brewed coffee, kakao, yoğurt, akçaağaç şurubu",
+            "price": 265.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403726756_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830ed4e5c1509",
+            "name": "Healty Green Smoothie (300 ml)",
+            "description": "Muz, beybi ıspanak, süt, akçaağaç şurubu",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403727854_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83050805c14b3",
+            "name": "Berry Smoothie (300 ml)",
+            "description": "Muz, mixed berries, süt, yoğurt, akçaağaç şurubu",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403713531_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830f0be5c1546",
+            "name": "Matcha Smoothie (300 ml)",
+            "description": "Matcha tozu, muz, badem sütü, ıspanak, ananas",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1639403793674_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66e5556c79e02b9b99aedd43",
+            "name": "Detoks Smoothie (Posalı, Vegan)",
+            "description": "Maydanoz, limon, muz, ananas, salatalık, su",
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67498963ceac63ceac135647",
+            "name": "Antioksidan Smoothie (Vegan)",
+            "description": "Pancar, çilek, ananas, chia tohumu, maden suyu",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63e0f55383f83060625c1487",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "63e0f55383f8305b965c14a7",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8302b155c14d1",
+            "name": "Maden Suyu (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8304de65c15e2",
+            "name": "Beyoğlu Klasik (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f83029ed5c15e4",
+            "name": "Beyoğlu Zencefil (250 ml",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f8305d4c5c15e3",
+            "name": "Beyoğlu Reyhan (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63e0f55383f830474d5c15f0",
+            "name": "Beyoğlu Limon (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64e478651e4de630c1e2a329",
+            "name": "Beyoğlu Turuncu (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64e478dd2261b6465cc8d69a",
+            "name": "Dimes Vişne (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

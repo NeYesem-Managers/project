@@ -1,0 +1,886 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "63a2e5207ca8c4a81bbe39f5",
+  "name": "Muhtar Tatlı & Cafe (Hırka-i Şerif Mah.)",
+  "slug": "muhtar-tatli-cafe-hirka-i-serif-mah-fatih-istanbul",
+  "cuisine_types": [
+    "Pasta & Tatlı"
+  ],
+  "rating": 4.1,
+  "rating_count": 20,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68e1130eceac63ceacf87bee",
+            "name": "MEYVELİ KAYMAKLI KÜNEFE",
+            "description": null,
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759580914622_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac127546",
+        "name": "MEYVE SALATALARI",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac12756c",
+            "name": "NUTELLA MEYVE SALATASI",
+            "description": "Mevsimlik taze meyveler , Muz, çilek, kivi, ananas, şeftali , üzerine kaymak, krem ​​şanti, kaju ve bal eklenir.",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186668964_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127579",
+            "name": "CRUNCHY MEYVE SALATASİ",
+            "description": "Mevsimlik taze meyveler , Muz, çilek, kivi, ananas, şeftali , üzerine kaymak, krem ​​şanti, kaju , bal ,beyaz çikolata eklenir.",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672138161526_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127585",
+            "name": "ÖZEL MEYVE SALATASİ",
+            "description": "Mevsimlik taze meyveler , Muz, çilek, kivi, ananas, şeftali , üzerine kaymak, krem ​​şanti, kaju , bal , çikolata stix eklenir.",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672061595667_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275f4",
+            "name": "DIYET MEYVE SALATASI",
+            "description": "Muz, çilek, ananas, kivi, avokado, bal, kaymak ve kaju fıstığı ile",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1683638308208_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac127543",
+        "name": "KREP",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac1275bd",
+            "name": "KLASIK KREP",
+            "description": "krep , üç çeşit lüks Belçika çikolatası ile kaplanmıştır (beyaz - sarı - siyah)",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186414432_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275c4",
+            "name": "DONDURMALI KREP",
+            "description": "krep , üç çeşit lüks Belçika çikolatası ile kaplanmıştır (beyaz - sarı - siyah) üstüne lezzetli dondurma",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186445657_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127566",
+            "name": "LOTUS KREP",
+            "description": "krep , içeride, lezzetli lotus doldurulmuş , lüks Belçika çikolatası, lezzetli dondurma ile servis edilir",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186147410_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275cb",
+            "name": "OREO KREP",
+            "description": "krep , lüks Belçika çikolatası , oreo bisküvi , harika dondurma ile servis edilir",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672674478656_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12757f",
+            "name": "BROWNIES FETTUCINE KREP",
+            "description": "Fettuccine Krep , lezzetli brownies , lüks Belçika çikolatası kaplı , dondurma ile servis edilir",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186183405_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12758b",
+            "name": "MEYVELİ KREP",
+            "description": "krep , lüks Belçika çikolatası ve taze meyve parçaları ile kaplı (muz - kivi - çilek - ananas)",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186205118_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275d9",
+            "name": "DOUBLE LÜKS KREP",
+            "description": "Taze kaymak ile doldurulmuş krep , Dondurma, muz, Belçika çikolatası, fındık ve kuru üzüm , Bal ve Belçika çikolatası ile süslenmiş , Ve yanında Arap dondurması",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672734873237_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac127544",
+        "name": "WAFFLE",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac127559",
+            "name": "KLASIK WAFFLE",
+            "description": "Bu bir parça waffle , üç çeşit lüks Belçika çikolatası ile kaplanmıştır (beyaz - sarı - siyah)",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186523661_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127565",
+            "name": "DONDURMALI WAFFLE",
+            "description": "Bu bir parça waffle , üç çeşit lüks Belçika çikolatası ile kaplanmıştır (beyaz - sarı - siyah) üstüne lezzetli dondurma",
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186544405_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127572",
+            "name": "LOTUS WAFFLE",
+            "description": "waffle parçası , lüks Belçika çikolatası , lezzetli lotus bisküvi ve harika dondurma ile",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186560603_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12757e",
+            "name": "OREO WAFFLE",
+            "description": "waffle parçası , lüks Belçika çikolatası , lezzetli oreo bisküvi ve harika dondurma ile",
+            "price": 555.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672495936923_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12758a",
+            "name": "MEYVELİ WAFFLE",
+            "description": "waffle parçası , lüks Belçika çikolatası , lezzetli ve taze meyve parçaları (muz - kivi - çilek - ananas) ve harika dondurma ile",
+            "price": 585.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672495994273_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127596",
+            "name": "LÜKS MEYVELİ WAFFLE",
+            "description": "waffle parçası , lüks Belçika çikolatası , lezzetli ve taze meyve parçaları (muz - kivi - çilek - ananas), kaymak ve harika dondurma ile",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672496059778_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac127547",
+        "name": "SOĞUK IÇECEKLER",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac1275ba",
+            "name": "MUZ VE SÜT KOKTEYLI",
+            "description": "taze muz ve tam süt karıştırılır",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672237924706_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127555",
+            "name": "MUZ, SÜT VE ÇILEK KOKTEYLI",
+            "description": "Doğal meyve suyu , lezzetli çilek , muz dilimleri ve süt ile yapılmıştır",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186727426_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac1275a9",
+            "name": "MUZ, SÜT VE ÇIKOLATA KOKTEYLI",
+            "description": "Muz, taze süt ve lezzetli çikolata sosu",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186856657_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275d6",
+            "name": "MUZ, SÜT, HURMA VE BAL KOKTEYLI",
+            "description": "A natural cocktail made of bananas and delicious pieces of dates with fresh milk and honey",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672239309049_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275cf",
+            "name": "AVOKADO",
+            "description": "Fresh avocado with honey, pistachio and cashew nuts",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672239060664_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275f5",
+            "name": "MEYVELİ KOKTEYL",
+            "description": "Muz, çilek, ananas, portakal ve bal bile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1682683068258_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275c8",
+            "name": "MUHTAR KOKTEYLİ",
+            "description": "cocktail of fresh fruits and delicious fruit pieces : banana, pineapple, strawberry, kiwi with honey",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672238697785_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12759e",
+            "name": "TAZE PORTAKAL SUYU",
+            "description": "Doğal meyve suyu , taze sıkma portakal suyu .",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186835111_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127561",
+            "name": "KLASİK MOJİTO",
+            "description": "Taze limon ve nane ile yapılan meyve suyu , soda ile karıştırılmış",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186745782_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12757a",
+            "name": "TAZE ANANAS SUYU",
+            "description": "Doğal meyve suyu , taze sıkma ananas suyu .",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672236872031_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127592",
+            "name": "TAZE LİMON SUYU",
+            "description": "Doğal meyve suyu , taze sıkma limon suyu .",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1692186816595_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275dd",
+            "name": "NANELİ LİMONATA",
+            "description": "Delicious lemon juice and fresh mint",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672239572302_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275e2",
+            "name": "RASPBERRY MOJİTO",
+            "description": "One of the most famous juices made from raspberry and lemons fresh mixed with soda water.",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672239650312_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275e5",
+            "name": "Mojito",
+            "description": "A delicious juice made from fresh lemons mixed with soda water",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672239703050_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "68b174a8ceac63ceacbe0b07",
+            "name": "TAZE ÇİLEK SUYU",
+            "description": "Doğal meyve suyu , taze sıkma çilek suyu .",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756460194441_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b17508ceac63ceacbe0b33",
+            "name": "TAZE MANGO SUYU",
+            "description": "Doğal meyve suyu , taze sıkma mango suyu .",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756460290415_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac127548",
+        "name": "MİLK SHAKE",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac1275b3",
+            "name": "VANILYALI MILKSHAKE",
+            "description": "Lezzetli vanilyalı dondurma, taze süt , Lezzetli vanilya tadı ve krem şanti eklendi",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672224868270_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275c2",
+            "name": "ÇİLEKLİ MILKSHAKE",
+            "description": "Lezzetli çilekli dondurma , taze süt , özel çilek sosu , ve krem şanti eklendi",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672225921532_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac1275bb",
+            "name": "ÇİKOLATALI MILKSHAKE",
+            "description": "Lezzetli çikolatalı dondurma , taze süt , özel çikolata sosu, krem şanti eklendi",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672225580167_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127588",
+            "name": "LOTUS MILKSHAKE",
+            "description": "Lezzetli dondurma , süt , lotus bisküvi , ve krem şanti eklendi",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672219120885_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac1275aa",
+            "name": "OREO MILKSHAKE",
+            "description": "Lezzetli dondurma , taze süt , çikolata sosu, oreo bisküvi, ve krem şanti eklendi",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672224778048_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275d7",
+            "name": "KİTKAT MILKSHAKE",
+            "description": "lezzetli dondurma , taze süt ,kitkat çikolata , harika çikolata sosu , ve krem şanti eklendi",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672226244617_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac127549",
+        "name": "BUZLU KAHVE",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac127556",
+            "name": "KARAMEL FRAPPE",
+            "description": "vanilyalı dondurma, espresso ve süt, üzerine krem şanti ve karamel sos",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672143348376_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127562",
+            "name": "MOCHA FRAPPE",
+            "description": "çikolatalı dondurma, espresso ve süt, üzerine krem şanti ve çikolata sos",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672151525060_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127587",
+            "name": "ICE LATTE",
+            "description": "lezzetli espresso , harika vanilya tadı , Çikolata sosu , taze süt ve buz küpleri eklendi",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672151725146_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127593",
+            "name": "ICE MOCHA",
+            "description": "Harika çikolata, taze süt ve buzlu çikolata sosu ile lezzetli bir espresso karışımı",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672151856842_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac12754a",
+        "name": "ORYANTAL TATLILAR",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac127598",
+            "name": "KAYMAKLI KÜNEFE",
+            "description": "Madloka tabakası , taze kaymak tabakas , fıstık ile süslenmiş",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672816444592_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127574",
+            "name": "KAYMAKLI VE DONDURMALI KÜNEFE",
+            "description": "Madloka tabakası , tabaka lezzetli dondurma , taze kaymak tabakas , bal ile süslenmiş",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672815401186_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275df",
+            "name": "KAYMAKLI VE FISTIKLI PEYNIRLI HELVA",
+            "description": "Ünlü tatlılardan biri , tatlı peynir, irmik ve şurup yapılır , kaymak ile doldurulmuş , antep fıstığı ile süslenmiş",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672817189648_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127580",
+            "name": "PEYNİRLİ KÜNEFE",
+            "description": "Peynir Künefesi bir tatlıdır , yukarıdan konafa , Aşağıdan peynir , fıstıkla süslenmiş",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672815499263_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12758c",
+            "name": "PEYNİRLİ VE DONDURMALI KÜNEFE",
+            "description": "Peynir Künefesi bir tatlıdır , yukarıdan konafa , Aşağıdan peynir , fıstıkla süslenmiş , yanında dondurma var",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672816367713_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "68e111b1ceac63ceacf87ada",
+            "name": "ANTEP FISTIĞI VE KAJU BAKLAVA TABAĞI",
+            "description": "Çeşitli Baklava tatlıları ve çeşitli kuruyemiş , Arapça Ghee ile yapılmıştır",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759580564473_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e111e1ceac63ceacf87b32",
+            "name": "KARIŞIK KURABİYE TABAĞI (HURMALI KURABİYE, TEREYAĞ KURABİYE , SU",
+            "description": "Hurma KURABİYE , SUSAMLI BARAZEK ve TEREYAĞ KURABİYE yapılmış lezzetli kurabiyeler dizisi",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759580635434_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e11216ceac63ceacf87b63",
+            "name": "FISTIKLI VE KAJU FISTIKLI MUHALLEBİ",
+            "description": "Taze süt , Mısır nişastası , vanilya , Gül suyu , Antep fıstığı , kaju ve krem şanti ile süslenmiştir.",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759580689491_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e1124aceac63ceacf87b7f",
+            "name": "KAYMAKLI KURABİYE",
+            "description": "Lezzetli goraibeh hamurundan oluşan , Taze kaymak ile doldurulmuş",
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759580741528_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac12754b",
+        "name": "DONDURMA",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac127564",
+            "name": "ÇIKOLATALI DONDURMA",
+            "description": "Lezzetli çikolatalı dondurma , krem şanti , Çikolata sosu Bisküvi ile süslenmiş",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672322082507_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac1275b4",
+            "name": "MEYVELI DONDURMA",
+            "description": "Lezzetli dondurma parçaları (vanilya - çikolata - çilek) veya (vanilyalı - çikolatalı - nescafe) kenarları lezzetli kek ile kaplı",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756462856977_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac1275bc",
+            "name": "ANTEP FISTIKLI ARAP DONDURMASI (1000GR)",
+            "description": "Lezzetli Arap dondurması rolu , kaymak , fıstık parçaları ile kaplı",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672324935498_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275c3",
+            "name": "EKSTRA ANTEP FISTIKLI ARAP DONDURMASI (1000GR)",
+            "description": "Lezzetli Arap dondurması rolu , kaymak , antep fıstığı ile kaplı",
+            "price": 1350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672324997067_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "68b17f98ceac63ceacbe163b",
+            "name": "NARLI DONDURMA (500GR)",
+            "description": "Lezzetli Arap dondurması rolu , kaymak , nar ile kaplı",
+            "price": 374.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756462996111_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac12754c",
+        "name": "Baklava",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac127569",
+            "name": "Antep Fıstıklı & Kajulu Karışık Baklava (160 g)",
+            "description": "Halep burması, fıstıklı kuşgözü, kajulu kuş gözü, kaju sarması, fıstıklı billuriye, fıstıklı asıya ve kajulu asiye ile",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671634188484_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12759a",
+            "name": "Fıstıklı Karışık Baklava (750 g)",
+            "description": "Fıstıklı kuş gözü, fıstık sarması ve billuriye ile",
+            "price": 2015.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671709874162_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127576",
+            "name": "Karışık Baklava Fıstık & Kaju (750 g)",
+            "description": "Halep burması, fıstıklı kuşgözü, kajulu kuş gözü, kaju sarması, fıstıklı billuriye, fıstıklı asıya ve kajulu asiye ile",
+            "price": 2025.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671694569143_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac12754d",
+        "name": "Karışık Kurabiye",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac12756b",
+            "name": "Karışık Kurabiye (600 g)",
+            "description": "Hurma Ma'amoul, susam Baraz'e ve Ghraibeh'den oluşan lezzetli kurabiyeler",
+            "price": 845.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671795839329_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127584",
+            "name": "Gureybe Kurabiyesi (550 g)",
+            "description": "Ghraybeh, tereyağlı kabarık hamuruyla ünlüdür, ağzınızda eriyen lezzetli bir çoklu ısırık parçası",
+            "price": 825.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671796387170_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127590",
+            "name": "Susamlı & Antep Fıstıklı Barazek Kurabiyesi (600 g)",
+            "description": "Yuvarlak şekilli, susam kaplı Barazek, un, şeker, süt, maya ve susam ile yapılan en ünlü Arap tatlılarından biri",
+            "price": 810.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671796480158_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12759b",
+            "name": "Hurmalı Ma’amoul (Kaab El Ghazal) (60 g)",
+            "description": "Hurma Ma'amoul Arap bölgesindeki en popüler ve ünlü tatlılardan biridir, kurabiye hamuru lezzetli bir hurma dolgusuna sarılır ve soyulmuş bir dilim fıstıkla damga haline getirilir",
+            "price": 850.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671796919268_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c92ceac63ceac1275c7",
+            "name": "Fıstıklı Ma’amoul (600 g)",
+            "description": "Antep fıstık dolgusundan oluşan, sade yağ ile karıştırılmış ve lezzetli kek hamuruyla kaplanmış",
+            "price": 1440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1671799878858_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "68e11538ceac63ceacf87db4",
+            "name": "ÇİKOLATA VE FİSTİĞA BATIRILMIŞ PETIT FOUR ÇUBUKLARI (400GR)",
+            "description": "En ünlü Fransız tatlılarından biri , Un - yumurta - şeker - tereyağından yapılmıştır , ve en iyi çikolata türleri ile süslenmiştir",
+            "price": 845.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759581476683_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e115a5ceac63ceacf87e0a",
+            "name": "SABLÉ PETIT FOUR (450GR)",
+            "description": null,
+            "price": 845.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759581596061_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "663e7c91ceac63ceac12754f",
+        "name": "Günlük Lezzet",
+        "items": [
+          {
+            "id": "663e7c91ceac63ceac12755c",
+            "name": "Halawet el Juben (500 g)",
+            "description": "Tatlı peynir, irmik, şurup, kaymak ve antep fıstığı ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672830833139_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac1275a4",
+            "name": "Madloka (500 gr.)",
+            "description": "Madloka en lezzetli tatlılardan biridir. , taze kaymak tabakas yapılmış , fıstık ile süslenmiş",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1672831578081_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12758d",
+            "name": "Arab Künafasi (500gr)",
+            "description": "Peynir Künefesi bir tatlıdır , yukarıdan konafa , Aşağıdan peynir , fıstıkla süslenmiş",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759581177110_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68e10de9ceac63ceacf87889",
+        "name": "İMPARATOR",
+        "items": [
+          {
+            "id": "68b1701cceac63ceacbe05cc",
+            "name": "KAYMAKLI ÇİLEK BARDAĞI",
+            "description": null,
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756459016889_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b17059ceac63ceacbe05ea",
+            "name": "KAYMAKLI ÇİKOLATA BARDAĞI",
+            "description": null,
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756459086084_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac1275a8",
+            "name": "KAYMAKLI MUZ BARDAĞI",
+            "description": "Taze muz , kaymak ve bal , krem ​​şanti , fıstık ve kaju fıstığı ile süslenir",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756458954886_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac12759d",
+            "name": "Küçük Avokado İmparator",
+            "description": "Mevsimlik taze meyveler ( Muz, çilek, kivi, ananas, şeftali ) ,bal ve kaymak , kat kat yerleştirilir ve krem ​​şanti ve bisküvi ile süslenir.",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756458881551_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "663e7c91ceac63ceac127591",
+            "name": "MEYVELİ İMPARATOR",
+            "description": "Mevsimlik taze meyveler ( Muz, çilek, kivi, ananas, şeftali ) ,bal ve kaymak , kat kat yerleştirilir ve krem ​​şanti ve bisküvi ile süslenir.",
+            "price": 570.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1756458817610_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68e11287ceac63ceacf87ba7",
+        "name": "MUHTAR KASESİ",
+        "items": [
+          {
+            "id": "68e1130eceac63ceacf87bee",
+            "name": "MEYVELİ KAYMAKLI KÜNEFE",
+            "description": null,
+            "price": 525.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759580914622_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e112d4ceac63ceacf87bb9",
+            "name": "DONDURMA VE ÇIKOLATALI MEYVELER",
+            "description": null,
+            "price": 485.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759580850524_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

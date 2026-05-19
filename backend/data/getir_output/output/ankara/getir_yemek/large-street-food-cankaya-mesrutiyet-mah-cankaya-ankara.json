@@ -1,0 +1,821 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67b59ab9c4df0242a12c3872",
+  "name": "Large Street Food, Çankaya (Meşrutiyet Mah.)  ",
+  "slug": "large-street-food-cankaya-mesrutiyet-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 4.3,
+  "rating_count": 50,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "695a675dceac63ceac89c31b",
+            "name": "250 gr Cajun Sepet",
+            "description": "250 gr Cajun Baharatlı Tavuk + Patates Kızartması + ( 33 cl ) Sütaş Ayran",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689e37a6ceac63ceacab9c45",
+            "name": "Cajun Burger Menü ( 2 adet )",
+            "description": "Cajun burger (2 adet), baharatlı patates kızartması, soslar ve 2 adet sütaş ayran (300 ml) ile",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde4daceac63ceacd6b1e7",
+            "name": "Cajun Burger (2 Kişilik)",
+            "description": "2 Adet cajun burger (Cajun baharatlı tavuk, sandviç sos, kıvırcık marul, turşu ), baharatlı patates kızartması , 2 adet ( 30 cl ) sütaş ayran",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd52fceac63ceacd6ae02",
+            "name": "Cajun Burger Menü",
+            "description": "Cajun burger (120 g baharatlı tavuk, burger sos, marul, turşu, ketçap, mayonez), baharatlı patates kızartması ve (300 ml) Sütaş ayran ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde473ceac63ceacd6b1c9",
+            "name": "Cajun Burger",
+            "description": "Cajun baharatlı tavuk (120 g), burger sos, marul, turşu, ketçap, mayonez , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68946d3bceac63ceaca4c105",
+        "name": "Cajun Sepet Menü",
+        "items": [
+          {
+            "id": "695a675dceac63ceac89c31b",
+            "name": "250 gr Cajun Sepet",
+            "description": "250 gr Cajun Baharatlı Tavuk + Patates Kızartması + ( 33 cl ) Sütaş Ayran",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "695a680dceac63ceac89c41b",
+            "name": "500 gr Cajun Sepet",
+            "description": "500 gr Cajun Baharatlı Tavuk + Double Baharatlı Patates Kızartması + 2 Adet ( 33 cl ) Sütaş Ayran",
+            "price": 820.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68946bc6ceac63ceaca4bebf",
+        "name": "Cajun Burger Fırsat Menü",
+        "items": [
+          {
+            "id": "689e37a6ceac63ceacab9c45",
+            "name": "Cajun Burger Menü ( 2 adet )",
+            "description": "Cajun burger (2 adet), baharatlı patates kızartması, soslar ve 2 adet sütaş ayran (300 ml) ile",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde4daceac63ceacd6b1e7",
+            "name": "Cajun Burger (2 Kişilik)",
+            "description": "2 Adet cajun burger (Cajun baharatlı tavuk, sandviç sos, kıvırcık marul, turşu ), baharatlı patates kızartması , 2 adet ( 30 cl ) sütaş ayran",
+            "price": 590.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689e3e05ceac63ceacaba082",
+            "name": "Cajun Burger Menü (4 Kişilik)",
+            "description": "Cajun burger ( 4 adet), 4 adet baharatlı patates kızartması, soslar ve 4 adet sütaş (300 ml) ile",
+            "price": 1080.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68946b96ceac63ceaca4be62",
+        "name": "2 Al 1 Öde Dürüm",
+        "items": [
+          {
+            "id": "695a69ffceac63ceac89c6c1",
+            "name": "2 Adet Cajun Dürüm",
+            "description": "2 Adet Cajun Baharatlı Tavuk Dürüm + 2 Adet Baharatlı Patates Kızartması + 2 Adet ( 33 cl ) Sütaş Ayran",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69762b6dceac63ceacad5b34",
+            "name": "Köfte Dürüm Menü (Kaşarlı)",
+            "description": "2 adet köfte dürüm (10 adet ızgara köfte, kaşar, domates, marul, turşu), patates kızartması , 2 adet sütaş ayran (300 ml)",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69762c04ceac63ceacad5ba1",
+            "name": "Köfte Dürüm Menü  (Kaşarlı & Közlenmiş Biber & Mantar )",
+            "description": "2 adet ızgara köfte dürüm (kaşar, közlenmiş biber, mantar, domates, marul, turşu), patates kızartması, 2 adet sütaş ayran (300 ml) ",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67cdd51eceac63ceacd6adb0",
+        "name": "Avantajlı Menü",
+        "items": [
+          {
+            "id": "67cdd52fceac63ceacd6ae02",
+            "name": "Cajun Burger Menü",
+            "description": "Cajun burger (120 g baharatlı tavuk, burger sos, marul, turşu, ketçap, mayonez), baharatlı patates kızartması ve (300 ml) Sütaş ayran ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd531ceac63ceacd6ae07",
+            "name": "2 Adet Cajun Sandviç Menü",
+            "description": "2 adet Cajun sandviç (cajun baharatlı tavuk, burger sos, kıvırcık marul, turşu, baharatlı patates kızartması) (2 adet), ketçap (2 adet) ve mayonez (2 adet) , 2 adet ( 300 ml ) sütaş ayranile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd532ceac63ceacd6ae09",
+            "name": "2 Adet Cajun Dürüm",
+            "description": "2 Adet cajun dürüm (Cajun baharatlı tavuk parçaları, kıvırcık marul, turşu) (2 adet), baharatlı patates kızartması, ketçap ve mayonez , 2 adet ( 300 ml ) sütaş ayran ile",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd533ceac63ceacd6ae0a",
+            "name": "2 Adet Cajun Burger",
+            "description": "2 Adet cajun burger (baharatlı tavuk (120 g), burger sos, marul, turşu, ketçap, mayonez) (2 adet), baharatlı patates kızartması, ketçap (2 adet) , mayonez , (2 adet) ( 300 ml ) sütaş ayran ile",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd530ceac63ceacd6ae04",
+            "name": "Cajun Sepeti (250 g) Menü",
+            "description": "Cajun baharatlı tavuk parçaları (250 g), baharatlı patates kızartması (150 g), ketçap, mayonez, lavaş ve Sütaş ayran (300 ml) ile",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd531ceac63ceacd6ae06",
+            "name": "Acılı Cajun Sepeti (250 g) Menü",
+            "description": "Acılı cajun baharatlı tavuk parçaları, baharatlı patates kızartması, ketçap, mayonez, lavaş ve Sütaş Ayran (300 ml)",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd534ceac63ceacd6ae0c",
+            "name": "Cajun Sepeti (500 g)",
+            "description": "Cajun baharatlı tavuk, baharatlı patates kızartması, ketçap (2 adet) ve mayonez (2 adet), 2 adet (300 ml) Sütaş ayran",
+            "price": 780.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd52fceac63ceacd6ae03",
+            "name": "Avantajlı Cajun Sepeti (500 g) Menü",
+            "description": "Cajun baharatlı tavuk parçaları (500 g), baharatlı patates kızartması, ketçap (2 adet), mayonez (2 adet), lavaş (2 adet) ve 2 adet sütaş ayran ( 300 ml ) (2 adet) ile",
+            "price": 780.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd532ceac63ceacd6ae08",
+            "name": "Cajun Karışık Sepeti Menü",
+            "description": "2 adet kaşarlı mantarlı cajun şiş, 4 adet cajun baharatlı tavuk, 4 adet homemade soğan , ketçap, mayonez, lavaş, kutu içecek",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd52dceac63ceacd6adfc",
+            "name": "Hamburger Menü",
+            "description": "Hamburger (110 g burger köftesi, burger sos, marul, turşu, ketçap, mayonez), baharatlı patates kızartması ve Sütaş ayran (300 ml) ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd52eceac63ceacd6adfd",
+            "name": "Cheeseburger Menü",
+            "description": "Cheeseburger (110 g burger köftesi, burger sos, marul, turşu, ketçap ve mayonez), baharatlı patates kızartması ve Sütaş ayran (300 ml) ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67cdd51fceac63ceacd6adb3",
+        "name": "Cajun Dürüm & Burger",
+        "items": [
+          {
+            "id": "67cde473ceac63ceacd6b1c9",
+            "name": "Cajun Burger",
+            "description": "Cajun baharatlı tavuk (120 g), burger sos, marul, turşu, ketçap, mayonez , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd535ceac63ceacd6ae0e",
+            "name": "Cheddarlı Tavuk Dürüm",
+            "description": "Izgara tavuk (120 gr ) cheddar ve patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd536ceac63ceacd6ae0f",
+            "name": "Cajun Dürüm",
+            "description": "Cajun dürüm (baharatlı tavuk parçaları, kıvırcık marul, turşu) baharatlı patates kızartması, ketçap , mayonez , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd536ceac63ceacd6ae10",
+            "name": "Cajun Mushroom Dürüm",
+            "description": "Kaşar peyniri, mantar, cajun şiş, kıvırcık marul, turşu, baharatlı patates kızartması ve sütaş ayran (300 ml)",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67cdd51dceac63ceacd6adae",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "67cdd525ceac63ceacd6adbd",
+            "name": "Fettuccine Alfredo",
+            "description": "Jülyen doğranmış tavuk, krema, mantar, parmesan peyniri , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd526ceac63ceacd6adbe",
+            "name": "Fettuccine Pesto",
+            "description": "Pesto sos, parmesan peyniri , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd526ceac63ceacd6adbf",
+            "name": "Fettuccine Mexicane",
+            "description": "Krema, jalapeno biber, jülyen tavuk, baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd527ceac63ceacd6adc2",
+            "name": "Penne Pesto",
+            "description": "Julyen doğranmış tavuk parçaları , pesto sos , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd527ceac63ceacd6adc3",
+            "name": "Penne Maxicano",
+            "description": "Julyen doğranmış tavuk parçaları , acı sos , krema , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd528ceac63ceacd6adc4",
+            "name": "Spaghetti Bolognese",
+            "description": "Bolonez sos, spagetti",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd529ceac63ceacd6adf4",
+            "name": "Spaghetti Napolitan",
+            "description": "Mozzarella peyniri, large dip sos, ıslak sos",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd529ceac63ceacd6adf5",
+            "name": "Ton Balıklı Penne",
+            "description": "Penne makarna, ton balığı",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67cdd51cceac63ceacd6adad",
+        "name": "Beyaz Et",
+        "items": [
+          {
+            "id": "67cdd522ceac63ceacd6adb7",
+            "name": "Acılı Mantar Soslu Tavuk",
+            "description": "Jülyen doğranmış tavuk parçaları, mantar, krema, acı sos , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd522ceac63ceacd6adb8",
+            "name": "Kremalı Mantarlı Tavuk",
+            "description": "Jülyen tavuk parçaları, kapya biber, yeşil biber, mantar, krema, baharatlı patates kızartması , baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd523ceac63ceacd6adb9",
+            "name": "Izgara Tavuk",
+            "description": "Tavuk parçaları, yeşil biber, kırmızıbiber, domates, baharatlı patates kızartması ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd523ceac63ceacd6adba",
+            "name": "Ballı Susamlı Tavuk",
+            "description": "Jülyen doğranmış tavuk parçaları, kapya biber, köy biberi, bal, susam, baharatlı patates kızartması , ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd524ceac63ceacd6adbb",
+            "name": "Külbastı Tavuk",
+            "description": "Julyen doğranmış tavuk parçaları, baharatlı patates kızartması, ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd525ceac63ceacd6adbc",
+            "name": "Köri Soslu Tavuk",
+            "description": "Jülyen tavuk parçaları, yeşil biber, kırmızı biber, mantar, krema, baharatlı patates kızartması, ( 300 ml ) sütaş ayran",
+            "price": 480.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67cdd520ceac63ceacd6adb4",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "689e24a3ceac63ceacab93ae",
+            "name": "Cajun Dürüm",
+            "description": "Cajun dürüm, baharatlı patates kızartması, soslar ve Sütaş ayran (300 ml) ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd537ceac63ceacd6ae11",
+            "name": "Baharatlı Patates Kızartması (Küçük Boy)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1754466393316_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67cdd538ceac63ceacd6ae12",
+            "name": "Baharatlı Patates Kızartması (Büyük Boy)",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53bceac63ceacd6ae1a",
+            "name": "Elma Dilim Patates Kızartması (Porsiyon)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd538ceac63ceacd6ae13",
+            "name": "3'lü Cajun Tavuk",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd539ceac63ceacd6ae14",
+            "name": "Kaşarlı Mantarlı Cajun Şiş (Adet)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd539ceac63ceacd6ae15",
+            "name": "Soğan Halkası (3 Adet) (El Yapımı)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53aceac63ceacd6ae16",
+            "name": "Soğan Halkası (6 Adet) (El Yapımı)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53aceac63ceacd6ae17",
+            "name": "Soğan Halkası (9 Adet) (El Yapımı)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53cceac63ceacd6ae1b",
+            "name": "Karışık Sıcak Sepeti",
+            "description": "Patates kızartması (150 g), soğan halkası (4 adet), peynirli sigara böreği (2 adet), cajun tavuk parçaları ve sosis",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67cdd521ceac63ceacd6adb5",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "67cdd53cceac63ceacd6ae1c",
+            "name": "Ketçap (Adet)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53dceac63ceacd6ae1d",
+            "name": "Mayonez (Adet)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53dceac63ceacd6ae1e",
+            "name": "Garlic Sos (Adet)",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53eceac63ceacd6ae1f",
+            "name": "Barbekü Sos (Adet)",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53eceac63ceacd6ae20",
+            "name": "Ranch Sos (Adet)",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd53fceac63ceacd6ae21",
+            "name": "Acı Sos (Adet)",
+            "description": null,
+            "price": 11.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd540ceac63ceacd6ae22",
+            "name": "Ballı Hardal (Adet)",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd540ceac63ceacd6ae23",
+            "name": "Sweet Chili Sos (Adet)",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd541ceac63ceacd6ae24",
+            "name": "Siriracha Sos (Adet)",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67cdd521ceac63ceacd6adb6",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "67cdd541ceac63ceacd6ae25",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd542ceac63ceacd6ae26",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd542ceac63ceacd6ae27",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd543ceac63ceacd6ae28",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde1e0ceac63ceacd6b0ec",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde201ceac63ceacd6b0f2",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde20dceac63ceacd6b0f4",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde225ceac63ceacd6b0f9",
+            "name": "Cappy Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde230ceac63ceacd6b11e",
+            "name": "Cappy Kayısı (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cde238ceac63ceacd6b122",
+            "name": "Cappy Karışık (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd544ceac63ceacd6ae2a",
+            "name": "Ayran (330 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67cdd545ceac63ceacd6ae2e",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

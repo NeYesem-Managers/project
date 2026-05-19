@@ -1,0 +1,833 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "68dd252407749332ed19e045",
+  "name": "Kumrucu Şevki, Konak (Akdeniz Mah.)",
+  "slug": "kumrucu-sevki-konak-akdeniz-mah-konak-izmir-2",
+  "cuisine_types": [
+    "Burger",
+    "Tost & Sandviç"
+  ],
+  "rating": 3.3,
+  "rating_count": 10,
+  "min_order_amount": 240.0,
+  "delivery_fee": 47.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68dfabdaceac63ceacf75874",
+            "name": "Süper Çeşme Yengen Sandviç",
+            "description": "Kaşar peyniri, sucuk, salam, sayas peyniri ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabc9ceac63ceacf75846",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "68dfabcfceac63ceacf75856",
+            "name": "Aile Menü",
+            "description": "3 adet izmir yengen sandviç, patates kızartması, (3 adet) tercih edeceğin ieçecek ile",
+            "price": 1350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabcfceac63ceacf75857",
+            "name": "Arkadaş Menü",
+            "description": "2 adet izmir yengen sandviç, patates kızartması, tercih edeceğin (2 adet) içecek ile",
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd0ceac63ceacf75858",
+            "name": "Cheese Burger (90 g) Menü",
+            "description": "Cheeseburger, patates kızartması, tercih edeceğin içecek ile",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd0ceac63ceacf7585b",
+            "name": "Hamburger (90 g) Menü",
+            "description": "Hamburger, patates kızartması, tercih edeceğin içecek ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd1ceac63ceacf7585c",
+            "name": "İzmir Yengen Sandviç Menü",
+            "description": "İzmir yengen sandviç, patates kızartması, edeceğin içecek ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabcaceac63ceacf75849",
+        "name": "Tost",
+        "items": [
+          {
+            "id": "68dfabd1ceac63ceacf7585e",
+            "name": "Karışık Tost",
+            "description": "Kaşar peyniri, sucuk, salam ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd2ceac63ceacf7585f",
+            "name": "Kaşarlı & Salamlı & Sayaslı Tost (Sade)",
+            "description": "Kaşar peyniri, salam, sayas peyniri ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd3ceac63ceacf75860",
+            "name": "Kaşarlı & Salamlı Tost (Sade)",
+            "description": "Kaşar peyniri, salam ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd3ceac63ceacf75861",
+            "name": "Kaşarlı & Sayaslı Tost (Sade)",
+            "description": "Kaşar peyniri, sayas peynir ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd4ceac63ceacf75862",
+            "name": "Kaşarlı & Sucuklu Tost (Sade)",
+            "description": "Kaşar peyniri, sucuk ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd5ceac63ceacf75863",
+            "name": "Kaşarlı Tost (Sade)",
+            "description": "Kaşar peyniri ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd5ceac63ceacf75864",
+            "name": "Salamlı & Sayaslı Tost (Sade)",
+            "description": "Salam, sayas peyniri ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd6ceac63ceacf75867",
+            "name": "Salamlı Tost (Sade)",
+            "description": "Salam ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd6ceac63ceacf7586a",
+            "name": "Sosisli Karışık Tost",
+            "description": "Kaşar peyniri, sucuk, salam, sosis ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd7ceac63ceacf7586c",
+            "name": "Sucuklu & Kaşar Peynirli & Sayaslı Tost (Sade)",
+            "description": "Kaşar peyniri, sucuk, sayas peynir ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd8ceac63ceacf7586d",
+            "name": "Sucuklu & Salamlı Tost (Sade)",
+            "description": "Sucuk, salam ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd8ceac63ceacf75870",
+            "name": "Sucuklu & Sayaslı Tost (Sade)",
+            "description": "Sucuk, sayas peynir ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabd9ceac63ceacf75871",
+            "name": "Sucuklu Tost (Sade)",
+            "description": "Sucuk ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdaceac63ceacf75872",
+            "name": "Süper Tost",
+            "description": "Kaşar peyniri, sucuk, salam, sayas peynir ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabcaceac63ceacf7584d",
+        "name": "Kumru",
+        "items": [
+          {
+            "id": "68dfabdaceac63ceacf75874",
+            "name": "Süper Çeşme Yengen Sandviç",
+            "description": "Kaşar peyniri, sucuk, salam, sayas peyniri ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdbceac63ceacf75875",
+            "name": "Çeşme Yengen Sandviç",
+            "description": "Kaşar peyniri, sucuk, salam ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdbceac63ceacf75876",
+            "name": "İzmir Süper Yengen Sandviç",
+            "description": "Kaşar peyniri, sucuk, salam, sosis, sayas peyniri ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdcceac63ceacf75877",
+            "name": "İzmir Yengen Sandviç",
+            "description": "Kaşar peyniri, sucuk, salam, sosis ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdcceac63ceacf75879",
+            "name": "Kaşarlı & Salamlı Kumru Sandviç (Sade)",
+            "description": "Kaşar peyniri, salam ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabddceac63ceacf7587b",
+            "name": "Kaşarlı & Salamlı & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Kaşar peyniri, salam peynir, sayas ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdeceac63ceacf7587c",
+            "name": "Kaşarlı & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Kaşar peyniri, sayas peynir ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdeceac63ceacf7587d",
+            "name": "Kaşarlı & Sosisli Kumru Sandviç (Sade)",
+            "description": "Kaşar peyniri, sosis ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdfceac63ceacf75881",
+            "name": "Kaşarlı & Sucuklı & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Kaşar peyniri, sayas peynir, sucuk ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabdfceac63ceacf75883",
+            "name": "Kaşarlı & Sucuklu Kumru Sandviç (Sade)",
+            "description": "Kaşar peyniri, sucuk ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe0ceac63ceacf75884",
+            "name": "Kaşarlı Kumru Sandviç (Sade)",
+            "description": "Kaşar peyniri ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe0ceac63ceacf75885",
+            "name": "Salamlı & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Salam, sayas peynir ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe1ceac63ceacf75886",
+            "name": "Salamlı & Sosisli Kumru Sandviç (Sade)",
+            "description": "Salam, sosis ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe2ceac63ceacf75887",
+            "name": "Salamlı Kumru Sandviç (Sade)",
+            "description": "Salam",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe2ceac63ceacf75888",
+            "name": "Sayaslı Kumru Sandviç",
+            "description": "Sayas, domates ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe3ceac63ceacf7588a",
+            "name": "Sosisli & Salamlı & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Sosis, sayas, salam ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe3ceac63ceacf7588b",
+            "name": "Sosisli & Kaşarlı & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Sosis, kaşar peyniri ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe4ceac63ceacf7588e",
+            "name": "Sosisli & Sucuklu & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Sosis, sucuk, sayas peynir ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe5ceac63ceacf7588f",
+            "name": "Sosisli & Sucuklu Kumru Sandviç (Sade)",
+            "description": "Sosis, sucuk ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe5ceac63ceacf75890",
+            "name": "Sosisli Kumru Sandviç",
+            "description": "Sosis",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe6ceac63ceacf75891",
+            "name": "Sucuklu & Salamlı & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Sucuk, salam, sayas peyniri ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe6ceac63ceacf75892",
+            "name": "Sucuklu & Salamlı & Sosisli & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Sucuk, salam, sayas peyniri, sosis ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe7ceac63ceacf75893",
+            "name": "Sucuklu & Salamlı Kumru Sandviç (Sade)",
+            "description": "Sucuk, salam ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe8ceac63ceacf75896",
+            "name": "Sucuklu & Sayaslı Kumru Sandviç (Sade)",
+            "description": "Sucuk, sayas peyniri",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe8ceac63ceacf75898",
+            "name": "Sucuklu & Sosisli Kumru Sandviç (Sade)",
+            "description": "Sucuk, sosis ile",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe9ceac63ceacf75899",
+            "name": "Sucuklu Kumru Sandviç (Sade)",
+            "description": "Sucuk ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabcbceac63ceacf7584e",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "68dfabeaceac63ceacf7589b",
+            "name": "Special Kumru Burger (90 g)",
+            "description": "Köfte, marul, turşu, domates, sosis, salam, kaşar peyniri, sucuk ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabebceac63ceacf7589c",
+            "name": "Basri Burger (90 g)",
+            "description": "Hamburger köftesi, sucuk, salam, sosis, kaşar peyniri ile",
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabebceac63ceacf7589d",
+            "name": "Cheese Kumru Burger (90 g)",
+            "description": "Köfte, marul, turşu, domates, peynir ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabecceac63ceacf7589e",
+            "name": "Hamburger (90 g)",
+            "description": "Hamburger köftesi, domates, marul, yeşillik ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabecceac63ceacf758a0",
+            "name": "Double Hamburger (180 g)",
+            "description": "Hamburger köftesi, domates, marul, yeşillik ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabedceac63ceacf758a1",
+            "name": "Cheese Burger (90 g)",
+            "description": "Hamburger köftesi, cheddar peynir, domates, marul, yeşillik ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabe9ceac63ceacf7589a",
+            "name": "Kumru Burger (90 g)",
+            "description": "Köfte, marul, turşu, domates ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabccceac63ceacf7584f",
+        "name": "Kumpir",
+        "items": [
+          {
+            "id": "68dfabedceac63ceacf758a3",
+            "name": "Karışık Kumpir",
+            "description": "Mısır, mantar, rus salatası, yeşil zeytin, siyah zeytin, turşu, süryani salatası, köz biber, kırmızı lahana ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabeeceac63ceacf758a4",
+            "name": "Kaşarlı Kumpir",
+            "description": "Tereyağı, kaşar peyniri ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabccceac63ceacf75850",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "68dfabefceac63ceacf758a5",
+            "name": "Soğan Halkası (10 Adet)",
+            "description": "Çıtır soğan halkası",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabefceac63ceacf758a7",
+            "name": "Soğan Halkası (5 Adet)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf0ceac63ceacf758a8",
+            "name": "Elma Dilim Patates Kızartması",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf0ceac63ceacf758a9",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf1ceac63ceacf758b0",
+            "name": "Turşu",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabceceac63ceacf75854",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "68dfabf9ceac63ceacf758c5",
+            "name": "Mayonez",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68dfabfaceac63ceacf758c6",
+            "name": "Ketçap",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabcdceac63ceacf75851",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "68dfabf2ceac63ceacf758b2",
+            "name": "Coca cola (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759494990757_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf2ceac63ceacf758b1",
+            "name": "Coca cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495011174_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf4ceac63ceacf758b7",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495045730_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf4ceac63ceacf758b8",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495283705_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfc3adceac63ceacf786e0",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495299839_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf5ceac63ceacf758b9",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495316289_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf5ceac63ceacf758ba",
+            "name": "Cappy Şeftali (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495386852_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfc40fceac63ceacf787ab",
+            "name": "Cappy Karışık (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495449529_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf6ceac63ceacf758bb",
+            "name": "Eker Ayran (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759495527988_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf6ceac63ceacf758bc",
+            "name": "Damla Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759497543992_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf7ceac63ceacf758c0",
+            "name": "Damla Soda (200 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759497570140_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68dfabf8ceac63ceacf758c2",
+            "name": "Damla Su (500 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759497604014_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68dfabcdceac63ceacf75852",
+        "name": "Vitamin Bar",
+        "items": [
+          {
+            "id": "68dfabf8ceac63ceacf758c3",
+            "name": "Taze Sıkma Portakal Suyu",
+            "description": "Portakal",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

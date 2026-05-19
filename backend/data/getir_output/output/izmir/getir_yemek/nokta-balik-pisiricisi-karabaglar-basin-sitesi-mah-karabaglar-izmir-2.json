@@ -1,0 +1,657 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "63bc1b6aadbc8fc17d676a2d",
+  "name": "Nokta Balık Pişiricisi, Karabağlar (Basın Sitesi Mah.)",
+  "slug": "nokta-balik-pisiricisi-karabaglar-basin-sitesi-mah-karabaglar-izmir-2",
+  "cuisine_types": [
+    "Deniz Ürünleri",
+    "Dünya Mutfağı"
+  ],
+  "rating": 4.4,
+  "rating_count": 300,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "63bfe38d1f28510bb41f9f0d",
+            "name": "Izgara Çipura",
+            "description": "Izgara çipura (380 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716736745_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285111ca1f9f17",
+            "name": "Izgara Levrek",
+            "description": "Izgara levrek (380 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716691201_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851ae261f9f15",
+            "name": "Karadeniz Usulü Hamsi",
+            "description": "Hamsi (250 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716702496_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851658c1f9f1f",
+            "name": "Sardalya Tava",
+            "description": "Fleto tava sardalya (250 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28517d411f9f40",
+            "name": "Tekir Barbun  Tava",
+            "description": "Tekir barbun, salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 1250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63bfe38d1f285196641f9ef6",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "63bfe38d1f285125671f9f09",
+            "name": "Balık Çorbası",
+            "description": "Turşu ve ekmek ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716589690_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63bfe38d1f28512cb61f9ef7",
+        "name": "Denizden Lezzet",
+        "items": [
+          {
+            "id": "63bfe38d1f28510bb41f9f0d",
+            "name": "Izgara Çipura",
+            "description": "Izgara çipura (380 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716736745_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285111ca1f9f17",
+            "name": "Izgara Levrek",
+            "description": "Izgara levrek (380 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716691201_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851268b1f9f1c",
+            "name": "Norveç Uskumru Izgara",
+            "description": "Yerli uskumru (400 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28515a721f9f20",
+            "name": "Izgara Fileto Akya",
+            "description": "Izgara fileto akya (200 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1686387860280_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851328c1f9f27",
+            "name": "Izgara Somon",
+            "description": "Somon dilim (300 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1686387892995_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285111951f9f34",
+            "name": "Dülger (Peygamber) Balığı Şiş",
+            "description": "Dülger balığı şiş (180 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285185dd1f9f36",
+            "name": "Dil Balığı Şiş",
+            "description": "Dil balığı şiş (200 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6883b223ceac63ceac8aafe0",
+            "name": "Levrek Şiş",
+            "description": "Levrek şiş (200 g), mevsim salatası, ekmek",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63bfe38d1f2851115a1f9ef8",
+        "name": "Tavadan Lezzet",
+        "items": [
+          {
+            "id": "63bfe38d1f2851bc9b1f9f13",
+            "name": "Hamsi Tava",
+            "description": "Hamsi tava (250 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716477080_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851ae261f9f15",
+            "name": "Karadeniz Usulü Hamsi",
+            "description": "Hamsi (250 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716702496_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285177131f9f1b",
+            "name": "Balık Kavurma",
+            "description": "Balık kavurma (200 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851658c1f9f1f",
+            "name": "Sardalya Tava",
+            "description": "Fleto tava sardalya (250 g), salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28517d411f9f40",
+            "name": "Tekir Barbun  Tava",
+            "description": "Tekir barbun, salata (marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan, domates) ve ekmek ile",
+            "price": 1250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285125cb1f9f54",
+            "name": "Tavuk Balığı (350 g)",
+            "description": "Salata ve ekmek ile",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a481a2ceac63ceaca4077c",
+            "name": "Hamsi Tava (1.5 Porsiyon) & Salata",
+            "description": "Hamsi tava (380 g), salata ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a481fdceac63ceaca407ac",
+            "name": "Karadeniz Usulü Hamsi (1.5 Porsiyon)",
+            "description": "Karadeniz usulü hamsi (400 g), salata ve ekmek ile",
+            "price": 660.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a482baceac63ceaca40873",
+            "name": "Kılçıksız Sardalya Tava (1.5 Porsiyon)",
+            "description": "Sardalya tava (1.5 porsiyon), salata ve ekmek ile",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63db742583f830ed658a62d9",
+        "name": "Ara Sıcak",
+        "items": [
+          {
+            "id": "63bfe38d1f2851da501f9f0a",
+            "name": "Kalamar (180 g)",
+            "description": "Tarator sos ve ekmek ile",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716468358_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63db7668071bb726c5696424",
+            "name": "4'lü Jumbo Karides Izgara",
+            "description": "Mavi kuyruk yerli karides (4 adet) (150-200 g)",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63db76c11f2851e08d805aa9",
+            "name": "6'lı Jumbo Karides Izgara",
+            "description": "Mavi kuyruk yerli karides (6 adet) (200-300 g)",
+            "price": 1800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851838a1f9f25",
+            "name": "Tereyağlı Karides Tava (120 g)",
+            "description": "Karides, tereyağı, sarımsak, yeşilbiber, pul biber ve  ekmek ile",
+            "price": 1050.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28515f741f9f44",
+            "name": "Midye Tava",
+            "description": "Midye (250 g) ve tarator sos ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285136e41f9f49",
+            "name": "Karides Güveç",
+            "description": "Karides (120 g), domates, biber, sarımsak, kaşar peyniri ve ekmek ile",
+            "price": 1099.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a482fbceac63ceaca4088d",
+            "name": "Kalamar Tava (1.5 Porsiyon)",
+            "description": null,
+            "price": 1575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63bfe38d1f2851c5bf1f9ef9",
+        "name": "Ekmek Arası Lezzet",
+        "items": [
+          {
+            "id": "63bfe38d1f285154ab1f9f01",
+            "name": "Ekmek Arası Sardalya",
+            "description": "Sardalya tava (150 g), marul, roka, kırmızı lahana ve soğan",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716613995_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285191191f9f53",
+            "name": "Ekmek Arası Izgara Uskumru",
+            "description": "Marul, roka, kırmızı lahana ve soğan",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67a48382ceac63ceaca408e5",
+            "name": "3/4 Ekmek Arası Sardalya",
+            "description": "Kılçıksız sardalya (230 g)",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63bfe38d1f28514c291f9efa",
+        "name": "Meze",
+        "items": [
+          {
+            "id": "63bfe38d1f28513b801f9f0e",
+            "name": "Bakla Favası",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716485173_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285133961f9f16",
+            "name": "Yoğurtlu Patlıcan Ezme Atom",
+            "description": "Közlenmiş patlıcan, yoğurt ve sarımsak üzerine kuru acı biber kavurma",
+            "price": 189.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716597574_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28512c5b1f9f18",
+            "name": "Yoğurtlu Patlıcan Ezme",
+            "description": "Közlenmiş patlıcan, yoğurt ve sarımsak",
+            "price": 189.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716638723_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28512af31f9f4a",
+            "name": "Köz Patlıcan",
+            "description": "Közlenmiş patlıcan, zeytinyağı ve limon sosu",
+            "price": 189.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851c27c1f9f50",
+            "name": "Yoğurtlu Tarator Sos (80 cc)",
+            "description": null,
+            "price": 74.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285118af1f9f51",
+            "name": "Deniz Börülcesi",
+            "description": "Sarımsak, limon ve  zeytinyağlı sos",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63bfe38d1f285123f71f9efb",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "63bfe38d1f285124801f9f00",
+            "name": "Mevsim Salata",
+            "description": "Marul, roka, dereotu, maydanoz, nane, reyhan, havuç, kırmızılahana, soğan ve domates",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1643716630254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285119e61f9f0f",
+            "name": "Çoban Salatası",
+            "description": "Roka, domates, salatalık, biber, maydanoz ve soğan",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "63bfe38d1f2851d7ac1f9efc",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "63bfe38d1f2851c9e91f9f0b",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28510e101f9f0c",
+            "name": "Coca Cola Şekersiz (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285179e41f9f14",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285119fb1f9f19",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655218920_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851e90e1f9f1d",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851f3731f9f21",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285166cb1f9f28",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285186e61f9f2b",
+            "name": "Cappy (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285165721f9f30",
+            "name": "Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851c6bf1f9f35",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285115901f9f37",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28511d1c1f9f38",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285135ce1f9f39",
+            "name": "Coca Cola Light (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698664413949_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28510d481f9f3a",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698663749346_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f2851d27e1f9f3b",
+            "name": "Coca Cola Şekersiz (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698663749346_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f285159f31f9f3c",
+            "name": "Fanta (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63bfe38d1f28512c9e1f9f3d",
+            "name": "Sprite (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

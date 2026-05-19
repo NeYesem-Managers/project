@@ -1,0 +1,651 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "61d48870e6e9948033238617",
+  "name": "Esen Döner, Karabağlar (Basın Sitesi Mah.)",
+  "slug": "esen-doner-karabaglar-basin-sitesi-mah-karabaglar-izmir",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 4.6,
+  "rating_count": 4500,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "61d70bfde6c30bb1d6a647f1",
+            "name": "Bazlama Ekmek Et Döner",
+            "description": "Et döner (70 g), domates ve soğan",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559985722_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c01a13e3e000f21da4e",
+            "name": "Et Döner Dürüm",
+            "description": "Et döner (70 g), domates ve soğan",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559993984_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c05ee89d41ded318ebf",
+            "name": "Yarım Ekmek Et Döner",
+            "description": "Et döner (70 g), domates ve soğan",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560005690_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c07e6c30b72d8a648f5",
+            "name": "Et Döner Dürüm (İçi Buçuk)",
+            "description": "Domates ve soğan",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559997692_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c069f116958ddfc1292",
+            "name": "Üç Çeyrek Ekmek Et Döner",
+            "description": "Domates ve soğan",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560060057_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61d70bede6c30b778fa644e0",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "61d70c2d18f3ca58e5017c58",
+            "name": "Esen Tavuk Döner Menü",
+            "description": "Tercih edeceğiniz tavuk döner, patates kızartması ve ayran (300 ml) ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c2e6d43beedf0cd5f14",
+            "name": "Esen Et Döner Menü",
+            "description": "Tercih edeceğiniz et döner, patates kızartması ve ayran (300 ml) ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6279611ba154db1f0b426ded",
+            "name": "2li Tavuk Döner Menü",
+            "description": "Tercihe göre yarım ekmek tavuk döner (2 adet) veya dürüm tavuk döner (2 adet), patates kızartması ve içecek (1 L) ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c2f022b6b21ba6140a9",
+            "name": "2'li Et Döner Menü",
+            "description": "Tercihe göre yarım ekmek arası et döner veya et döner dürüm (2 adet), patates kızartması ve coca cola (1 L) ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "627961ac4dbe166c324afec5",
+            "name": "3'lü Tavuk Döner Menü",
+            "description": "Tercihe göre yarım ekmek tavuk döner (3 adet) veya dürüm tavuk döner (3 adet), patates kızartması ve içecek (1 L) ile",
+            "price": 730.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c2a022b6b340b613ff1",
+            "name": "3'lü Et Döner Menü",
+            "description": "Tercihe göre yarım ekmek arası et döner veya et döner dürüm (3 adet) ve patates kızartması, coca cola (1 L) ile",
+            "price": 1030.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62796210a154db8da042799b",
+            "name": "4'lü Tavuk Döner Menü",
+            "description": "Tercihe göre yarım ekmek tavuk döner (4 adet) veya dürüm tavuk döner (4 adet), patates kızartması ve içecek (1 L) ile",
+            "price": 910.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c2b37fae685efb98553",
+            "name": "4'lü Et Döner Menü",
+            "description": "Tercihe göre yarım ekmek et döner veya et döner dürüm (4 adet), patates kızartması ve coca cola (1 L) ile",
+            "price": 1310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61d70beeee89d47fca318c6e",
+        "name": "Et Döner",
+        "items": [
+          {
+            "id": "61d70bfde6c30bb1d6a647f1",
+            "name": "Bazlama Ekmek Et Döner",
+            "description": "Et döner (70 g), domates ve soğan",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559985722_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c01a13e3e000f21da4e",
+            "name": "Et Döner Dürüm",
+            "description": "Et döner (70 g), domates ve soğan",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559993984_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c05ee89d41ded318ebf",
+            "name": "Yarım Ekmek Et Döner",
+            "description": "Et döner (70 g), domates ve soğan",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560005690_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c02b9bb6fb76551a8ca",
+            "name": "Bazlama Ekmek Et Döner (İçi Buçuk)",
+            "description": "Domates ve soğan",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559989841_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c03f1677afd7c7a6d10",
+            "name": "Yarım Ekmek Et Döner (İçi Buçuk)",
+            "description": "Domates ve soğan",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559981113_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c07e6c30b72d8a648f5",
+            "name": "Et Döner Dürüm (İçi Buçuk)",
+            "description": "Domates ve soğan",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559997692_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c069f116958ddfc1292",
+            "name": "Üç Çeyrek Ekmek Et Döner",
+            "description": "Domates ve soğan",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560060057_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c00595f7bea06022b5a",
+            "name": "Pilav Üstü Et Döner",
+            "description": "Et döner (120 g), pirinç pilavı ve salata ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560001651_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70bff7fb5676f54e40978",
+            "name": "İskender (Et Dönerden)",
+            "description": "Et döner (120 g), domates ve soğan ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560056033_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c04a13e3efab121dab5",
+            "name": "Sade Et Döner (Porsiyon)",
+            "description": "Et döner (120 g), domates ve soğan ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560009783_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "633806e2756ea0377fb2d458",
+            "name": "Yarım Ekmek (Duble) Et Döner",
+            "description": "Et döner (140 g), domates ve soğan",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "63380864a483396e44ac95ef",
+            "name": "Duble Et Döner Dürüm",
+            "description": "Et döner (140 g), domates ve soğan",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67891877ceac63ceac7e5db4",
+            "name": "Üç Çeyrek Ekmek Arası Et Döner (İçi Buçuk)",
+            "description": "Et döner (155 g), domates ve soğan",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61d70befa13e3ecb1f21d826",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "61d70c0e37fae62112b981c6",
+            "name": "Bazlama Ekmek Tavuk Döner",
+            "description": "Tavuk döner (80 g), domates ve soğan",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559949665_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c12e6c30b1106a64a18",
+            "name": "Yarım Ekmek Tavuk Döner",
+            "description": "Tavuk döner (80 g), domates ve soğan",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560064685_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c0aee89d46f41318f1f",
+            "name": "Tavuk Döner Dürüm (İçi Buçuk)",
+            "description": "Domates ve soğan",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559944759_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c0f18f3ca13d2017938",
+            "name": "Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), domates ve soğan",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560068864_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c087fb5675b86e40a59",
+            "name": "Yarım Ekmek Tavuk Döner ( İçi Buçuk)",
+            "description": "Domates ve soğan",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560073456_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c0c28848c56dcb0f352",
+            "name": "Üç Çeyrek Tavuk Döner",
+            "description": "Domates ve soğan",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559953641_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c0de6c30bede9a6498c",
+            "name": "Bazlama Ekmek Tavuk Döner (İçi Buçuk)",
+            "description": "Domates ve soğan",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560077367_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c0b595f7b52e1022d13",
+            "name": "Pilav Üstü Tavuk Döner",
+            "description": "Tavuk döner (140 g), pirinç pilavı, domates ve soğan ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559958030_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c10e8cf2874950dd692",
+            "name": "İskender (Tavuk Dönerden)",
+            "description": "Tavuk döner (140 g), domates ve soğan ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559963997_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c11e6c30b000da649ec",
+            "name": "Sade Tavuk Döner (Porsiyon)",
+            "description": "Tavuk döner (140 g), domates ve soğan ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746560081457_original.webp",
+            "is_available": true
+          },
+          {
+            "id": "633808d082f26255e786fa3f",
+            "name": "Yarım Ekmek Duble Tavuk Döner",
+            "description": "Tavuk döner (160 g), domates, soğan ve iskender sos",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6338093799af9d45bf10cb2a",
+            "name": "Duble Tavuk Döner Dürüm",
+            "description": "Tavuk döner (160 g), domates, soğan ve iskender sos",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "678919acceac63ceac7e5f4a",
+            "name": "Üç Çeyrek Ekmek Arası Tavuk Döner İçi Buçuk",
+            "description": "Tavuk döner (180 g), domates ve soğan",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61d70bef37fae622fab97e8a",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "61d70c1313595e3280948712",
+            "name": "Parmak Patates Kızartması",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1746559968441_original.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61d70bf0e6c30b7eaaa6457d",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "61d70c1b022b6b104d613e14",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c1a13595ea7029487c4",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c16c783b772d0b38d01",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c14902a500e8a9502ae",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c1fc783b7864bb38e06",
+            "name": "Fuse Tea (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c19db8a662b2ccf1ca1",
+            "name": "Cappy (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c17595f7bc921022e9c",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c20f1677a025b7a7016",
+            "name": "Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 55.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c1837fae6ee4eb982f0",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c1d595f7bf6b7022f68",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61d70c1e595f7b4864022f8b",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62ff7a84d6d01405cb524040",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61d70bf0a13e3e228721d85d",
+        "name": "Kiloluk Et Döner (Pişirilmiş)",
+        "items": [
+          {
+            "id": "61d70c23db9595b946b427d1",
+            "name": "Et Döner (500 g)",
+            "description": "Et döner, mevsim salata, lavaş (5 adet) ve köz biber ile",
+            "price": 1700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c25a13e3e8f8f21de89",
+            "name": "Et Döner (750 g)",
+            "description": "Et döner, mevsim salata, lavaş (7 adet) ve köz biber ile",
+            "price": 2500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c249f1169bce8fc15c2",
+            "name": "Et Döner (1 kg)",
+            "description": "Et döner, mevsim salata, lavaş (10 adet) ve köz biber ile",
+            "price": 3300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61d70bf118f3ca2b700175ed",
+        "name": "Kiloluk Tavuk Döner (Pişirilmiş)",
+        "items": [
+          {
+            "id": "61d70c29d7eea3eab46aa114",
+            "name": "Tavuk Döner (500 g)",
+            "description": "Tavuk döner, mevsim salata, lavaş (5 adet) ve köz biber ile",
+            "price": 800.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c276d43be2bb1cd5e32",
+            "name": "Tavuk Döner (750 g)",
+            "description": "Tavuk döner, mevsim salata, lavaş (7 adet) ve köz biber ile",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61d70c26595f7b0b1602307d",
+            "name": "Tavuk Döner (1 kg)",
+            "description": "Tavuk döner, mevsim salata, lavaş (10 adet) ve köz biber ile",
+            "price": 1600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

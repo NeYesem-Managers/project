@@ -1,0 +1,934 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "673491052f528035ac659a26",
+  "name": "Helvacı Ali 1900, Çankaya (Yukarı Bahçelievler Mah.)",
+  "slug": "helvaci-ali-1900-cankaya-yukari-bahcelievler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Pasta & Tatlı"
+  ],
+  "rating": 4.4,
+  "rating_count": 150,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "67f52a50ceac63ceacf11c72",
+            "name": "Dondurmalı İrmik Helvası (Küçük Boy)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738059579468_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c70",
+            "name": "Dondurmasız Tereyağlı Sade İrmik Helvası (Küçük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767884766_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c94",
+            "name": "Dondurmalı Tereyağlı Sade İrmik Helvası (Büyük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767175878_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c84",
+            "name": "Dondurmasız Tereyağlı Sade İrmik Helvası (Büyük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767821082_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c76",
+            "name": "Dondurmalı Tereyağlı Çikolatalı İrmik Helvası (Küçük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767116647_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f52a50ceac63ceacf11c66",
+        "name": "İrmik Helvası",
+        "items": [
+          {
+            "id": "67f52a50ceac63ceacf11c72",
+            "name": "Dondurmalı İrmik Helvası (Küçük Boy)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738059579468_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c70",
+            "name": "Dondurmasız Tereyağlı Sade İrmik Helvası (Küçük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767884766_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c94",
+            "name": "Dondurmalı Tereyağlı Sade İrmik Helvası (Büyük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767175878_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c84",
+            "name": "Dondurmasız Tereyağlı Sade İrmik Helvası (Büyük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767821082_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c76",
+            "name": "Dondurmalı Tereyağlı Çikolatalı İrmik Helvası (Küçük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767116647_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c71",
+            "name": "Dondurmasız Tereyağlı Çikolatalı İrmik Helvası (Küçük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767712037_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c9d",
+            "name": "Dondurmalı Tereyağlı Çikolatalı İrmik Helvası (Büyük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767053231_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c73",
+            "name": "Dondurmasız Tereyağlı Çikolatalı İrmik Helvası (Büyük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767593840_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c97",
+            "name": "Dondurmalı Lotuslu İrmik Helvası (Küçük)",
+            "description": "Lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767422017_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c98",
+            "name": "Dondurmasız Lotuslu İrmik Helvası (Küçük)",
+            "description": "Üzerinde lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736769044572_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c83",
+            "name": "Dondurmalı Lotuslu İrmik Helvası (Büyük)",
+            "description": "Lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767343856_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c88",
+            "name": "Dondurmasız Lotuslu İrmik Helvası (Büyük)",
+            "description": "Üzerinde lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736768969691_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c8d",
+            "name": "Dondurmalı Cennet Çamuru (Küçük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736766963515_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c8c",
+            "name": "Dondurmasız Cennet Çamuru (Küçük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767519632_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c93",
+            "name": "Dondurmalı Cennet Çamuru (Büyük)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736766898985_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c96",
+            "name": "Çikolata İrmikli Dubai Harcı (Küçük)",
+            "description": "Dondurmalı",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736770003347_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c9a",
+            "name": "Çikolata İrmikli Dubai Harcı (Büyük)",
+            "description": "Dondurmalı",
+            "price": 560.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736770078088_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c82",
+            "name": "Dubai Harcı (Küçük)",
+            "description": "Dondurmalı",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c9e",
+            "name": "Dubai Harcı (Büyük)",
+            "description": "Dondurmalı",
+            "price": 830.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "697dfef3ceac63ceacb5c028",
+            "name": "Küçük Boy Sade & Çikolata İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769864934765_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697dff21ceac63ceacb5c049",
+            "name": "Küçük Boy Sade & Çikolata İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769864981807_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697dff4aceac63ceacb5c062",
+            "name": "Büyük Boy Sade & Çikolata İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865028345_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697dff6fceac63ceacb5c082",
+            "name": "Büyük Boy Sade & Çikolata İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865062336_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697dff9aceac63ceacb5c09e",
+            "name": "Küçük Boy Sade & Lotus İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865106848_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697dffcaceac63ceacb5c0cb",
+            "name": "Küçük Boy Sade & Lotus İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865154736_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697dfff7ceac63ceacb5c0e7",
+            "name": "Büyük Boy Sade & Lotus İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865201466_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e003dceac63ceacb5c116",
+            "name": "Büyük Boy Sade & Lotus İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu seçenekleri, lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865271397_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0079ceac63ceacb5c137",
+            "name": "Küçük Boy Sade & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865323225_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e009dceac63ceacb5c152",
+            "name": "Küçük Boy Sade & Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865367893_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e00cbceac63ceacb5c17e",
+            "name": "Büyük Boy Sade & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865413369_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0113ceac63ceacb5c1b0",
+            "name": "Büyük Boy Sade & Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865481365_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e019cceac63ceacb5c279",
+            "name": "Küçük Boy Çikolata & Lotus İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865621754_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e01cdceac63ceacb5c2ea",
+            "name": "Küçük Boy Çikolata & Lotus İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865667301_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e01f8ceac63ceacb5c318",
+            "name": "Büyük Boy Çikolata & Lotus İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865713900_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e021eceac63ceacb5c335",
+            "name": "Büyük Boy Çikolata & Lotus İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865752245_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0255ceac63ceacb5c34e",
+            "name": "Küçük Boy Çikolata & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865797206_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0289ceac63ceacb5c399",
+            "name": "Küçük Boy Çikolata & Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865856267_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e02bfceac63ceacb5c3b6",
+            "name": "Büyük Boy Çikolata & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865914024_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e02edceac63ceacb5c401",
+            "name": "Büyük Boy Çikolata & Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769865957078_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0320ceac63ceacb5c431",
+            "name": "Küçük Boy Lotus & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866010608_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e034fceac63ceacb5c458",
+            "name": "Küçük Boy Lotus & Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866058326_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0383ceac63ceacb5c486",
+            "name": "Büyük Boy Lotus & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866106993_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e03b8ceac63ceacb5c4fd",
+            "name": "Büyük Boy Lotus ve Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı, lotus sosu veya lotus bisküvi kırıntısı ile",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866159736_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e045eceac63ceacb5c566",
+            "name": "Sade & Çikolata & Lotus İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866329335_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0486ceac63ceacb5c593",
+            "name": "Küçük Boy Sade & Çikolata & Lotus İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866368286_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e04b3ceac63ceacb5c5ad",
+            "name": "Büyük Boy Sade & Çikolata & Lotus İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866413488_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e04e3ceac63ceacb5c5da",
+            "name": "Büyük Boy Sade & Çikolata & Lotus İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 445.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866462228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e050fceac63ceacb5c5fd",
+            "name": "Küçük Sade & Çikolata & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": null,
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866505137_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0545ceac63ceacb5c633",
+            "name": "Küçük Sade & Çikolata & Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866555894_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e056dceac63ceacb5c655",
+            "name": "Büyük Sade & Çikolata & Cennet Çamuru İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866598674_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e05a7ceac63ceacb5c6a3",
+            "name": "Büyük Sade & Çikolata & Cennet Çamuru İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin ve yer fıstığı",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866638361_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e05e1ceac63ceacb5c6c8",
+            "name": "Küçük Boy Sade & Lotus & Cennet İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866716017_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0606ceac63ceacb5c6fd",
+            "name": "Sade & Lotus & Cennet İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866753100_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e062dceac63ceacb5c71c",
+            "name": "Büyük Boy Sade & Lotus & Cennet İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866791700_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0651ceac63ceacb5c730",
+            "name": "Sade & Lotus & Cennet İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866828508_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0694ceac63ceacb5c758",
+            "name": "Küçük Boy Çikolata & Lotus & Cennet İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866895074_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e06b3ceac63ceacb5c76b",
+            "name": "Küçük Boy Çikolata & Lotus & Cennet İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866925460_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e06daceac63ceacb5c78f",
+            "name": "Büyük Boy Çikolata & Lotus & Cennet İrmik Helvası (Dondurmalı)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769866963576_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "697e0707ceac63ceacb5c7b8",
+            "name": "Büyük Boy Çikolata & Lotus & Cennet İrmik Helvası (Dondurmasız)",
+            "description": "İsteğe bağlı tahin, yer fıstığı veya lotus sosu, lotus bisküvi kırıntısı ile",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769867005622_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f52a50ceac63ceacf11c67",
+        "name": "Kiloluk İrmik Helvası",
+        "items": [
+          {
+            "id": "67f52a50ceac63ceacf11c99",
+            "name": "Tereyağlı Sade İrmik Helvası (500 g)",
+            "description": "Yanında tahin ve yer fıstığı ile",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736769183437_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c7a",
+            "name": "Tereyağlı Sade İrmik Helvası (1 kg)",
+            "description": "Yanında tahin ve yer fıstığı ile",
+            "price": 900.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736769119633_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c8e",
+            "name": "Tereyağlı Çikolatalı İrmik Helvası (500 g)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 575.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736766840652_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c81",
+            "name": "Çikolatalı İrmik Helvası (1 kg)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736766810633_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c74",
+            "name": "Lotuslu İrmik Helvası (500 g)",
+            "description": "Üzerinde lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736768857073_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c86",
+            "name": "Lotuslu İrmik Helvası (1 kg)",
+            "description": "Üzerinde lotus sosu ve lotus bisküvi kırıntısı ile",
+            "price": 1500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736770273037_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c77",
+            "name": "Cennet Çamuru (500 g)",
+            "description": "Toz antep fıstığı ile",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736766411589_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c80",
+            "name": "Antep Fıstıklı İrmik Helvası (1 kg)",
+            "description": "Tahin ve yer fıstığı ile",
+            "price": 2300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736766326578_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c8f",
+            "name": "Dubai Harcı (1 kg)",
+            "description": "(vakumlu paket)",
+            "price": 3300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736770345092_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f52a50ceac63ceacf11c65",
+        "name": "Kahvaltılık Paket Helva",
+        "items": [
+          {
+            "id": "67f52a50ceac63ceacf11c78",
+            "name": "Mozaik Tahin Helvası (500 g)",
+            "description": "(vakumlanmış paket)",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738062648355_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c7f",
+            "name": "Antep Fıstıklı Tahin Helvası (500 g)",
+            "description": "(vakumlu paket)",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736766678471_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f52a50ceac63ceacf11c68",
+        "name": "Tahin & Pekmez",
+        "items": [
+          {
+            "id": "67f52a50ceac63ceacf11ca2",
+            "name": "Tahin (300 g) (Cam Şişe)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736769787618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c6a",
+            "name": "Cam Şişe Dut Pekmezi (380 g)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736767947180_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c9f",
+            "name": "Üzüm Pekmezi (380 g) (Cam Şişe)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736769862551_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11ca1",
+            "name": "Cam Şişe Keçiboynuzu Özü (380 g)",
+            "description": null,
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736768737326_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f52a50ceac63ceacf11c69",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "67f52a50ceac63ceacf11c7c",
+            "name": "Sade Talkan Kurabiyesi (200 g)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736769576946_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c6b",
+            "name": "Fındıklı Talkan Kurabiyesi (200 g)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11ca0",
+            "name": "Tarçınlı Talkan Kurabiyesi (200 g)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c79",
+            "name": "Kağıt Helva",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736768162717_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c8b",
+            "name": "Kağıt Helva (Çikolatalı)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736770697505_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c9c",
+            "name": "Kestane Şekeri (1 kg)",
+            "description": null,
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736770869816_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f52a50ceac63ceacf11c63",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "67f52a50ceac63ceacf11c7e",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f52a50ceac63ceacf11c87",
+            "name": "Beypazarı Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

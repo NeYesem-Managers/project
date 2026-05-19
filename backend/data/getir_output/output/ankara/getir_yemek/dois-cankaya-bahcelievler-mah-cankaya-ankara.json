@@ -1,0 +1,576 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67d03e46f5efaa615488adeb",
+  "name": "Dois, Çankaya (Bahçelievler Mah.)",
+  "slug": "dois-cankaya-bahcelievler-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 3.6,
+  "rating_count": 150,
+  "min_order_amount": 280.0,
+  "delivery_fee": 52.99,
+  "delivery_time_min": 35,
+  "delivery_time_max": 45,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %10"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68024310ceac63ceacfd71cf",
+            "name": "Dois Tavuk Döner Klasik Menü",
+            "description": "Dois small tavuk döner (tavuk döner (80 g), patates kızartması, marul, sarımsaklı mayonez, dois özel sos), patates kızartması, cin biberi ve içecek (330 ml) ile",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760341829456_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024440ceac63ceacfd73c6",
+            "name": "Dois Tavuk Döner Ekonomik Menü",
+            "description": "Small tavuk döner (tavuk döner (80 g), patates kızartması, marul, sarımsaklı mayonez, özel sos), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 252.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760341847159_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6802446dceac63ceacfd7442",
+            "name": "Dois Zurna Tavuk Döner Dürüm Ekonomik Menü",
+            "description": "Dois medium zurna tavuk döner (tavuk döner (100 g), patates kızartması, marul, sarımsaklı mayonez, dois özel sos), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 297.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760341866958_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680244b6ceac63ceacfd749d",
+            "name": "Dois Medium Zurna Dürüm Klasik Menü",
+            "description": "Dois medium zurna tavuk döner (tavuk döner (100 g), patates kızartması, marul, sarımsaklı mayonez, dois özel sos), patates kızartması, içecek (330 ml) ve cin biberi ile",
+            "price": 337.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760431572522_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024542ceac63ceacfd74f6",
+            "name": "Dois Cheddarlı Tavuk Döner Dürüm Ekonomik Menü",
+            "description": "Dois small çedarlı tavuk döner (tavuk döner (100 g), patates kızartması, sarımsaklı mayonez, dois özel sos, cheddar peyniri), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 283.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764231810851_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68023d4cceac63ceacfd6077",
+        "name": "Avantajlı Dois Menü",
+        "items": [
+          {
+            "id": "68024310ceac63ceacfd71cf",
+            "name": "Dois Tavuk Döner Klasik Menü",
+            "description": "Dois small tavuk döner (tavuk döner (80 g), patates kızartması, marul, sarımsaklı mayonez, dois özel sos), patates kızartması, cin biberi ve içecek (330 ml) ile",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760341829456_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024440ceac63ceacfd73c6",
+            "name": "Dois Tavuk Döner Ekonomik Menü",
+            "description": "Small tavuk döner (tavuk döner (80 g), patates kızartması, marul, sarımsaklı mayonez, özel sos), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 252.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760341847159_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6802446dceac63ceacfd7442",
+            "name": "Dois Zurna Tavuk Döner Dürüm Ekonomik Menü",
+            "description": "Dois medium zurna tavuk döner (tavuk döner (100 g), patates kızartması, marul, sarımsaklı mayonez, dois özel sos), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 297.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760341866958_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680244b6ceac63ceacfd749d",
+            "name": "Dois Medium Zurna Dürüm Klasik Menü",
+            "description": "Dois medium zurna tavuk döner (tavuk döner (100 g), patates kızartması, marul, sarımsaklı mayonez, dois özel sos), patates kızartması, içecek (330 ml) ve cin biberi ile",
+            "price": 337.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760431572522_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024542ceac63ceacfd74f6",
+            "name": "Dois Cheddarlı Tavuk Döner Dürüm Ekonomik Menü",
+            "description": "Dois small çedarlı tavuk döner (tavuk döner (100 g), patates kızartması, sarımsaklı mayonez, dois özel sos, cheddar peyniri), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 283.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764231810851_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6802457bceac63ceacfd753c",
+            "name": "Dois Cheddarlı Tavuk Döner Dürüm Klasik Menü",
+            "description": "Small Cheddarlı Tavuk Döner (tavuk döner (80 g), patates kızartması, sarımsaklı mayonez, dois özel sos ve cheddar peyniri), patates kızartması, içecek (330 ml) ve cin biberi ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760342100622_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680245f3ceac63ceacfd75e1",
+            "name": "Dois Cheddarlı Zurna Tavuk Döner Ekonomik Menü",
+            "description": "Dois medium zurna çedarlı tavuk döner (tavuk döner (100 g), patates kızartması, marul, sarımsaklı mayonez, dois özel sos, cheddar peyniri), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 342.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764231794109_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024654ceac63ceacfd7660",
+            "name": "Dois Cheddarlı Zurna Klasik Menü",
+            "description": "Dois medium zurna çedarlı tavuk döner (tavuk döner (100 g), patates kızartması, sarımsaklı mayonez, dois özel sos, marul, cheddar peyniri), patates kızartması, biber turşusu ve içecek (330 ml) ile",
+            "price": 369.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760431663357_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024684ceac63ceacfd767a",
+            "name": "Dois Kaşarlı Tavuk Döner Ekonomik Menü",
+            "description": "Dois kaşarlı tavuk döner (tavuk döner (80 g), patates kızartması, sarımsaklı mayonez, özel sos, marul ve kaşar peyniri), patates kızartması, ayran (170 ml) ve cin biberi ile",
+            "price": 288.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760342186878_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680246cbceac63ceacfd76f0",
+            "name": "Dois Kaşarlı Tavuk Döner Klasik Menü",
+            "description": "Dois kaşarlı tavuk döner (tavuk döner (80 g), patates kızartması, sarımsaklı mayonez, Dois özel sos, marul, kaşar peyniri), patates kızartması, içecek (330 ml) ve cin biberi ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760342322974_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680376acceac63ceacfdf7cb",
+            "name": "Ekmek Arası Köfte Menü",
+            "description": "Ekmek arası köfte, patates kızartması ve içecek (330 ml) ile",
+            "price": 333.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764229877954_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "680240a0ceac63ceacfd6b69",
+        "name": "Double Menü",
+        "items": [
+          {
+            "id": "68036ec3ceac63ceacfdf2d2",
+            "name": "2'li Dois Medium Tavuk Döner Dürüm Menü",
+            "description": "Dois medium tavuk döner dürüm (80 g) (2 adet), cin biberi ve içecek (1 L) ile",
+            "price": 432.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760431731159_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036ee7ceac63ceacfdf2ed",
+            "name": "2'li Dois Large Tavuk Döner Dürüm Menü",
+            "description": "Dois large tavuk döner dürüm (110 g) (2 adet), cin biberi ve içecek (1 L) ile",
+            "price": 504.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760431749665_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036f47ceac63ceacfdf345",
+            "name": "2'li Dois Medium Zurna Tavuk Döner Dürüm Menü",
+            "description": "Dois medium zurna tavuk döner dürüm (100 g) (2 adet), cin biber ve içecek (1 L) ile",
+            "price": 477.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760431766175_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036f68ceac63ceacfdf357",
+            "name": "2'li Dois Large Zurna Tavuk Döner Dürüm Menü",
+            "description": "Dois large zurna tavuk döner dürüm (130 g) (2 adet), cin biberi ve içecek (1 L) ile",
+            "price": 540.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760432946682_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036f89ceac63ceacfdf36c",
+            "name": "2'li Dois Xlarge Zurna Tavuk Döner Dürüm Menü",
+            "description": "Dois xlarge tavuk döner dürüm (160 g) (2 adet), cin biberi ve içecek (1 L) ile",
+            "price": 612.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760432960664_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68036fd6ceac63ceacfdf392",
+            "name": "2'li Kanka Menü",
+            "description": "Dois medium tavuk döner dürüm (80 g), (2 adet), patates kızartması (küçük boy) ve ayran (285 ml) (2 adet) ile",
+            "price": 576.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760432981795_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "680240a6ceac63ceacfd6b6e",
+        "name": "Biz Bize Menü",
+        "items": [
+          {
+            "id": "68037021ceac63ceacfdf3e4",
+            "name": "3'lü Medium Biz Bize Tavuk Döner Dürüm Menü",
+            "description": "Dois medium tavuk döner dürüm (80 g) (3 adet), cin biberi ve içecek (1 L) ile",
+            "price": 571.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760432997261_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68037048ceac63ceacfdf401",
+            "name": "3'lü Large Biz Bize Tavuk Döner Dürüm Menü",
+            "description": "Dois large tavuk döner dürüm (110 g) (3 adet), cin biberi ve içecek (1 L) ile",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433012846_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6803708cceac63ceacfdf455",
+            "name": "3'lü Xlarge Biz Bize Zurna Tavuk Döner Dürüm Menü",
+            "description": "Dois xlarge zurna tavuk döner dürüm (160 g) (3 adet), cin biberi ve içecek (1 L) ile",
+            "price": 846.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433025131_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68037620ceac63ceacfdf774",
+            "name": "3'lü Medium Zurna Biz Bize Menü",
+            "description": "Dois medium zurna tavuk döner dürüm (100 g) (3 adet), cin biberi ve içecek (1 L) ile",
+            "price": 639.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763710264111_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68037646ceac63ceacfdf78b",
+            "name": "3'lü Large Zurna Tavuk Döner Menü",
+            "description": "Dois large zurna tavuk döner dürüm (130 g) (3 adet), cin biberi ve içecek (1 L) ile",
+            "price": 742.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763710277669_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68023d4dceac63ceacfd607a",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "68024118ceac63ceacfd6bfc",
+            "name": "Dois Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), patates kızartması, marul, özel dois sos ve sarımsaklı mayonez",
+            "price": 175.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433039689_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024148ceac63ceacfd6cab",
+            "name": "Dois Cheddarlı Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), patates kızartması, özel sos, sarımsaklı mayonez, marul ve cheddar peyniri",
+            "price": 207.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763710230082_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6802419dceac63ceacfd6cd3",
+            "name": "Kaşarlı Tavuk Döner Dürüm",
+            "description": "Tavuk döner (80 g), patates kızartması, özel dois sos, sarımsaklı mayonez, marul ve kaşar peyniri",
+            "price": 207.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433125056_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "680241d8ceac63ceacfd6d12",
+            "name": "Dois Medium Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), patates kızartması, marul, sarımsaklı mayonez ve özel dois sos ve cin biberi ile",
+            "price": 229.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433262492_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024208ceac63ceacfd6d70",
+            "name": "Dois Cheddarlı Zurna Tavuk Döner Dürüm",
+            "description": "Tavuk döner (100 g), patates kızartması, özel dois sos, sarımsaklı mayonez, marul ve cheddar peyniri",
+            "price": 265.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763710297014_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68024242ceac63ceacfd70d6",
+            "name": "Dois Pilav Üstü Tavuk Döner",
+            "description": "Tavuk döner (100 g), pirinç pilavı, patates kızartması, tablacı salata, özel dois sos ve sarımsaklı mayonez ile",
+            "price": 252.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764230043416_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6802426dceac63ceacfd7111",
+            "name": "Ekmek Arası Ankara Döneri",
+            "description": "Tavuk döner (80 g), domates, soğan ve cin biberi",
+            "price": 172.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760433322943_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68023d4dceac63ceacfd6078",
+        "name": "Köfte",
+        "items": [
+          {
+            "id": "68037692ceac63ceacfdf7be",
+            "name": "Ekmek Arası Köfte",
+            "description": "Köfte (5 adet), soğan ve domates",
+            "price": 265.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764229895207_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68037669ceac63ceacfdf79c",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "68065d7bceac63ceacff5e2f",
+            "name": "Patates Kızartması (Küçük Boy)",
+            "description": null,
+            "price": 58.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68065d97ceac63ceacff5e52",
+            "name": "Mozzarella Sticks (4 Adet)",
+            "description": null,
+            "price": 64.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68065db0ceac63ceacff5e62",
+            "name": "Soğan Halkası (6 Adet)",
+            "description": null,
+            "price": 55.8,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68023d4eceac63ceacfd607b",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "68023fb8ceac63ceacfd6a90",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745650167391_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68023fcaceac63ceacfd6a9c",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745650183173_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68023fdaceac63ceacfd6aab",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745650199829_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68023ff0ceac63ceacfd6ab9",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68024018ceac63ceacfd6ad7",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6802403dceac63ceacfd6b02",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6802404aceac63ceacfd6b10",
+            "name": "Fuse Tea Karpuz (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68024057ceac63ceacfd6b19",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68024028ceac63ceacfd6aec",
+            "name": "Sütaş Ayran (280 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68025c2dceac63ceacfd9749",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68025c37ceac63ceacfd9765",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68025c4dceac63ceacfd979a",
+            "name": "Sütaş Ayran (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

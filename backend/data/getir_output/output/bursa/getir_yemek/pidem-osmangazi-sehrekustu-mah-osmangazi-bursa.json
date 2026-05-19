@@ -1,0 +1,553 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "6278d626e3d27466f4ce0779",
+  "name": "Pidem, Osmangazi (Şehreküstü Mah.)",
+  "slug": "pidem-osmangazi-sehrekustu-mah-osmangazi-bursa",
+  "cuisine_types": [
+    "Pide & Lahmacun"
+  ],
+  "rating": 4.5,
+  "rating_count": 500,
+  "min_order_amount": 220.0,
+  "delivery_fee": 45.99,
+  "delivery_time_min": 35,
+  "delivery_time_max": 45,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "2 Al 1 Öde!"
+    },
+    {
+      "type": "tag",
+      "description": "Zincir Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0865",
+            "name": "4'lü Lahmacun Menüm",
+            "description": "4 adet lahmacun (30 cm), 4 adet garnitür ve 2 adet içecek ile",
+            "price": 770.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765348093673_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0a61",
+            "name": "Karışık Menüm",
+            "description": "Karışık pide (45 cm) ve 450 ml içecek",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350790142_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0aca",
+            "name": "Efsane Menüm",
+            "description": "Kıymalı pidem veya kıymalı kaşarlım (45 cm), çorba, tırnak pide ve 450 ml içecek",
+            "price": 455.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350926868_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0b3c",
+            "name": "Popüler 2'lim",
+            "description": "Tavuklu pidem ve kıymalı pidem 2 adet 450 ml içecek",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765348175658_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0830",
+            "name": "2'li Lahmacun Menüm",
+            "description": "2 adet lahmacun (30 cm), 2 adet garnitür ve içecek",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765351258922_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "690467c0ceac63ceac19b003",
+        "name": "Kaçmaz Menü",
+        "items": [
+          {
+            "id": "69e1ea85ceac63ceac206796",
+            "name": "Kaçmaz Fırsat Menü",
+            "description": "2 Adet Sosisli Pidem (İndirim ödeme ekranında yansıyacaktır.)",
+            "price": 820.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778757917650_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "664b204d47ce68ca77dbcf54",
+        "name": "GetirYemek'e Özel Menü",
+        "items": [
+          {
+            "id": "67bdc3a9ceac63ceacc843f4",
+            "name": "2 Sosisli Pidem & 2 İçecek",
+            "description": "2 sosisli pidem (45 cm.) ve 2 adet içecek (450 ml.)",
+            "price": 660.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745913463765_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0865",
+            "name": "4'lü Lahmacun Menüm",
+            "description": "4 adet lahmacun (30 cm), 4 adet garnitür ve 2 adet içecek ile",
+            "price": 770.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765348093673_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66a750b93c3556e7f9d138e3",
+        "name": "Favori Menü",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0a24",
+            "name": "Tavuklu Menüm",
+            "description": "Tavuklu pide (45 cm) ve 450 ml içecek",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350600710_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0a4e",
+            "name": "Patatesli Menüm",
+            "description": "Patatesli pide (45 cm) ve 450 ml içecek",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765351178389_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0a61",
+            "name": "Karışık Menüm",
+            "description": "Karışık pide (45 cm) ve 450 ml içecek",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350790142_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66a7557d4179f74e94987bf2",
+        "name": "Çok Açım Menü",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0a76",
+            "name": "Çok Açım Patateslim",
+            "description": "Patatesli pidem, (45 cm), çorba, tırnak pide ve 450 ml içecek",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350710712_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0a87",
+            "name": "Çok Açım Tavuklu Patateslim",
+            "description": "Tavuklu patatesli pidem, (45 cm), çorba, tırnak pide ve 450 ml içecek",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350586916_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0a98",
+            "name": "Çok Açım Kıymalı Patateslim",
+            "description": "Kıymalı patateslim, (45 cm), çorba, tırnak pide ve 450 ml içecek",
+            "price": 405.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350817810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0aad",
+            "name": "Dilediğin Tavuklu Menüm",
+            "description": "Tercih edeceğin tavuklu pidem (45 cm), çorba, tırnak pide ve 450 ml içecek",
+            "price": 415.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350953043_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0aca",
+            "name": "Efsane Menüm",
+            "description": "Kıymalı pidem veya kıymalı kaşarlım (45 cm), çorba, tırnak pide ve 450 ml içecek",
+            "price": 455.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350926868_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0ae3",
+            "name": "Gurme Menüm",
+            "description": "Kuşbaşılı pidem, çorba, tırnak pide ve 450 ml içecek",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350843348_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66a757dfc3a97899b16db9c4",
+        "name": "Menü (2-4 Kişilik)",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0b00",
+            "name": "Avantaj 2'lim",
+            "description": "2 adet tercih edeceğiniz patatesli pidem (45 cm.) ve 2 adet 450 ml içecek",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765351071420_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0b0f",
+            "name": "Taraftar Menüsü",
+            "description": "Patatesli pidem, karışık pidem 2 adet 450 ml içecek",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745913260158_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0b22",
+            "name": "Fırsat 2'lim",
+            "description": "Tercih edeceğiniz patatesli pidem ve tercih edeceğiniz tavuklu pidem 2 adet 450 ml içecek",
+            "price": 710.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350888063_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0b3c",
+            "name": "Popüler 2'lim",
+            "description": "Tavuklu pidem ve kıymalı pidem 2 adet 450 ml içecek",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765348175658_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0b4a",
+            "name": "Tavuksever 2'lim",
+            "description": "Tercih edeceğiniz  2 adet tavuklu pidem ve 2 adet 450 ml içecek",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350534650_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0b63",
+            "name": "Klasik 2'lim",
+            "description": "Patatesli pidem veya kaşarlı pidem ve tavuklu pidem veya kıymalı pidem ve 2 adet 450 ml içecek",
+            "price": 740.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350752473_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0b77",
+            "name": "Süper 2'lim",
+            "description": "Tavuklu pidem, karışık pidem  ve 2 adet 450 ml içecek",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765348142520_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "664b204d47ce68ca77dbcf56",
+        "name": "Lahmacun Menü",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0817",
+            "name": "Lahmacun Menüm",
+            "description": "1 adet lahmacun (30 cm), 1 adet çorba ve içecek",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765350730648_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0830",
+            "name": "2'li Lahmacun Menüm",
+            "description": "2 adet lahmacun (30 cm), 2 adet garnitür ve içecek",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765351258922_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "664b204d47ce68ca77dbcf57",
+        "name": "Lahmacun",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c080b",
+            "name": "Lahmacun (30 cm)",
+            "description": "Dana kıyma, biber salçası, domates, kuru soğan, çarliston biber, kapya biber, maydanoz, karabiber, pulbiber, lahmacun garnitürü",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912933474_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "664b204d47ce68ca77dbcf58",
+        "name": "Efsane Pidem",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c07f0",
+            "name": "Patatesli Pidem (45 cm)",
+            "description": "Patates püresi, çarliston biber, kuru soğan, maydanoz, pul biber",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912966516_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c083a",
+            "name": "Tavuklu Patateslim (45 cm)",
+            "description": "Tavuk göğsü, domates, çarliston biber, kırmızı biber, kaşar peyniri, tuz, kekik, pul biber, kara biber, kimyon, patates püresi, kuru soğan, maydanoz, toz biber (Soya sosu içerir.)",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745913271479_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0876",
+            "name": "Kıymalı Patateslim (45 cm)",
+            "description": "Dana kıyma, domates, patates, kuru soğan, çarliston biber, maydanoz, pul biber",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912691299_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c088c",
+            "name": "Kaşarlı Pidem (45 cm)",
+            "description": "Kaşar peyniri",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912989920_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c08c1",
+            "name": "Tavuklu Pidem (45 cm)",
+            "description": "Tavuk göğsü, domates, çarliston biber, kaşar peynir, kırmızı biber, kekik, pul biber, karabiber, kimyon\n(Soya sosu içerir.)",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745913307403_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0944",
+            "name": "Kıymalı Pidem (45 cm)",
+            "description": "Dana kıyma, domates, kuru soğan, çarliston biber, maydanoz",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912730318_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c095d",
+            "name": "Karışık Pidem (45 cm)",
+            "description": "Dana kuşbaşı, dana kıyma, domates, çarliston biber, kuru soğan, kaşar peynir, maydanoz",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912650245_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c099b",
+            "name": "Kıymalı Kaşarlım (45 cm)",
+            "description": "Dana kıyma, domates, kuru soğan, çarliston biber, kaşar peyniri, maydanoz",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912711081_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c09bf",
+            "name": "Kuşbaşılı Pidem (45 cm)",
+            "description": "Dana kuşbaşı, kaşar peynir, domates, çarliston biber, maydanoz",
+            "price": 430.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912796958_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67864d8cceac63ceac7b3203",
+            "name": "Sosislİ Pidem (45 cm)",
+            "description": null,
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745913071221_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "678f80f9ceac63ceac82b708",
+            "name": "Kavurmalı Pidem (45 cm)",
+            "description": null,
+            "price": 475.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745913053774_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "664b204d47ce68ca77dbcf59",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0856",
+            "name": "Mercimek Çorbası",
+            "description": "Karton kase içerisinde mercimek çorbası (285 ml) ve tırnak pide",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745912499627_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6698cf7fd13d9dd6e69fb5e1",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0a12",
+            "name": "Çiğ Köfte",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745913022262_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "664b204d47ce68ca77dbcf5b",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "672b2079ceac63ceac7c0800",
+            "name": "Damla Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745921172319_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0827",
+            "name": "Damla Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745921075193_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0844",
+            "name": "İçim Ayran (285 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745921188278_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c0883",
+            "name": "Coca-Cola (450 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745921128481_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "672b2079ceac63ceac7c08d6",
+            "name": "Cappy Karışık (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1745921039899_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

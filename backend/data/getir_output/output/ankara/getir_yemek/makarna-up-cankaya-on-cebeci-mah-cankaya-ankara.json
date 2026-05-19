@@ -1,0 +1,633 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6984a4de5f89cc2de8429aa4",
+  "name": "Makarna Up!, Çankaya (Ön Cebeci Mah.)",
+  "slug": "makarna-up-cankaya-on-cebeci-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Mantı & Makarna"
+  ],
+  "rating": 4.2,
+  "rating_count": 10,
+  "min_order_amount": 260.0,
+  "delivery_fee": 51.99,
+  "delivery_time_min": 15,
+  "delivery_time_max": 25,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %25"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "699818a5ceac63ceacdba48b",
+            "name": "Alfredo",
+            "description": "Tavuk, mantar, alfredo soslu krema, parmesan peyniri ve fesleğen",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818acceac63ceacdba49d",
+            "name": "Kremalı Mantarlı",
+            "description": "Mantar, alfredo soslu krema, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a5ceac63ceacdba48c",
+            "name": "Köri",
+            "description": "Tavuk, mantar, köri soslu krema, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a6ceac63ceacdba48d",
+            "name": "Pesto",
+            "description": "Tavuk, mantar, pesto soslu krema, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a6ceac63ceacdba48e",
+            "name": "Köz Köz",
+            "description": "Tavuk, mantar, köz patlıcanlı krema, parmesan peyniri ve fesleğen",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699818a1ceac63ceacdba484",
+        "name": "Makarna",
+        "items": [
+          {
+            "id": "699818a5ceac63ceacdba48b",
+            "name": "Alfredo",
+            "description": "Tavuk, mantar, alfredo soslu krema, parmesan peyniri ve fesleğen",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818acceac63ceacdba49d",
+            "name": "Kremalı Mantarlı",
+            "description": "Mantar, alfredo soslu krema, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a5ceac63ceacdba48c",
+            "name": "Köri",
+            "description": "Tavuk, mantar, köri soslu krema, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a6ceac63ceacdba48d",
+            "name": "Pesto",
+            "description": "Tavuk, mantar, pesto soslu krema, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a6ceac63ceacdba48e",
+            "name": "Köz Köz",
+            "description": "Tavuk, mantar, köz patlıcanlı krema, parmesan peyniri ve fesleğen",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a55c4cceac63ceace704fa",
+            "name": "Acılı Alfredo",
+            "description": "(Günlük Taze) Makarna, Tavuk, Mantar, Acılı Alfredo Soslu Krema, Parmesan Peyniri ve Fesleğen",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a7ceac63ceacdba48f",
+            "name": "Arrabbiata",
+            "description": "Acılı baharatlı domates sos, tavuk, mantar, zeytin, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a7ceac63ceacdba492",
+            "name": "Gülümse Peynir",
+            "description": "Tavuk, mantar, karışık peynir soslu krema, parmesan peyniri ve fesleğen",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a8ceac63ceacdba493",
+            "name": "Mexican",
+            "description": "Acılı baharatlı domates sos, tavuk, mantar, mısır, jalapeno biberi, parmesan peyniri ve fesleğen",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a9ceac63ceacdba494",
+            "name": "Barbekü",
+            "description": "Tavuk, mantar, barbekü soslu krema, parmesan peyniri ve fesleğen",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818a9ceac63ceacdba498",
+            "name": "Tatlı Acı",
+            "description": "Tavuk, tatlı acı sos, parmesan peyniri, mısır ve susam",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818aaceac63ceacdba49a",
+            "name": "Kekikli",
+            "description": "Tavuk, mantar, kekik soslu krema, parmesan peyniri ve kekik",
+            "price": 279.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818aaceac63ceacdba49b",
+            "name": "Ton Balıklı",
+            "description": "Ton balığı, sebze sosu, limon rende ve mısır",
+            "price": 319.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818abceac63ceacdba49c",
+            "name": "Sebzeli",
+            "description": "Havuç, biber, mantar, brokoli, karnabahar ve çeri domates",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699818a2ceac63ceacdba485",
+        "name": "Basic Makarna",
+        "items": [
+          {
+            "id": "699818acceac63ceacdba49e",
+            "name": "Napoliten",
+            "description": "Napoliten sos, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818adceac63ceacdba49f",
+            "name": "Baz Köri",
+            "description": "Köri soslu krema, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818adceac63ceacdba4a0",
+            "name": "Baz Pesto",
+            "description": "Pesto soslu krema, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818aeceac63ceacdba4a1",
+            "name": "Baz Arabiata",
+            "description": "Acılı baharatlı domates sos, zeytin, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818afceac63ceacdba4a3",
+            "name": "Baz Gülümse Peynirr",
+            "description": "Karışık peynir soslu krema, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818afceac63ceacdba4c4",
+            "name": "Baz Barbekü",
+            "description": "Barbekü soslu krema, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818b0ceac63ceacdba5cc",
+            "name": "Baz Mexican",
+            "description": "Acılı baharatlı domates sos, mısır, jalapeno biberi, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818b0ceac63ceacdba6e6",
+            "name": "Baz Tatlı Acı",
+            "description": "Tatlı acı sos, parmesan peyniri, mısır, susam",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818b1ceac63ceacdba7f2",
+            "name": "Baz Kekikli",
+            "description": "Kekik soslu krema, parmesan peyniri, fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a40b98ceac63ceace66ad4",
+            "name": "Baz Köz Köz",
+            "description": "Günlük taze, makarna, köz patlıcanlı krema, parmesan peyniri ve fesleğen",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699818a3ceac63ceacdba488",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "699818b3ceac63ceacdba81b",
+            "name": "Sütaş Yoğurt",
+            "description": null,
+            "price": 29.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818b4ceac63ceacdba81c",
+            "name": "Jalapeno Biber Turşusu",
+            "description": "Tek kişilik",
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818b5ceac63ceacdba81d",
+            "name": "Salatalık Turşusu",
+            "description": "Tek kişilik",
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818b6ceac63ceacdba821",
+            "name": "Parmesan Peyniri",
+            "description": "Tek kişilik",
+            "price": 29.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b154e4ceac63ceacf270d1",
+            "name": "Salata",
+            "description": "Yeşillik , mısır , çeri domates , zeytin yağı , nar ekşisi",
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699818a4ceac63ceacdba48a",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "699818bdceac63ceacdba82f",
+            "name": "Hot Chili Sos",
+            "description": null,
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818bdceac63ceacdba830",
+            "name": "Sweet Chili Sos",
+            "description": null,
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818beceac63ceacdba832",
+            "name": "American Sos",
+            "description": null,
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818bfceac63ceacdba833",
+            "name": "Ketçap",
+            "description": null,
+            "price": 14.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818bfceac63ceacdba834",
+            "name": "Mayonez",
+            "description": null,
+            "price": 14.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818c0ceac63ceacdba837",
+            "name": "Garlic Sos",
+            "description": null,
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818c1ceac63ceacdba83a",
+            "name": "Honey Mustard",
+            "description": null,
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818c1ceac63ceacdba83b",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "699818c2ceac63ceacdba83e",
+            "name": "Bbq Sos",
+            "description": null,
+            "price": 19.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "699818a3ceac63ceacdba489",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "699818bcceac63ceacdba82d",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 74.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576378950_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818bcceac63ceacdba82e",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 74.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576352889_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818baceac63ceacdba82b",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 74.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576264009_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818baceac63ceacdba82a",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 74.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576493350_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818b6ceac63ceacdba824",
+            "name": "Sütaş Ayran (275 ml)",
+            "description": null,
+            "price": 49.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576288557_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818b7ceac63ceacdba825",
+            "name": "Sütaş Ayran (175 ml)",
+            "description": null,
+            "price": 34.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576300509_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818b7ceac63ceacdba826",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 74.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576411507_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818bbceac63ceacdba82c",
+            "name": "Fuska Su (500 ml)",
+            "description": null,
+            "price": 26.24,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576460105_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818b9ceac63ceacdba829",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 119.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576390532_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818b8ceac63ceacdba827",
+            "name": "Pepsi Zero Sugar (1 L)",
+            "description": null,
+            "price": 119.98,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576367270_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "699818b9ceac63ceacdba828",
+            "name": "Sütaş Ayran (1 L)",
+            "description": null,
+            "price": 99.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771576334389_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cabb3aceac63ceac0610bf",
+            "name": "Tropicana Karışık Meyve Suyu (330 ml)",
+            "description": null,
+            "price": 74.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775043973746_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cabb48ceac63ceac0610c9",
+            "name": "Tropicana Vişne (330 ml)",
+            "description": null,
+            "price": 74.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775043974065_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cabb56ceac63ceac0610cc",
+            "name": "Tropicana Şeftali (330 ml)",
+            "description": null,
+            "price": 74.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775043974041_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,633 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "62da88abe6385ff2e8e4041b",
+  "name": "Kaşık'La Pilav & Tantuni, Mamak (Kartaltepe Mah.)",
+  "slug": "kasik-la-pilav-tantuni-mamak-kartaltepe-mah-mamak-ankara",
+  "cuisine_types": [
+    "Ev Yemekleri",
+    "Tantuni",
+    "Tavuk"
+  ],
+  "rating": 4.6,
+  "rating_count": 1750,
+  "min_order_amount": 280.0,
+  "delivery_fee": 52.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Yıldız Restoran"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "62de3fb0013e734cb6d35fa2",
+            "name": "Nohutlu Pilav Üstü Tavuk",
+            "description": "Nohutlu pilav (300 g), haşlanmış tavuk (90 g), kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770317871501_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3faf013e73c550d35f83",
+            "name": "Nohutlu Pilav Üstü Tavuk Tantuni",
+            "description": "Nohutlu pilav (300 gr) , tavuk tantuni (100-110 g), kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771005342041_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "638debdd68672681b09950cc",
+            "name": "Nohutlu Pilav Üzeri Tavuk Sote",
+            "description": "Kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770317920556_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64e8edd2671e8a38348b62ef",
+            "name": "Nohutlu Pilav Üzeri Bol Tavuk",
+            "description": "Nohutlu Pilav (300 gr ), haşlanmış tavuk (130 - 140 g), salata, turşu ve biber ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698430785079_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66e703e4ceac63ceac116c51",
+            "name": "Nohutlu Pilav Üzeri Köri Soslu Tavuk",
+            "description": "Nohutlu pilav (300 g) , köri soslu tavuk (110 g), mevsim salata, salatalık turşusu ve biber turşusu ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770318021923_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62de3fab05344f35967a39fd",
+        "name": "Pilav",
+        "items": [
+          {
+            "id": "62de3fb0013e734cb6d35fa2",
+            "name": "Nohutlu Pilav Üstü Tavuk",
+            "description": "Nohutlu pilav (300 g), haşlanmış tavuk (90 g), kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770317871501_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3faf013e73c550d35f83",
+            "name": "Nohutlu Pilav Üstü Tavuk Tantuni",
+            "description": "Nohutlu pilav (300 gr) , tavuk tantuni (100-110 g), kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771005342041_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fb18667ae63ceb865ae",
+            "name": "Nohutlu Pilav Üstü Et Tantuni",
+            "description": "Nohutlu pilav (300g), et tantuni (100 g), kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698430644996_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fafdb3d4b11d3918022",
+            "name": "Kaşık’la Nohutlu Pilav Üstü Karışık",
+            "description": "Nohutlu pilav 300 gr, et kavurma, tiftik tavuk, kurufasülye, kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 680.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698430695764_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fb005344f94987a3a46",
+            "name": "Nohutlu Pilav Üstü Et Kavurma",
+            "description": "300 g nohutlu pilav, 110 g kavurma, salata, salatalık turşusu ve biber turşusu ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1771005969820_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62dea04a8667ae28dad08be9",
+            "name": "Nohutlu Pilav Üzeri Kuru Fasulye",
+            "description": "300 gr Nohutlu Pilav , Kuru Fasulye , salata, salatalık turşusu ve biber turşusu ile",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770317899330_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "638debdd68672681b09950cc",
+            "name": "Nohutlu Pilav Üzeri Tavuk Sote",
+            "description": "Kaşık salata, salatalık turşusu ve biber turşusu ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770317920556_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64e8edd2671e8a38348b62ef",
+            "name": "Nohutlu Pilav Üzeri Bol Tavuk",
+            "description": "Nohutlu Pilav (300 gr ), haşlanmış tavuk (130 - 140 g), salata, turşu ve biber ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698430785079_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66e703e4ceac63ceac116c51",
+            "name": "Nohutlu Pilav Üzeri Köri Soslu Tavuk",
+            "description": "Nohutlu pilav (300 g) , köri soslu tavuk (110 g), mevsim salata, salatalık turşusu ve biber turşusu ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770318021923_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "66e70415ceac63ceac116c5c",
+            "name": "Nohutlu Pilav Üzeri Barbekü Soslu Tavuk",
+            "description": "Nohutlu pilav (300 g) , barbekü soslu tavuk (110 gr), salata, salatalık turşusu ve biber turşusu ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755812471362_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6856c299ceac63ceac59a0b1",
+            "name": "Kaşık’la Nohutlu Pilav Üstü Tavuk (1.5 Porsiyon)",
+            "description": "400 g pirinç pilavı, 140- 150 g tavuk , salata, turşu ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750516340017_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68a9f8a3ceac63ceacb571d0",
+            "name": "Nohutlu Pilav Üzeri Tavuk & Fasulye Karışık",
+            "description": null,
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755969840764_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68c72c7aceac63ceacd56cff",
+            "name": "Nohutlu Pilav",
+            "description": "300 g pirinç pilavı, salata, turşu ile",
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760135496502_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6984e95bceac63ceacbe74b6",
+            "name": "Pilav Üzeri Kremalı Mantarlı Tavuk",
+            "description": "300 g nohutlu pilav üzerine, 110 g tavuk, mantar, krema, baharatlar, mevsimine göre salata ve turşu ile birlikte servis edilmektedir.",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770318158893_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66b337f6ceac63ceacb90e60",
+        "name": "Pilavlı Menü",
+        "items": [
+          {
+            "id": "66bdf100ceac63ceacbe9830",
+            "name": "Benim İkilim Tavuk Pilav",
+            "description": "Tavuk pilav (2 adet), coca cola (1 L), salata ve turşu ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755812839094_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b58bc8ceac63ceacf5da7a",
+            "name": "Tavuk Pilav (3 Adet) & İçecek",
+            "description": "1 L Coca Cola veya 1 L Ayran ile",
+            "price": 950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b58c1dceac63ceacf5da94",
+            "name": "4 Adet Tavuk Pilav & İçecek",
+            "description": "Coca cola veya 1 litre ayran ile",
+            "price": 1100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b58e20ceac63ceacf5db6d",
+            "name": "2 Adet Pilav Üzeri Tavuk Tantuni & İçecek (1 L)",
+            "description": "2 adet pilav üzeri tantuni, 1 litre içecek",
+            "price": 670.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b58e5cceac63ceacf5db83",
+            "name": "Pilav Üzeri Tantuni (3 Adet) & İçecek",
+            "description": "Coca Cola (1 L) veya Ayran (1 L)",
+            "price": 990.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b58f04ceac63ceacf5dbac",
+            "name": "4 Adet Pilav Üzeri Tavuk Tantuni & İçecek",
+            "description": "4 adet pilav üzeri tantuni, 1 litre i̇çecek coco cola veya 1 litre ayran",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62de3fab013e73591fd35f1c",
+        "name": "Tantuni",
+        "items": [
+          {
+            "id": "62de3fae78bcb6e5f0e34312",
+            "name": "Et Tantuni Dürüm",
+            "description": "Mersin yöremize ait olan bu efsane lezzet çift lavaş arasına baharatlarla zenginleştirilmiş tavuk, maydanoz, domates, piyaz soğan ile sarılır yanında limon ve cin biberi ile servis edilir.",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698430971788_500x375.webp",
+            "is_available": false
+          },
+          {
+            "id": "62de3fad05344fb79a7a3a1c",
+            "name": "Tavuk Tantuni Dürüm",
+            "description": "Mersin yöremize ait olan bu efsane lezzet çift lavaş arasına baharatlarla zenginleştirilmiş tavuk, maydanoz, domates, piyaz soğan ile sarılır yanında limon ve cin biberi ile servis edilir.",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755812731896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fac8667aee48db8653d",
+            "name": "Tüm Ekmek Tavuk Tantuni",
+            "description": "Mersin yöremize ait olan bu efsane lezzet ekmek arasına baharatlarla zenginleştirilmiş et, maydanoz, domates, piyaz soğan ile sarılır yanında limon ve cin biberi ile servis edilir.",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774105287766_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fb5013e73c806d3600f",
+            "name": "Yoğurtlu Tavuk Tantuni",
+            "description": "Mersin yöremize ait olan bu yöresel lezzet içinde domates, (soğan), tavuk tantuni üzerine yoğurt, onun üzerine ise yakılmış toz biber ile yanında mevsimine göre salata ve turşu eşliğinde servis edilmektedir. (Çift lavaştır)",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770318220488_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fae013e732cc1d35f64",
+            "name": "Tüm Ekmek Et Tantuni",
+            "description": "Mersin yöresel lezzeti, ekmek arasında baharatlı et, maydanoz, domates, piyaz soğan ile, yanında limon ve cin biberi",
+            "price": 395.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774105247944_500x375.webp",
+            "is_available": false
+          }
+        ]
+      },
+      {
+        "id": "69be8e30ceac63ceacfc21e5",
+        "name": "Tantuni Menüleri",
+        "items": [
+          {
+            "id": "69b5959fceac63ceacf5de55",
+            "name": "2 Adet Ekmek Arası Tavuk Tantuni & İçecek",
+            "description": "2 adet ekmek arası tavuk tantuni 1 litre coca cola veya 1 litre ayran ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774105484558_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b595c9ceac63ceacf5de66",
+            "name": "3 adet ekmek Arası Tavuk Tantuni & içecek",
+            "description": "3 adet ekmek arası tavuk tantuni 1 litre coca cola veya 1 litre ayran ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774105504431_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b5960fceac63ceacf5de85",
+            "name": "4 adet Ekmek Arası Tavuk Tantuni & İçecek",
+            "description": "4 adet ekmek arası tavuk tantuni 1 litre coca cola veya 1 litre ayran ile",
+            "price": 950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774105530228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b5967bceac63ceacf5decc",
+            "name": "2 adet Lavaş Tantuni & İçecek",
+            "description": "2 adet lavaş tavuk tantuni 1 litre coca cola veya 1 litre ayran ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b596aaceac63ceacf5dedf",
+            "name": "3 Adet Lavaş Tantuni & İçecek",
+            "description": "3 lavaş tavuk tantuni 1 litre coca cola veya 1 litre ayran ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b59702ceac63ceacf5df05",
+            "name": "4 Adet Lavaş Tantuni & Içecek",
+            "description": "4 adet lavaş tavuk tantuni 1 litre coca cola veya 1 litre ayran ile",
+            "price": 950.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "638dea7b7229f5f6fde96f67",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "638deab468672606e899126a",
+            "name": "Mercimek Çorbası",
+            "description": "Limon, ekmek eşliğinde",
+            "price": 149.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1759271313926_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64087c1ef4b4c11504a76df0",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "631a111959902a4cd3dff5e5",
+            "name": "5 Dilim Ekmek",
+            "description": "5 dilim ekmek",
+            "price": 19.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760135523582_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64ebf1f60f4af2c0283bcb6d",
+            "name": "Extra Salata & Turşu",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760135548739_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62de3fac8667ae8580b86520",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "62de3fb2013e73cfd2d35fc9",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fb278bcb68b24e34362",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fb3013e736893d35fdc",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "62de3fb48667aedb5cb865fc",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62de3fb4013e733796d35ff5",
+            "name": "Su (330 ml)",
+            "description": null,
+            "price": 29.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "63122ca735802e81e7703ba8",
+            "name": "Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64e1e2e8b0edb367fe19d186",
+            "name": "Sade Soda",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "64e1e391b0edb3d3f419ece8",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681f341fceac63ceac1e5416",
+            "name": "Coca Cola Zero ( 1 Litre )",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6884cf60ceac63ceac8afd9b",
+            "name": "Eker Ayran (1 L)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69caa621ceac63ceac05ff2b",
+            "name": "Acılı Safiş Ayran (295 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774995188463_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69caa655ceac63ceac05ff58",
+            "name": "Ekşi Safiş Ayran (295 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774995193458_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cbce7dceac63ceac074328",
+            "name": "Safiş Yayık Ayran (275 ml)",
+            "description": "Safiş Yayık Ayran",
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "64e3b7191e4de6069fc87e84",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "64e3b75b1e4de69afac88a0b",
+            "name": "Eker Çikolatalı Puding (100 g)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64e3b774bb97b02e85d12fa4",
+            "name": "Eker Sütlaç (100 g)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64e8ececec90bd0213dba022",
+            "name": "Eker Kazandibi (100 g)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

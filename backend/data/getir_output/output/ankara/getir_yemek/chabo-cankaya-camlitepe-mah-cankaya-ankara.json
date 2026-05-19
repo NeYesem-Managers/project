@@ -1,0 +1,833 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6660671fa1f0bd665e2b134d",
+  "name": "Chabo, Çankaya (Çamlıtepe Mah.)   ",
+  "slug": "chabo-cankaya-camlitepe-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 3.9,
+  "rating_count": 400,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "69d8f82eceac63ceac14f074",
+            "name": "Pepsi'li Fırsat Menüsü",
+            "description": "Chabo, pepsi (330 ml) ve Patates kızartması ile",
+            "price": 326.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d8f84aceac63ceac14f09c",
+            "name": "Pepsi'li Fırsat Menüsü 2",
+            "description": "Chabo cheddarlı ve Pepsi (330 ml) ile",
+            "price": 251.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "668bf6b9693e147bb42e7c19",
+            "name": "Chabo",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), patates, turşu, chabo sos",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1723100338367_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66bdbfa6ceac63ceacbe7521",
+            "name": "Chabo Cheddarlı",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), cheddar peyniri, turşu, patates, chabo sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116533359_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "672c71d3ceac63ceac8d0af9",
+            "name": "Chabo Şatta",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), turşu, patates, acılı şatta sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116554674_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d8f82cceac63ceac14f06c",
+        "name": "Pepsi'li Fırsat Menüleri",
+        "items": [
+          {
+            "id": "69d8f82eceac63ceac14f074",
+            "name": "Pepsi'li Fırsat Menüsü",
+            "description": "Chabo, pepsi (330 ml) ve Patates kızartması ile",
+            "price": 326.4,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d8f84aceac63ceac14f09c",
+            "name": "Pepsi'li Fırsat Menüsü 2",
+            "description": "Chabo cheddarlı ve Pepsi (330 ml) ile",
+            "price": 251.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d8f86fceac63ceac14f0de",
+            "name": "Pepsi'li Fırsat Menüsü 3",
+            "description": "Arabi cheddarlı ve Pepsi (330 ml) ile",
+            "price": 251.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "668bf62e3ba1286f833f3942",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "668bf6b9693e147bb42e7c19",
+            "name": "Chabo",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), patates, turşu, chabo sos",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1723100338367_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66bdbfa6ceac63ceacbe7521",
+            "name": "Chabo Cheddarlı",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), cheddar peyniri, turşu, patates, chabo sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116533359_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66bdafffceac63ceacbe6ba9",
+            "name": "Chabo Mozze",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), mozzarella peyniri, turşu, patates, chabo sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116379789_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "672c71d3ceac63ceac8d0af9",
+            "name": "Chabo Şatta",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), turşu, patates, acılı şatta sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116554674_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "668f9619ceac63ceac64adf9",
+            "name": "Chabol",
+            "description": "Balon ekmeğinde chabo tavuk (80 g), turşu, patates, acılı şatta sos",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1723100367228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756ce53ceac63ceac212dfa",
+            "name": "Arabi Dürüm",
+            "description": "Arabi lavaş, chabo tavuk (70 g), turşu, patates, sarımsaklı mayonez",
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115760259_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756ce70ceac63ceac212e07",
+            "name": "Arabi Cheddarlı",
+            "description": "Arabi lavaş, chabo tavuk (70 g), cheddar peyniri, turşu, patates, sarımsaklı mayonez",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115726733_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756ce60ceac63ceac212dfe",
+            "name": "Arabi Mozze",
+            "description": "Arabi lavaş, chabo tavuk (70 g), mozzarella peyniri, turşu, patates, sarımsaklı mayonez",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115744253_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756ce96ceac63ceac212e24",
+            "name": "Arabi Şatta",
+            "description": "Arabi lavaş, chabo tavuk (70 g), turşu, patates, sarımsaklı mayonez, acılı şatta sos",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115678932_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f8fb2fceac63ceacf6cbba",
+            "name": "Çıtır Dürüm",
+            "description": "El açması lavaş, çıtır tavuk (120 g), turşu, iceberg, sarımsaklı mayonez",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f8fb3cceac63ceacf6cbbf",
+            "name": "Çıtır Dürüm Mozze",
+            "description": "El açması lavaş, çıtır tavuk (120 g), mozzarella peyniri, turşu, iceberg, sarımsaklı mayonez",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f8fb49ceac63ceacf6cbc7",
+            "name": "Çıtır Dürüm Cheddar",
+            "description": "El açması lavaş, çıtır tavuk (120 g), cheddar peyniri, turşu, iceberg, sarımsaklı mayonez",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f8fb58ceac63ceacf6cbca",
+            "name": "Çıtır Dürüm Şatta",
+            "description": "El açması lavaş, çıtır tavuk (120 g), acılı şatta sos, turşu, iceberg, sarımsaklı mayonez",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "668bf70576a377325b531005",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "668bf789f5eb14127517e3f4",
+            "name": "Chabo Burger",
+            "description": "Çıtır burger tavuğu (130 g), iceberg, turşu, chabo sos, sarımsaklı mayonez yanında patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1723100386151_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671787e3ceac63ceac49ad80",
+            "name": "Chabo Garlic Burger",
+            "description": "Çıtır burger tavuğu (130 g), iceberg, turşu, chabo sos, garlic sos yanında patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116683228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671786e1ceac63ceac49acf6",
+            "name": "Chabo Bbq Burger",
+            "description": "Çıtır burger tavuğu (130 g), iceberg, turşu, chabo sos, bbq sos yanında patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116633030_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671787b8ceac63ceac49ad69",
+            "name": "Chabo Buffalo Burger",
+            "description": "Çıtır burger tavuğu (130 g), iceberg, turşu, chabo sos, buffalo sos yanında patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116650827_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f92069ceac63ceacf6ec17",
+            "name": "Chabo Mustard & Honey Burger",
+            "description": "Çıtır burger tavuğu (130 g), iceberg, turşu, chabo sos, ballı ve hardallı sos yanında patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdc0eceac63ceacf83147",
+            "name": "Chabo Sweet Chili Burger",
+            "description": "Çıtır burger tavuğu (130 g), iceberg, turşu, chabo sos, sweet chili sos yanında patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "671777c4ceac63ceac49a793",
+            "name": "Chabo Yuppi Burger",
+            "description": "Çıtır burger tavuğu (130 g), iceberg, turşu, chabo sos, yuppi sos yanında patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116601838_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "668bf3b41b05968b60134d47",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "668bf40199acc67c94d0e34a",
+            "name": "Chabo Menü",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), patates, turşu, chabo sos, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 245.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1723100313175_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66bdb07aceac63ceacbe6bb9",
+            "name": "Chabo Cheddar Menü",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), cheddar peyniri, turşu, patates, chabo sos, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116508851_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66bdafbbceac63ceacbe6b8e",
+            "name": "Chabo Mozze Menü",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), mozzarella peyniri, turşu, patates, chabo sos, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116480274_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67fcdc4eceac63ceacf8314e",
+            "name": "Chabo Şatta Menü",
+            "description": "Balon ekmeğinde chabo tavuk (70 g), turşu, patates, acılı şatta sos",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66bdaf0cceac63ceacbe6b49",
+            "name": "Chabol Menü",
+            "description": "Balon ekmeğinde chabo tavuk (80 g), turşu, patates, chabo sos, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 305.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735116427439_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756cebeceac63ceac212e8b",
+            "name": "Arabi Menü",
+            "description": "Arabi lavaş, chabo tavuk (70 g), turşu, patates, sarımsaklı mayonez, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115500582_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756ceeeceac63ceac212eb1",
+            "name": "Arabi Cheddar Menü",
+            "description": "Arabi lavaş, chabo tavuk (70 g), cheddar peyniri, turşu, patates, sarımsaklı mayonez, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115617106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756ced9ceac63ceac212ea1",
+            "name": "Arabi Mozze Menü",
+            "description": "Arabi lavaş, chabo tavuk (70 g), mozzarella peyniri, turşu, patates, sarımsaklı mayonez, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115570614_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6756cf18ceac63ceac212ec0",
+            "name": "Arabi Şatta Menü",
+            "description": "Arabi lavaş, chabo tavuk (70 g), turşu, patates, sarımsaklı mayonez, acılı şatta sos, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735115479368_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f90c66ceac63ceacf6d96f",
+            "name": "Çıtır Dürüm Menü",
+            "description": "El açması lavaş, çıtır tavuk (120 g), turşu, iceberg, sarımsaklı mayonez, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f90c7bceac63ceacf6d978",
+            "name": "Çıtır Dürüm Mozze Menü",
+            "description": "El açması lavaş, çıtır tavuk (120 g), mozzarella peyniri, turşu, iceberg, sarımsaklı mayonez, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f90c86ceac63ceacf6d97c",
+            "name": "Çıtır Dürüm Cheddar Menü",
+            "description": "El açması lavaş, çıtır tavuk (120 g), cheddar peyniri, turşu, iceberg, sarımsaklı mayonez, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f90c93ceac63ceacf6d983",
+            "name": "Çıtır Dürüm Şatta Menü",
+            "description": "El açması lavaş, çıtır tavuk (120 g), acılı şatta sos, turşu, iceberg, sarımsaklı mayonez, seçeceğiniz içecek ve patates kızartması ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68601107ceac63ceac62f551",
+            "name": "Chabo Avantaj Menü",
+            "description": "1 adet chabo, 1 adet ayran (170 ml) ile",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68601112ceac63ceac62f557",
+            "name": "Arabi Avantaj Menü",
+            "description": "1 adet arabi, 1 adet ayran (170 ml) ile",
+            "price": 235.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f91494ceac63ceacf6df1c",
+        "name": "2'li Menüler",
+        "items": [
+          {
+            "id": "67fcdcc7ceac63ceacf8316f",
+            "name": "2'Li Chabo Menü",
+            "description": "Seçeceğiniz 2 Adet chabo ve seçeceğiniz 2 adet içecek ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdcd2ceac63ceacf83174",
+            "name": "2'Li Arabi Menü",
+            "description": "Seçeceğiniz 2 Adet Arabi dürüm ve seçeceğiniz 2 adet içecek ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdcddceac63ceacf83176",
+            "name": "2'li Çıtır Dürüm Menü",
+            "description": "Seçeceğiniz 2 adet çıtır dürüm ve seçeceğiniz 2 adet içecek ile",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdcf4ceac63ceacf83179",
+            "name": "2'li Burger Menü",
+            "description": "Seçeceğiniz 2 adet burger, seçeceğiniz 2 adet içecek ve patates kızartması ile",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68601121ceac63ceac62f55f",
+            "name": "2'li Chabo Avantaj Menü",
+            "description": "2 adet chabo, 2 adet ayran (170 ml) ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6860112bceac63ceac62f564",
+            "name": "2'li Arabi Avantaj Menü",
+            "description": "2 adet arabi, 2 adet ayran (170 ml) ile",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67f9149bceac63ceacf6df23",
+        "name": "3'lü Menüler",
+        "items": [
+          {
+            "id": "67fcdd07ceac63ceacf83189",
+            "name": "3'Lü Chabo Menü",
+            "description": "Seçeceğiniz 3 Adet Chabo yanında Pepsi (1 L) ile",
+            "price": 545.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdd17ceac63ceacf83192",
+            "name": "3'Lü Arabi Menü",
+            "description": "Seçeceğiniz 3 Adet Arabi dürüm yanında Pepsi (1 L) ile",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdd22ceac63ceacf831ed",
+            "name": "3'lü Çıtır Dürüm Menü",
+            "description": "Seçeceğiniz 3 adet çıtır dürüm yanında Pepsi (1 L) ile",
+            "price": 770.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdd3bceac63ceacf831f3",
+            "name": "3'Lü Burger Menü",
+            "description": "Seçeceğiniz 3 adet burger yanında Pepsi (1 L) ile",
+            "price": 1005.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "668cd634c10bb5fcf102bd1e",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "668cd6947257784215548cd9",
+            "name": "Patates Kızartması",
+            "description": "Mayonez ve ketçap ile",
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668cd6a1da5b26092846ec27",
+            "name": "Soğan Halkası (4 adet)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1723100461989_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "671e11daceac63ceac4f7055",
+            "name": "Mozzarella Sticks (4 Adet)",
+            "description": "Mozzarella Sticks (4 Adet)",
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668cd6b000bee2b94a314e3b",
+            "name": "Tavuk Nugget (4 Adet)",
+            "description": null,
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcde16ceac63ceacf83241",
+            "name": "3'lü Çıtır",
+            "description": "Kajun baharatlı çıtır tavuk, arabi lavaş ekmeği ve sos ile",
+            "price": 229.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcde42ceac63ceacf83282",
+            "name": "5'li Çıtır",
+            "description": "Kajun baharatlı çıtır tavuk, arabi lavaş ekmeği ve sos ile",
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcde51ceac63ceacf8328f",
+            "name": "7'li Çıtır",
+            "description": "Kajun baharatlı çıtır tavuk, arabi lavaş ekmeği ve sos ile",
+            "price": 399.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "668cd6cfa48070ecc4c4b34e",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "668ced90c10bb5fcf1031ba8",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdf23ceac63ceacf832df",
+            "name": "Pepsi Max (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668cd700da5b26092846ecee",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 64.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668f973cceac63ceac64af88",
+            "name": "Ayran (270 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f8fcbaceac63ceacf6cda5",
+            "name": "Lipton Ice Tea Mango (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f8fcd9ceac63ceacf6cdb9",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f8fcc3ceac63ceacf6cdae",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67f8fccdceac63ceacf6cdb3",
+            "name": "Lipton Ice Tea Karpuz (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdf87ceac63ceacf83323",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668cd72137a80292c0765dbc",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668cd70dc0981baa92c84b4b",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67fcdfc8ceac63ceacf8333e",
+            "name": "Elmalı Soda",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668cd729fafb11e6ec2b5236",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 22.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668cd74900bee2b94a314f42",
+            "name": "Pepsi (1 L)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "668cd7736efbb91d9deb2ab7",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "668cd77c7257784215548ee0",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

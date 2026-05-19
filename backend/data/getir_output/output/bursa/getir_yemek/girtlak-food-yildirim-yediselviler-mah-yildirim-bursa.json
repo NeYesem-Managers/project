@@ -1,0 +1,328 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "677bfea1df0079a10452e33b",
+  "name": "Gırtlak Food, Yıldırım (Yediselviler Mah.)",
+  "slug": "girtlak-food-yildirim-yediselviler-mah-yildirim-bursa",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı",
+    "Kahve & İçecek",
+    "Pasta & Tatlı",
+    "Sokak Lezzetleri"
+  ],
+  "rating": 4.1,
+  "rating_count": 10,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "67b3a57cceac63ceacb9bb3e",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "67b48026ceac63ceacbb1be1",
+            "name": "Hot Dog Menü",
+            "description": "Hot dog (2 adet) ve içecek (330 ml) ile",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b47d2cceac63ceacbb177e",
+            "name": "Islak Burger Menü",
+            "description": "Islak burger (2 adet) ve içecek (330 ml) ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b48086ceac63ceacbb1cf1",
+            "name": "Menü 1",
+            "description": "Islak burger (1 adet) ve hot dog (1 adet) ile",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b480d8ceac63ceacbb1e23",
+            "name": "Menü 2",
+            "description": "Islak burger (1 adet) ve hot dog (1 adet) ve çikolatalı donut (1 adet) ile",
+            "price": 440.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b4830bceac63ceacbb2192",
+            "name": "Menü 3",
+            "description": "Islak burger (4 adet) ve hot dog (4 adet) ve coca cola (1 L) ile",
+            "price": 1200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68adb2f0ceac63ceacba6a14",
+            "name": "Tam Ekmek Arası Roket Köfte",
+            "description": "Baget ekmeği, köfte, izmir tulum peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b3a568ceac63ceacb9bb2d",
+        "name": "Islak Burger",
+        "items": [
+          {
+            "id": "67b3b236ceac63ceacb9bf75",
+            "name": "Islak Burger (Yarım Porsiyon)",
+            "description": "Burger köftesi, özel sos",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739829913836_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67b47cc0ceac63ceacbb172a",
+            "name": "Islak Burger (Porsiyon) (2 Adet)",
+            "description": "Burger köftesi, özel sos",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b3a573ceac63ceacb9bb3b",
+        "name": "Hot Dog",
+        "items": [
+          {
+            "id": "67b47f5eceac63ceacbb1ab9",
+            "name": "Hot Dog",
+            "description": "Ketçap, mayonez",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b3a584ceac63ceacb9bb41",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "67b4812aceac63ceacbb1e81",
+            "name": "Waffle",
+            "description": "Çilek, muz, beyaz çikolata, sütlü çikolata",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1739882788143_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b3a5a0ceac63ceacb9bb49",
+        "name": "Donut",
+        "items": [
+          {
+            "id": "67b481a2ceac63ceacbb1f37",
+            "name": "Çikolatalı Donut",
+            "description": "Çikolata dolgu, çikolata sos",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b481ddceac63ceacbb1f81",
+            "name": "Strawberry Donut",
+            "description": "Çilek dolgu, çilek çikolata sos",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b48285ceac63ceacbb2092",
+            "name": "Badem Çikolata",
+            "description": "Çikolata dolgu, karamel çikolata sos, badem",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b3a5aaceac63ceacb9bb50",
+        "name": "Sıcak İçecek",
+        "items": [
+          {
+            "id": "67b486ecceac63ceacbb2682",
+            "name": "Espresso (4 oz)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b48716ceac63ceacbb26a2",
+            "name": "Americano (8 oz)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b487beceac63ceacbb274f",
+            "name": "Cappuccino (8 oz)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b487e3ceac63ceacbb2777",
+            "name": "Cafe Latte (8 oz)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b48801ceac63ceacbb279b",
+            "name": "Latte Macchiato (8 oz)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b48854ceac63ceacbb27e3",
+            "name": "Flat White (8 oz)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67b48871ceac63ceacbb281e",
+            "name": "Double Espresso (8 oz)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67b4889bceac63ceacbb283b",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "67b85e8eceac63ceacc43ee2",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755347743972_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67c97e51ceac63ceacd5037f",
+            "name": "Ayran (170 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67c97e66ceac63ceacd503b5",
+            "name": "Limonata (250 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67c97e6cceac63ceacd503bf",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68a063c8ceac63ceacacbb1c",
+            "name": "Pepsi (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68a063f3ceac63ceacacbb41",
+            "name": "Fanta (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

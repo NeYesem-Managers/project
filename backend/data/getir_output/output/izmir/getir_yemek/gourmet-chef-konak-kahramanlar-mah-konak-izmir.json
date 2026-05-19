@@ -1,0 +1,481 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "67c8237758b98482225f19b7",
+  "name": "Gourmet Chef, Konak (Kahramanlar Mah.)",
+  "slug": "gourmet-chef-konak-kahramanlar-mah-konak-izmir",
+  "cuisine_types": [
+    "Deniz Ürünleri",
+    "Fit",
+    "Salata",
+    "Tavuk"
+  ],
+  "rating": 4.6,
+  "rating_count": 50,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6801fd2fceac63ceacfd2105",
+            "name": "Tavuk Izgara Bowl",
+            "description": "Izgara tavuk, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık\nturşusu, kırmızı soğan turşusu, kırmızı\nlahana turşusu, mısır, vinegrette sos",
+            "price": 510.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222828352_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fd45ceac63ceacfd2118",
+            "name": "Köfte Bowl",
+            "description": "Izgara köfte, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık\nturşusu, kırmızı soğan turşusu, kırmızı\nlahana turşusu, mısır, vinegrette sos",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222851610_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fd64ceac63ceacfd2125",
+            "name": "Falafel Bowl",
+            "description": "Falafel, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık turşusu, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, vinegrette sos",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222869201_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fda1ceac63ceacfd214e",
+            "name": "Nohutlu Bowl",
+            "description": "Baharatlı nohut, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık turşusu, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, vinegrette sos",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222955455_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fd8eceac63ceacfd2143",
+            "name": "Ton Balıklı Bowl",
+            "description": "Ton balığı, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık turşusu, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, vinegrette sos",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747229605790_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d34cd6ceac63ceac0db3f8",
+        "name": "Bowl",
+        "items": [
+          {
+            "id": "6801fd2fceac63ceacfd2105",
+            "name": "Tavuk Izgara Bowl",
+            "description": "Izgara tavuk, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık\nturşusu, kırmızı soğan turşusu, kırmızı\nlahana turşusu, mısır, vinegrette sos",
+            "price": 510.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222828352_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fd45ceac63ceacfd2118",
+            "name": "Köfte Bowl",
+            "description": "Izgara köfte, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık\nturşusu, kırmızı soğan turşusu, kırmızı\nlahana turşusu, mısır, vinegrette sos",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222851610_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fd64ceac63ceacfd2125",
+            "name": "Falafel Bowl",
+            "description": "Falafel, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık turşusu, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, vinegrette sos",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222869201_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fda1ceac63ceacfd214e",
+            "name": "Nohutlu Bowl",
+            "description": "Baharatlı nohut, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık turşusu, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, vinegrette sos",
+            "price": 410.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222955455_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fd8eceac63ceacfd2143",
+            "name": "Ton Balıklı Bowl",
+            "description": "Ton balığı, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık turşusu, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, vinegrette sos",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747229605790_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d35538ceac63ceac0db5fa",
+            "name": "Şinitzel Bowl",
+            "description": "Tavuk şnitzel, basmati, kuru cacık, avokado, yeşillik, börülce, çeri domates, salatalık turşusu, kırmızı soğan turşusu, kırmızılahana turşusu, mısır, vinaigrette sos",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775457579674_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d34e56ceac63ceac0db41e",
+            "name": "Protein Mix Bowl",
+            "description": "Izgara köfte (yarım porsiyon), ızgara tavuk (porsiyon), basmati, avokado, mevsim yeşillikleri, çeri domates, kuru cacık, salatalık turşusu, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, börülce, vinegrette sos",
+            "price": 640.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775455805171_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68b0150eceac63ceacbc8de6",
+            "name": "Sporcu Bowl",
+            "description": "Izgara tavuk (280 g), basmati pirinç (250 g), mevsim yeşilliği, avokado, kuru cacık, vineigrette sos",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770065127837_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d35664ceac63ceac0db640",
+            "name": "Veggie Mix Bowl",
+            "description": "Falafel (yarım porsiyon), hellim (yarım porsiyon), mevsim yeşillikleri, basmati pirinci, salatalık turşusu, mısır, çeri domates, börülce, avokado, lahana turşusu, soğan turşusu, vineigrette sos",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775457877705_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d35764ceac63ceac0db74a",
+            "name": "Hellim Bowl",
+            "description": "Hellim peyniri, basmati pilavı, kuru cacık, avokado, mevsim yeşilliği, börülce, cherry domates, salatalık turşusu, kırmızı soğan turşusu, mısır",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458140922_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d34cb3ceac63ceac0db3f1",
+        "name": "Salata",
+        "items": [
+          {
+            "id": "6801fdfcceac63ceacfd2184",
+            "name": "Tavuk Izgara Salata",
+            "description": "Izgara tavuk, avokado, mevsim\nyeşillikleri, chia tohumu, çeri domates, salatalık, kırmızı soğan turşusu, kırmızı\nlahana turşusu, mısır, börülce, vinegrette\nsos",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222974289_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fe10ceac63ceacfd21a5",
+            "name": "Köfte Salata",
+            "description": "Izgara köfte, avokado, mevsim yeşillikleri, chia tohumu, çeri domates, salatalık, kırmızı soğan turşusu, kırmızı lahana\nturşusu, mısır, börülce, vinegrette sos",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747229059151_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fe27ceac63ceacfd21b6",
+            "name": "Falafel Salata",
+            "description": "Falafel, avokado, mevsim yeşillikleri, chia\ntohumu, çeri domates, salatalık, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, börülce vinegrette sos",
+            "price": 470.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770065146293_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fe53ceac63ceacfd21cd",
+            "name": "Ton Balıklı Salata",
+            "description": "Ton balığı, avokado, mevsim yeşillikleri, chia tohumu, çeri domates, salatalık, kırmızı soğan turşusu, kırmızı lahana\nturşusu, mısır, börülce, vinegrette sos",
+            "price": 510.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747303202247_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fe65ceac63ceacfd21d0",
+            "name": "Nohutlu Salata",
+            "description": "Nohut, avokado, mevsim yeşillikleri, chia\ntohumu, çeri domates, salatalık, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, börülcevinegrette sos",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747222990419_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6825e540ceac63ceac240874",
+            "name": "Hellim Salata",
+            "description": "Izgara hellim peyniri, avokado, mevsim yeşillikleri, chia tohumu, çeri domates, salatalık, kırmızı soğan turşusu, kırmızı lahana turşusu, mısır, vinaigrette sos",
+            "price": 510.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1748284015414_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d357f8ceac63ceac0db789",
+            "name": "Protein Mix Salata",
+            "description": "Köfte (yarım porsiyon), tavuk (porsiyon), mevsim yeşillikleri, salatalık, chia tohumu, mısır, börülce, çeri domates, lahana turşusu, soğan turşusu, avokado, vineigrette sos",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458288609_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d35835ceac63ceac0dba71",
+            "name": "Şinitzel Salata",
+            "description": "Tavuk şinitzel, mevsim yeşillikleri, chia tohumu, çeri domates, mısır, börülce, avokado, salatalık, kırmızılahana turşusu, soğan turşusu, vinaigrette sos",
+            "price": 530.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458348840_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d35876ceac63ceac0dbae7",
+            "name": "Veggie Mix Salata",
+            "description": "Falafel (yarım porsiyon), hellim peyniri (yarım porsiyon), mevsim yeşillikleri, çeri domates, mısır, börülce, avokado, salatalık, kırmızılahana turşusu, soğan turşusu, vinaigrette sos",
+            "price": 495.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458415021_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69d34ce2ceac63ceac0db3fb",
+        "name": "Wrap",
+        "items": [
+          {
+            "id": "69d358dcceac63ceac0dc080",
+            "name": "Tavuk Wrap",
+            "description": "Izgara tavuk, mevsim yeşillikleri, avokado, lahana turşusu, salatalık turşusu",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458497047_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d3591fceac63ceac0dc08a",
+            "name": "Ton Balıklı Wrap",
+            "description": "Ton balığı, yeşillik, soğan turşusu, avokado, mısır, salatalık turşusu",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458583392_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d35953ceac63ceac0dc09f",
+            "name": "Köfte Wrap",
+            "description": "Köfte, yeşillik, soğan turşusu, salatalık turşusu, avokado",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458636109_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d3597dceac63ceac0dc0fe",
+            "name": "Falafel Wrap",
+            "description": "Falafel, mevsim yeşillikleri, kuru cacık, avokado, lahana turşusu",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458678006_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d359b9ceac63ceac0dc117",
+            "name": "Şinitzel Wrap",
+            "description": "Tavuk şinitzel, yeşillik, lahana turşusu, avokado",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775458732951_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6801fcf9ceac63ceacfd20e1",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6801feb6ceac63ceacfd2218",
+            "name": "Özerhisar Ayran (245 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1770101710057_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fe83ceac63ceacfd21db",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744961341971_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fec5ceac63ceacfd2227",
+            "name": "Coca-Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744961358378_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fedeceac63ceacfd2232",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1744961373693_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6801fed2ceac63ceacfd222a",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6801fefbceac63ceacfd22e3",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6801ff07ceac63ceacfd22e5",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683d9c5dceac63ceac46cc37",
+            "name": "Doğanay Gurme Acılı Şalgam Suyu (300 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "683ec38bceac63ceac47d244",
+            "name": "Doğanay Gurme Acısız Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "688695f0ceac63ceac8bab94",
+            "name": "Fuse Tea Ananas & Mango (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68869634ceac63ceac8bab9b",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6886965aceac63ceac8bab9f",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "680200ddceac63ceacfd2436",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "680200ecceac63ceacfd244e",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

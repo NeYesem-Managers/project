@@ -1,0 +1,484 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "67d989b7f8bc15bc8ab7171d",
+  "name": "Başkent Nostalji Döner, Çankaya (Çamlıtepe Mah.)",
+  "slug": "baskent-nostalji-doner-cankaya-camlitepe-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Döner",
+    "Dünya Mutfağı",
+    "Ev Yemekleri",
+    "Kebap",
+    "Köfte",
+    "Mantı & Makarna",
+    "Pasta & Tatlı",
+    "Sokak Lezzetleri",
+    "Tavuk"
+  ],
+  "rating": 4.2,
+  "rating_count": 20,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "682c8892ceac63ceac2888ad",
+        "name": "Ekonomik Menü",
+        "items": [
+          {
+            "id": "682c8897ceac63ceac2888bd",
+            "name": "Ekmek Arası Tavuk Döner Menü",
+            "description": "Ekmek arası tavuk döner, tercih edeceğin içecek ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c8897ceac63ceac2888bf",
+            "name": "Tavuk Döner Dürüm Menü",
+            "description": "Tavuk döner dürüm, tercih edeceğin içecek ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c8898ceac63ceac2888c2",
+            "name": "Pilav Üstü Tavuk Döner Menü",
+            "description": "Pilav üstü tavuk döner, tercih edeceğin içecek ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c8898ceac63ceac2888c3",
+            "name": "Ekmek Arası Izgara Köfte Menü",
+            "description": "Ekmek arası ızgara köfte, tercih edeceğin içecek ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c8899ceac63ceac2888c4",
+            "name": "Ekmek Arası Izgara Tavuk Menü",
+            "description": "Ekmek arası ızgara tavuk, tercih edeceğin içecek ile",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889aceac63ceac2888c5",
+            "name": "Nohutlu Pilav Menü",
+            "description": "Nohutlu pilav, mevsim yeşillikleri, turşu, tercih edeceğin içecek ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889aceac63ceac2888c8",
+            "name": "Tavuklu Pilav Menü",
+            "description": "Tavuklu pilav, mevsim yeşillikleri, turşu, tercih edeceğin içecek ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889bceac63ceac2888ca",
+            "name": "Pilav Üstü Köri Soslu Tavuk Menü",
+            "description": "Pilav üstü köri soslu tavuk, mevsim yeşillikleri, turşu, tercih edeceğin içecek ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889bceac63ceac2888d2",
+            "name": "Pilav Üstü Acı Soslu Tavuk Menü",
+            "description": "Pilav üstü acı soslu tavuk, mevsim yeşillikleri, turşu, tercih edeceğin içecek ile",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8892ceac63ceac2888ae",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "682c889cceac63ceac2888d3",
+            "name": "Mercimek Çorbası",
+            "description": "Ekmek, mevsim yeşillikleri ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889dceac63ceac2888d4",
+            "name": "Tavuk Suyu Çorbası",
+            "description": "Ekmek, mevsim yeşillikleri ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8893ceac63ceac2888b4",
+        "name": "Kebap & Izgara",
+        "items": [
+          {
+            "id": "682c889dceac63ceac2888d5",
+            "name": "Izgara Köfte",
+            "description": "Pirinç pilavı, lavaş, soğan, domates, turşu ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889eceac63ceac2888d6",
+            "name": "Adana Kebap",
+            "description": "Pirinç pilavı, lavaş, soğan, domates, turşu ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889eceac63ceac2888d7",
+            "name": "Tavuk Şiş",
+            "description": "Pirinç pilavı, lavaş, soğan, domates, turşu ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c889fceac63ceac2888d8",
+            "name": "Izgara Tavuk",
+            "description": "Pirinç pilavı, lavaş, soğan, domates, turşu ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8893ceac63ceac2888b7",
+        "name": "Tavuk Döner",
+        "items": [
+          {
+            "id": "682c88a0ceac63ceac2888d9",
+            "name": "Ekmek Arası Tavuk Döner (100 g)",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a0ceac63ceac2888db",
+            "name": "Ekmek Arası Şampiyon Tavuk Döner (150 g)",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a1ceac63ceac2888dd",
+            "name": "Tavuk Döner Dürüm (100 g)",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 260.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a1ceac63ceac2888de",
+            "name": "Dürüm Şampiyon Tavuk Döner (150 g)",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a2ceac63ceac2888df",
+            "name": "Pilav Üstü Tavuk Döner",
+            "description": "Lavaş, soğan, domates, turşu ile",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8894ceac63ceac2888b8",
+        "name": "Pilav",
+        "items": [
+          {
+            "id": "682c88a3ceac63ceac2888e0",
+            "name": "Nohutlu Pilav",
+            "description": "Mevsim yeşillikleri, turşu ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a3ceac63ceac2888e1",
+            "name": "Tavuklu Pilav",
+            "description": "Mevsim yeşillikleri, turşu ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a4ceac63ceac2888e2",
+            "name": "Pilav Üstü Köri Soslu Tavuk",
+            "description": "Mevsim yeşillikleri, turşu ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a4ceac63ceac2888e3",
+            "name": "Pilav Üstü Acı Soslu Tavuk",
+            "description": "Mevsim yeşillikleri, turşu ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a5ceac63ceac2888e4",
+            "name": "Pilav Üstü Izgara Köfte",
+            "description": "Mevsim yeşillikleri, turşu ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8894ceac63ceac2888b9",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "682c88a5ceac63ceac2888e7",
+            "name": "Adana Dürüm",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a6ceac63ceac2888e8",
+            "name": "Tavuk Şiş Dürüm",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8895ceac63ceac2888ba",
+        "name": "Ekmek Arası Lezet",
+        "items": [
+          {
+            "id": "682c88a7ceac63ceac2888e9",
+            "name": "Ekmek Arası Izgara Köfte",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a7ceac63ceac2888ea",
+            "name": "Ekmek Arası Izgara Tavuk",
+            "description": "Soğan, domates, baharat, turşu ile",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8896ceac63ceac2888bb",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "682c88a8ceac63ceac2888eb",
+            "name": "Jalapeno Biber Turşusu (100 g)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a8ceac63ceac2888ed",
+            "name": "Salatalık Turşusu (100 g)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88a9ceac63ceac2888ee",
+            "name": "Mevsim Salata",
+            "description": "Mor lahana, havuç, marul",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "682c8896ceac63ceac2888bc",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "682c88aaceac63ceac2888f1",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747750407448_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "682c88aaceac63ceac2888f2",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747750380178_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "682c88abceac63ceac2888f3",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747750423419_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "682c88abceac63ceac2888f4",
+            "name": "7UP (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747750442181_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "682c8cc2ceac63ceac28959d",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747750459021_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "682c88acceac63ceac2888f6",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1747750476377_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "682c88adceac63ceac2888f7",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682c88adceac63ceac2888f8",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

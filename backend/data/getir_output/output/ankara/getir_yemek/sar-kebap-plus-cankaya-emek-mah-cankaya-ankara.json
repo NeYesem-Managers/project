@@ -1,0 +1,574 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "66bef307aef21709f1367c05",
+  "name": "Sar Kebap Plus, Çankaya (Emek Mah.)",
+  "slug": "sar-kebap-plus-cankaya-emek-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Kebap",
+    "Pide & Lahmacun",
+    "Tavuk"
+  ],
+  "rating": 4.4,
+  "rating_count": 500,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "66cdbf13e788d97fcf5d4059",
+            "name": "Adana Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, fındık lahmacun, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353616101_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbf369e2116f8bf40bc22",
+            "name": "Urfa Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353647181_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbf56b9bc97ddffe07e7f",
+            "name": "Sarma Beyti Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353676631_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbd368802118ccf712d7e",
+            "name": "Kuzu Çöp Şiş",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354107067_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbdc3514c93c2fb2d3c55",
+            "name": "Tavuk Şiş",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354185960_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66cdbaeda628cec4d6e7d195",
+        "name": "Çorba",
+        "items": [
+          {
+            "id": "66cdc0f58abe869f17dd033f",
+            "name": "Mercimek Çorbası",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353590690_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66cdbaf3a628cec4d6e7d1da",
+        "name": "Kebap",
+        "items": [
+          {
+            "id": "66cdbf13e788d97fcf5d4059",
+            "name": "Adana Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, fındık lahmacun, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353616101_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbf369e2116f8bf40bc22",
+            "name": "Urfa Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353647181_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbf56b9bc97ddffe07e7f",
+            "name": "Sarma Beyti Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353676631_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbfbc8abe869f17dcf889",
+            "name": "Kuzu Yaprak Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353772240_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbfdd8abe869f17dcf9a3",
+            "name": "Patlıcanlı Kebap",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 780.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353803968_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdc01be788d97fcf5d485d",
+            "name": "Alinazik Kebap (Kıymadan)",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353830625_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdc06ea628cec4d6e7fcfe",
+            "name": "Alinazik Kebap (Kuzu Şişten)",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725353950380_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66cdbafa68e77b3a9f6be409",
+        "name": "Izgara",
+        "items": [
+          {
+            "id": "66cdbd368802118ccf712d7e",
+            "name": "Kuzu Çöp Şiş",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 750.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354107067_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbdc3514c93c2fb2d3c55",
+            "name": "Tavuk Şiş",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354185960_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbe0ae788d97fcf5d3295",
+            "name": "Tavuk Kanat",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354228831_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbe7268e77b3a9f6bfab3",
+            "name": "Karışık Izgara",
+            "description": "Adana kebap, menekşe kebap, patlıcanlı kebap, kuzu ciğer, kuzu çöp şiş, tavuk kanat, tavuk ızgara, sumaklı soğan, közlenmiş domates, közlenmiş biber, fındık lahmacun, pide, mevsim salata, pilav ezme ve irmik helvası",
+            "price": 1300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354298253_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbeb7e788d97fcf5d3db1",
+            "name": "Sar Köfte",
+            "description": "Sumaklı soğan, közlenmiş domates, közlenmiş biber, pide, mevsim salata, pilav, ezme ve irmik helvası ile",
+            "price": 700.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66d02a8b6bd6750ee7e7d9f5",
+        "name": "Pide",
+        "items": [
+          {
+            "id": "66d03fd834a99c8918c82189",
+            "name": "Karışık Pide",
+            "description": "Közlenmiş domates, közlenmiş biber, mevsim salata, pilav, ezme, irmik helvası, çiğ köfte ile ",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66d040151a0f9b3b4ddb5b68",
+            "name": "Kuşbaşılı Pide",
+            "description": "Közlenmiş domates, közlenmiş biber, mevsim salata, pilav, ezme, irmik helvası, ile",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66d0402e757750aa5535647f",
+            "name": "Kuşbaşılı Kaşarlı Pide",
+            "description": "Közlenmiş domates, közlenmiş biber, mevsim salata, pilav, ezme, irmik helvası, ile",
+            "price": 580.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66d04043738867934636c0f9",
+            "name": "Kaşarlı Pide",
+            "description": "Közlenmiş domates, közlenmiş biber, mevsim salata, pilav, ezme, irmik helvası, ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66d0407534a99c8918c82680",
+            "name": "Kıymalı Pide",
+            "description": "Közlenmiş domates, közlenmiş biber, mevsim salata, pilav, ezme, irmik helvası, çiğ köfte ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66d040821a0f9b3b4ddb5d9a",
+        "name": "Lahmacun",
+        "items": [
+          {
+            "id": "66d040f54aadf473d1c38cbb",
+            "name": "Özel Urfa Lahmacun",
+            "description": "Maydanoz, limon, mevsim salata, ezme, irmik helvası",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354680581_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d0413634a99c8918c82cc2",
+            "name": "Tabak Altı Lahmacun",
+            "description": "Maydanoz, limon",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354727227_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d041461a0f9b3b4ddb623d",
+            "name": "Fındık Lahmacun",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354770213_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66d98c2aceac63ceacede452",
+            "name": "5'li Antep Lahmacun Menü (Tabak Altı)",
+            "description": "Maydanoz, limon, mevsim salata, ezme, irmik helvası",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "675ab3d5ceac63ceac2726d6",
+            "name": "Lahmacun",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66cdbb002a5c4e2ccc1fdff9",
+        "name": "Çiğ Köfte",
+        "items": [
+          {
+            "id": "66cdbc97e788d97fcf5d26db",
+            "name": "Çiğ Köfte  (5 Sıkım)",
+            "description": "Marul, limon ve turp ile",
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354818663_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbcaf02513b1444028370",
+            "name": "Çiğ Köfte (10 Sıkım)",
+            "description": "Marul, limon ve turp ile",
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725354854940_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbcdb514c93c2fb2d3698",
+            "name": "Çiğ Köfte (26 Sıkım)",
+            "description": "Marul, limon ve turp ile",
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725355464740_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66cdbb099e2116f8bf409c33",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "66cdbc09a628cec4d6e7db94",
+            "name": "İçli Köfte (Kızartma) (Adet)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66cdbb109e2116f8bf409c6e",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "66cdbbff8abe869f17dcd9e2",
+            "name": "İrmik Tatlısı",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66cdbb1f9116d3479389b6e6",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "66cdbb358802118ccf711add",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb3e68e77b3a9f6be574",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb4a8802118ccf711b99",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb5402513b144402788e",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb5d78aaac3ec1362288",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb6de788d97fcf5d1df3",
+            "name": "Cappy Karışık (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb7b8802118ccf711d61",
+            "name": "Cappy Kayısı (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb828802118ccf711da2",
+            "name": "Cappy Şeftali (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb8ca628cec4d6e7d71a",
+            "name": "Cappy Portakal (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbb938abe869f17dcd5f4",
+            "name": "Cappy Vişne (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbba88802118ccf711f01",
+            "name": "Acılı Şalgam Suyu (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbbb102513b1444027b31",
+            "name": "Acısız Şalgam Suyu (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbbc02a5c4e2ccc1fe552",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbbca9116d3479389bbd6",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbbd78802118ccf712099",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66cdbbe0a628cec4d6e7da02",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

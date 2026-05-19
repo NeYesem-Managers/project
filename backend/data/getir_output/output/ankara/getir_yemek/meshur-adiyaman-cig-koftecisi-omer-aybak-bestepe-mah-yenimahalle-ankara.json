@@ -1,0 +1,634 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "5fe1b81139426c740d629585",
+  "name": "Meşhur Adıyaman Çiğ Köftecisi Ömer Aybak (Beştepe Mah.)",
+  "slug": "meshur-adiyaman-cig-koftecisi-omer-aybak-bestepe-mah-yenimahalle-ankara",
+  "cuisine_types": [
+    "Çiğ Köfte"
+  ],
+  "rating": 3.5,
+  "rating_count": 500,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 50,
+  "delivery_time_max": 60,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "5ffd7f2b757a6cd1d261414d",
+            "name": "Çiğ Köfte (400 g) Menü",
+            "description": "4 adet lavaş, yarım iceberg marul, 2 adet nar ekşisi, 2 adet acı sos, limon ve Eker Ayran (1 L)",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619263996664_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3f37b1815a0b0780ce",
+            "name": "Ultra Mega Çiğ Köfte Dürüm Menü",
+            "description": "Ultra mega çiğ köfte dürüm (150 g) ve eker ayran (270 ml)",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264410483_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3ee348f65e43a2c01b",
+            "name": "Duble Çiğ Köfte Dürüm Menü",
+            "description": "Duble çiğ köfte dürüm (175 g) ve Eker ayran (270 ml)",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264450765_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2df1123529a3afd85c",
+            "name": "Çiğ Köfte (200 g)",
+            "description": "2 adet lavaş, çeyrek iceberg marul, 1 adet nar ekşisi, 1 adet acı sos ve limon ile",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264037416_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2cfd88ae2c746c7fa6",
+            "name": "Çiğ Köfte (300 g)",
+            "description": "3 adet lavaş, çeyrek iceberg marul, 2 adet nar ekşisi, 1 adet acı sos ve limon ile",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619263976221_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ffd7f1f937d1b09ddbd7fca",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "5ffd7f2a4a4dfa636cab7c67",
+            "name": "Çiğ Köfte (300 g) Menü",
+            "description": "Çiğ köfte (300 g), 3 adet lavaş, çeyrek iceberg marul, 2 adet nar ekşisi, 1 adet acı sos, limon ve eker ayran (1 L)",
+            "price": 380.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619263949325_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2b757a6cd1d261414d",
+            "name": "Çiğ Köfte (400 g) Menü",
+            "description": "4 adet lavaş, yarım iceberg marul, 2 adet nar ekşisi, 2 adet acı sos, limon ve Eker Ayran (1 L)",
+            "price": 460.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619263996664_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2c1f40a364a59167dd",
+            "name": "Çiğ Köfte (500 g) Menü",
+            "description": "Çiğ köfte (500 g), 5 adet lavaş, yarım iceberg marul, 3 adet nar ekşisi, 2 adet acı sos, limon ve eker ayran (1 L)",
+            "price": 510.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264061625_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2958e9c180f1d86966",
+            "name": "Çiğ Köfte (600 g) Menü",
+            "description": "Çiğ köfte (600 g), 6 adet lavaş, yarım iceberg marul, 3 adet nar ekşisi, 2 adet acı sos, limon ve eker ayran (1 L)",
+            "price": 610.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264146650_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2968b49467868f215c",
+            "name": "Çiğ Köfte (800 g) Menü",
+            "description": "Çiğ köfte (800 g), 8 adet lavaş, 3/4 iceberg marul, 5 adet nar ekşisi, 3 adet acı sos, limon ve eker ayran (1 L)",
+            "price": 770.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264189918_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2b3cc99f4e24ccf5b1",
+            "name": "Çiğ Köfte (1 kg) Menü",
+            "description": "Çiğ köfte (1 kg), 10 adet lavaş, tam iceberg marul, 5 adet nar ekşisi, 3 adet acı sos, limon ve eker ayran (1 L)",
+            "price": 885.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264266990_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3c5f2349824a73ecd1",
+            "name": "Mega Çiğ Köfte Dürüm Menü",
+            "description": "Çift lavaş ile, mega çiğ köfte dürüm (125 g) ve Eker ayran (170 ml)",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264371056_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3f292a61f7e4b24b77",
+            "name": "Mega Çiğ Köfte Dürüm Menü 2",
+            "description": "Çift lavaş, mega çiğ köfte dürüm (125 g) ve Eker ayran (270 ml)",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264393349_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3f37b1815a0b0780ce",
+            "name": "Ultra Mega Çiğ Köfte Dürüm Menü",
+            "description": "Ultra mega çiğ köfte dürüm (150 g) ve eker ayran (270 ml)",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264410483_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3d62a03e393ca1eb38",
+            "name": "Çiğ Köfte Dürüm Menü",
+            "description": "Çiğ köfte dürüm (90 g) ve eker ayran (170 ml)",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264431209_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3ee348f65e43a2c01b",
+            "name": "Duble Çiğ Köfte Dürüm Menü",
+            "description": "Duble çiğ köfte dürüm (175 g) ve Eker ayran (270 ml)",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264450765_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3de348f689e4a2c00d",
+            "name": "Çiğ Köfte Dürüm & Tatlı Menü",
+            "description": "Çiğ köfte dürüm (90 g), eker tatlı ve eker ayran (170 ml)",
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264474920_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61c5ad1a1715b78aeec0c8db",
+            "name": "Doritos'lu Mega Çiğ Köfte Dürüm (125 g)",
+            "description": "Çift lavaş ve tercihe göre malzemeler ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ffd7f1f5f0ab45705e80a66",
+        "name": "Çiğ Köfte",
+        "items": [
+          {
+            "id": "5ffd7f2df1123529a3afd85c",
+            "name": "Çiğ Köfte (200 g)",
+            "description": "2 adet lavaş, çeyrek iceberg marul, 1 adet nar ekşisi, 1 adet acı sos ve limon ile",
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264037416_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2cfd88ae2c746c7fa6",
+            "name": "Çiğ Köfte (300 g)",
+            "description": "3 adet lavaş, çeyrek iceberg marul, 2 adet nar ekşisi, 1 adet acı sos ve limon ile",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619263976221_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2ef73b33e4e5d1192a",
+            "name": "Çiğ Köfte (400 g)",
+            "description": "4 adet lavaş, yarım iceberg marul, 2 adet nar ekşisi, 2 adet acı sos ve limon ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264017977_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2f3c3b6e65966227ae",
+            "name": "Çiğ Köfte (500 g)",
+            "description": "5 adet lavaş, yarım iceberg marul, 3 adet nar ekşisi, 2 adet acı sos ve limon ile",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264101878_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2ffa8f16308a03f995",
+            "name": "Çiğ Köfte (600 g)",
+            "description": "6 adet lavaş, yarım iceberg marul, 3 adet nar ekşisi, 2 adet acı sos ve limon ile",
+            "price": 500.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264167713_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f2e5757430235db5474",
+            "name": "Çiğ Köfte (800 g)",
+            "description": "8 adet lavaş, 3/4  iceberg marul, 5 adet nar ekşisi, 3 adet acı sos ve limon ile",
+            "price": 660.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264211256_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f303b0c6d42c90ec4b2",
+            "name": "Çiğ Köfte (1 kg)",
+            "description": "10 adet lavaş, tam iceberg marul, 6 adet nar ekşisi, limon ve 3 adet acı sos ile",
+            "price": 775.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264316800_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f40fd88aee1576c7faf",
+            "name": "Çiğ Köfte Dürüm (90 g)",
+            "description": "Seçeceğiniz malzemeler ile",
+            "price": 115.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264495424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f411f40a341129167e4",
+            "name": "Duble Çiğ Köfte Dürüm (175 g)",
+            "description": "Çift lavaş ile",
+            "price": 145.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264518401_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f41fa8f16655103f99a",
+            "name": "Mega Çiğ Köfte Dürüm (125 g)",
+            "description": "Çift lavaş ile",
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264538807_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f4057574338dbdb5476",
+            "name": "Ultra Mega Çiğ Köfte Dürüm (150 g)",
+            "description": "Çift lavaş",
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264558239_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61c5aca8c8464a7969533a44",
+            "name": "Doritos'lu Çiğ Köfte Dürüm (90 g)",
+            "description": "Tercihe göre  malzemeler ile",
+            "price": 135.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ffd7f1f937d1b0206bd7fcc",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "5ffd7f31fd88aecf1e6c7fa8",
+            "name": "Kızartma İçli Köfte (Adet)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602ff5e35eff1014690ebc21",
+            "name": "Yaprak Sarma (100 g)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602ff5fc6a39b5582a6e1454",
+            "name": "Yaprak Sarma (200 g)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602ff61a53e01d6c11502a9c",
+            "name": "Yaprak Sarma (300 g)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602ff643965500421c0f34f0",
+            "name": "Yaprak Sarma (400 g)",
+            "description": null,
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "602ff6689710c09749d3d3fc",
+            "name": "Yaprak Sarma (500 g)",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ffd7f1fc922527ed439efdc",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "5ffd7f31f73b330c34d1192d",
+            "name": "Yeşillik (Tam)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f32f73b335cfad11930",
+            "name": "Lavaş (Adet)",
+            "description": null,
+            "price": 10.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264624508_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f32292a61fd45b24b73",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f33f112354eb1afd85f",
+            "name": "Yeşillik (Çeyrek)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3358e9c1813ad86968",
+            "name": "Nar Ekşisi",
+            "description": null,
+            "price": 8.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1619264651409_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f34c92252348539efe1",
+            "name": "Yeşillik (Yarım)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f35f73b333700d11933",
+            "name": "Limon (Adet)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ffd7f1fdef3887abfdfffd7",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "5ffd7f36c9225266a539efe3",
+            "name": "Eker Çikolatalı Puding",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f36937d1b7336bd7fd2",
+            "name": "Eker Kazandibi",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "5ffd7f1fbb1161240876b89f",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "5ffd7f3b937d1b6f5ebd7fd4",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f38f73b33ff5bd11935",
+            "name": "Eker Ayran (170 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f373c3b6e3a726227b0",
+            "name": "Eker Ayran (270 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f39def388b844dfffdd",
+            "name": "Şalgam Suyu (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698938413228_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f37f112351173afd861",
+            "name": "Limonlu Soda",
+            "description": null,
+            "price": 45.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3abb116149fe76b8a6",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3b5f0ab43ea4e80a6a",
+            "name": "Su",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f3a3b0c6d22860ec4b4",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698410137127_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "5ffd7f39f21cfb7d799905cb",
+            "name": "Eker Ayran (1 L)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "64d9159fc211e8507c3e7fa2",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68daa909ceac63ceace926b3",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69012e0bceac63ceac1739da",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 95.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

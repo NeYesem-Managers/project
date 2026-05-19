@@ -1,0 +1,670 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "5f5b8b8a5fb4ae2aa3aafda7",
+  "name": "Mama's Burger & Cajun Chicken (Remzi Oğuz Arık Mah.)",
+  "slug": "mama-s-burger-cajun-chicken-remzi-oguz-arik-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger"
+  ],
+  "rating": 4.5,
+  "rating_count": 1000,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "643e4284c7a5dba645adf3ad",
+            "name": "Ribs Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), burger sos, füme kaburga, bbq sos, cheddar peyniri, iceberg, karamelize soğan",
+            "price": 772.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569747180_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4284c7a5dbe96dadf3d2",
+            "name": "Hot Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), iceberg, acı afrika biber sosu ve karamelize soğan",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569705837_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db5d1cadf406",
+            "name": "Rich Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), füme kaburga, burger sos, mozzarella peyniri, barbekü sos, cheddar peyniri, iceberg, karamelize soğan",
+            "price": 802.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569756321_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5dbceafadf429",
+            "name": "Cheeseburger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), cheddar peyniri, iceberg, burger sos, karamelize soğan ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569695275_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db2a3badf44e",
+            "name": "Meksika Tavuk Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı tavuk köftesi (120 g), iceberg, köri sos ve acı afrika biber sosu",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569715667_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643e4284c7a5db5503adf38c",
+        "name": "Single Burger",
+        "items": [
+          {
+            "id": "643e4284c7a5dba645adf3ad",
+            "name": "Ribs Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), burger sos, füme kaburga, bbq sos, cheddar peyniri, iceberg, karamelize soğan",
+            "price": 772.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569747180_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4284c7a5dbe96dadf3d2",
+            "name": "Hot Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), iceberg, acı afrika biber sosu ve karamelize soğan",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569705837_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db5d4fadf3d9",
+            "name": "Tavuk Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı tavuk burger köftesi (120 g), iceberg, burger sos, mayonez",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569790186_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db5d1cadf406",
+            "name": "Rich Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), füme kaburga, burger sos, mozzarella peyniri, barbekü sos, cheddar peyniri, iceberg, karamelize soğan",
+            "price": 802.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569756321_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5dbceafadf429",
+            "name": "Cheeseburger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), cheddar peyniri, iceberg, burger sos, karamelize soğan ile",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569695275_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db4e6aadf440",
+            "name": "Rokfor Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), iceberg, mamas sos, karamelize soğan ve küflü rokfor peyniri",
+            "price": 772.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569767733_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db5f27adf447",
+            "name": "Pastrami Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), iceberg, köri sos, bbq sos, cheddar peyniri, karamelize soğan ve çemeni sıyrılmış dana pastırması",
+            "price": 831.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569737302_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db2a3badf44e",
+            "name": "Meksika Tavuk Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı tavuk köftesi (120 g), iceberg, köri sos ve acı afrika biber sosu",
+            "price": 459.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569715667_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756a993ceac63ceac211315",
+            "name": "Vişne & Tulum Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), vişne reçeli, erzincan tulum peyniri, iceberg, mama's sos, karamelize soğan",
+            "price": 772.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569834646_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756aa42ceac63ceac2113dd",
+            "name": "Saganaki Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), kızarmış saganaki peyniri, bal, iceberg, mama's sos, karamelize soğan",
+            "price": 772.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569778195_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756aa77ceac63ceac21140d",
+            "name": "Çerkez Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), isli çerkez peyniri, iceberg, mama's sos, karamelize soğan",
+            "price": 772.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569810862_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756aad9ceac63ceac2114d4",
+            "name": "Şnitzel Burger (Vejetaryen) (Single)",
+            "description": "Ev yapımı burger ekmeği, bitki bazlı şnitzel, cheddar peyniri, iceberg, mama's sos, karamelize soğan",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569824635_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d385e1ceac63ceac0e2af2",
+            "name": "Trüf Burger (Single)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g), cheddar peyniri, iceberg, trüf mayo, karamelize soğan",
+            "price": 650.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775470041856_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643e4284c7a5db676badf38d",
+        "name": "Double Burger",
+        "items": [
+          {
+            "id": "643e4284c7a5db3563adf3b6",
+            "name": "Cheeseburger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (2 adet)(130 g), cheddar peyniri, iceberg, burger sos, karamelize soğan ile",
+            "price": 958.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569965920_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db5f52adf3e6",
+            "name": "Hot Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (2 adet)(130 g), iceberg, acı afrika biber sosu ve karamelize soğan ile",
+            "price": 958.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569986214_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db59b8adf3f5",
+            "name": "Rıch Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (2 adet)(130 g), füme kaburga, burger sos, mozzarella peyniri, barbekü sos, cheddar peyniri, iceberg, karamelize soğan ile",
+            "price": 1105.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570042606_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db25c4adf40d",
+            "name": "Ribs Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (2 adet)(130 g), burger sos, füme kaburga, bbq sos, cheddar peyniri, iceberg, karamelize soğan ile",
+            "price": 1075.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570033382_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db20cfadf454",
+            "name": "Rokfor Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (2 adet) (130 g), iceberg, mamas sos, karamelize soğan ve küflü rokfor peyniri ile",
+            "price": 1075.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570052168_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db2ae7adf45b",
+            "name": "Pastrami Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (2 adet) (130 g), iceberg, köri sos, bbq sos, cheddar peyniri, karamelize soğan ve çemeni sıyrılmış dana pastırması ile",
+            "price": 1124.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570023829_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5dbcb43adf462",
+            "name": "Meksika Tavuk Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı tavuk köftesi (2 adet) (120 g), iceberg, acı afrika biber sosu ve köri sos",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570008409_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5dbac6cadf468",
+            "name": "Tavuk Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı tavuk köftesi (2 adet) (120 g), iceberg, mayonez ve mamas sos",
+            "price": 665.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570103422_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756ab14ceac63ceac2114f8",
+            "name": "Vişne & Tulum Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g) (2 adet), vişne reçeli, erzincan tulum peyniri, iceberg, mama's sos, karamelize soğan",
+            "price": 1075.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570115690_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756ab3dceac63ceac211514",
+            "name": "Saganaki Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g) (2 adet), kızarmış saganaki peyniri, bal, iceberg, mama's sos, karamelize soğan",
+            "price": 1075.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570066112_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756ab61ceac63ceac21152f",
+            "name": "Çerkez Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı burger köftesi (130 g) (2 adet), isli çerkez peyniri, iceberg, mama's sos, karamelize soğan",
+            "price": 1075.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764569976214_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6756ab83ceac63ceac211554",
+            "name": "Şnitzel Burger (Vejetaryen) (Double)",
+            "description": "Ev yapımı burger ekmeği, bitki bazlı şnitzel (2 adet), cheddar peyniri, iceberg, mama's sos, karamelize soğan",
+            "price": 958.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570092166_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69d38614ceac63ceac0e2b33",
+            "name": "Trüf Burger (Double)",
+            "description": "Ev yapımı burger ekmeği, ev yapımı çift burger köftesi (130 g), cheddar peyniri, iceberg, trüf mayo, karamelize soğan",
+            "price": 958.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775470093243_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643e4284c7a5dbf477adf38f",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "643e4284c7a5dbc96dadf397",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 225.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570183099_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4284c7a5db497badf3b5",
+            "name": "Soğan Halkası (8 Adet)",
+            "description": "Patates kızartması (yarım porsiyon) ile",
+            "price": 239.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570192008_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4284c7a5db8536adf3c2",
+            "name": "Mozzarella Stick (6 Adet)",
+            "description": "Patates kızartması (yarım porsiyon) ile",
+            "price": 318.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570156549_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643e4284c7a5db5d1cadf390",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "66d5b1abceac63ceacebae03",
+            "name": "Churros Tatlı (6'lı)",
+            "description": "Çikolata ve toz fıstık",
+            "price": 435.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570126881_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643e4284c7a5dbec5badf391",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "643e4284c7a5dbbfeeadf3ac",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249672077_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4284c7a5dbb01dadf3b4",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750251187633_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4284c7a5db15f6adf3ce",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249742187_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6852b133ceac63ceac550801",
+            "name": "Fuse Tea Mango & Ananas (330 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249766457_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6852b154ceac63ceac550856",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750251212103_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db70acadf3df",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750251226308_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db2d0eadf403",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249711447_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db5e43adf41a",
+            "name": "Beypazarı Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 68.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249688820_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db4079adf423",
+            "name": "Beypazarı Soda (200 ml)",
+            "description": null,
+            "price": 68.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249701143_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db8596adf428",
+            "name": "Özerhisar Ayran (250 ml)",
+            "description": null,
+            "price": 132.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249820383_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db8b96adf435",
+            "name": "Sütaş Ayran (300 ml)",
+            "description": null,
+            "price": 78.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750249830214_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5dbc120adf438",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 44.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1750251244700_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643e4284c7a5db8632adf392",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "643e4284c7a5dbf6baadf3c1",
+            "name": "Ev Yapımı Acı Tatlı Sos",
+            "description": "Bir uzak doğu lezzeti chili biberli dip sos",
+            "price": 54.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1662637142440_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db29e5adf3ee",
+            "name": "Ev Yapımı Mama's Sos",
+            "description": "Salatalık turşusu, baharatlar ve hardal",
+            "price": 54.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1662637140451_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db7cffadf404",
+            "name": "Ev Yapımı 4'lü Sos Sepeti",
+            "description": "Ev yapımı viking sos, ev yapımı milano sos, ev yapımı afrika biber sosu ve ev yapımı ranch sos",
+            "price": 186.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764570201445_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db1d1fadf405",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db594badf41b",
+            "name": "Ketçap",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db2f5fadf436",
+            "name": "Mayonez",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db688eadf439",
+            "name": "BBQ Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db1bb8adf43a",
+            "name": "Acı Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5dbfd2eadf46e",
+            "name": "Ev Yapımı Afrika Biber Sosu",
+            "description": "Kırmızı afrika biberi, sarımsak, soğan ve köri",
+            "price": 68.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1683121807737_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db8767adf46f",
+            "name": "Ev Yapımı Ranch Sos",
+            "description": "Mayonez, yoğurt, baharat ve rende yeşillikler",
+            "price": 54.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1683121791219_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db11e9adf470",
+            "name": "Ev Yapımı Viking Sos",
+            "description": "Hardal, baharatlar, domates, soya sosu ve karamel ile",
+            "price": 68.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1683121772355_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "643e4285c7a5db8477adf471",
+            "name": "Ev Yapımı Milano Sos",
+            "description": "Hardal, soğan parçaları, tatlı & acı biber, baharatlar ve domates",
+            "price": 68.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1683121798919_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "643e4284c7a5db8db9adf393",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "643e4284c7a5dbcebaadf398",
+            "name": "Poşet",
+            "description": null,
+            "price": 0.5,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

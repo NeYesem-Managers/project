@@ -1,0 +1,907 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "672ca55cfaff567eb73fc741",
+  "name": "Buckin Coffee, Konak (Basın Sitesi Mah.)",
+  "slug": "buckin-coffee-konak-basin-sitesi-mah-konak-izmir",
+  "cuisine_types": [
+    "Kahve & İçecek",
+    "Pasta & Tatlı"
+  ],
+  "rating": 3.0,
+  "rating_count": 10,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6790898dceac63ceac837f7d",
+            "name": "Berry Hibiscus (16 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67923e8fceac63ceac856f90",
+        "name": "Sandviç",
+        "items": [
+          {
+            "id": "681a2e93ceac63ceac18eda4",
+            "name": "Girit Ezmeli Jambon Mozzarella",
+            "description": "Suda mozarella, dana jambon, turşu ve girit ezme",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "687757d2ceac63ceac7e9650",
+            "name": "Pestolu Mozzarella Ciabatta",
+            "description": "Pesto sos, mozzarella peyniri, ciabatta ekmeği",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67923e94ceac63ceac856f94",
+        "name": "Tatlı",
+        "items": [
+          {
+            "id": "67925474ceac63ceac859314",
+            "name": "Tiramisu Cup",
+            "description": null,
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6792547cceac63ceac85931a",
+            "name": "White Chocolate Brownie",
+            "description": null,
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6792558fceac63ceac859403",
+            "name": "Çikolatalı Tart Cookie",
+            "description": null,
+            "price": 230.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68775be5ceac63ceac7e9a42",
+            "name": "Cookie Triple Chocolate",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4cc17ceac63ceacfa6349",
+            "name": "Fudge Brownie",
+            "description": null,
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4cc27ceac63ceacfa6385",
+            "name": "Beyaz Çikolatalı Blondie",
+            "description": null,
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67908031ceac63ceac837d08",
+        "name": "Demleme Kahve",
+        "items": [
+          {
+            "id": "679080c4ceac63ceac837d61",
+            "name": "Filter Coffee (12 oz)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923c6dceac63ceac856d37",
+            "name": "Ice Filter Coffee (16 oz)",
+            "description": null,
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67908220ceac63ceac837dbb",
+        "name": "Espressolu İçecek",
+        "items": [
+          {
+            "id": "67908236ceac63ceac837dc0",
+            "name": "Latte (12 oz)",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6790826bceac63ceac837e14",
+            "name": "Americano (12 oz)",
+            "description": null,
+            "price": 190.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6790829cceac63ceac837e1c",
+            "name": "Cappuccino (12 oz)",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "679082d1ceac63ceac837e25",
+            "name": "Flat White (8 oz)",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908311ceac63ceac837e28",
+            "name": "White Chocolate Mocha (12 oz)",
+            "description": null,
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908348ceac63ceac837e2f",
+            "name": "Canadian Latte (12 oz)",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908378ceac63ceac837e36",
+            "name": "Salted Caramel Latte (12 oz)",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "679083efceac63ceac837e3e",
+            "name": "Caramel Macchiato (12 oz)",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6790842eceac63ceac837e76",
+            "name": "Toffee Nut Latte (12 oz)",
+            "description": null,
+            "price": 268.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "679084eaceac63ceac837ee4",
+            "name": "Espresso Double (60 ml)",
+            "description": null,
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "679084fdceac63ceac837ee8",
+            "name": "Cortado (12 oz)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923bb2ceac63ceac856c7b",
+            "name": "Mocha (12 oz)",
+            "description": "Espresso, sıcak çikolata ve süt",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923bcaceac63ceac856ca5",
+            "name": "Ice Americano (16 oz)",
+            "description": null,
+            "price": 195.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923be1ceac63ceac856ce3",
+            "name": "Ice Latte (16 oz)",
+            "description": null,
+            "price": 240.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923beaceac63ceac856cf1",
+            "name": "Ice Salted Caramel Latte (16 oz)",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923bf7ceac63ceac856cfe",
+            "name": "Ice Canadian Latte (16 oz)",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923c12ceac63ceac856d0b",
+            "name": "Ice Toffee Nut Latte (16 oz)",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923c19ceac63ceac856d0f",
+            "name": "Ice Caramel Macchiato (16 oz)",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923c20ceac63ceac856d1d",
+            "name": "Ice Mocha (16 oz)",
+            "description": null,
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67923c2bceac63ceac856d21",
+            "name": "Ice White Mocha (16 oz)",
+            "description": null,
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681a3520ceac63ceac18f1b3",
+            "name": "Ice Nutella Latte (16 oz)",
+            "description": null,
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68778652ceac63ceac7eda72",
+            "name": "Nutella Latte (12 oz)",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4c905ceac63ceacfa5d53",
+            "name": "Pro Latte (12 oz)",
+            "description": "Protein tozu",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4c941ceac63ceacfa5d76",
+            "name": "Miel Latte (12 oz)",
+            "description": "Espresso, bal, tarçın, süt",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4c962ceac63ceacfa5d89",
+            "name": "Spanish Latte (12 oz)",
+            "description": "Espresso, süt ve yoğunlaştırılmış süt",
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4c99aceac63ceacfa5db9",
+            "name": "Gold Mocha (12 oz)",
+            "description": "Espresso, karamel, beyaz çikolata sos, süt",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4c9bcceac63ceacfa5dca",
+            "name": "Raspberry White Mocha (12 oz)",
+            "description": "Raspberry şurup ve beyaz çikolatalı mocha",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4c9d7ceac63ceacfa5de3",
+            "name": "Pumpkin Spice Latte (12 oz)",
+            "description": "Bal kabağı ve baharat",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4c9faceac63ceacfa5dff",
+            "name": "Ice Miel Latte (16 oz)",
+            "description": "Espresso, süt, bal ve tarçın",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4ca1cceac63ceacfa5e25",
+            "name": "Ice Spanish Latte (16 oz)",
+            "description": "Espresso, süt ve yoğunlaştırılmış süt",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4ca3eceac63ceacfa5e3b",
+            "name": "Ice Gold Mocha (16 oz)",
+            "description": "Espresso, karamel ve beyaz çikolata sos",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4ca61ceac63ceacfa5e5e",
+            "name": "Ice Raspberry White Mocha (16 oz)",
+            "description": "Raspberry şurup, beyaz çikolata",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4ca9aceac63ceacfa5ee3",
+            "name": "Ice Canadian Milk Shaken Espresso (16 oz)",
+            "description": "Espresso, yulaf sütü ve akça ağaç şurubu",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4cabaceac63ceacfa5f04",
+            "name": "Ice Pumpkin Spice Latte (16 oz)",
+            "description": "Bal kabağı ve baharat",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4cad5ceac63ceacfa5f2b",
+            "name": "Pro Matcha (12 oz)",
+            "description": "Protein tozu, matcha",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4cb06ceac63ceacfa5f45",
+            "name": "Ice Pro Matcha (12 oz)",
+            "description": "Protein tozu, matcha",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4cb50ceac63ceacfa5f8b",
+            "name": "Hot Ginger Lemonade (300 ml)",
+            "description": "Limonata, zencefil, çubuk tarçın ve bal",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "679088f7ceac63ceac837f51",
+        "name": "Kahvesiz İçecek",
+        "items": [
+          {
+            "id": "679083aaceac63ceac837e3a",
+            "name": "Chai Tea Latte (12 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67909036ceac63ceac8382c2",
+            "name": "Lemonade (16 oz)",
+            "description": null,
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908928ceac63ceac837f58",
+            "name": "Red Lime (16 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6790895bceac63ceac837f70",
+            "name": "Cool Lime (16 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6790898dceac63ceac837f7d",
+            "name": "Berry Hibiscus (16 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908a08ceac63ceac837fc6",
+            "name": "Mango & Passion Fruit (16 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681a3107ceac63ceac18eef6",
+            "name": "Rooibos Peach (16 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681a31b3ceac63ceac18ef45",
+            "name": "Groot (12 oz)",
+            "description": "Kuzu kulağı, limon otu, yeşil erik ve soda",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681a3212ceac63ceac18ef86",
+            "name": "Matcha Latte (12 oz)",
+            "description": null,
+            "price": 285.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681a325dceac63ceac18ef95",
+            "name": "Ice Matcha Latte (16 oz)",
+            "description": null,
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681a328dceac63ceac18efac",
+            "name": "Hot Chocolate (12 oz)",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681a32f8ceac63ceac18f009",
+            "name": "Ice Chai Tea Latte (16 oz)",
+            "description": null,
+            "price": 315.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67908b74ceac63ceac837ff7",
+        "name": "Frappe",
+        "items": [
+          {
+            "id": "67908bd3ceac63ceac838023",
+            "name": "Espresso Frappe (16 oz)",
+            "description": null,
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908ca0ceac63ceac83807e",
+            "name": "Caramel Frappe (16 oz)",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908ccbceac63ceac838088",
+            "name": "Canadian Frappe (16 oz)",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908da3ceac63ceac8380e5",
+            "name": "White Chocolate Chip Frappe (16 oz)",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908dfcceac63ceac83818a",
+            "name": "Chocolate Chip Frappe (16 oz)",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67ec3c90ceac63ceacea5a9b",
+            "name": "Strawberry Cream (16 oz)",
+            "description": "Çilekli ve sütlü içecek",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67908eeeceac63ceac8381d9",
+        "name": "Çay",
+        "items": [
+          {
+            "id": "67908f0fceac63ceac8381e6",
+            "name": "Black Tea (12 oz)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908f3eceac63ceac8381f1",
+            "name": "Bergamot Tea (12 oz)",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908f60ceac63ceac83820f",
+            "name": "Winter Tea (12 oz)",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908f89ceac63ceac83821f",
+            "name": "Therapy Tea (12 oz)",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908fb4ceac63ceac838242",
+            "name": "Hibiscus Tea (12 oz)",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67908fe0ceac63ceac83825b",
+            "name": "L Tea (12 oz)",
+            "description": null,
+            "price": 165.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67923e9aceac63ceac856f9a",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "679255d3ceac63ceac859419",
+            "name": "Beyoğlu Gazoz (250 ml)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "679255dbceac63ceac859421",
+            "name": "Zencefilli Beyoğlu Gazoz (250 ml)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "679255f0ceac63ceac859435",
+            "name": "Uludağ Premium Maden Suyu (250 ml)",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67925608ceac63ceac85944c",
+            "name": "San Pellegrino (250 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6792560fceac63ceac859456",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67925629ceac63ceac859461",
+            "name": "San Pellegrino Limonata (250 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67925640ceac63ceac85946b",
+            "name": "San Pellegrino Aranciata (250 ml)",
+            "description": null,
+            "price": 255.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6792565dceac63ceac85948a",
+            "name": "Sunpride Elma (250 ml)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6792566eceac63ceac859493",
+            "name": "Sunpride Vişne (250 ml)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68775c80ceac63ceac7e9d2d",
+            "name": "Sunpride C-Mix (250 ml)",
+            "description": null,
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e4cb78ceac63ceacfa616f",
+            "name": "Su (330 ml) (Cam Şişe)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

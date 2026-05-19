@@ -1,0 +1,583 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "6110ff61f1b83d3e7546a0ff",
+  "name": "Paninoteca Chicken Burger & Sandwich, Yıldırım (Millet Mah.)",
+  "slug": "paninoteca-chicken-burger-sandwich-yildirim-millet-mah-yildirim-bursa",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı",
+    "Tost & Sandviç",
+    "Vejetaryen"
+  ],
+  "rating": 3.4,
+  "rating_count": 300,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "61121a4858388f18314e9391",
+        "name": "Chicken Burger",
+        "items": [
+          {
+            "id": "62014e95d1daed793084c96f",
+            "name": "Beca Fried Chicken Burger",
+            "description": "Kızarmış tavuk, soslu kırmızı lahana, chips ve patates kızartması ile",
+            "price": 299.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725977981674_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "62014eccb721915dd9d26522",
+            "name": "Chick Fried Chicken Burger",
+            "description": "Kızarmış tavuk, iceberg marul, ranch sos, cheddar sosu ve patates kızartması ile",
+            "price": 299.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725978200927_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66e05529ceac63ceacf1f81f",
+            "name": "Sweet Fried Chicken Burger",
+            "description": "Kızarmış tavuk, iceberg marul, sweet chili sos, jalapeno biber ve patates kızartması ile",
+            "price": 289.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725977839546_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "675996d3ceac63ceac268ed5",
+        "name": "Pani Pun",
+        "items": [
+          {
+            "id": "675997c4ceac63ceac268ffe",
+            "name": "Win Bun",
+            "description": "Pul biberli bun ekmeği, kekikli bun ekmeği, çıtır tavuk, yoğurtlu mısır salatası, kibrit patates, patates kızartması, ketçap ve mayonez ile",
+            "price": 299.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733924750942_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67599809ceac63ceac26918d",
+            "name": "Cheddar Bun",
+            "description": "Sade bun ekmeği (2 adet), çıtır tavuk, iceberg marul, cheddar sos, ranch sos, kibrit patates, patates kızartması, ketçap ve mayonez ile",
+            "price": 299.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733924865078_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67599874ceac63ceac269333",
+            "name": "Swag Bun",
+            "description": "Fesleğenli bun ekmeği (2 adet), çıtır tavuk, kırmızı lahana salatası, kibrit patates, patates kızartması, ketçap ve mayonez ile",
+            "price": 299.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733924943611_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66e05722ceac63ceacf1f8e2",
+        "name": "Makarna & Schnitzel",
+        "items": [
+          {
+            "id": "67599910ceac63ceac26938d",
+            "name": "S'nitz Pesto Salad",
+            "description": "Özel soslu çıtır tavuk, pesto soslu makarna, kırmızı lahana salatası, sweet chili soslu iceberg salatası ve yoğurtlu mısır salatası",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733925129582_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66e058e0ceac63ceacf1f9ed",
+            "name": "Köri soslu Makarna",
+            "description": "Mantar, penne makarna, köri sos",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725978805898_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66e0596eceac63ceacf1fa2f",
+            "name": "S'nitz Cury",
+            "description": "Mantar, penne makarna, köri sos , Şinitzel",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725978972192_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66e05c0bceac63ceacf1fd8e",
+            "name": "Pesto Soslu Makarna",
+            "description": "Mantar, penne makarna, pesto sos, krema",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66e05f2eceac63ceacf1ff78",
+            "name": "Mac & Cheese",
+            "description": "Penne makarna, mac and cheese sos",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66e05f9cceac63ceacf1ffd7",
+            "name": "S'nitz Mac",
+            "description": "Penne makarna, mac and cheese sos, şinitzel",
+            "price": 279.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725980555551_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66e06020ceac63ceacf1fff0",
+            "name": "S'nitz Pesto",
+            "description": "Penne makarna, pesto sos, tavuk şinitzel",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725980679418_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67599a2eceac63ceac26943c",
+            "name": "S'nitz Mac Salad",
+            "description": "Özel baharatlı çıtır tavuk, mac and cheese makarna, kırmızı lahana salatası, sweet chili soslu iceberg salatası ve yoğurtlu mısır salatası",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733925410585_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "675c71dbceac63ceac2bdf55",
+            "name": "S'nıtz Cury Salad",
+            "description": "Özel baharatlarla marine edilmiş çıtır tavuk, köri soslu makarna, kırmızı lahana salatası, sweet chili soslu iceberg salatası ve yoğurtlu mısır salatası ile",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1734111652449_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61c82648b84ffe391b656c74",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "61c82704888a49adf1d1e64b",
+            "name": "Sucuklu Yumurtalı Sandviç",
+            "description": "Sandviç ekmeğinde tereyağlı sucuklu yumurta",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710163324113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61c827ca323c5bdfba83fd4c",
+            "name": "Pastırmalı Yumurtalı Sandviç",
+            "description": "Sandviç ekmeğinde pastırmalı tereyağlı yumurta, yanında domates, salata ve zeytin ile",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710163393749_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61c8281c8e1e472821017e2a",
+            "name": "Kavurmalı Yumurtalı Sandviç",
+            "description": "Sandviç ekmeğinde kavurmalı tereyağlı yumurta",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710163371344_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61c828f4f182c4ccbe2dec25",
+            "name": "Double Karışık Yumurtalı Sandviç",
+            "description": "Sandviç ekmeğinde pastırma, kavurma, sucuk ve kaşar yumurta ile",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710163347856_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61c86bb0b73de1aa13c1f0fd",
+            "name": "Mantarlı Yumurtalı Sandviç",
+            "description": "Sandviç ekmeğinde mantar, kapya biber ve yumurta ile",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710163429771_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "675998ceceac63ceac26937b",
+            "name": "S'nitz Cury Salad",
+            "description": "Özel baharatlı çıtır tavuk, köri soslu makarna, kırmızı lahana salatası, sweet chili soslu iceberg salatası ve yoğurtlu mısır salatası",
+            "price": 359.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1733925061503_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61121a49f1b83de07e674716",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "61121a5a7d02ef37b9b401c9",
+            "name": "Kajun Baharatlı Pani Cips",
+            "description": null,
+            "price": 159.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1629843256873_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "611e589b750c631a491de26e",
+            "name": "S'nits Chips",
+            "description": null,
+            "price": 188.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1725980832164_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67599a6dceac63ceac26944d",
+            "name": "Yoğurtlu Mısır Salatası",
+            "description": null,
+            "price": 59.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67599a81ceac63ceac269454",
+            "name": "Kırmızı Lahana Salatası",
+            "description": null,
+            "price": 59.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67599a97ceac63ceac26945e",
+            "name": "Sweet Chili Soslu Iceberg Salatası",
+            "description": null,
+            "price": 59.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67599ab6ceac63ceac269465",
+            "name": "Jalapeno Biber",
+            "description": null,
+            "price": 39.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67599acdceac63ceac26946f",
+            "name": "Salatalık Turşusu",
+            "description": null,
+            "price": 39.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67599ae5ceac63ceac269475",
+            "name": "Çıtır Soğan Parçaları",
+            "description": null,
+            "price": 49.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "67599afbceac63ceac26947f",
+            "name": "Cheddar Sos",
+            "description": null,
+            "price": 29.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61121a49edd4560fab7a12a2",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "61121a626ccaba137eaee07a",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698409557896_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61121a5fb9ac19162ccd3d5a",
+            "name": "Coca Cola Light (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655218920_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61121a66303c95b44d01bd23",
+            "name": "Coca Cola Şekersiz (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698655497424_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61121a5d7d02ef0da8b40204",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61121a670c09eb1524a6f6ee",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61121a648dd3910b40c4baee",
+            "name": "Ice Tea (330 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61121a60ef6835f66e05edbe",
+            "name": "Ayran (300 ml)",
+            "description": null,
+            "price": 57.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61121a68c45dd7e15c78ffd1",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61121a639c194894c6a0a4bd",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61121a5e95203b3aec25d75b",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61e19c5864242ee786230563",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "61e19c9e7e4dacb94871f7b4",
+            "name": "Ketçap",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927933322_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61e19cba51ca4f0fe3a3f5be",
+            "name": "Mayonez",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927941688_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "61e19ce84af84a473855ee3f",
+            "name": "BBQ Sos",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61e19cfef6e126623cf203f8",
+            "name": "Master Sos",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "61e19d1464242e70fc231c5a",
+            "name": "Ranch Sos",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698927966195_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "628cdf91d21ca0994f067ef6",
+        "name": "Soğuk Çay & Bubble Tea",
+        "items": [
+          {
+            "id": "628ce045c0264c6419f5c3ba",
+            "name": "Black Mulbery",
+            "description": "karadut ve meyve topları",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "628ce09a339c49648edce3e3",
+            "name": "Berry Punch Çay",
+            "description": "Böğürtlen, çilek, gül yaprağı ve hibiscus çayı ve meyve topları",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "628ce0c524753437782e2da8",
+            "name": "jungle",
+            "description": "portakal mango çayı ve meyve topları",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "628ce0e8e7132d3d70502c31",
+            "name": "Cool Lime (400 ml)",
+            "description": "cool lime ve meyve topları",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "628ce13762e5a56dac078f5e",
+            "name": "Hibiscus",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6295ed8d072a61694b24114b",
+            "name": "ez duz it",
+            "description": "ejder meyvesi ve meyve topları",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

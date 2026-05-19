@@ -1,0 +1,667 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "68ac0f2b8b3e2983d86f6152",
+  "name": "T Döner, Karabağlar (Arap Hasan Mah.)",
+  "slug": "t-doner-karabaglar-arap-hasan-mah-karabaglar-izmir-2",
+  "cuisine_types": [
+    "Döner",
+    "Tavuk"
+  ],
+  "rating": 4.0,
+  "rating_count": 200,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6be0",
+            "name": "Berlin Tavuk Döner & İçecek",
+            "description": "Tavuk döner (100 g), seçime bağlı içecek ile",
+            "price": 279.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762861010437_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6c08",
+            "name": "Berlin Et Döner & İçecek (330 ml)",
+            "description": "Berlin Et Döner (100 g) ile içecek",
+            "price": 399.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762861062253_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6c07",
+            "name": "Berlin Tavuk (2 Adet) & İçecek (1 L)",
+            "description": "Berlin Tavuk döner (100 g) ve içecek",
+            "price": 559.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768915712519_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694a9b73ceac63ceac793fc6",
+            "name": "2'li Jumbo Tavuk Dürüm & İçecek (1 L)",
+            "description": "2 adet jumbo tavuk dürüm (70 g) ve içecek (1 L)",
+            "price": 527.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766565196450_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bef",
+            "name": "Berlin Tavuk Döner",
+            "description": "Artizan sandviç ekmeği, 100 g döner, T sos, white sos, aysberg, domates, kırmızı lahana ve soğan",
+            "price": 239.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762851233652_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6baa",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6be0",
+            "name": "Berlin Tavuk Döner & İçecek",
+            "description": "Tavuk döner (100 g), seçime bağlı içecek ile",
+            "price": 279.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762861010437_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6c08",
+            "name": "Berlin Et Döner & İçecek (330 ml)",
+            "description": "Berlin Et Döner (100 g) ile içecek",
+            "price": 399.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762861062253_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6937cf26ceac63ceac6393e6",
+            "name": "Jumbo Tavuk Döner & İçecek",
+            "description": "Jumbo tavuk döner sandviç (70 g) ve 1 adet seçmeli içecek",
+            "price": 239.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765362558883_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6c07",
+            "name": "Berlin Tavuk (2 Adet) & İçecek (1 L)",
+            "description": "Berlin Tavuk döner (100 g) ve içecek",
+            "price": 559.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768915712519_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bf3",
+            "name": "2'li Berlin Et Döner & İçecek (1 L)",
+            "description": "2 adet Berlin et döner (100 g)",
+            "price": 799.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768915900942_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694a9b11ceac63ceac793f09",
+            "name": "2'li Berlin Tavuk Dürüm & İçecek (1 L)",
+            "description": "Berlin Tavuk Dürüm (100 g) ve içecek",
+            "price": 559.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766565157074_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "694a9b73ceac63ceac793fc6",
+            "name": "2'li Jumbo Tavuk Dürüm & İçecek (1 L)",
+            "description": "2 adet jumbo tavuk dürüm (70 g) ve içecek (1 L)",
+            "price": 527.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1766565196450_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6ba7",
+        "name": "Artizan Sandviç Ekmeği",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6bef",
+            "name": "Berlin Tavuk Döner",
+            "description": "Artizan sandviç ekmeği, 100 g döner, T sos, white sos, aysberg, domates, kırmızı lahana ve soğan",
+            "price": 239.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762851233652_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e63068ceac63ceacfc2d6b",
+            "name": "Berlin XL Tavuk Döner (150 g)",
+            "description": "Artizan sandviç ekmeği, T Sos, White Sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 295.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762851261613_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e630e0ceac63ceacfc2dcb",
+            "name": "Berlin XXL Tavuk Döner (200 g)",
+            "description": "Artizan sandviç ekmeği, T sos, white sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 351.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762851276358_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6c0d",
+            "name": "Berlin Et Döner",
+            "description": "Artizan sandviç ekmeği, 100 g döner, T sos, White sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 359.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762851248488_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e63130ceac63ceacfc2dff",
+            "name": "Berlin XL Et Döner (150 g)",
+            "description": "Artizan sandviç ekmeği, döner, T sos, White sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 479.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762851298064_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68e6316fceac63ceacfc2e4b",
+            "name": "Berlin XXL Et Döner (200 g)",
+            "description": "Artizan sandviç ekmeği, White sos, T sos, iceberg marul, domates, kırmızılahana ve soğan",
+            "price": 599.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762851323182_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "692d667eceac63ceac57d53e",
+            "name": "Jumbo Tavuk Döner",
+            "description": "Artizan sandviç ekmeği, tavuk döner (70 g), T Sos, Patates Kızartması, domates, soğan ve salatalık turşusu",
+            "price": 215.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764856951458_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696f8672ceac63ceaca6ea3d",
+            "name": "Jumbo XL Tavuk Döner",
+            "description": "Artizan sandviç ekmeği, 120 g tavuk döner, t sos, patates kızartması, domates, soğan ve salatalık turşusu",
+            "price": 271.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768916551002_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696f874cceac63ceaca6eb48",
+            "name": "Jumbo XXL Tavuk Döner",
+            "description": "Artizan sandviç ekmeği, 170 g tavuk döner, t sos, patates kızartması, domates, soğan ve salatalık turşusu",
+            "price": 327.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768916709334_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "692d669fceac63ceac57d54d",
+            "name": "Jumbo Et Döner",
+            "description": "Artizan sandviç ekmeği, et döner (70 g), t sos, patates kızartması, domates, salatalık turşusu ve soğan",
+            "price": 335.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1764856967006_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696f87f6ceac63ceaca6ec47",
+            "name": "Jumbo XL Et Döner",
+            "description": "Artizan sandviç ekmeği, 120 g et döner, t sos, patates kızartması, domates, soğan ve salatalık turşusu",
+            "price": 455.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768916874773_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "696f8830ceac63ceaca6ec8a",
+            "name": "Jumbo XXL Et Döner",
+            "description": "Artizan sandviç ekmeği, 170 g et döner, t sos, patates kızartması, domates, soğan ve salatalık turşusu",
+            "price": 575.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1768917024252_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6bab",
+        "name": "Dürüm",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6bed",
+            "name": "Berlin Dürüm Tavuk Döner",
+            "description": "100 g döner, T sos, white sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 239.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755177926422_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bee",
+            "name": "Berlin Dürüm Et Döner",
+            "description": "100 g döner, T sos, White sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 359.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755177938693_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69148f4dceac63ceac29d1af",
+            "name": "Berlin Tavuk Dürüm (XL)",
+            "description": "Lavaş ekmeği, 150 g tavuk döner, t sos, white sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 295.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763023574696_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69148fb1ceac63ceac29d235",
+            "name": "Berlin Et Dürüm (XL)",
+            "description": "Lavaş ekmeği, 150 g et döner, t sos, white sos, iceberg, domates, kırmızı lahana ve soğan",
+            "price": 479.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763023598734_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "691490bcceac63ceac29d3de",
+            "name": "Jumbo Tavuk Dürüm (XL)",
+            "description": "Lavaş ekmeği, 120 g tavuk döner, özel T sos, patates kızartması, domates, soğan, salatalık turşusu",
+            "price": 279.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763023767662_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69149106ceac63ceac29d5fb",
+            "name": "jumbo Et Dürüm (XL)",
+            "description": "Lavaş ekmeği, 120 g et döner, özel T Sos, patates kızartması, domates, soğan, salatalık turşusu",
+            "price": 455.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1763023784808_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69525babceac63ceac806857",
+            "name": "Jumbo Tavuk Dürüm",
+            "description": "70 g tavuk döner, patates kızartması, domates, soğan, salatalık turşusu ve t sos",
+            "price": 223.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767005068221_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69525bfaceac63ceac8068a7",
+            "name": "Jumbo Et Dürüm",
+            "description": "70 g et döner, patates kızartması, domates, soğan, salatalık turşusu ve t sos",
+            "price": 335.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1767005137643_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69734002ceac63ceacab3dbd",
+            "name": "Turrito Tavuk",
+            "description": "Özel lavaş içerisinde tavuk döner (50 g), cheddar peyniri, patates kızartması, salatalık turşusu ve t sos",
+            "price": 159.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769160681248_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69734033ceac63ceacab3df0",
+            "name": "Turrito Et",
+            "description": "Özel lavaş içerisinde et döner (50 g), cheddar peyniri, patates kızartması, salatalık turşusu ve t sos",
+            "price": 239.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1769160740372_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6bac",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6bff",
+            "name": "T Burger Et Dönerli",
+            "description": "60 g Döner, özel T sos, iceberg, domates, soğan ve salatalık turşusu",
+            "price": 239.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178046580_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bfd",
+            "name": "Tavuk Dönerli T Burger  (60 g)",
+            "description": "Et döner (60 g), t sos, iceberg, domates, soğan ve salatalık turşusu",
+            "price": 159.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178063329_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6bae",
+        "name": "Box",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6bf6",
+            "name": "Tavuk Dönerli T Box Salad",
+            "description": "100 g Döner, White sos, T sos, iceberg, domates, kırmızı lahana, salatalık turşusu ve soğan",
+            "price": 263.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178333006_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bec",
+            "name": "Et Dönerli T Box Salad",
+            "description": "100 g Döner, White Sos, T Sos, iceberg, domates, kırmızı lahana, salatalık turşusu ve soğan",
+            "price": 399.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178353037_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6bb0",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6be9",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755182014090_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bea",
+            "name": "Coca Cola Zero Sugar (330 ml)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755182037586_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6beb",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755182050169_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bd8",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bfb",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bdb",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bbd",
+            "name": "Fuse Tea Mango (330 ml)",
+            "description": null,
+            "price": 79.2,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bdc",
+            "name": "Ayran (280 ml)",
+            "description": null,
+            "price": 48.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bfc",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 36.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bdd",
+            "name": "Elmalı Soda (200 ml)",
+            "description": null,
+            "price": 36.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bde",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 36.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bce",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 28.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bf7",
+            "name": "Coca Cola (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755182065006_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bfe",
+            "name": "Coca Cola Zero Sugar (1 L)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755182079058_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bcd",
+            "name": "Ayran (1 L)",
+            "description": null,
+            "price": 88.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6bb1",
+        "name": "Sos",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6be5",
+            "name": "T Sos",
+            "description": "Özel baharat, yoğurt ve mayonez bazlı sos",
+            "price": 16.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178859818_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6be6",
+            "name": "White Sos",
+            "description": "Özel baharatlı yoğurt bazlı sos",
+            "price": 16.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178877277_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6be7",
+            "name": "Acılı Mayonez",
+            "description": null,
+            "price": 16.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178896509_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6bf8",
+            "name": "Ketçap Stick",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178935880_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68aeec73ceac63ceacbb6be8",
+            "name": "Mayonez Stick",
+            "description": null,
+            "price": 12.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1755178956685_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68aeec73ceac63ceacbb6bb2",
+        "name": "Poşet",
+        "items": [
+          {
+            "id": "68aeec73ceac63ceacbb6bc7",
+            "name": "Poşet",
+            "description": "Poşet",
+            "price": 1.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

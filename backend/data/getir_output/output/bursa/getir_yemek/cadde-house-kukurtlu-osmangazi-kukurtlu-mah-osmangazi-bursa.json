@@ -1,0 +1,912 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-19T11:43:13.255844+00:00",
+  "id": "68b1dcbfff4b13cddb300d6f",
+  "name": "Cadde House Kükürtlü, Osmangazi (Kükürtlü Mah.)",
+  "slug": "cadde-house-kukurtlu-osmangazi-kukurtlu-mah-osmangazi-bursa",
+  "cuisine_types": [
+    "Kahve & İçecek"
+  ],
+  "rating": 0.0,
+  "rating_count": null,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "68d13c69ceac63ceace0da9a",
+        "name": "Ana Yemek",
+        "items": [
+          {
+            "id": "68d13c95ceac63ceace0db2c",
+            "name": "Acı Tatlı Soslu Tavuk",
+            "description": "Acı sos, tatlı sos",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13ca9ceac63ceace0db58",
+            "name": "Et Fajita",
+            "description": null,
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13cb8ceac63ceace0db64",
+            "name": "Köri Soslu Tavuk",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13cc6ceac63ceace0db6b",
+            "name": "Kremalı Mantarlı Tavuk",
+            "description": null,
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13d2bceac63ceace0dc4c",
+            "name": "Mantı",
+            "description": "Yoğurt ve sos ile",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d13bd2ceac63ceace0da13",
+        "name": "Pizzalar",
+        "items": [
+          {
+            "id": "68d13c15ceac63ceace0da56",
+            "name": "Sosyal Pizza",
+            "description": "Mısır, çarliston biber, mantar, sucuk",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13c52ceac63ceace0da91",
+            "name": "House Of Wife",
+            "description": "Pastırma, kavurma, mini kebap topları, mozarella peyniri",
+            "price": 400.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d13aeeceac63ceace0d92f",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "68d13b22ceac63ceace0d962",
+            "name": "Patates Tabağı",
+            "description": "300 g patates kızartması, kajun baharatı",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13b51ceac63ceace0d987",
+            "name": "Aperatif Atıştırma Tabağı",
+            "description": "100 g elma dilim patates kızartması, 5 adet sosis",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13b8aceac63ceace0d9e0",
+            "name": "Kaşarlı Tost",
+            "description": "Kaşar peyniri, ketçap, mayonez",
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13ba1ceac63ceace0d9ef",
+            "name": "Karışık Tost",
+            "description": "Kaşar peyniri, sucuk, ketçap, mayonez",
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13bb6ceac63ceace0da04",
+            "name": "Sucuklu Tost",
+            "description": "Sucuk, ketçap, mayonez",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d13a47ceac63ceace0d8bb",
+        "name": "Kahvaltılıklar",
+        "items": [
+          {
+            "id": "68d13a92ceac63ceace0d8df",
+            "name": "Omlet",
+            "description": "Yanında siyah zeytin ve yeşil zeytin ile",
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13ab1ceac63ceace0d8fa",
+            "name": "Kavurmalı Omlet",
+            "description": "Yanında siyah zeytin ve yeşil zeytin ile",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13ac6ceac63ceace0d915",
+            "name": "Mantarlı Omlet",
+            "description": "Yanında siyah zeytin ve yeşil zeytin ile",
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13adbceac63ceace0d921",
+            "name": "Sucuklu Omlet",
+            "description": "Yanında siyah zeytin ve yeşil zeytin ile",
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d139a3ceac63ceace0d845",
+        "name": "Tatlılar",
+        "items": [
+          {
+            "id": "68d139c0ceac63ceace0d863",
+            "name": "Beyaz Çikolatalı Brownie",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d139d2ceac63ceace0d86c",
+            "name": "Vişneli Brownie",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d139e9ceac63ceace0d87a",
+            "name": "Lavantalı San Sebastian",
+            "description": null,
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d139fcceac63ceace0d886",
+            "name": "Çilekli Magnolia",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13a0cceac63ceace0d88e",
+            "name": "Muzlu Magnolia",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13a1aceac63ceace0d898",
+            "name": "San Sebastian",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13a33ceac63ceace0d89f",
+            "name": "Ters Cheseecake",
+            "description": null,
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d1388bceac63ceace0d68f",
+        "name": "Soğuk Kahveler",
+        "items": [
+          {
+            "id": "68d138a4ceac63ceace0d6a4",
+            "name": "Iced Latte (250 ml)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d138baceac63ceace0d72f",
+            "name": "Iced Flat White (250 ml)",
+            "description": null,
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d138daceac63ceace0d753",
+            "name": "Iced Filtre (250 ml)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d138fbceac63ceace0d768",
+            "name": "Iced White Mocha (250 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1391cceac63ceace0d784",
+            "name": "Iced Caramel Latte (250 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13938ceac63ceace0d79e",
+            "name": "Iced Vanilya Latte (250 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1395dceac63ceace0d81e",
+            "name": "Iced Americano (250 ml)",
+            "description": null,
+            "price": 160.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13977ceac63ceace0d831",
+            "name": "Iced Mocha (250 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d13063ceac63ceace0cd8c",
+        "name": "Sıcak İçecekler",
+        "items": [
+          {
+            "id": "68d130adceac63ceace0cdce",
+            "name": "Bardak Çay (200 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d130bbceac63ceace0cdd8",
+            "name": "Yeşil Çay (200 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d130d0ceac63ceace0cdeb",
+            "name": "Nane Limon (200 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d130e1ceac63ceace0ce04",
+            "name": "Kış Çayı (200 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d130f0ceac63ceace0ce28",
+            "name": "Ihlamur Çayı (200 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1310cceac63ceace0ce7a",
+            "name": "Fincan Çay (250 ml)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1312cceac63ceace0ceee",
+            "name": "Orman Meyveli Bitki Çayı (200 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1313bceac63ceace0cf04",
+            "name": "Ada Çayı (200 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13460ceac63ceace0d25a",
+            "name": "Sıcak Çikolata (250 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1347eceac63ceace0d26e",
+            "name": "Sıcak Beyaz Çikolata (250 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13494ceac63ceace0d274",
+            "name": "Sahlep (250 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d134adceac63ceace0d2a2",
+            "name": "Ballı Süt (250 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13635ceac63ceace0d41d",
+            "name": "Ruby Parçacıklı Pembe Çikolata (250 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d136c6ceac63ceace0d4d9",
+        "name": "Sıcak Kahveler",
+        "items": [
+          {
+            "id": "68d136b7ceac63ceace0d4d3",
+            "name": "Double Damla Sakızlı Dibek Kahvesi (90 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d136a2ceac63ceace0d4ba",
+            "name": "Double Dibek Kahvesi (90 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13759ceac63ceace0d543",
+            "name": "Dibek Kahvesi (60 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13773ceac63ceace0d55a",
+            "name": "Türk Kahvesi (60 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1379cceac63ceace0d589",
+            "name": "Damla Sakızlı Türk Kahvesi (60 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d137bfceac63ceace0d5b0",
+            "name": "Double Sütlü Türk Kahvesi (90 ml)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d137e9ceac63ceace0d604",
+            "name": "Menengiç Kahve (60 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13805ceac63ceace0d612",
+            "name": "Double Türk Kahvesi (90 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13857ceac63ceace0d668",
+            "name": "Double Menengiç Kahvesi (90 ml)",
+            "description": null,
+            "price": 125.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13875ceac63ceace0d683",
+            "name": "Sütlü Türk Kahvesi (60 ml)",
+            "description": null,
+            "price": 130.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d132faceac63ceace0d10d",
+        "name": "Soğuk İçecekler",
+        "items": [
+          {
+            "id": "68d13321ceac63ceace0d125",
+            "name": "Greena (200 ml)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13181ceac63ceace0cf5b",
+            "name": "Churchill (200 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1333fceac63ceace0d17f",
+            "name": "Limonata (250 ml)",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13350ceac63ceace0d18c",
+            "name": "Berry Hibiscus (250 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13376ceac63ceace0d1a5",
+            "name": "Çilekli Kokteyl (200 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13396ceac63ceace0d1df",
+            "name": "Orman Meyveli Kokteyl (200 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d133b6ceac63ceace0d1ee",
+            "name": "Karadut Kokteyl (200 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d133cdceac63ceace0d1fb",
+            "name": "Mangolu Kokteyl (200 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d133e7ceac63ceace0d202",
+            "name": "Elmalı Kokteyl (200 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1340cceac63ceace0d213",
+            "name": "Kivili Kokteyl (200 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1342dceac63ceace0d218",
+            "name": "Karpuzlu Kokteyl (200 ml)",
+            "description": null,
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68d1306fceac63ceace0cda1",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "68d132d7ceac63ceace0d0fd",
+            "name": "Pepsi (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543307463_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d132e6ceac63ceace0d106",
+            "name": "Pepsi Zero Sugar (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543325283_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d1326aceac63ceace0d0b9",
+            "name": "Yedigün (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543337905_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d1327dceac63ceace0d0c2",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543348777_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d1322aceac63ceace0d038",
+            "name": "Tropicana Şeftali Meyve Suyu (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543414009_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d1323cceac63ceace0d074",
+            "name": "Tropicana Vişne Meyve Suyu (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543425014_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d1324dceac63ceace0d07e",
+            "name": "Tropicana Karışık Meyve Suyu (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543520318_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d1325cceac63ceace0d0af",
+            "name": "Tropicana Kayısı Meyve Suyu (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543532795_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d1329eceac63ceace0d0d4",
+            "name": "Lipton Ice Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543585780_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d132b0ceac63ceace0d0db",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543598441_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d132c0ceac63ceace0d0e5",
+            "name": "Lipton Ice Tea Mango (330 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543610275_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d131d5ceac63ceace0cfa1",
+            "name": "Eker Ayran (300 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543637186_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68d131acceac63ceace0cf7e",
+            "name": "Kırmızı İtalyan Soda (200 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d131c3ceac63ceace0cf8e",
+            "name": "Mavi İtalyan Soda (200 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d131e5ceac63ceace0cfad",
+            "name": "Elmalı Soda (200 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d131f8ceac63ceace0cfed",
+            "name": "Limonlu Soda (200 ml)",
+            "description": null,
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d13160ceac63ceace0cf2d",
+            "name": "Maden Suyu (200 ml)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68d1343bceac63ceace0d23e",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758543660259_500x375.webp",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,776 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "61b078a17763f1dd337e4366",
+  "name": "Sütlü Tatlı Dünyası, Çankaya (Bademlidere Mah.)",
+  "slug": "sutlu-tatli-dunyasi-cankaya-bademlidere-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Pasta & Tatlı"
+  ],
+  "rating": 3.9,
+  "rating_count": 4000,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "6291d9b281443e194663feb4",
+            "name": "Orman Meyveli Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277869260_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7286069e7b417e8a2231c",
+            "name": "Tiramisu",
+            "description": "Kedi dili bisküvisi, labne peyniri ve espresso kahve sosu",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709391168036_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b728642f79a012682c8b45",
+            "name": "Fırın Sütlaç",
+            "description": "Cam kase, çiftlik sütü ve soğuk pres pirinç unu",
+            "price": 248.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281587947_500x375.webp",
+            "is_available": false
+          },
+          {
+            "id": "61b72862b3e852082511f9f2",
+            "name": "Geleneksel Kazandibi",
+            "description": "Taze çiftlik sütü, taş değirmende soğuk pres pirinç unu, salamura tavuk göğsü",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279653707_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7286a0e88160663c14521",
+            "name": "Supangle",
+            "description": "Belçika çikolatası, brownie keki ve krem patisserie",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279676179_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "628765d060de9f760f40f5c3",
+        "name": "Cheesecake",
+        "items": [
+          {
+            "id": "6288c41c16ad9979036df114",
+            "name": "Çikolatalı Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277818901_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6290e81a218d8492ef56b0b5",
+            "name": "Limonlu Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277844159_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6291d9b281443e194663feb4",
+            "name": "Orman Meyveli Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277869260_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6287662a5452a81b639edf8d",
+            "name": "Fıstıklı Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277898355_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "629742609b8b2e0d65e63660",
+            "name": "Oreo Çilek Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277917301_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62876607911514200a9e1ffd",
+            "name": "Portakallı Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277939022_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6290896f218d8476aa506c4e",
+            "name": "Lotus Karamel Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277959713_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62974283072a61831b3e3855",
+            "name": "Oreo Vişne Cheesecake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710277981434_500x375.webp",
+            "is_available": false
+          },
+          {
+            "id": "664315368c100b176d41b3e6",
+            "name": "Karamelli Cheescake",
+            "description": null,
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1715694931421_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61b7285112f2be2f8303ecb0",
+        "name": "Kaşık Pasta",
+        "items": [
+          {
+            "id": "61b7285db82fc262789e2740",
+            "name": "Kaşık Pasta",
+            "description": "Çikolatalı krem patisserie, burownie kek, muz, çilek",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279622899_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7285f0e18499feffc1f6f",
+            "name": "Çilekli Mois",
+            "description": "Çikolatalı mois kreması, çikolatalı kek, çilek",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709393041243_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7286069e7b417e8a2231c",
+            "name": "Tiramisu",
+            "description": "Kedi dili bisküvisi, labne peyniri ve espresso kahve sosu",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709391168036_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61b72851b3e852f33311f7ca",
+        "name": "Sütlü Tatlı",
+        "items": [
+          {
+            "id": "61b728642f79a012682c8b45",
+            "name": "Fırın Sütlaç",
+            "description": "Cam kase, çiftlik sütü ve soğuk pres pirinç unu",
+            "price": 248.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281587947_500x375.webp",
+            "is_available": false
+          },
+          {
+            "id": "61b72862b3e852082511f9f2",
+            "name": "Geleneksel Kazandibi",
+            "description": "Taze çiftlik sütü, taş değirmende soğuk pres pirinç unu, salamura tavuk göğsü",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279653707_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7286a0e88160663c14521",
+            "name": "Supangle",
+            "description": "Belçika çikolatası, brownie keki ve krem patisserie",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279676179_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b72869d0fc6a8cfc9d3a2d",
+            "name": "Bademli Keşkül",
+            "description": "Badem, hindistan cevizi ve toz fıstık",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279720193_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b728676939df68f711097f",
+            "name": "Profiterol",
+            "description": "Sütlü callebaut belçika çikolatası ,  krem patisserie  (4 adet pate a choux)",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709390112919_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b72861c0b93dd35695a2b1",
+            "name": "Geleneksel Tavukgöğsü",
+            "description": "Taze çiftlik sütü, taş değirmende soğuk pres pirinç unu, salamura tavuk göğsü ile",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279743322_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b72868b82fc24cb49e2874",
+            "name": "İncirli Muhallebi",
+            "description": "Doğranmış kuru incir ve ceviz",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279762513_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7286512f2be2faf03ef96",
+            "name": "Sakızlı Muhallebi",
+            "description": "Köpük muhallebi, damla sakızı ve antep fıstığı",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709393473151_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b728636939df9475110923",
+            "name": "Alaçatı Muhallebisi",
+            "description": "Cam kase, biscottino, antep fıstığı, fındık, ceviz, badem ve mereng",
+            "price": 340.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710279789324_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "687b7266ceac63ceac83a1d4",
+            "name": "Fıstıklı Kazandibi",
+            "description": null,
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b29c12ceac63ceacf35a66",
+            "name": "Portakal & Bademli Kazandibi",
+            "description": "Portakal ve badem",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773312981937_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61b72852b3e852774c11f7db",
+        "name": "Special Tatlı",
+        "items": [
+          {
+            "id": "61b7287669e7b450d5a2255c",
+            "name": "Vişolatte",
+            "description": "Vişne sosu, Brownie kek, Espressolu çikolata krema",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709393243822_500x375.webp",
+            "is_available": false
+          },
+          {
+            "id": "61b7286cb3e852549211fb6d",
+            "name": "Bask Cheesecake",
+            "description": "Dilim olarak ve tercih edeceğiniz sos ile",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710278056320_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7286b69e7b40e10a22445",
+            "name": "Çikolatalı Mousse Cake",
+            "description": "Çikolatalı ıslak kek, çikolatalı mousse, çikolata sos ve fıstık draje",
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281114553_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "62dbecb078bcb6a6dd9480fb",
+            "name": "Vişneli Mousse Cake",
+            "description": null,
+            "price": 345.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281136905_500x375.webp",
+            "is_available": false
+          },
+          {
+            "id": "65b11e2e20ae13ba2ac5e386",
+            "name": "Lotus Espresso",
+            "description": "Espressolu kek, lotus biscoff, lotus bisküvi ve özel krema ile",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709391398558_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "681f1f2bceac63ceac1e4bd3",
+            "name": "Karamelli Trileçe",
+            "description": null,
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61b728522f79a0bb812c891e",
+        "name": "Kavanoz Tatlı",
+        "items": [
+          {
+            "id": "61b728740e88160ca5c1468b",
+            "name": "Muzlu Mag",
+            "description": "Mag pudingi ve burçak pisküvi",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281184602_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7287012f2be3f2003f144",
+            "name": "Beyaz Çikolatalı Profiterol",
+            "description": "Frambuaz, çilek, belçika çikolatası ve krem patisserie",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709389981744_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b728750e18490bdffc2627",
+            "name": "Krokanlı Karamelli Profiterol",
+            "description": "Gold callebaut belçika çikolatası, krokan(badem,ceviz,fındık,antep fıstığı), ev yapımı karamel, krem patisserie (4 adet pate a choux)",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709392250685_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b728716939dfb7c1110b8c",
+            "name": "Oreolu Mag",
+            "description": "Mag pudingi, çikolata sos ve oreo",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709392946814_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7287c6939df7d29110ce2",
+            "name": "Çilekli Mag",
+            "description": "Çilek, fransız mag pudingi, burçak bisküvi ve vanilya",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709391849073_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b72877b3e852a95711fccf",
+            "name": "Orman Meyveli Mag",
+            "description": "Çiftlik sütü, mag pudingi, brownie, böğürtlen, frambuaz, çilek, yaban mersini ve frenk üzümü",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710278862575_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b728732a15f21c0662a71e",
+            "name": "Fıstık Drajeli Profiterol",
+            "description": "fıstık draje, belçika çikolata ve krem patisserie",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1709392009724_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7286f6939df816f110b38",
+            "name": "Snickers Cup",
+            "description": "Yer fıstığı, karamel, nuga krema, devils cake ve çikolata sos",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281216650_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7287bb0acf40b3e0bae79",
+            "name": "Bal Kabaklı Cup",
+            "description": "Kabak tatlısı, tahinli muhallebi ve ceviz",
+            "price": 319.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281236762_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69cce157ceac63ceac0914d7",
+            "name": "Lemon Berry",
+            "description": "Özel Krema, Limon Sosu ve Özel Bisküvi",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775034691995_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69ccf045ceac63ceac0939cd",
+            "name": "Raffaello Cup",
+            "description": "File Badem, Beyaz Ganaj Çikolata ve Hindistan cevizi",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1775038527092_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "61b7285312f2be261003ecf0",
+        "name": "Tatlı (4 Kişilik)",
+        "items": [
+          {
+            "id": "61b7288212f2be482003f623",
+            "name": "Geleneksel Kazandibi (4 Kişilik)",
+            "description": "Taze çiftlik sütü, taş değirmende soğuk pres pirinç unu, salamura tavuk göğsü ile",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281264487_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7287dd0fc6a61109d3cda",
+            "name": "Meyveli Dökme Profiterol (4 Kişilik)",
+            "description": "Mevsim meyveleri, belçika çikolatası ve krem patisserie",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710278243899_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b72881650f4c0ac91a2126",
+            "name": "Fıstıklı Drajeli Profiterol (4 Kişilik)",
+            "description": "Fıstık draje, belçika çikolatası ve krem patisserie",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710278272225_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b728800e88166381c14826",
+            "name": "Klasik Profiterol (4 Kişilik)",
+            "description": "Belçika çikolatası ve krem patisserie",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710278300621_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7287eb82fc277899e2afc",
+            "name": "Beyaz Çikolatalı Dökme Profiterol (4 Kişilik)",
+            "description": "Frambuaz, çilek, belçika çikolatası ve krem patisserie",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710278334914_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "628767d160de9f1376410fb3",
+            "name": "Geleneksel Tavukgöğsü (4 Kişilik)",
+            "description": "Taze çiftlik sütü, taş değirmende soğuk pres pirinç unu, salamura tavuk göğsü",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281287305_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "61b7287f650f4c44441a20ea",
+            "name": "Karamelli Dökme Profiterol (4 Kişilik)",
+            "description": "Fındık, ceviz, badem krokan ve karamel sos",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710278367168_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "635507372ef1290389527c82",
+        "name": "Yaş Pasta (4 - 6 Kişilik)",
+        "items": [
+          {
+            "id": "635e6dfb6f56ba6decbfe558",
+            "name": "Çilekli Yaş Pasta (4-6 Kişilik)",
+            "description": "(Görsel değişiklik gösterebilir.)",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281348223_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "65533925913e821b39eb3baa",
+            "name": "Muzlu Çikolatalı Yaş Pasta (4 - 6 Kişilik)",
+            "description": "(Görsel değişiklik gösterebilir.)",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281421478_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "655339cde0819972acad4572",
+            "name": "Frambuazlı Yaş Pasta (4 - 6 Kişilik)",
+            "description": "(Görsel değişiklik gösterebilir.)",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281451112_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "655339e591a25a5e07e1ba5a",
+            "name": "Çikolatalı Yaş Pasta (4 - 6 Kişilik)",
+            "description": "(Görsel değişiklik gösterebilir.)",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1710281483303_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "660c1c64a1ce0060feb1a23e",
+            "name": "Frambuazlı Çikolatalı Yaş Pasta (4 - 6 Kişilik)",
+            "description": "(Görsel değişiklik gösterebilir.)",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1719308773829_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "660c1ccaa1ce0060feb1adbf",
+            "name": "Muzlu Çilekli Yaş Pasta (4 - 6 Kişilik)",
+            "description": "(Görsel değişiklik gösterebilir.)",
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1719308731487_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "664b3d95b46c900d4474da6b",
+            "name": "Kestaneli Yaş Pasta (4-6 Kişilik)",
+            "description": "(Görsel değişiklik gösterebilir.)",
+            "price": 1150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1765016469341_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69540965ceac63ceac82d59c",
+            "name": "Limonlu ve frambuazlı Yaş Pasta (4-6 Kişilik) 1",
+            "description": null,
+            "price": 1000.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1774621213965_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "62694a5f74767998d50416bf",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6287969a339c494979aa6d11",
+            "name": "Coca Cola Zero (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698664575266_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6269577f5d825ede99e6d452",
+            "name": "Sprite (250 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6269579e0fd50714414ced45",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "655337cb8b694bb3bf82198c",
+            "name": "Lipton Ice Tea Şeftali ( 330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707301985546_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "655337e5a5d1d318262f84ee",
+            "name": "Lipton Ice Tea Limon (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707301985546_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "655338b5b88751a574dfaa91",
+            "name": "Lipton Ice Tea Karpuzlu (330 ml)",
+            "description": null,
+            "price": 102.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707301985546_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "655338d96abfdef28c0f5c97",
+            "name": "Lipton Ice Tea Mango ve Egzotik Meyve (330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707301985546_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "65eb3bbfad767fe06a3cf693",
+            "name": "Coca  Cola Şekersiz (1 L)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f1854d501c21dd87bdb9cd",
+            "name": "Tropicana Vişne ( 330 ml )",
+            "description": null,
+            "price": 101.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "65f185585b581231b38aef7a",
+            "name": "Tropicana Karışık ( 330 ml)",
+            "description": null,
+            "price": 100.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

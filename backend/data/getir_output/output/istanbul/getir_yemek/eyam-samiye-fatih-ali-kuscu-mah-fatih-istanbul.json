@@ -1,0 +1,784 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T18:06:46.302441+00:00",
+  "id": "679259bb0423d945d0ec9a45",
+  "name": "Eyam Şamiye, Fatih (Ali Kuşçu Mah.)",
+  "slug": "eyam-samiye-fatih-ali-kuscu-mah-fatih-istanbul",
+  "cuisine_types": [
+    "Döner",
+    "Pizza",
+    "Tavuk"
+  ],
+  "rating": 4.8,
+  "rating_count": 20,
+  "min_order_amount": null,
+  "delivery_fee": null,
+  "delivery_time_min": null,
+  "delivery_time_max": null,
+  "is_open": true,
+  "discounts": [],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caee9",
+            "name": "Fried Chicken Broasted",
+            "description": "Çıtır patates kızartması ve sarımsak soslu tavuk but ile",
+            "price": 399.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf5c",
+            "name": "Patates Kızartması",
+            "description": "Sarımsak sosu ile",
+            "price": 179.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf0e",
+            "name": "Arap Döner Porsiyon",
+            "description": "Baharatlarla marine edilmiş ince dilimlenmiş tavuk dilimleri, çıtır patates kızartması ve sarımsak sosu ile",
+            "price": 369.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf4d",
+            "name": "Tavuk Döner Dürüm",
+            "description": "Tandır ekmeğine, baharatlarla marine edilmiş ince dilimlenmiş tavuk parçaları ve sarımsak sosu ile",
+            "price": 199.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf2f",
+            "name": "Humus",
+            "description": "Zeytinyağlı limon suyu, sarımsak, kimyon, karabiber ve nohut karışımı ile",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caeda",
+        "name": "Çorbalar",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caeef",
+            "name": "Mantar Çorbası",
+            "description": "Sarımsak, beşamel sos, mısır ve doğranmış soğan ile",
+            "price": 199.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf0a",
+            "name": "Mercimek Çorbası",
+            "description": "Mercimek, doğranmış soğan, rendelenmiş havuç, sarımsak ve beşamel sos ile",
+            "price": 175.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caedb",
+        "name": "Pizzalar",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caefd",
+            "name": "Dört Mevsim Pizza Orta Boy",
+            "description": "İnce, kabarık hamur, özel peynir, yeşilbiber, soğan, taze domates ve mevsim sebzeleri ile",
+            "price": 549.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf1f",
+            "name": "Filadelfia Pizza Orta Boy",
+            "description": "Taze ızgara tavuk, yeşilbiber, soğan ve taze domates ile",
+            "price": 549.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf29",
+            "name": "Margarita Pizza Orta Boy",
+            "description": "Çıtır, ince hamura, domates sos ve 2 kat mozzarella peyniri ile",
+            "price": 549.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e350ceac63ceac26572d",
+            "name": "Tavuk Döner Pizza Orta Boy",
+            "description": null,
+            "price": 549.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caedd",
+        "name": "Sandviçler",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caeeb",
+            "name": "Kranşi Sandviç",
+            "description": "Somun ekmek arasına, kekik, soya soslu karışık mevsim sebze ve baharatlı tavuk göğsü ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caefa",
+            "name": "Zinger Sandviç",
+            "description": "Somun ekmek arasına, çıtır tavuk parçaları, patates kızartması, cheddar peyniri, acılı sarımsak sos, marul ve lâhana salatası ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf05",
+            "name": "Tavuk Burger Sandviç",
+            "description": "Sarımsaklı sos, kızarmış tavuk parçaları ve çıtır patatesli lahana salatası ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf26",
+            "name": "Şanghay Sandviç",
+            "description": "Şanghay soslu tavuk parçaları, kırmızılahana, sarımsak sosu ve çıtır patates kızartması ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf36",
+            "name": "Meksika Sandviç",
+            "description": "Somun ekmek arasına karışık mevsim sebze ve meksika baharatlı tavuk göğsü ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf3d",
+            "name": "Fajita Sandviç",
+            "description": "Somun ekmek arasına, kekik, soya soslu karışık mevsim sebze ve baharatlı tavuk göğsü ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf4a",
+            "name": "Şiş Tavuk Sandviç",
+            "description": "Izgarada marine edilmiş tavuk parçaları, sarımsak sosu ve patates kızartması ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf58",
+            "name": "Supreme Sandviç",
+            "description": "Somun ekmek arasına, kızarmış tavuk, mantar, kaşar peyniri, mayonez, marul ve patates kızartması ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf5d",
+            "name": "Francisco Sandviç",
+            "description": "Somun ekmek arasına, tavuk göğsü, zencefil, kırmızıbiber, tuz, köri, karabiber ve soya sosu ile",
+            "price": 299.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf5e",
+            "name": "Patatesli Sandviç",
+            "description": "Arap ekmeğine, çıtır patates kızartması, karışık mevsim sebzeleri, mozzarella peyniri ve sarımsak sosu ile",
+            "price": 179.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263f81ceac63ceac245d4f",
+            "name": "Et Burger",
+            "description": null,
+            "price": 429.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caedf",
+        "name": "Fast Foods",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caee9",
+            "name": "Fried Chicken Broasted",
+            "description": "Çıtır patates kızartması ve sarımsak soslu tavuk but ile",
+            "price": 399.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf0f",
+            "name": "Cordon Bleu",
+            "description": "Tavuk göğsü ile sarılmış salam eti, bir kat yumuşak peynir ve haşlanmış mevsim sebze ile",
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf19",
+            "name": "Zürich Menü",
+            "description": "İsviçre marine edilmiş etler, özel sos ile yağda kızartılır ve günün pilavı ile",
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf24",
+            "name": "Subrim Menu",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf34",
+            "name": "Eskalop (Porsiyon)",
+            "description": "Peynir, kremaya batırılmış kızarmış tavuk parçaları, çıtır patates kıazartması, lahana salatası ve sarımsak sosu ile",
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf57",
+            "name": "Mandi Tavuk",
+            "description": "Pirinç çeşitleri ve özel baharatlarla pişirilmiş tavuk ile",
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf5c",
+            "name": "Patates Kızartması",
+            "description": "Sarımsak sosu ile",
+            "price": 179.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6826439fceac63ceac245ebc",
+            "name": "Krispy Tavuk Menü",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6826491fceac63ceac2460ec",
+            "name": "Laroşa Menü",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e1d1ceac63ceac265725",
+            "name": "Kızarmış Kanat Menü",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e22cceac63ceac265728",
+            "name": "Sarımsaklı Tavuk Menü",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caee0",
+        "name": "Dönerler",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caf0e",
+            "name": "Arap Döner Porsiyon",
+            "description": "Baharatlarla marine edilmiş ince dilimlenmiş tavuk dilimleri, çıtır patates kızartması ve sarımsak sosu ile",
+            "price": 369.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf23",
+            "name": "Pilav Üstü Döner Soslu",
+            "description": "Baharatlarla marine edilmiş ince dilimlenmiş tavuk parçaları, beyaz pirinç pilavı, sarımsaklı krema ve çıtır patates kızartması ile",
+            "price": 459.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf4d",
+            "name": "Tavuk Döner Dürüm",
+            "description": "Tandır ekmeğine, baharatlarla marine edilmiş ince dilimlenmiş tavuk parçaları ve sarımsak sosu ile",
+            "price": 199.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf50",
+            "name": "Duble Tavuk Dürüm",
+            "description": "Orijinal baharatlarla marine edilmiş ince dilimlenmiş tavuk parçaları ile doldurulmuş ekmek ve sarımsak sosu ile",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263c40ceac63ceac245bc6",
+            "name": "Double Arap Döner (Porsiyon)",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263c88ceac63ceac245bfa",
+            "name": "Döner Sandviç",
+            "description": null,
+            "price": 224.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263cafceac63ceac245c32",
+            "name": "Sandviç Döner (Porsiyon)",
+            "description": null,
+            "price": 429.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263d1fceac63ceac245c5d",
+            "name": "Döner Banee (Porsiyon)",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263dafceac63ceac245c93",
+            "name": "Humus Üstü Döner Tabağı",
+            "description": null,
+            "price": 459.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263e31ceac63ceac245cc7",
+            "name": "Ekstra Döner (Porsiyon)",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68263ea1ceac63ceac245d0b",
+            "name": "Sade Döner (Porsiyon)",
+            "description": null,
+            "price": 559.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caee1",
+        "name": "Yöresel Lezzetler",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caf37",
+            "name": "Falafel Dürüm",
+            "description": "Sac ekmeğine, gevrek falafel ve karışık mevsim sebzeleri ile",
+            "price": 169.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf46",
+            "name": "Falafel Tabağı",
+            "description": "Falafel (10 parça), tahin sosu ve salata ile",
+            "price": 259.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf4b",
+            "name": "Arap Falafel (Porsiyon)",
+            "description": "Tarator, mevsim sebze salatası ve çıtır kızarmış falafel ile",
+            "price": 259.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "682638d5ceac63ceac245a77",
+            "name": "Falafel Sandviç",
+            "description": null,
+            "price": 179.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caee2",
+        "name": "Yan Lezzetler",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caf2f",
+            "name": "Humus",
+            "description": "Zeytinyağlı limon suyu, sarımsak, kimyon, karabiber ve nohut karışımı ile",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf01",
+            "name": "Izgara İçli Köfte",
+            "description": "Et, soğan, koyun yağı ve ince bulgur ile",
+            "price": 149.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf0d",
+            "name": "Kızartma İçli Köfte",
+            "description": "Et, soğan ve ince bulgur ile",
+            "price": 149.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf17",
+            "name": "Börek (Adet)",
+            "description": "Peynirli çıtır börek ile",
+            "price": 64.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caef5",
+            "name": "Mütebbel",
+            "description": "Nar, maydanoz, sarımsak, limon suyu ve ızgara patlıcan ile",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf4c",
+            "name": "Sarımsak Sos",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e66bceac63ceac265746",
+            "name": "Zeytinyağlı Sarma",
+            "description": null,
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e76cceac63ceac265749",
+            "name": "Biryanı Pilav Tabağı",
+            "description": null,
+            "price": 149.91,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e786ceac63ceac26574b",
+            "name": "Mandi Pilav Tabağı",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caee3",
+        "name": "Salatalar",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caf0c",
+            "name": "Sezar Salata",
+            "description": "Kızarmış marine edilmiş tavuk parçaları, kızarmış ekmek, parmesan peyniri, marul, havuç ve zeytinyağı ile",
+            "price": 299.9,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf15",
+            "name": "Fattuş",
+            "description": "Limon suyu, nar pekmezi, zeytinyağı, ince sarımsak, karışık mevism sebzeleri ve kızarmış ekmek ile",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf31",
+            "name": "Yunan Salatası",
+            "description": "Zeytinyağlı domates, doğranmış soğan, limon suyu ve havuç ile",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf38",
+            "name": "Pasta Salata",
+            "description": "Zeytin, zeytinyağı, mısır ve yeşilbiberli makarna ile",
+            "price": 248.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf47",
+            "name": "Tebbule",
+            "description": "Maydanoz, domates, doğranmış soğan, ince bulgur, limon suyu ve zeytinyağı ile",
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e41aceac63ceac265730",
+            "name": "Mevsim Salata",
+            "description": null,
+            "price": 249.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "681da6cfceac63ceac1caee4",
+        "name": "İçecekler",
+        "items": [
+          {
+            "id": "681da6cfceac63ceac1caf0b",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 79.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf21",
+            "name": "Ayran (280 ml)",
+            "description": null,
+            "price": 59.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "681da6cfceac63ceac1caf30",
+            "name": "Su (330 ml)",
+            "description": null,
+            "price": 40.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e8e9ceac63ceac265755",
+            "name": "Kola Turka (330 ml)",
+            "description": null,
+            "price": 79.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e900ceac63ceac265757",
+            "name": "Niğde Gazozu (250 ml)",
+            "description": null,
+            "price": 59.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e957ceac63ceac26575d",
+            "name": "Sade Soda (200 ml)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6827e9b1ceac63ceac265766",
+            "name": "Menderin Diet Cola (330 ml)",
+            "description": null,
+            "price": 79.99,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

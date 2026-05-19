@@ -1,0 +1,844 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T20:40:19.965207+00:00",
+  "id": "6234a4d8171eba1e4ffc0f06",
+  "name": "Nachos Burger, Çankaya (Kavaklıdere Mah.)",
+  "slug": "nachos-burger-cankaya-kavaklidere-mah-cankaya-ankara",
+  "cuisine_types": [
+    "Burger",
+    "Dünya Mutfağı"
+  ],
+  "rating": 4.5,
+  "rating_count": 750,
+  "min_order_amount": 0.0,
+  "delivery_fee": 0.0,
+  "delivery_time_min": 30,
+  "delivery_time_max": 40,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Gurme Lezzetler"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "69df7718ceac63ceac1b285c",
+            "name": "Pepsi'li Fırsat Menüsü",
+            "description": "Nachos cheese burger, patates kızartması ve Pepsi (200 ml) ile",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6981c3c8ceac63ceacb92b3b",
+            "name": "Nachos Glutensiz Burger (Çocuk Menüsü)",
+            "description": "Glutensiz burger ekmeği 75 g, 110 g burger köftesi, dilim cheddar, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06bf9ceac63ceace494a1",
+            "name": "Nachos Glutensiz Big Burger",
+            "description": "Glutensiz burger ekmeği 100 g, 2 adet 110 g burger köftesi, çift dilim cheddar, ıceberg, turşu, karamelize soğan, domates, kızarmış patates",
+            "price": 1030.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06da9ceac63ceace49601",
+            "name": "Nachos Glutensiz Köz Burger",
+            "description": "Glutensiz burger ekmeği 100 g, 110 g burger köftesi, köz biber, köz soğan, köz domates, dilim cheddar, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06e9fceac63ceace496cd",
+            "name": "Nachos Glutensiz Füme Burger",
+            "description": "Glutensiz burger ekmeği, 100 g, 110 g burger köftesi, füme, dilim cheddar, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "69df7716ceac63ceac1b2855",
+        "name": "Pepsi'li Fırsat Menüleri",
+        "items": [
+          {
+            "id": "69df7718ceac63ceac1b285c",
+            "name": "Pepsi'li Fırsat Menüsü",
+            "description": "Nachos cheese burger, patates kızartması ve Pepsi (200 ml) ile",
+            "price": 675.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69df772bceac63ceac1b2876",
+            "name": "Pepsi'li Fırsat Menüsü 2",
+            "description": "Nachos klasik burger ve Pepsi (200 ml) ile",
+            "price": 465.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1773140786810_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "697e3fb0ceac63ceacb5fef2",
+        "name": "Glutensiz Ürünler",
+        "items": [
+          {
+            "id": "6981c3c8ceac63ceacb92b3b",
+            "name": "Nachos Glutensiz Burger (Çocuk Menüsü)",
+            "description": "Glutensiz burger ekmeği 75 g, 110 g burger köftesi, dilim cheddar, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 620.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6981c438ceac63ceacb92c1c",
+            "name": "Nachos Glutensiz Sandviç",
+            "description": "Glutensiz ekmek, kaşar peyniri, iceberg, marul, salam , domates, patates kızartması",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06bf9ceac63ceace494a1",
+            "name": "Nachos Glutensiz Big Burger",
+            "description": "Glutensiz burger ekmeği 100 g, 2 adet 110 g burger köftesi, çift dilim cheddar, ıceberg, turşu, karamelize soğan, domates, kızarmış patates",
+            "price": 1030.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06ce1ceac63ceace4955e",
+            "name": "Nachos Glutensiz Cheese Burger",
+            "description": "Glutensiz burger ekmeği 100 g, 110 g burger köftesi, dilim cheddar, ıceberg, turşu, karamelize soğan, domates, kızarmış patates",
+            "price": 720.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06da9ceac63ceace49601",
+            "name": "Nachos Glutensiz Köz Burger",
+            "description": "Glutensiz burger ekmeği 100 g, 110 g burger köftesi, köz biber, köz soğan, köz domates, dilim cheddar, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06e3dceac63ceace49665",
+            "name": "Nachos Glutensiz Mushroom Burger",
+            "description": "Glutensiz burger ekmeği 100 g, 110 g burger köftesi, kavrulmuş trüf soslu mantar, dilim cheddar, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06e9fceac63ceace496cd",
+            "name": "Nachos Glutensiz Füme Burger",
+            "description": "Glutensiz burger ekmeği, 100 g, 110 g burger köftesi, füme, dilim cheddar, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a06f1cceac63ceace49767",
+            "name": "Nachos Glutensiz Köfte",
+            "description": "Glutensiz sandviç ekmeği 75 g, 110 g köfte, ıceberg, turşu, domates",
+            "price": 690.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a0701eceac63ceace497e3",
+            "name": "Nachos Glutensiz Izgara Tavuk",
+            "description": "Glutensiz ekmek 100 g, 250 g kajun baharatlı çıtır tavuk, marul ve patates kızartması",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a0727fceac63ceace498b6",
+            "name": "Nachos Glutensiz Ekler Pasta (1 Adet)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69a0742aceac63ceace4995b",
+            "name": "Nachos Glutensiz Melanzane Burger",
+            "description": "Glutensiz burger ekmeği 100 g, 110 g burger köftesi, dilim ızgara patlıcan, köz domates, iceberg, turşu, karamelize soğan, domates ve kızarmış patates",
+            "price": 735.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ac4ecbceac63ceaceef32d",
+            "name": "Glutensiz Sade Ekmek (6 Adet, 75 g)",
+            "description": null,
+            "price": 50.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69ac4f32ceac63ceaceef337",
+            "name": "Glutensiz Sade Ekmek (100 g)",
+            "description": "Has hamburger ekmek",
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "67077706ceac63ceac0ec5af",
+        "name": "2 Al 1 Öde",
+        "items": [
+          {
+            "id": "67077746ceac63ceac0ec5b5",
+            "name": "2 Al 1 Öde (Klasik Burger) (Haftanın Kampanyası)",
+            "description": "Nachos klasik burger (2 adet), patates kızartması ve 2 adet ayran (170 ml) ile",
+            "price": 880.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1730460648062_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67121e2eceac63ceac45db33",
+            "name": "2 Al 1 Öde Tavuk Köfte Burger (Acılı Veya Sade) (2 Adet)",
+            "description": "Nachos tavuk burger (özel baharatlarla yoğrulmuş el yapımı tavuk köfte burger (120 g), cheddar peyniri, şefin dip sos ve patates kızartması ile)",
+            "price": 550.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1732197830444_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6903bc2aceac63ceac195bbe",
+            "name": "2 Al 1 Öde Çıtır Tavuk Burger (Nisan Ayı Kampanyası)",
+            "description": "Çıtır tavuk burger (2 adet), patates kızartması ve 2 adet ayran (170 ml)",
+            "price": 600.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1762104982277_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66f96624ceac63ceac802c57",
+        "name": "Kasım Ayına Özel Menü",
+        "items": [
+          {
+            "id": "66fabe5aceac63ceac80da2f",
+            "name": "Nachos Burger Menü 2",
+            "description": "Özel nachos burger (burger köftes (110 g), iceberg marul, domates, turşu, karamelize soğan, şefin özel sosu), patates kızartması ve ayran (170 ml) ile",
+            "price": 520.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727708752847_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6790944dceac63ceac838cb4",
+            "name": "Nachos Kajun Burger",
+            "description": "250 g kajun baharatlı çıtır tavuk, şefin dip sosu, guacamole dip sos ve patates kızartması",
+            "price": 425.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738918030359_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6790946bceac63ceac838cc5",
+            "name": "Nachos Kajun Dürüm",
+            "description": "250 g kajun baharatlı çıtır tavuk, şefin dip sosu, ince kıyım iceberg marul, guacamole dip sos ve patates kızartması",
+            "price": 424.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1738663922856_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "68d7c9c9ceac63ceace7ac8c",
+            "name": "Tavuk Külbastı",
+            "description": "180 g tavuk külbastı, mevsim yeşillikleri ve tortilla yufka ile",
+            "price": 420.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1758972312331_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6239d022f073da0281fa2522",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "66854a7cceac63ceac5cb8ba",
+            "name": "Nachos Klasik Burger",
+            "description": "Burger köftesi (110 g), ince kıyım iceberg, domates, turşu, karamelize soğan, şefin dip sosu",
+            "price": 390.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1722437893079_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854ac4ceac63ceac5cb92b",
+            "name": "Nachos Cheese Burger",
+            "description": "110 g Burger Köftesi, Cheddar, İnce kıyım Iceberg, Domates, Turşu, Karamelize Soğan, Şefin Dip Sosu ve Kızarmış Patates",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011440728_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854b1eceac63ceac5cb955",
+            "name": "Nachos Big Burger",
+            "description": "2 adet 110 g burger köftesi, çift dilim cheddar, ince kıyım iceberg, domates, turşu, şefin dip sosu ve kızarmış patates",
+            "price": 630.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011531978_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854b69ceac63ceac5cb984",
+            "name": "Nachos Acı Burger",
+            "description": "110 gr Burger Köftesi, İnce Kıyım Iceberg, Karamelize Soğan, Közlenmiş Chili Biber, Sriracha Dip Sos ve Kızarmış Patates",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011602770_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854bc3ceac63ceac5cb9ee",
+            "name": "Nachos Melanzane Burger",
+            "description": "110 g burger köftesi, ince dilim ızgara patlıcan, köz domates, karamelize soğan, rende parmesan, şefin dip sosu ve kızarmış patates",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011680805_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854c0fceac63ceac5cba16",
+            "name": "Nachos Köz Burger",
+            "description": "110 gr Burger Köftesi, Köz Biber, Köz Soğan, Köz Domates, Şefin Dip Sosu ve Kızarmış Patates",
+            "price": 490.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011785254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854c77ceac63ceac5cba36",
+            "name": "Nachos Mushroom Burger",
+            "description": "110 g Burger Köftesi, Kavrulmuş Mantar, Karamelize Soğan, Trüflü Mantar Ragu Şefin Dip Sosu ve Kızarmış Patates",
+            "price": 489.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011877333_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854ca9ceac63ceac5cba42",
+            "name": "Nachos Füme Burger",
+            "description": "110 gr Burger Köftesi, İnce Kıyım Iceberg, Domates, Turşu, Füme Antrikot-Kaburga, Karamelize Soğan, Cheddar Peyniri, Şefin Dip Sosu ve Kızarmış Patates",
+            "price": 505.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011939005_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854cddceac63ceac5cba50",
+            "name": "Nachos Çıtır Tavuk Burger",
+            "description": "120 g Tempura Tavuk Göğsü, Cheddar Peyniri, İnce Kıyım Iceberg, Domates, Turşu, Marine Lahana Dip Sos ve Kızarmış Patates",
+            "price": 365.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720011966401_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854d22ceac63ceac5cba77",
+            "name": "Nachos Acılı Çıtır Tavuk Burger",
+            "description": "Tempura tavuk göğsü (120 g), cheddar peyniri, iceberg marul, domates, turşu, köz chili biber, sriracha sos, marine lahana dip sos ve patates kızartması ile",
+            "price": 364.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720012050671_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67e27ce0ceac63ceace34d72",
+            "name": "Tavuk Köfte Burger Sade",
+            "description": "Özel baharatlı el yapımı tavuk köfte burger (120 g), cheddar peyniri, şefin dip sosu ve patates kızartması ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742896337594_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67e27d37ceac63ceace34d95",
+            "name": "Tavuk Köfte Burger Acılı",
+            "description": "Özel acı baharatlı el yapımı tavuk köfte burger (120 g), cheddar peyniri, şefin dip sosu ve patates kızartması ile",
+            "price": 368.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1742896427087_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "66854ff7ceac63ceac5cbc76",
+        "name": "Nachosla",
+        "items": [
+          {
+            "id": "668ba350ceac63ceac5ea7df",
+            "name": "Nachos sade",
+            "description": "Nachos cipsi, salsa sos, guacamola sos, nachosa özgü zeytinyağlı meksika fasulye, ekşi krema",
+            "price": 355.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727709287025_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "668ba3e3ceac63ceac5ea82a",
+            "name": "Nachos Cheddar",
+            "description": "Nachos cipsi,cheddar sos,rende cheddar,salsa sos,guacamole sos,nachosa özgü zeytinyağlı meksika fasulye,ekşi krema",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727709306069_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "668ba467ceac63ceac5ea84e",
+            "name": "Nachos Acıla",
+            "description": "nachos cipsi,salsa sriracha sos,guacamole dipsos,rende cheddar,jalapone,nachosa özel zeytinyağlı meksika fasulye,ekşi krema",
+            "price": 375.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727709323136_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "668ba4ebceac63ceac5ea8e0",
+            "name": "Nachos Tavukla",
+            "description": "Nachos cipsi,sotelenmiş tavuk,rende çedar,salsa sos,guacamole dipsos,nachosa özel zeytinyağlı meksika fasulye ve ekşi krema",
+            "price": 379.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727709342643_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "668ba56cceac63ceac5ea907",
+            "name": "Nachos Etle",
+            "description": "Nachos cipsi,sotelenmiş dana eti,rende cheddar,salsa sos,guacamole dipsos,nachosa özgü zeytinyağlı meksika fasulye ve ekşi krema",
+            "price": 450.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1727709358061_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6643740e8c100b176d482d4b",
+        "name": "Ekstra Lezzet",
+        "items": [
+          {
+            "id": "6643742eaef519066d2c0388",
+            "name": "Domates Kurusu",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66437466f3d99f2d76924bf8",
+            "name": "Cheddar Peyniri",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6643749331d685c340f6553f",
+            "name": "Küvet Soslar",
+            "description": null,
+            "price": 15.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66437518f3d99f2d76925e5b",
+            "name": "Karemelize Mantar",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "664375887907b5688a34101e",
+            "name": "Karemelize Soğan",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "664375b5aef519066d2c27b1",
+            "name": "Dana Bacon",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "66438030be190bbbb9d403de",
+            "name": "Trüf",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6799e877ceac63ceac89f4ae",
+            "name": "Mor Sos",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6799e896ceac63ceac89f4b4",
+            "name": "Şefin Dip Sosu",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6799e8f8ceac63ceac89f4ee",
+            "name": "Salsa Dip Guacamole Sos",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6314838548bef87932f4ef47",
+        "name": "Diğer Lezzet",
+        "items": [
+          {
+            "id": "668ba7f4ceac63ceac5eaa21",
+            "name": "Nachos Acılı Tavuk Köfte Burger",
+            "description": "120 g özel baharatlarla yoğrulmuş el yapımı tavuk köfte burger, cheddar peyniri, şefin dip sos ve patates kızartması ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "668ba86fceac63ceac5eaa98",
+            "name": "Nachos Sade Tavuk Köfte Burger",
+            "description": "120 g özel baharatlarla yoğrulmuş el yapımı tavuk köfte burger, cheddar peyniri, şefin dip sos ve patates kızartması ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6239e8499ae39564356e3219",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "6239e9e20719d7d7fd258530",
+            "name": "Patates Kızartması",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1716455418916_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854edcceac63ceac5cbb85",
+            "name": "Küplenmiş Çıtır Tavuk Sepeti",
+            "description": "Patates kızartması, küplenmiş çıtır kaplama tavuk (7 adet), nachosa özel patates baharatı, aioli dip sos ve şefin dip sosu ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720012488097_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854f0eceac63ceac5cbbeb",
+            "name": "Küplenmiş Çıtır Tavuk Sepeti (Acılı)",
+            "description": "Patates kızartması, küplenmiş çıtır kaplama tavuk (7 adet), nachosa özel patates baharatı, aioli dip sos ve şefin dip sosu ile",
+            "price": 360.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720012546465_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "66854f97ceac63ceac5cbc67",
+            "name": "Mozerella Sosis Düeti",
+            "description": "Kızarmış Patates, 4 Parça Panelenmiş Mozzarella Çubukları, 4 Parça Dana Sosis, Nachosa Özel Patates Baharatı, Aioli Dip Sos ve Şefin Dip Sosu",
+            "price": 359.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1720012690278_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "67f50285ceac63ceacf0d168",
+            "name": "Nachos Bol Sepet",
+            "description": "Nachosa özel patates baharatıyla harmanlanmış kızarmış patates, 2 parça panelenmiş mozerella çubukları, 2 parça sosis, 6 parça küp çıtır tavuk, 4 parça soğan halkası, auoli acı sos, şefin dip sosu,mor lahana sosu, üzerine chedar sosu ile",
+            "price": 535.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "6239d035f073da0d6bfa2676",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "6239e7b1737c25e7a326ad63",
+            "name": "Pepsi (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705187618_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c258fe826ad6a",
+            "name": "Pepsi Zero Sugar (200 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1706705308620_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c257ffe26ad71",
+            "name": "7up (330 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302519471_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c259d5b26ad8d",
+            "name": "Lipton Ice Tea (330 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707302025666_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c25200d26ad94",
+            "name": "Tropicana Şeftali (330 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1707396923679_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c25866d26ad9d",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 30.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925739113_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c254a0c26ada4",
+            "name": "Meyveli Soda (200 ml)",
+            "description": null,
+            "price": 35.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c252e7a26adb2",
+            "name": "Özerhisar Ayranı (300 ml)",
+            "description": null,
+            "price": 60.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925694254_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c2563b226adc0",
+            "name": "Ayran (250 ml) (Cam Şişe)",
+            "description": null,
+            "price": 70.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "6239e7b1737c255e6c26adab",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1698925746106_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "681f281fceac63ceac1e4f2a",
+            "name": "Tropicana Vişne (330 ml)",
+            "description": null,
+            "price": 75.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "697f6457ceac63ceacb69acb",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "697f647cceac63ceacb69ad9",
+            "name": "Coca Cola Zero (330 ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "697f649aceac63ceacb69cf5",
+            "name": "Fanta (330ml)",
+            "description": null,
+            "price": 90.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}

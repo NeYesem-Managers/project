@@ -1,0 +1,622 @@
+{
+  "source": "getir_yemek",
+  "scraped_at": "2026-05-16T21:14:17.783595+00:00",
+  "id": "6745be55072cc916e81e61c3",
+  "name": "Cafe Pialuna, Konak (Kemal Reis Mah.) ",
+  "slug": "cafe-pialuna-konak-kemal-reis-mah-konak-izmir",
+  "cuisine_types": [
+    "Burger",
+    "Tost & Sandviç"
+  ],
+  "rating": 4.6,
+  "rating_count": 100,
+  "min_order_amount": 220.0,
+  "delivery_fee": 46.99,
+  "delivery_time_min": 25,
+  "delivery_time_max": 35,
+  "is_open": true,
+  "discounts": [
+    {
+      "type": "tag",
+      "description": "Her üründe %10"
+    }
+  ],
+  "menu": {
+    "categories": [
+      {
+        "id": "5e95c02f8b6ee51f65657094",
+        "name": "En Sevilenler",
+        "items": [
+          {
+            "id": "676a603aceac63ceac37b2e5",
+            "name": "Hamburger Menü",
+            "description": "Hamburger, küçük boy patates kızartması",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736415205301_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "676a5442ceac63ceac37ac05",
+            "name": "Cheeseburger (100 g)",
+            "description": "Dana burger köftesi (100 g), cheddar peyniri, domates, karamelize soğan, turşu, marul, ketçap, mayonez",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68828814ceac63ceac898cbc",
+            "name": "Double Cheeseburger",
+            "description": "Burger köftesi (90 g), domates, karamelize soğan, marul, turşu, cheddar peyniri, ketçap, mayonez, barbekü sos ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753490460746_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "688401daceac63ceac8ac4ee",
+            "name": "Vegan Hamburger",
+            "description": "Vegan köfte (110 g), göbek marul, karamelize soğan, dilimlenmiş domates, turşu, vegan ketçap, vegan mayonez, barbekü sos",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753481671822_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "689be612ceac63ceaca95dc2",
+            "name": "Vegan Köfte (Porsiyon)",
+            "description": "6 adet vegan köfte, dilim domates, yeşillik, sumaklı soğan, turşu",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "676a5f4dceac63ceac37b2a0",
+        "name": "Menü",
+        "items": [
+          {
+            "id": "676a5fe9ceac63ceac37b2d1",
+            "name": "Ayvalık Tostu Menü",
+            "description": "Ayvalık tostu ve küçük boy patates kızartması",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753490414508_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "676a603aceac63ceac37b2e5",
+            "name": "Hamburger Menü",
+            "description": "Hamburger, küçük boy patates kızartması",
+            "price": 310.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736415205301_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "676a6088ceac63ceac37b2f3",
+            "name": "Cheeseburger Menü",
+            "description": "Cheeseburger, küçük boy patates kızartması",
+            "price": 350.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736628311069_500x375.jpeg",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "676a53c1ceac63ceac37abf0",
+        "name": "Burger",
+        "items": [
+          {
+            "id": "676a5405ceac63ceac37abff",
+            "name": "Hamburger (100 g)",
+            "description": "Dana burger köftesi (100 g), domates, karamelize soğan, marul, turşu, ketçap, mayonez",
+            "price": 270.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753490068954_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "676a5442ceac63ceac37ac05",
+            "name": "Cheeseburger (100 g)",
+            "description": "Dana burger köftesi (100 g), cheddar peyniri, domates, karamelize soğan, turşu, marul, ketçap, mayonez",
+            "price": 280.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "676a8904ceac63ceac39d877",
+            "name": "Double Hamburger",
+            "description": "Dana köfte (100 g) (2 adet), domates, soğan, marul, turşu, ketçap, mayonez",
+            "price": 335.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753481211480_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68828814ceac63ceac898cbc",
+            "name": "Double Cheeseburger",
+            "description": "Burger köftesi (90 g), domates, karamelize soğan, marul, turşu, cheddar peyniri, ketçap, mayonez, barbekü sos ile",
+            "price": 370.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753490460746_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "676a5294ceac63ceac37ab7f",
+        "name": "Tost & Sandviç",
+        "items": [
+          {
+            "id": "676a5315ceac63ceac37ab98",
+            "name": "Ayvalık Tostu",
+            "description": "Sosis, sucuk, salam, kaşar peyniri, turşu, ketçap, mayonez",
+            "price": 210.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736628240816_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "688287a3ceac63ceac898c88",
+            "name": "3 Katlı Ayvalık Tostu",
+            "description": "3 adet ayvalık tost ekmeği arasına salam, sucuk, sosis, kaşar, turşu, ketçap, mayonez ile ",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "676a5381ceac63ceac37abc6",
+            "name": "Karışık Tost",
+            "description": "Kaşar peyniri, sucuk, ketçap, mayonez",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1736628355389_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "676a88c3ceac63ceac39d84c",
+            "name": "Mega Tost",
+            "description": "Üç çeyrek ekmek, kaşar peyniri, sucuk, sosis, salam, turşu, ketçap, mayonez",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "676a5339ceac63ceac37ab9b",
+            "name": "Kaşarlı Tost",
+            "description": "Kaşarlı Peyniri",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "697e7027ceac63ceacb628ca",
+            "name": "Üç Peynirli Tost",
+            "description": "Ayvalık tost ekmeği arasına cheddar peyniri, tulum peyniri, kaşar peyniri",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "697e7e9cceac63ceacb63150",
+            "name": "Kavurmalı Kaşarlı Tost",
+            "description": "Ayvalık ekmeğine dana kavurma, kaşar peyniri",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68828ba2ceac63ceac898ddd",
+        "name": "Vegan Lezzetler",
+        "items": [
+          {
+            "id": "688401daceac63ceac8ac4ee",
+            "name": "Vegan Hamburger",
+            "description": "Vegan köfte (110 g), göbek marul, karamelize soğan, dilimlenmiş domates, turşu, vegan ketçap, vegan mayonez, barbekü sos",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753481671822_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68840207ceac63ceac8ac4f5",
+            "name": "Falafel (Porsiyon)",
+            "description": "6 adet vegan falafel köfte, dilim domates, kornişon turşu, sumak soğan ve marul ile",
+            "price": 290.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68840231ceac63ceac8ac501",
+            "name": "Yarım Ekmek Arası Vegan Köfte",
+            "description": "Vegan köfte, domates, sumaklı soğan, maydanoz",
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689be612ceac63ceaca95dc2",
+            "name": "Vegan Köfte (Porsiyon)",
+            "description": "6 adet vegan köfte, dilim domates, yeşillik, sumaklı soğan, turşu",
+            "price": 300.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e83429ceac63ceacffe2a8",
+            "name": "Vegan Kıymalı Sigara Böreği (6 Adet)",
+            "description": null,
+            "price": 250.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68e8347aceac63ceacffe2d7",
+            "name": "Vegan Tarçınlı Cookie",
+            "description": "Vegan tarçın, ceviz",
+            "price": 85.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1760048232445_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69aade91ceac63ceacee5352",
+            "name": "Vegan Islak Kek",
+            "description": "Yüzde yüz vegan ıslak kek",
+            "price": 180.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772805761957_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69b01048ceac63ceacf16661",
+            "name": "Üç Çeyrek Vegan Sucuk Ekmek",
+            "description": "Üç çeyrek ekmek arasına sucuk, marul, domates, vegan mayonez",
+            "price": 295.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69b0107eceac63ceacf16686",
+            "name": "Üç Çeyrek Ekmek Vegan Sucuklu Tost",
+            "description": "Üç çeyrek ekmek arasına vegan sucuk, domates, turşu, vegan mayonez ile",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "69e8beb5ceac63ceac27c3ee",
+            "name": "Vegan Havuçlu Lezzet Topları",
+            "description": "Havuç, hindistan cevizi yağı, yulaf ve ceviz gibi bitkisel ürünler ile, 6 adet",
+            "price": 140.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776860840838_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69e8eebfceac63ceac28260d",
+            "name": "Vegan Mozaik Pasta",
+            "description": "100% bitkisel ürünlerle, kakao yağı, kakao, ceviz, vegan bisküvi ve hindistan cevizi ile, dilim olarak",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1776873069356_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69fcd4a7ceac63ceac3e1bf0",
+            "name": "Vegan Kıymalı İçli Köfte",
+            "description": "Vegan kıyma, ceviz, maydanoz, soğan ve baharatlar ile",
+            "price": 170.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778177180190_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "69fcd5ccceac63ceac3e1cba",
+            "name": "Vegan Soğuk Sandviç",
+            "description": "Sandviç ekmeği arasına vegan rus salatası, marul, salatalık, kornişon turşusu, közlenmiş kapya biber, ceviz, mısır",
+            "price": 325.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1778177464149_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68828ed8ceac63ceac898ef6",
+        "name": "Ekmek Arası Lezzetler",
+        "items": [
+          {
+            "id": "67e72c58ceac63ceace8f0f7",
+            "name": "Yarım Ekmek Arası Köfte",
+            "description": "Sumak soğan, maydanoz, domates ile",
+            "price": 275.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753481822524_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "67e72cbaceac63ceace8f103",
+            "name": "Üç Çeyrek Ekmek Arası Köfte",
+            "description": "Sumak soğan, maydanoz, domates",
+            "price": 320.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "676a5ececeac63ceac37b261",
+        "name": "Yan Lezzet",
+        "items": [
+          {
+            "id": "676a5ee6ceac63ceac37b27d",
+            "name": "Patates Kızartması (Parmak Dilim)",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753481410317_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "676a5f27ceac63ceac37b299",
+            "name": "Kızartma Tabağı",
+            "description": "Patates kızartması, soğan halkası ve sosis ile",
+            "price": 220.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753490707943_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "688288ddceac63ceac898cd8",
+            "name": "Patates Kızartması (Küçük Boy)",
+            "description": null,
+            "price": 80.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753490577559_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "68828909ceac63ceac898cde",
+            "name": "8'li Soğan Halkası",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68828933ceac63ceac898ce6",
+            "name": "6'lı Soğan Halkası",
+            "description": null,
+            "price": 110.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1753490529534_500x375.webp",
+            "is_available": true
+          },
+          {
+            "id": "6882895fceac63ceac898cef",
+            "name": "6'lı Piliç Nugget",
+            "description": null,
+            "price": 120.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68828a8dceac63ceac898d79",
+            "name": "8'li Piliç Nugget",
+            "description": null,
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689be6ceceac63ceaca95dde",
+            "name": "Aperatif Sepeti",
+            "description": "4 adet peynirli sigara böreği, 4 adet soğan halkası, 4 adet piliç nugget, 4 adet sosis, ketçap, mayonez ve barbekü sos",
+            "price": 330.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "689bed27ceac63ceaca95dec",
+            "name": "Sigara Böreği (Büyük Boy) (5 Adet)",
+            "description": null,
+            "price": 200.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "68500e5dceac63ceac52d129",
+        "name": "Tatlılar",
+        "items": [
+          {
+            "id": "69ac3543ceac63ceaceee66f",
+            "name": "Havuçlu Cevizli Kek (1 Dilim)",
+            "description": "Havuçlu cevizli kek",
+            "price": 150.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1772806177731_500x375.webp",
+            "is_available": true
+          }
+        ]
+      },
+      {
+        "id": "676a5e0aceac63ceac37b227",
+        "name": "İçecek",
+        "items": [
+          {
+            "id": "676a5e2eceac63ceac37b23b",
+            "name": "Coca Cola (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735024166687_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "676a5e46ceac63ceac37b242",
+            "name": "Fanta (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "https://cdn.getiryemek.com/products/1735024191813_500x375.jpeg",
+            "is_available": true
+          },
+          {
+            "id": "676a5e51ceac63ceac37b244",
+            "name": "Sprite (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68829122ceac63ceac898ffa",
+            "name": "Fuse Tea Mango Ananas (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68829139ceac63ceac899020",
+            "name": "Fuse Tea Limon (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "68829155ceac63ceac899027",
+            "name": "Fuse Tea Şeftali (330 ml)",
+            "description": null,
+            "price": 65.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "676a5e5eceac63ceac37b249",
+            "name": "Ayran (200 ml)",
+            "description": null,
+            "price": 25.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "676a5e7cceac63ceac37b257",
+            "name": "Elmalı Soda (200 ml)",
+            "description": null,
+            "price": 36.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "676a5e97ceac63ceac37b25b",
+            "name": "Soda (200 ml)",
+            "description": null,
+            "price": 18.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          },
+          {
+            "id": "676a5eaaceac63ceac37b25f",
+            "name": "Su (500 ml)",
+            "description": null,
+            "price": 20.0,
+            "original_price": null,
+            "discount_percentage": null,
+            "image_url": "",
+            "is_available": true
+          }
+        ]
+      }
+    ]
+  }
+}
