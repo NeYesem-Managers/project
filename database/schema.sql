@@ -70,6 +70,7 @@ CREATE TABLE urunler (
     fiyat DECIMAL(10,2) NOT NULL,     -- Güncel fiyat
     orijinal_fiyat DECIMAL(10,2),     -- İndirim öncesi fiyat
     indirim_yuzdesi DECIMAL(5,2),     -- İndirim yüzdesi
+    urun_tipi VARCHAR(20) DEFAULT 'yemek',  -- yemek / sos / icecek / ekstra / tatli
     gorsel_url TEXT,
     musait_mi BOOLEAN DEFAULT true,
     tarih TIMESTAMP DEFAULT NOW()     -- Fiyatın kaydedildiği tarih
@@ -83,6 +84,7 @@ CREATE INDEX idx_restoranlar_platform ON restoranlar(platform_id);
 CREATE INDEX idx_urunler_restoran ON urunler(restoran_id);
 CREATE INDEX idx_urunler_kategori ON urunler(kategori_id);
 CREATE INDEX idx_urunler_fiyat ON urunler(fiyat);
+CREATE INDEX idx_urunler_tip ON urunler(urun_tipi);
 
 -- =============================================
 -- ÖRNEK SORGULAR

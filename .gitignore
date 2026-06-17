@@ -1,18 +1,18 @@
 .DS_Store
 **/.DS_Store
 
-# Local environment
+# ─── Gizli & Yerel Yapılandırma ────────────────────────────────────────────
 .env
 .env.*
 !.env.example
 
-# Node
+# ─── Node ──────────────────────────────────────────────────────────────────
 **/node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Python
+# ─── Python ────────────────────────────────────────────────────────────────
 **/__pycache__/
 *.py[cod]
 *.pyo
@@ -20,7 +20,7 @@ yarn-error.log*
 .venv/
 venv/
 
-# Flutter / Dart
+# ─── Flutter / Dart ────────────────────────────────────────────────────────
 **/.dart_tool/
 **/.flutter-plugins
 **/.flutter-plugins-dependencies
@@ -33,11 +33,32 @@ venv/
 **/macos/Flutter/ephemeral/
 **/windows/flutter/ephemeral/
 
-# IDE
+# ─── IDE ───────────────────────────────────────────────────────────────────
 **/.idea/
 *.iml
+.vscode/
 
-# Local backups
+# ─── Büyük / Üretilmiş Veri Dosyaları ──────────────────────────────────────
+# Scraper çıktıları (5 MB+) — orijinal JSON repoda kalır, kopyalar/yedekler hariç
+backend/data/restaurants.original.json
+data-pipeline/scraped_restaurants_poc.json
+data-pipeline/scraped_restaurants_poc_classified.json
+data-pipeline/debug_ys.html
+data-pipeline/item_html.txt
+data-pipeline/discount_item.html
+data-pipeline/sample_item.html
+
+# Debug / scratch scriptler
+data-pipeline/debug*.py
+data-pipeline/scratch*.py
+
+# ─── Kullanıcı & Runtime Verisi ────────────────────────────────────────────
+# users.json runtime'da oluşturulur, kişisel veri içerebilir
+# backend/data/users.json  ← push'ta boş dizi, sonrasında ignore
+# (not: boş [] halini commit'ledik, sonraki değişiklikler ignore'da)
+
+# ─── Yerel Yedekler ────────────────────────────────────────────────────────
 backend-working-backup/
 mobile-working-backup/
 .push-staging/
+*.bak
